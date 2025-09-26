@@ -1,0 +1,35 @@
+
+🔍 Processing client: General Mills
+✅ Found exact client 'General Mills' with mdId: 22b6a259-574a-4bbb-b16e-9cc8ed4cc0b7
+ℹ️ Org-unit for 'General Mills' already exists → skipping.
+
+🔍 Processing client: Green Spot
+✅ Found exact client 'Green Spot' with mdId: 83e5602e-2172-4c38-92a9-b3a97c778406
+ℹ️ Org-unit for 'Green Spot' already exists → skipping.
+
+🔍 Processing client: LVMH
+✅ Found exact client 'LVMH' with mdId: 99100036-6177-4fcf-8385-d8af9ee6f6ae
+ℹ️ Org-unit for 'LVMH' already exists → skipping.
+
+🔍 Processing client: Menarini Group
+✅ Found exact client 'Menarini Group' with mdId: 408d6ad3-3c71-4997-a64c-38b582619351
+ℹ️ Org-unit for 'Menarini Group' already exists → skipping.
+
+🔍 Processing client: Muang Thai Life Assurance
+✅ Found exact client 'Muang Thai Life Assurance' with mdId: 139482bd-30c0-4450-9a5d-d85881d7961c
+ℹ️ Org-unit for 'Muang Thai Life Assurance' already exists → skipping.
+
+🔍 Processing client: Star Fuels Marketing
+✅ Found exact client 'Star Fuels Marketing' with mdId: bccab459-05db-4bf7-9904-43c6545a8913
+ℹ️ Org-unit for 'Star Fuels Marketing' already exists → skipping.
+
+🔍 Processing client: Thai Glico
+✅ Found exact client 'Thai Glico' with mdId: 0a323307-d7a4-4c0c-812d-b69eb17ed770
+ℹ️ Org-unit for 'Thai Glico' already exists → skipping.
+
+🔍 Processing client: The Brand Agency
+✅ Found exact client 'The Brand Agency' with mdId: 6f9cd7e3-2a73-4139-9a7e-bb648a0594c7
+ℹ️ Org-unit for 'The Brand Agency' already exists → skipping.
+
+🔍 Processing client: Warner Bros
+⚠️ No exact match found for 'Warner Bros'. Closest API hit: Warner Bros.

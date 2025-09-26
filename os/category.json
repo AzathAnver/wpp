@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "hierarchy": [],
+      "id": "f40b25f2-cba6-4cbe-a21c-fea982a16295",
+      "parent": null,
+      "name": "Automotive",
+      "aliases": [
+        "Cars"
+      ],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-08-15T15:05:54.936520+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "6de8dfdf-a1c4-46ab-9498-f9b034bdb78b",
+      "parent": null,
+      "name": "Charities",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:05.609493+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "f68f253e-0337-4078-a602-f81e96cf9561",
+      "parent": null,
+      "name": "Consumer Electronics",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "03843348-8166-4059-a93e-6e085b97272a",
+      "parent": null,
+      "name": "Drinks (alcoholic)",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "9efcb3c5-6aa7-4673-b0da-e92240856e1b",
+      "parent": null,
+      "name": "Drinks (non-alcoholic)",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "3a36d3e8-3fec-4eec-8dc1-1624a2044ec8",
+      "parent": null,
+      "name": "Education",
+      "aliases": [],
+      "createdAt": "2025-05-29T08:51:59.790487+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "24a1990c-b02a-4bbc-96c2-2ca1119acfe7",
+      "parent": null,
+      "name": "Entertainment & Media",
+      "aliases": [],
+      "createdAt": "2025-05-29T08:32:04.157171+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "443100d1-4682-42ff-8fde-f4ccce548639",
+      "parent": null,
+      "name": "Fashion",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "5811b576-762e-4ec2-bac1-79786ae42129",
+      "parent": null,
+      "name": "Finance",
+      "aliases": [
+        "Financial Services & Insurance"
+      ],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-08-15T14:50:33.321043+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "a20a0d01-86dc-4751-91c0-6e34c370c221",
+      "parent": null,
+      "name": "Food",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "338e8536-8366-4503-9124-8dba2db77b35",
+      "parent": null,
+      "name": "Gambling & Lotteries",
+      "aliases": [],
+      "createdAt": "2025-05-29T08:31:55.486958+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "0173695e-910a-42e9-bc25-ab67cf1d0f58",
+      "parent": null,
+      "name": "General Services",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:14.667537+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "a35c27b3-89f3-48cc-a652-13847704a4a5",
+      "parent": null,
+      "name": "Government",
+      "aliases": [],
+      "createdAt": "2024-09-11T16:05:37.567731+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "c9d90073-8d9e-4fb9-a5b9-aca1b663c5f5",
+      "parent": null,
+      "name": "Healthcare",
+      "aliases": [
+        "Healthcare & Pharmaceuticals"
+      ],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-08-15T14:55:28.368379+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "d30a8728-0449-4ebf-897d-520ed1b8c0da",
+      "parent": null,
+      "name": "Home Appliances",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "98b757ea-a85a-4237-b1bb-d14bf4081ef4",
+      "parent": null,
+      "name": "Home Entertainment",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "3d545ab5-bcf1-4250-83c7-8ce6760fdcbe",
+      "parent": null,
+      "name": "Household Items",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "00290707-ec6b-4fa7-b430-3ff8ba5d734b",
+      "parent": null,
+      "name": "Jewellery",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "feea2f87-07d3-444b-a924-7b465b19ee8d",
+      "parent": null,
+      "name": "Oral Care",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "8cbc332e-a518-4949-9b83-390a1709295e",
+      "parent": null,
+      "name": "Organizations & Associations",
+      "aliases": [],
+      "createdAt": "2025-05-29T08:31:47.793732+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "2c721869-3590-4da2-b0d6-08e350037d39",
+      "parent": null,
+      "name": "Personal Care",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "4b8081f8-2dfc-4f52-b329-e58fa338b6f4",
+      "parent": null,
+      "name": "Pet Care",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-04-17T10:42:47.329768+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "bbe04387-31a1-48f8-a0da-b50fb037c1a1",
+      "parent": null,
+      "name": "Real Estate",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:21.500283+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "675df42b-28c8-49cd-b56e-da09e4e88d53",
+      "parent": null,
+      "name": "Restaurants",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "0b7fe91e-0afb-4964-a4c4-86505bb03b23",
+      "parent": null,
+      "name": "Retail",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "34bbc886-1148-4eee-a95d-9de38151b942",
+      "parent": null,
+      "name": "Sports",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:28.519972+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "fabd4b14-a28a-4b8a-843a-5b3dbea99408",
+      "parent": null,
+      "name": "Technology",
+      "aliases": [],
+      "createdAt": "2025-06-19T06:48:22.898844+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "e72427c5-0597-4346-b296-ac1a2dc1a551",
+      "parent": null,
+      "name": "Telecoms",
+      "aliases": [
+        "Telecommunications"
+      ],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-08-15T14:54:01.886485+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "1799ebaa-4708-41ce-9b19-5d9969fcafe2",
+      "parent": null,
+      "name": "Tobacco",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:43.630092+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "d6f16611-4e52-4287-af17-820ee1966b15",
+      "parent": null,
+      "name": "Travel",
+      "aliases": [],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2023-06-21T07:56:56.610863+00:00",
+      "deletedAt": null
+    },
+    {
+      "hierarchy": [],
+      "id": "521abc31-f995-4280-bd8c-8bf49bc8b8d3",
+      "parent": null,
+      "name": "Utilities",
+      "aliases": [
+        "Energy & Utilities"
+      ],
+      "createdAt": "2023-06-21T07:56:56.610863+00:00",
+      "updatedAt": "2024-08-15T14:49:37.553880+00:00",
+      "deletedAt": null
+    }
+  ],
+  "paginator": {
+    "page": 1,
+    "itemsPerPage": 1000,
+    "totalPages": 1,
+    "totalItems": 31
+  },
+  "navigator": {
+    "firstPage": "/api/industries?itemsPerPage=1000&page=1",
+    "previousPage": null,
+    "nextPage": null,
+    "lastPage": null
+  }
+}

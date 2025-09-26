@@ -1,0 +1,9 @@
+Thailand,Mondelez,Cadbury,Food
+Thailand,Mondelez,Clorets,Food
+Thailand,Mondelez,Dentyne,Food
+Thailand,Mondelez,Halls,Food
+Thailand,Mondelez,Oreo,Food
+Thailand,Mondelez,Philadelphia,Food
+Thailand,Mondelez,Ritz,Food
+Thailand,Mondelez,Tang Gummies,Food
+Thailand,Mondelez,Toblerone,Food

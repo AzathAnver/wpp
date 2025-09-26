@@ -1,0 +1,134 @@
+Schloss Wachenheim -  8237337f-971f-4c05-be76-47cb6b186f7b 
+             azid  -  3b15a3f1-22f5-4f32-a765-99933c931048
+
+Tentant id - 4c039217-7d17-4207-8314-98348983718a
+
+Germany - c4a22815-f54d-4b8d-9b81-b3ad73add8e6
+   azid - 0253f932-bd0f-4190-8120-ffa51279b76e
+
+
+ "id": "15050f40-d2fe-4a73-a937-b8fb6d78432f",
+            "name": "Thailand",
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+To add brand we need the parent ID of the Market
+POST https://media.os.wpp.com/_apps/os-workspaces/api/tenants/4c039217-7d17-4207-8314-98348983718a/organization-units?disableTenantCache=true
+
+
+Request Body
+MIME Type: application/json
+
+{
+  "type": "predefined",
+  "parentId": "0253f932-bd0f-4190-8120-ffa51279b76e", #####germany azid
+  "categories": [
+    {
+      "hierarchy": [],
+      "id": "6de8dfdf-a1c4-46ab-9498-f9b034bdb78b", #################### category id
+      "parent": null,
+      "name": "Charities",
+      "aliases": [],
+      "createdAt": "2025-07-08T09:30:05.609493+00:00",
+      "updatedAt": null,
+      "deletedAt": null
+    }
+  ],
+  "data": {
+    "mdId": "4a8adb84-e188-4cdf-8b76-87ebcc05f838" ################ brand id
+  }
+}
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+To add the Market we need the Market's mdid it will in the response body as ID for example Germany c4a22815-f54d-4b8d-9b81-b3ad73add8e6
+
+GET https://media.os.wpp.com/api/v2/markets?page=1&itemsPerPage=50&filter%5Btype%5D=COUNTRY&filter%5Bsearch%5D=Germany
+
+
+Response Body
+MIME Type: application/json
+
+{
+  "data": [
+    {
+      "meta": null,
+      "logoThumbnail": {
+        "key": "4ed14ff4-fa6c-4e79-b5a8-a398c5014fbb-Germany.svg",
+        "name": "Germany.svg",
+        "size": 737,
+        "url": "https://storage.googleapis.com/private-master-data-api-prd-one-wpp-com/4ed14ff4-fa6c-4e79-b5a8-a398c5014fbb-Germany.svg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=master-data-api-prd-one%40wpp-ch-os-prd.iam.gserviceaccount.com%2F20250921%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250921T163007Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=4e1c65748250bfd48e648e3299964a25c66d62bcd95ca024ad1e5da23ebec4f35a16682084638a4c4c89b247cb985d84f2a8718fa63f340ede23c5f1670ee707529ce3431937080823546398749102fa1c1706fe058e530de8c63058df597c023b4109424377dc9c61d4df846e2d4a1bdb2928acf53ccf127b4b23c64a2d6a78e189eaed8cc5b4b4645c680d1c3584eec95aaf3e60347b99f630b2a1a4e18b47f11e51d83f99292c7507ab16ac57ea70e5ee7100add620a7e11f5f7ba514486fa738a526b1c4cfc71e92e1cff4a583f261865ece093a034aac37a5b2caa331037e0e7764b40adcbdf5bfb1d61307dba503da9bf65d1ecfdb1d98d1545a3cca62"
+      },
+      "logoOriginal": {
+        "key": "a9fb7e78-90c2-45a9-bd17-f234ee11731a-Germany.svg",
+        "name": "Germany.svg",
+        "size": 737,
+        "url": "https://storage.googleapis.com/private-master-data-api-prd-one-wpp-com/a9fb7e78-90c2-45a9-bd17-f234ee11731a-Germany.svg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=master-data-api-prd-one%40wpp-ch-os-prd.iam.gserviceaccount.com%2F20250920%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250920T161227Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=8d757f58339956a23cc44125bb4a072f0aea1036f5a1ea3fdf7c1b89d4e5cfc68b5da83e434788b082287743876a68b97a104afdf39dbd76445e606df429e764c509af3b2925da3642ef46c5fd8b366150f4ae81d7df835baec05559171f3280108c75e10820330d73ffff2390bfb5e1dfc3812adff2d75d4c56fb76cd53a78c9551d0cfa62c54d326ec293e731304a84b49cc432db9b2f93a06cd3411964badecdfa1dd931c629ac0c11e5de9bb401e80351ec0301e3c4e253850a3f256a5425ed9a2eca70d3b9a75615f4ec78edab6e6d2131f193279b0daddf74ad4eb8a20e044e4a9b165ee70b55ed43def0931b4594c91f659cd25cc3a9554a29e303af7"
+      },
+      "id": "c4a22815-f54d-4b8d-9b81-b3ad73add8e6",  
+      "name": "Germany",
+      "aliases": [],
+      "deletedAt": null,
+      "createdAt": "2022-10-20T13:14:04.514991+00:00",
+      "updatedAt": "2023-08-14T11:48:13.954832+00:00",
+      "parent": null,
+      "geographies": [
+        {
+          "id": "33c83c8e-56c5-4b64-9c6d-4f97cd4acf5c",
+          "name": "EMEA"
+        }
+      ],
+      "type": "COUNTRY",
+      "isoAlpha2": "DE",
+      "isoAlpha3": "DEU"
+    }
+  ],
+  "paginator": {
+    "page": 1,
+    "itemsPerPage": 50,
+    "totalPages": 1,
+    "totalItems": 1
+  },
+  "navigator": {
+    "firstPage": "/api/v2/markets?page=1&itemsPerPage=50&filter[type]=COUNTRY&filter[search]=Germany",
+    "previousPage": null,
+    "nextPage": null,
+    "lastPage": null
+  }
+}
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

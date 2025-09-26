@@ -1,0 +1,6 @@
+
+🔎 Processing brand: Marchon Europe B.V.
+⚠️ No azId found for 'Marchon Europe B.V.' in hierarchy tree. Skipping.
+
+🔎 Processing brand: 3M Corporation
+❌ Failed to fetch azId for '3M Corporation': Hierarchy API failed: 500 - {"detail":"Unexpected internal error"}

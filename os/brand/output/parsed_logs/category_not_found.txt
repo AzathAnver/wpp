@@ -1,0 +1,8 @@
+Thailand,Line,Line,Telecommunications
+Thailand,Mediatropy,Mastercard,Financial Services & Insurance
+Thailand,Mimo Tech,AIS PLAY,Telecommunications
+Thailand,Mimo Tech,AIS Privilege,Telecommunications
+Thailand,Mimo Tech,Digital Content,Telecommunications
+Thailand,Ocean Life Insurance,Ocean Life,Financial Services & Insurance
+Thailand,Prudential Life Assurance,Prudential Life Assurance,Financial Services & Insurance
+Thailand,Prudential Life Assurance,Prudential,Financial Services & Insurance
