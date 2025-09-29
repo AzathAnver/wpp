@@ -12,17 +12,17 @@ os/
 ├── osadd/          # (users check in OS default group)
 ├── auth.env        # Authentication environment variables
 ├── category.json   # Category mappings
-├── details.txt     # Reference / data file
+├── details.txt     # Reference/data file
 ├── nctest2.py      # Test script
 ├── newl.py         # Test script
 └── Notes.txt       # Documentation notes
 
 🚀 Scripts Overview
-Folder / Script	Description	: Input
+Folder / Script	Description: Input
 adduser/	Adds email IDs to groups mentioned in the input.	CSV file: clientname, email. If the email ID is not present, then it will search for the username and add the email ID to that group
-brand/	Add brands under a client.	CSV file: marketname,clientname,brandname, category. 
+brand./	Add brands under a client.	CSV file: marketname,clientname,brandname, category. 
 client/	Checks if a client exists in the hierarchy. If not present, attempts to add it. Returns 409 or 443 if already exists.	Inline (within script) / API
-group/	Creates groups based on client names.	TXT file: clientname
+group/	Creates groups based on client names.	TXT file: clientname . If the Group is already present, then it will skip to the next.
 market/	Assigns clients to specific markets.	TXT file: clientname
 auth.env	Handles authentication (credentials, tokens, etc.).
 
