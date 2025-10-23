@@ -8,8 +8,10 @@ HIERARCHY_URL = f"https://media.os.wpp.com/api/v2/tenants/{TENANT_ID}/hierarchy-
 PATCH_URL = "https://media.os.wpp.com/api/az/groups/roles"
 
 # Static group and role IDs
-STATIC_GROUP_ID = "9d3aa2cf-2211-4d34-a844-32b63dcc80c2"
-STATIC_ROLE_ID = "1544916c-0ce0-4042-a8e5-6e18042c73b7"
+STATIC_GROUP_ID = "2e925880-1332-44ab-b729-9068b6909816"
+STATIC_ROLE_ID = "9e7c812c-c063-4613-9776-31f635bd1c03" #CGOV_STANDARD
+#STATIC_ROLE_ID = "6948d8e6-eca6-4c12-9241-a47db34db467" #Architect User
+#STATIC_ROLE_ID = "1544916c-0ce0-4042-a8e5-6e18042c73b7" #Hierarchy Access
 
 # --- Load environment ---
 env_path = r"C:\Users\Azath.A\os\auth.env"
@@ -44,7 +46,7 @@ data = response.json()
 mapping = data.get("mapping", {})
 
 # --- Step 2: Read brand names from file ---
-txt_file_path = r"C:\Users\Azath.A\os\clientgroup\brands.txt"
+txt_file_path = r"C:\Users\Azath.A\os\allth\brands.txt"
 try:
     with open(txt_file_path, "r", encoding="utf-8") as file:
         brand_names = [line.strip() for line in file if line.strip()]
