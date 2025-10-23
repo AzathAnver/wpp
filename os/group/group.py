@@ -43,6 +43,8 @@ cookies = {"session": session_cookie}
 # --- Static Role IDs ---
 ROLE_HIERARCHY = "1544916c-0ce0-4042-a8e5-6e18042c73b7"
 ROLE_ARCHITECT = "6948d8e6-eca6-4c12-9241-a47db34db467"
+ROLE_CGOVSTANDARD = "9e7c812c-c063-4613-9776-31f635bd1c03" 
+
 
 # --- Helper Functions ---
 
@@ -111,6 +113,11 @@ def patch_group_roles(group_uid: str, account_uid: str):
             {
                 "group_id": group_uid,
                 "role_id": ROLE_HIERARCHY,
+                "account_id": account_uid
+            },
+            {
+                "group_id": group_uid,
+                "role_id": ROLE_CGOVSTANDARD,
                 "account_id": account_uid
             },
             {

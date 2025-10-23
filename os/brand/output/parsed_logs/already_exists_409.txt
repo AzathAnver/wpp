@@ -1,0 +1,4 @@
+Egypt,Alex Bank,Alex Bank,Finance
+United Arab Emirates,du,du,Telecoms
+Egypt,Edita,Molto,Food
+Egypt,Edita,Hohos,Food

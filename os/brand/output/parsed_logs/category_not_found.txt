@@ -1,8 +1,11 @@
-Thailand,Line,Line,Telecommunications
-Thailand,Mediatropy,Mastercard,Financial Services & Insurance
-Thailand,Mimo Tech,AIS PLAY,Telecommunications
-Thailand,Mimo Tech,AIS Privilege,Telecommunications
-Thailand,Mimo Tech,Digital Content,Telecommunications
-Thailand,Ocean Life Insurance,Ocean Life,Financial Services & Insurance
-Thailand,Prudential Life Assurance,Prudential Life Assurance,Financial Services & Insurance
-Thailand,Prudential Life Assurance,Prudential,Financial Services & Insurance
+Saudi Arabia,EA Sports,EA Sports,Entertainment & Media
+United Arab Emirates,EA Sports,EA Sports,Entertainment & Media
+Saudi Arabia,Ecolab,Ecolab,General Services
+United Arab Emirates,Ecolab,Ecolab,General Services
+Qatar,Ecolab,Ecolab,General Services
+Bahrain,Ecolab,Ecolab,General Services
+Kuwait,Ecolab,Ecolab,General Services
+Egypt,Ecolab,Ecolab,General Services
+Oman,Ecolab,Ecolab,General Services
+Saudi Arabia,Netflix,Netflix,Entertainment & Media
+United Arab Emirates,Netflix,Netflix,Entertainment & Media

@@ -1,6 +1,161 @@
 
-🔎 Processing brand: Marchon Europe B.V.
-⚠️ No azId found for 'Marchon Europe B.V.' in hierarchy tree. Skipping.
+🔎 Processing brand: Aldar
+✅ Created group → uid: fc2f3ada-d1d6-4f65-82e0-877212d5eee1, name: Aldar
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
 
-🔎 Processing brand: 3M Corporation
-❌ Failed to fetch azId for '3M Corporation': Hierarchy API failed: 500 - {"detail":"Unexpected internal error"}
+🔎 Processing brand: Alex Bank
+📂 Group already exists → id: a65eda00-25d0-4731-859e-caef25c8909b | name: Alex Bank
+
+🔎 Processing brand: American Express
+📂 Group already exists → id: 446e9710-7fce-4708-a0c6-f13eb0766a0b | name: American Express
+
+🔎 Processing brand: Arab Bank
+✅ Created group → uid: 6738f290-49ab-457f-8ca6-9f590931099b, name: Arab Bank
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: AXA
+📂 Group already exists → id: 019f0e89-9663-40aa-b7c5-8dcbe1c80a4c | name: AXA
+
+🔎 Processing brand: Dabur
+✅ Created group → uid: a055dc6e-90e0-4631-9255-dc7c2d586eff, name: Dabur
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Derayah Financial
+✅ Created group → uid: 30e81d6d-a053-4156-a4b1-7cec26edbab2, name: Derayah Financial
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Didi
+✅ Created group → uid: 24b43e68-6d11-4460-84fe-d945597787e7, name: Didi
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Du
+✅ Created group → uid: 8c7b6087-4687-46d2-9721-13abd375cc58, name: Du
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: EA Sports
+✅ Created group → uid: 23bb7a4c-9277-4d26-8bf2-31499f0a5089, name: EA Sports
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Ecolab
+📂 Group already exists → id: f1395f7e-0b16-4472-8e21-d2bfbea02405 | name: Ecolab
+
+🔎 Processing brand: Edita
+📂 Group already exists → id: 944225a9-1be0-4ac3-aed9-180bac8f646a | name: Edita
+
+🔎 Processing brand: Emirates
+✅ Created group → uid: 2fc1d509-7087-4bc3-ba39-feba98c6b406, name: Emirates
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Ferrero
+📂 Group already exists → id: d40aa256-3e83-4fc2-8015-c62743abbf82 | name: Ferrero
+
+🔎 Processing brand: IHG
+📂 Group already exists → id: 1334e150-2dec-4130-85cd-5c28ed85f9cf | name: IHG
+
+🔎 Processing brand: IM Motors
+📂 Group already exists → id: 714c9ad5-7e83-41e5-991a-2a0989402cdc | name: IM Motors
+
+🔎 Processing brand: International Development Bank
+✅ Created group → uid: b6a684ce-9cd1-4514-93c1-42d9508246ff, name: International Development Bank
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: King Salman International Airport
+✅ Created group → uid: 927cf321-808a-4413-a97d-60b5294b7dc5, name: King Salman International Airport
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Lamb Weston
+📂 Group already exists → id: 2f67a9b8-9d6e-4f0a-a100-6f6c57a50dc5 | name: Lamb Weston
+
+🔎 Processing brand: Lexus
+📂 Group already exists → id: 60df2af1-d932-4e19-a3e1-51002f3e092d | name: Lexus
+
+🔎 Processing brand: Marico
+📂 Group already exists → id: bf2e6004-0062-4d7a-8fee-a53712a89ae4 | name: Marico
+
+🔎 Processing brand: McCain
+📂 Group already exists → id: 7a60674f-75ed-4f61-8d1f-e1b88cbd3ffd | name: McCain
+
+🔎 Processing brand: National Bank of Bahrain
+✅ Created group → uid: dae53dbf-7ba0-40f9-a53b-58c1a0015ae3, name: National Bank of Bahrain
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Netflix
+📂 Group already exists → id: 6f3b4496-f898-4fbb-bb82-848006ec81de | name: Netflix
+
+🔎 Processing brand: OLX
+📂 Group already exists → id: 8da551a1-234b-42ef-a387-721ce4576366 | name: OLX
+
+🔎 Processing brand: Perfetti Van Melle
+📂 Group already exists → id: d42a8a46-63e3-40f6-9a06-a77e1b44effd | name: Perfetti Van Melle
+
+🔎 Processing brand: Property Finder
+✅ Created group → uid: df251bf7-0d32-4b88-9099-0ceef7b748c6, name: Property Finder
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Public Investment Fund
+✅ Created group → uid: ba723908-bfab-4437-adc7-e45ed4f1d9b9, name: Public Investment Fund
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Qatar Airways
+📂 Group already exists → id: 8e56502e-e136-4862-8288-687f46e763af | name: Qatar Airways
+
+🔎 Processing brand: Qiddiya
+✅ Created group → uid: f083418d-383e-43c3-80cb-63f521d501c9, name: Qiddiya
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Riyadh Air
+✅ Created group → uid: 7dc073a1-1fc9-4110-90c2-242efe406009, name: Riyadh Air
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Rolex
+📂 Group already exists → id: a6464db2-a476-4a9c-bce0-a8377e3abf45 | name: Rolex
+
+🔎 Processing brand: Sanofi
+📂 Group already exists → id: 6a6c1f7e-7810-493f-927b-7aca01609565 | name: Sanofi
+
+🔎 Processing brand: Saudi Coffee Company
+✅ Created group → uid: 58694510-0c52-47f2-b727-4e293419421a, name: Saudi Coffee Company
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Talabat
+✅ Created group → uid: f7a3314d-2875-4b4f-ae37-592912609b2b, name: Talabat
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Total Energies
+📂 Group already exists → id: ebfe2948-e3e8-4af8-806a-be82cd28dd75 | name: Total Energies
+
+🔎 Processing brand: TotalEnergies
+📂 Group already exists → id: e6416842-66d4-4825-b4f7-9abcf657807d | name: TotalEnergies
+
+🔎 Processing brand: Toyota
+📂 Group already exists → id: eda9944f-6bab-48e2-8328-1ff3a6e0c8b7 | name: Toyota
+
+🔎 Processing brand: VinFast
+✅ Created group → uid: bc50072f-b3e3-4646-8a82-07bf106b1d27, name: VinFast
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Vivo
+✅ Created group → uid: 50bc0e97-a7fb-4998-aa7b-84f3aa48e710, name: Vivo
+👤 Patched users (noop).
+🔑 Patched roles successfully → 3 roles assigned.
+
+🔎 Processing brand: Xiaomi
+📂 Group already exists → id: fec8c280-b144-49fb-9272-337602e2c4e2 | name: Xiaomi

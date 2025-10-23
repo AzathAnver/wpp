@@ -1,4 +1,61 @@
 
-🔎 Processing: Market=Germany, Client=Schwarz IT, Brand=Schwarz IT
-✅ Brand mdId: 277a6949-c194-47c6-a9db-a6b97cbb8fcc
-✅ Parent Market azId: 5f896f89-6a85-4405-8a23-b8f0c5ec9864
+🚀 Processing: Market=Market, Client=Client, Brand=Brand, Category=Open Brand Category
+⚠️ Error: Market 'Market' with client 'Client' not found.
+
+🚀 Processing: Market=Saudi Arabia, Client=EA Sports, Brand=EA Sports, Category=Entertainment & Media
+✅ Created Org Unit for Brand 'EA Sports' under Market a7af175d-ec19-48aa-9a97-817e4da3f099
+   ➡️ OrgUnit azId: f5805d40-07ad-4233-a803-c6fb4866a653
+
+🚀 Processing: Market=United Arab Emirates, Client=EA Sports, Brand=EA Sports, Category=Entertainment & Media
+✅ Created Org Unit for Brand 'EA Sports' under Market e5ffd3e0-3a88-47dc-bb28-60152c72c8f0
+   ➡️ OrgUnit azId: 815c3e8b-f890-494a-9b3a-f07f85923c54
+
+🚀 Processing: Market=Saudi Arabia, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market ac0e7a5c-a546-437d-b551-9a4600814dd1
+   ➡️ OrgUnit azId: f0d731be-6982-412c-844a-91629fc80b3f
+
+🚀 Processing: Market=United Arab Emirates, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market ac1611b1-d690-45cb-8e01-2d92b1fbd3bd
+   ➡️ OrgUnit azId: b0fd96a3-9ece-4c02-9f36-a9cfae064514
+
+🚀 Processing: Market=Qatar, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market b10a22e9-5a56-4e81-8028-8bdc6406384d
+   ➡️ OrgUnit azId: 54ea9f37-61bd-42d8-b5cd-6fc0e96d545b
+
+🚀 Processing: Market=Bahrain, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3
+   ➡️ OrgUnit azId: 97650695-5490-4975-972a-2b0f8874c075
+
+🚀 Processing: Market=Kuwait, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market 602fecac-2ba5-4a69-89f7-c043b4d41e71
+   ➡️ OrgUnit azId: cbbf79d7-83d0-401a-9915-295bf289bb6e
+
+🚀 Processing: Market=Egypt, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market 63424110-3c91-49ea-af9e-70cd0cfa5bed
+   ➡️ OrgUnit azId: 6210298f-5469-4c2b-9c3a-8565ec1476bb
+
+🚀 Processing: Market=Oman, Client=Ecolab, Brand=Ecolab, Category=General Services
+✅ Created Org Unit for Brand 'Ecolab' under Market b330dd7e-0eaf-4215-b04e-659c79d8c098
+   ➡️ OrgUnit azId: 5c323d08-9567-47af-bbbf-2bbb7e88755e
+
+🚀 Processing: Market=Saudi Arabia, Client=Netflix, Brand=Netflix, Category=Entertainment & Media
+❌ Failed POST for Netflix: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","object_id":null}
+
+🚀 Processing: Market=United Arab Emirates, Client=Netflix, Brand=Netflix, Category=Entertainment & Media
+✅ Created Org Unit for Brand 'Netflix' under Market 35d45c8b-cb78-48aa-858c-258bc7819163
+   ➡️ OrgUnit azId: 84de0a11-8df5-47f8-af33-59f248752bf8
+
+🚀 Processing: Market=Lebanon, Client=OLX, Brand=OLX, Category=Retail
+⚠️ Error: Market 'Lebanon' with client 'OLX' not found.
+
+🚀 Processing: Market=United States, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
+⚠️ Error: Market 'United States' with client 'Public Investment Fund' not found.
+
+🚀 Processing: Market=United Kingdom, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
+⚠️ Error: Market 'United Kingdom' with client 'Public Investment Fund' not found.
+
+🚀 Processing: Market=United Kingdom, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+⚠️ Error: Market 'United Kingdom' with client 'Riyadh Air' not found.
+
+🚀 Processing: Market=Lebanon, Client=TotalEnergies, Brand=TotalEnergies, Category=Utilities
+⚠️ Error: Market 'Lebanon' with client 'TotalEnergies' not found.

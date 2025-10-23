@@ -12,46 +12,31 @@ Al Jomaih Holding
 Al Masaood Automobiles
 Al Taghziyah
 Al Zayani
-Alat
-Aldar
-Alex Bank
 Alinma Bank
-American Express
 American University of Beirut
 Americana Foods
-Arab Bank
 Aramco
 Artscoops
 Australian University
 Auto Central
-AXA
 Barakat
 Bonjorno
 Bose
 Boursa Kuwait Securities Company
 Carina
 Creative Media Authority
-Dabur
 Dada Group
 Dawrat
-Derayah Financial
 DGDA
-Didi
-Du
 Dubai Islamic Bank
 Dubizzle
-EA Sports
 Earthlink
-Ecolab
-Edita
 Electric Vehicle Infrastructure Company
-Emirates
 Estithmar Properties
 Ethara
 Etisalat
 eXtra
 Fawzia Sultan Health Network
-Ferrero
 Fine Hygiene Paper
 Flynas
 Gandour
@@ -63,24 +48,16 @@ Habib Bank
 Hamad International Airport
 Health Water Bottling
 Horizon Developments
-IHG
-IM Motors
 Imkan
-International Development Bank
 International Islamic Arab Bank
 Izzat Marji and Sons Company
 Juhayna
 King Faisal Specialist Hospital & Research Center
-King Salman International Airport
 Kuwait Finance House
-Lamb Weston
-Lexus
 Lifestyle Choice
 Liwa
 Lusail International Circuit
-Margafrique 
-Marico
-McCain
+Margafrique
 Ministry of Culture
 Misr Spain
 Moda Mall
@@ -89,36 +66,24 @@ Mondelez International
 Mondrian
 Msheireb Properties
 My Clinic International Medical
-National Bank of Bahrain
 National Bank of Kuwait
 National Events Center
 National Housing Company
 NBE
-Netflix
 NICE
 Nuqul Group
 Oban
-OLX
 Oman Future Telecommunications Company
 Ora
 Orascom
-Perfetti Van Melle
 Pets Delight
-Property Finder
-Public Investment Fund
-Qatar Airways
-Qiddiya
 Quintessentially
 RIU Hotels
-Riyadh Air
-Rolex
 Roshn
 Royal Air Maroc
 Royal Commission for Riyadh City
 Sahm
 Sanipak
-Sanofi
-Saudi Coffee Company
 Saudi Entertainment Ventures
 Seven
 Sharjah Government Media Bureau
@@ -129,20 +94,13 @@ Souhoola
 Spinneys
 Ste Nouvelle COSARNO
 Styli
-Talabat
 Taqeef
 Tawuniya
 The Kuwait Danish Dairy Company
 The Kuwaiti Danish Dairy Company
-Total Energies
-TotalEnergies
-Toyota
 Transmed
 UAB
-VinFast
 Visit Sharjah
-Vivo
 Wio Bank
-Xiaomi
 Yaqeen Holding
 Zamil AC

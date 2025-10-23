@@ -65,7 +65,7 @@ resp = requests.get(hierarchy_url, headers=headers, cookies=cookies)
 resp.raise_for_status()
 hierarchy = resp.json().get("mapping", {})
 
-# --- 2. Fixed Germany mdId
+# --- 2. Fixed Thailand mdId
 thailand_md_id = "15050f40-d2fe-4a73-a937-b8fb6d78432f"
 
 # --- 3. Loop clients ---
