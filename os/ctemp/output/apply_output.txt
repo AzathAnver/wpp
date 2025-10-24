@@ -1,0 +1,10 @@
+🔧 Will process 1 client(s). Market: Egypt
+
+— Processing client: Alex Bank
+   ✅ First assignmentId (client/brand): e09e0702-eb61-4d96-b1f0-35172c5d241e
+   ✅ Second assignmentId (market=Egypt): 138d95a8-73d8-4434-86d1-338575720e23
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+
+🏁 Done.

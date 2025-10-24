@@ -1,6 +1,7 @@
 import os
 import sys
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional, List, Tuple
+import csv
 import requests
 from dotenv import load_dotenv
 
@@ -11,14 +12,16 @@ TENANT_ID = "4c039217-7d17-4207-8314-98348983718a"
 TEMPLATE_ID = "271dc22b-ab65-4461-82fb-2dd923dc5ab0"
 APPLY_URL = f"https://media.os.wpp.com/api/app-instances/templates/{TEMPLATE_ID}/apply/bulk"
 
-MARKET_NAME = "Egypt"  # static market
+# App instances (unchanged)
 APP_INSTANCE_IDS = ["5be2e99a-f1dd-4bf1-ba39-97197186fc1f"]
 
+# CSV path (can be overridden by CLI arg)
+CLIENTS_CSV_PATH = r"C:\Users\Azath.A\os\alltemp\clients.csv"
+
 ENV_PATH = r"C:\Users\Azath.A\os\auth.env"
-CLIENTS_TXT_PATH = r"C:\Users\Azath.A\os\ctemp\clients.txt"  # one client per line
 
 # Optional: also log to file
-LOG_PATH = r"C:\Users\Azath.A\os\ctemp\output\output.txt"
+LOG_PATH = r"C:\Users\Azath.A\os\alltemp\output\output.txt"
 log_file = None
 
 def log(msg: str):
@@ -74,11 +77,11 @@ def find_client_or_brand_node(mapping: Dict[str, Dict[str, Any]], client_name: s
 
 def get_parent_market_azid(mapping: Dict[str, Dict[str, Any]], market_name: str, client_name: str) -> str:
     """
-    Your exact logic:
-      - find MARKET nodes named 'Germany'
+    Resolve the market azId for a given client/brand:
+      - find MARKET nodes named <market_name>
       - find CLIENT/BRAND nodes named <client_name>
-      - if market has client in its children -> return that market azId
-      - else if client has market in its children -> return that market azId
+      - if a market has the client in its children -> return that market azId
+      - else if a client has the market in its children -> return that market azId
       - else raise
     """
     mkt_name_lc = market_name.strip().lower()
@@ -143,6 +146,56 @@ def is_empty_error(body) -> bool:
     return "should be empty" in text.lower()
 
 # --------------------
+# CSV loader
+# --------------------
+def load_clients_and_markets(csv_path: str) -> List[Tuple[str, str]]:
+    if not os.path.isfile(csv_path):
+        raise FileNotFoundError(f"Clients CSV not found: {csv_path}")
+
+    rows: List[Tuple[str, str]] = []
+    with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
+        sample = f.read(2048)
+        f.seek(0)
+        try:
+            has_header = csv.Sniffer().has_header(sample)
+        except Exception:
+            has_header = True  # assume header if unsure
+
+        if has_header:
+            reader = csv.DictReader(f)
+            if not reader.fieldnames:
+                raise RuntimeError("CSV has header but no fieldnames detected.")
+            fields_map = {name.strip().lower(): name for name in reader.fieldnames}
+            client_key = None
+            for k in ("clientname", "client", "brand", "brandname"):
+                if k in fields_map:
+                    client_key = fields_map[k]
+                    break
+            market_key = None
+            for k in ("market", "marketname", "country"):
+                if k in fields_map:
+                    market_key = fields_map[k]
+                    break
+            if not client_key or not market_key:
+                raise RuntimeError(f"CSV must contain headers 'clientname' and 'market' (found: {reader.fieldnames})")
+            for row in reader:
+                c = (row.get(client_key) or "").strip()
+                m = (row.get(market_key) or "").strip()
+                if c and m:
+                    rows.append((c, m))
+        else:
+            reader = csv.reader(f)
+            for idx, row in enumerate(reader, start=1):
+                if len(row) < 2:
+                    log(f"⚠️ Skipping row {idx}: expected 2 columns (client, market). Got: {row}")
+                    continue
+                c = (row[0] or "").strip()
+                m = (row[1] or "").strip()
+                if c and m:
+                    rows.append((c, m))
+    return rows
+
+# --------------------
 # Main
 # --------------------
 def main():
@@ -158,21 +211,23 @@ def main():
         session = get_session()
         mapping = fetch_hierarchy(session)
 
-        if not os.path.isfile(CLIENTS_TXT_PATH):
-            log(f"❌ Clients TXT not found: {CLIENTS_TXT_PATH}")
+        # Allow override via CLI: python script.py path\to\clients.csv
+        csv_path = sys.argv[1] if len(sys.argv) > 1 else CLIENTS_CSV_PATH
+
+        try:
+            client_market_rows = load_clients_and_markets(csv_path)
+        except Exception as e:
+            log(f"❌ {e}")
             sys.exit(1)
 
-        with open(CLIENTS_TXT_PATH, "r", encoding="utf-8") as f:
-            clients = [line.strip() for line in f if line.strip()]
-
-        if not clients:
-            log("⚠️ No client names found in the TXT file.")
+        if not client_market_rows:
+            log("⚠️ No client/market rows found in the CSV file.")
             sys.exit(0)
 
-        log(f"🔧 Will process {len(clients)} client(s). Market: {MARKET_NAME}\n")
+        log(f"🔧 Will process {len(client_market_rows)} row(s) from CSV: {csv_path}\n")
 
-        for client_name in clients:
-            log(f"— Processing client: {client_name}")
+        for client_name, market_name in client_market_rows:
+            log(f"— Processing client: {client_name} (market: {market_name})")
 
             # First assignment: client/brand node azId
             client_node = find_client_or_brand_node(mapping, client_name)
@@ -182,12 +237,12 @@ def main():
             first_assignment_id = client_node["azId"]
             log(f"   ✅ First assignmentId (client/brand): {first_assignment_id}")
 
-            # Second assignment: Germany market azId using your relationship logic
+            # Second assignment: market azId from CSV per-row
             try:
-                second_assignment_id = get_parent_market_azid(mapping, MARKET_NAME, client_name)
-                log(f"   ✅ Second assignmentId (market={MARKET_NAME}): {second_assignment_id}")
+                second_assignment_id = get_parent_market_azid(mapping, market_name, client_name)
+                log(f"   ✅ Second assignmentId (market={market_name}): {second_assignment_id}")
             except Exception as e:
-                log(f"   ⚠️ Could not resolve Germany Market for '{client_name}': {e}")
+                log(f"   ⚠️ Could not resolve market '{market_name}' for '{client_name}': {e}")
                 continue
 
             # POST #1

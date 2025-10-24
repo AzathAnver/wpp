@@ -1,13 +1,6 @@
-client_name,market
+﻿client_name,market
 Perfetti Van Melle,United Arab Emirates
 Perfetti Van Melle,Saudi Arabia
-Perfetti Van Melle,Kuwait
-Perfetti Van Melle,Qatar
-Perfetti Van Melle,Oman
-Perfetti Van Melle,Bahrain
-Perfetti Van Melle,Iraq
-Perfetti Van Melle,Lebanon
-Perfetti Van Melle,Morocco
 Riyadh Air,Saudi Arabia
 Riyadh Air,United Arab Emirates
 Riyadh Air,India
@@ -29,10 +22,8 @@ Total Energies,United Arab Emirates
 Total Energies,Qatar
 Total Energies,Morocco
 TotalEnergies,Egypt
-TOYOTA,Iraq
+TotalEnergies,Egypt
 Vivo,Egypt
-Xiaomi,United Arab Emirates
-Xiaomi,Morocco
 EA Sports,Saudi Arabia
 EA Sports,United Arab Emirates
 Ecolab,Saudi Arabia
@@ -43,9 +34,7 @@ Ecolab,Kuwait
 Ecolab,Egypt
 Ecolab,Oman
 Netflix,Saudi Arabia
-Netflix,United Arab Emirates
 OLX,Lebanon
-Public Investment Fund,USA
 Public Investment Fund,United Kingdom of Great Britain and Northern Ireland
 Riyadh Air,United Kingdom of Great Britain and Northern Ireland
 TotalEnergies,Lebanon

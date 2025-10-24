@@ -48,15 +48,70 @@ categories_data = categories_json["data"]
 category_lookup = {c["name"].strip().lower(): c["id"] for c in categories_data}
 
 
+def _normalize_name(s: str) -> str:
+    # collapse whitespace + case-insensitive comparison
+    return " ".join(s.split()).casefold()
+
 def get_brand_mdId(brand_name: str) -> str:
-    """Call /api/brands to get mdId for a given brand name"""
-    url = f"https://media.os.wpp.com/api/brands?page=1&itemsPerPage=50&filter[search]={brand_name}"
-    resp = requests.get(url, headers=headers, cookies=cookies)
-    resp.raise_for_status()
-    data = resp.json().get("data", [])
-    if not data:
-        raise ValueError(f"Brand '{brand_name}' not found in API")
-    return data[0]["id"]  # mdId
+    """
+    Strictly return mdId for an exact brand name (case-insensitive).
+    Will NOT fall back to the first partial result.
+    Raises if none or multiple exact matches are found.
+    """
+    target = _normalize_name(brand_name)
+    page = 1
+    page_size = 100
+    exact_matches = []
+    first_page_names = []
+
+    while True:
+        params = {
+            "page": page,
+            "itemsPerPage": page_size,
+            "filter[search]:": brand_name  # requests will safely encode via params
+        }
+        # Some backends are picky about the trailing colon — if you see 400s, change the key to "filter[search]"
+        params = {
+            "page": page,
+            "itemsPerPage": page_size,
+            "filter[search]": brand_name
+        }
+
+        resp = requests.get(
+            "https://media.os.wpp.com/api/brands",
+            headers=headers,
+            cookies=cookies,
+            params=params
+        )
+        resp.raise_for_status()
+        payload = resp.json()
+        data = payload.get("data", []) or []
+
+        if page == 1:
+            first_page_names = [b.get("name", "") for b in data]
+
+        for b in data:
+            name = b.get("name", "")
+            if _normalize_name(name) == target:
+                exact_matches.append(b)
+
+        # stop if looks like no more pages
+        if len(data) < page_size:
+            break
+        page += 1
+
+    if len(exact_matches) == 1:
+        match = exact_matches[0]
+        print(f"   ✅ Matched brand exactly: '{match.get('name')}' (mdId={match.get('id')})")
+        return match["id"]
+
+    if len(exact_matches) > 1:
+        options = ", ".join(f"{b.get('name')} (id={b.get('id')})" for b in exact_matches[:10])
+        extra = "..." if len(exact_matches) > 10 else ""
+        raise ValueError(f"Multiple brands named '{brand_name}' found. Please disambiguate. Candidates: {options}{extra}")
+
+    suggestions = ", ".join(first_page_names[:5])
+    raise ValueError(f"No exact brand named '{brand_name}' found (case-insensitive). Top results: {suggestions}")
 
 
 def get_parentId(market_name: str, client_name: str) -> str:
@@ -138,7 +193,14 @@ def post_org_unit(brand_name: str, category_name: str, parentId: str, mdId: str)
 
 # --- Run on CSV ---
 csv_file = r"C:\Users\Azath.A\os\brand\input.csv"
-df = pd.read_csv(csv_file, header=None, names=["Market", "ClientName", "BrandName", "Category"])
+# Expect a header row: Market,ClientName,BrandName,Category
+df = pd.read_csv(csv_file)
+df = df.rename(columns=lambda c: c.strip())  # trim any spaces in headers
+required_cols = ["Market", "ClientName", "BrandName", "Category"]
+missing = [c for c in required_cols if c not in df.columns]
+if missing:
+    # Fallback if your file truly has no header
+    df = pd.read_csv(csv_file, header=None, names=required_cols)
 
 for _, row in df.iterrows():
     market_name = row["Market"]          # e.g., Germany

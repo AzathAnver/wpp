@@ -1,61 +1,217 @@
 
-🚀 Processing: Market=Market, Client=Client, Brand=Brand, Category=Open Brand Category
+🚀 Processing: Market=Market, Client=Client, Brand=Brand, Category=Category
+   ✅ Matched brand exactly: 'Brand' (mdId=50be9df8-f922-40a7-af3e-810e2ca906b7)
 ⚠️ Error: Market 'Market' with client 'Client' not found.
 
+🚀 Processing: Market=United Arab Emirates, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+❌ Failed POST for Mentos: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4ff6fe89-8d92-4e0c-ad07-d87eb9ccf0fe, 4, Mentos) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4ff6fe89-8d92-4e0c-ad07-d87eb9ccf0fe, 4, Mentos) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4ff6fe89-8d92-4e0c-ad07-d87eb9ccf0fe, 4, Mentos) already exists","object_id":null}
+
+🚀 Processing: Market=Saudi Arabia, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+❌ Failed POST for Mentos: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0e036b66-465e-402c-bdf3-401be8af7561, 4, Mentos) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0e036b66-465e-402c-bdf3-401be8af7561, 4, Mentos) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0e036b66-465e-402c-bdf3-401be8af7561, 4, Mentos) already exists","object_id":null}
+
+🚀 Processing: Market=Kuwait, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market a58e7aa7-bb94-4e4e-af45-04032c0aabc7
+   ➡️ OrgUnit azId: 519d72c5-b14a-4931-8917-2de90bf96b80
+
+🚀 Processing: Market=Qatar, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market 220a1123-0dfa-4c16-aedc-5e334264e718
+   ➡️ OrgUnit azId: 9e1b18a9-f51d-4ed3-92cb-a39b08869234
+
+🚀 Processing: Market=Oman, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market bb9780c5-8bbd-4a3f-8abc-b90a12676fc6
+   ➡️ OrgUnit azId: 71c4f0e1-6a3d-4811-8f9e-375f6d2f4c79
+
+🚀 Processing: Market=Bahrain, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+⚠️ Error: 404 Client Error: Not Found for url: https://media.os.wpp.com/api/v2/tenants/4c039217-7d17-4207-8314-98348983718a/hierarchy-tree
+
+🚀 Processing: Market=Iraq, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market 3ab7b4f9-3d57-4a87-94e1-2e88d9edf21a
+   ➡️ OrgUnit azId: 2bc46030-1858-43e4-b460-f529e6f8d4d8
+
+🚀 Processing: Market=Lebanon, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market 71c322af-668e-441f-a7fb-2516cc85d28a
+   ➡️ OrgUnit azId: c601ea23-d461-47b6-9ca2-e5549e6c3253
+
+🚀 Processing: Market=Morocco, Client=Perfetti Van Melle, Brand=Mentos, Category=Food
+   ✅ Matched brand exactly: 'Mentos' (mdId=f03969b5-b00c-4a49-b3ec-fe35d52f912d)
+✅ Created Org Unit for Brand 'Mentos' under Market f5e3eb88-a71e-4857-8d12-b549dc37e65e
+   ➡️ OrgUnit azId: a2f0dec8-c8cc-4404-87c4-6a4eef1c425d
+
+🚀 Processing: Market=Saudi Arabia, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 697cc677-4f24-4225-a752-528ab57d9d77, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 697cc677-4f24-4225-a752-528ab57d9d77, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 697cc677-4f24-4225-a752-528ab57d9d77, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=United Arab Emirates, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c98a48e2-593c-418e-940f-2afda8dec31d, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c98a48e2-593c-418e-940f-2afda8dec31d, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c98a48e2-593c-418e-940f-2afda8dec31d, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=India, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4774e093-b221-496d-bf2a-c4b7823bbedc, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4774e093-b221-496d-bf2a-c4b7823bbedc, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4774e093-b221-496d-bf2a-c4b7823bbedc, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=Egypt, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 48521eee-5961-4482-afdb-efc5142debc8, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 48521eee-5961-4482-afdb-efc5142debc8, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 48521eee-5961-4482-afdb-efc5142debc8, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=Spain, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 714d5abb-6743-4d7e-9a9c-a3aa8ada3a35, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 714d5abb-6743-4d7e-9a9c-a3aa8ada3a35, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 714d5abb-6743-4d7e-9a9c-a3aa8ada3a35, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=France, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4d0520b2-1c6a-485f-ab69-bda1b7a85114, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4d0520b2-1c6a-485f-ab69-bda1b7a85114, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4d0520b2-1c6a-485f-ab69-bda1b7a85114, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=Germany, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f15bebe6-bed1-42cd-93f1-da609c7b39b1, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f15bebe6-bed1-42cd-93f1-da609c7b39b1, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f15bebe6-bed1-42cd-93f1-da609c7b39b1, 4, Riyadh Air) already exists","object_id":null}
+
+🚀 Processing: Market=Saudi Arabia, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 790dc9a7-73df-47c4-af71-10608de08f6a, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 790dc9a7-73df-47c4-af71-10608de08f6a, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 790dc9a7-73df-47c4-af71-10608de08f6a, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=United Arab Emirates, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6f68ee98-1a63-4364-a87c-34c6a2d96a07, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6f68ee98-1a63-4364-a87c-34c6a2d96a07, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6f68ee98-1a63-4364-a87c-34c6a2d96a07, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=Qatar, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c241424e-e8ce-4841-b459-63d691f335fb, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c241424e-e8ce-4841-b459-63d691f335fb, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c241424e-e8ce-4841-b459-63d691f335fb, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=Bahrain, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 8544d4f4-33d6-43ea-a361-db17e74a2862, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 8544d4f4-33d6-43ea-a361-db17e74a2862, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 8544d4f4-33d6-43ea-a361-db17e74a2862, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=Kuwait, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7fd883a-3567-43d3-a9c7-10648b195286, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7fd883a-3567-43d3-a9c7-10648b195286, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7fd883a-3567-43d3-a9c7-10648b195286, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=Oman, Client=Rolex, Brand=Rolex, Category=Fashion
+   ✅ Matched brand exactly: 'Rolex' (mdId=03d4bb0d-0ca6-4e11-8c9a-185d3493ddfe)
+❌ Failed POST for Rolex: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9622838c-72d1-4bf6-a3a3-26b0bf9fb178, 4, Rolex) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9622838c-72d1-4bf6-a3a3-26b0bf9fb178, 4, Rolex) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9622838c-72d1-4bf6-a3a3-26b0bf9fb178, 4, Rolex) already exists","object_id":null}
+
+🚀 Processing: Market=Jordan, Client=Sanofi, Brand=Sanofi, Category=Healthcare
+   ✅ Matched brand exactly: 'Sanofi' (mdId=936648b6-3277-4336-a71c-ba1f1eff2fb3)
+❌ Failed POST for Sanofi: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 28e87c03-2efe-41f6-bf12-d5e1aff458d0, 4, Sanofi) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 28e87c03-2efe-41f6-bf12-d5e1aff458d0, 4, Sanofi) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 28e87c03-2efe-41f6-bf12-d5e1aff458d0, 4, Sanofi) already exists","object_id":null}
+
+🚀 Processing: Market=Lebanon, Client=Sanofi, Brand=Sanofi, Category=Healthcare
+   ✅ Matched brand exactly: 'Sanofi' (mdId=936648b6-3277-4336-a71c-ba1f1eff2fb3)
+❌ Failed POST for Sanofi: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 948a2e59-c46d-4fc7-b89c-616f385a2116, 4, Sanofi) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 948a2e59-c46d-4fc7-b89c-616f385a2116, 4, Sanofi) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 948a2e59-c46d-4fc7-b89c-616f385a2116, 4, Sanofi) already exists","object_id":null}
+
+🚀 Processing: Market=Iraq, Client=Sanofi, Brand=Sanofi, Category=Healthcare
+   ✅ Matched brand exactly: 'Sanofi' (mdId=936648b6-3277-4336-a71c-ba1f1eff2fb3)
+❌ Failed POST for Sanofi: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0842461-632b-4400-8305-6c38bd438180, 4, Sanofi) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0842461-632b-4400-8305-6c38bd438180, 4, Sanofi) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0842461-632b-4400-8305-6c38bd438180, 4, Sanofi) already exists","object_id":null}
+
+🚀 Processing: Market=Iraq, Client=Talabat, Brand=Talabat, Category=Retail
+   ✅ Matched brand exactly: 'Talabat' (mdId=f337c8e6-a4d8-49bc-8ab8-40baf8e79cec)
+❌ Failed POST for Talabat: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1406d0e4-9a88-4e9b-9235-9f1ffdb46cc5, 4, Talabat) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1406d0e4-9a88-4e9b-9235-9f1ffdb46cc5, 4, Talabat) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1406d0e4-9a88-4e9b-9235-9f1ffdb46cc5, 4, Talabat) already exists","object_id":null}
+
+🚀 Processing: Market=United Arab Emirates, Client=Total Energies, Brand=Total Energies, Category=Utilities
+   ✅ Matched brand exactly: 'Total Energies' (mdId=0c34f194-2b9f-4eb9-81a8-f90785d6ab59)
+❌ Failed POST for Total Energies: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad722ed-e2a2-40a6-89ca-0639faaaf7d7, 4, Total Energies) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad722ed-e2a2-40a6-89ca-0639faaaf7d7, 4, Total Energies) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad722ed-e2a2-40a6-89ca-0639faaaf7d7, 4, Total Energies) already exists","object_id":null}
+
+🚀 Processing: Market=Qatar, Client=Total Energies, Brand=Total Energies, Category=Utilities
+   ✅ Matched brand exactly: 'Total Energies' (mdId=0c34f194-2b9f-4eb9-81a8-f90785d6ab59)
+❌ Failed POST for Total Energies: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e97a9b16-f0bf-4977-b88d-a6a828c31045, 4, Total Energies) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e97a9b16-f0bf-4977-b88d-a6a828c31045, 4, Total Energies) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e97a9b16-f0bf-4977-b88d-a6a828c31045, 4, Total Energies) already exists","object_id":null}
+
+🚀 Processing: Market=Morocco, Client=Total Energies, Brand=Energie, Category=Automotive
+⚠️ Error: No exact brand named 'Energie' found (case-insensitive). Top results: Emscher Lippe Energie, EWV - Energie- und Wasser-Versorgung, New Energie, RWE Energiedienstleistung, RWE Stiftung für Energie und Gesellschaft
+
+🚀 Processing: Market=Egypt, Client=TotalEnergies, Brand=Quartz, Category=Utilities
+⚠️ Error: No exact brand named 'Quartz' found (case-insensitive). Top results: Total Quartz
+
+🚀 Processing: Market=Egypt, Client=TotalEnergies, Brand=Rubia, Category=Utilities
+⚠️ Error: No exact brand named 'Rubia' found (case-insensitive). Top results: Rubia Optima, Total Rubia
+
+🚀 Processing: Market=Egypt, Client=TotalEnergies, Brand=Network, Category=Utilities
+   ✅ Matched brand exactly: 'Network' (mdId=ba89b1d1-2b94-4afd-9ca2-bd8ec87a67ec)
+❌ Failed POST for Network: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a4d81f52-1234-4bd3-9a00-6a6775b42fb1, 4, Network) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a4d81f52-1234-4bd3-9a00-6a6775b42fb1, 4, Network) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a4d81f52-1234-4bd3-9a00-6a6775b42fb1, 4, Network) already exists","object_id":null}
+
+🚀 Processing: Market=Iraq, Client=TOYOTA, Brand=Toyota, Category=Automotive
+   ✅ Matched brand exactly: 'Toyota' (mdId=2d310cb9-9028-45a8-bd99-0b0706ed6431)
+❌ Failed POST for Toyota: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e664e948-7771-4e72-b834-f25e8d986c44, 4, Toyota) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e664e948-7771-4e72-b834-f25e8d986c44, 4, Toyota) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e664e948-7771-4e72-b834-f25e8d986c44, 4, Toyota) already exists","object_id":null}
+
+🚀 Processing: Market=Egypt, Client=Vivo, Brand=Vivo, Category=Consumer Electronics
+   ✅ Matched brand exactly: 'Vivo' (mdId=07eeebcf-0019-4595-bba8-5c1be7277dec)
+❌ Failed POST for Vivo: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e843360-e408-471f-befa-f5a1d10160bf, 4, Vivo) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e843360-e408-471f-befa-f5a1d10160bf, 4, Vivo) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e843360-e408-471f-befa-f5a1d10160bf, 4, Vivo) already exists","object_id":null}
+
+🚀 Processing: Market=United Arab Emirates, Client=Xiaomi, Brand=Xiaomi, Category=Consumer Electronics
+   ✅ Matched brand exactly: 'Xiaomi' (mdId=583b9351-59c7-41db-b157-dba7b91c9320)
+✅ Created Org Unit for Brand 'Xiaomi' under Market 40600f7c-504c-4f64-8bb6-d5b9d48c6d60
+   ➡️ OrgUnit azId: 9618ecaa-aa59-4e37-8c2d-d9a05c1c24e6
+
+🚀 Processing: Market=Morocco, Client=Xiaomi, Brand=Xiaomi, Category=Consumer Electronics
+   ✅ Matched brand exactly: 'Xiaomi' (mdId=583b9351-59c7-41db-b157-dba7b91c9320)
+✅ Created Org Unit for Brand 'Xiaomi' under Market 00774692-063f-4ec4-93b3-0a441451bc04
+   ➡️ OrgUnit azId: d3e269ff-a6eb-4858-b020-6072e98c0847
+
 🚀 Processing: Market=Saudi Arabia, Client=EA Sports, Brand=EA Sports, Category=Entertainment & Media
-✅ Created Org Unit for Brand 'EA Sports' under Market a7af175d-ec19-48aa-9a97-817e4da3f099
-   ➡️ OrgUnit azId: f5805d40-07ad-4233-a803-c6fb4866a653
+   ✅ Matched brand exactly: 'EA Sports' (mdId=f9426d5d-d526-45df-a552-53cf024ce0aa)
+❌ Failed POST for EA Sports: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a7af175d-ec19-48aa-9a97-817e4da3f099, 4, EA Sports) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a7af175d-ec19-48aa-9a97-817e4da3f099, 4, EA Sports) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a7af175d-ec19-48aa-9a97-817e4da3f099, 4, EA Sports) already exists","object_id":null}
 
 🚀 Processing: Market=United Arab Emirates, Client=EA Sports, Brand=EA Sports, Category=Entertainment & Media
-✅ Created Org Unit for Brand 'EA Sports' under Market e5ffd3e0-3a88-47dc-bb28-60152c72c8f0
-   ➡️ OrgUnit azId: 815c3e8b-f890-494a-9b3a-f07f85923c54
+   ✅ Matched brand exactly: 'EA Sports' (mdId=f9426d5d-d526-45df-a552-53cf024ce0aa)
+❌ Failed POST for EA Sports: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e5ffd3e0-3a88-47dc-bb28-60152c72c8f0, 4, EA Sports) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e5ffd3e0-3a88-47dc-bb28-60152c72c8f0, 4, EA Sports) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e5ffd3e0-3a88-47dc-bb28-60152c72c8f0, 4, EA Sports) already exists","object_id":null}
 
 🚀 Processing: Market=Saudi Arabia, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market ac0e7a5c-a546-437d-b551-9a4600814dd1
-   ➡️ OrgUnit azId: f0d731be-6982-412c-844a-91629fc80b3f
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac0e7a5c-a546-437d-b551-9a4600814dd1, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac0e7a5c-a546-437d-b551-9a4600814dd1, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac0e7a5c-a546-437d-b551-9a4600814dd1, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=United Arab Emirates, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market ac1611b1-d690-45cb-8e01-2d92b1fbd3bd
-   ➡️ OrgUnit azId: b0fd96a3-9ece-4c02-9f36-a9cfae064514
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac1611b1-d690-45cb-8e01-2d92b1fbd3bd, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac1611b1-d690-45cb-8e01-2d92b1fbd3bd, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ac1611b1-d690-45cb-8e01-2d92b1fbd3bd, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Qatar, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market b10a22e9-5a56-4e81-8028-8bdc6406384d
-   ➡️ OrgUnit azId: 54ea9f37-61bd-42d8-b5cd-6fc0e96d545b
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b10a22e9-5a56-4e81-8028-8bdc6406384d, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b10a22e9-5a56-4e81-8028-8bdc6406384d, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b10a22e9-5a56-4e81-8028-8bdc6406384d, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Bahrain, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3
-   ➡️ OrgUnit azId: 97650695-5490-4975-972a-2b0f8874c075
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Kuwait, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market 602fecac-2ba5-4a69-89f7-c043b4d41e71
-   ➡️ OrgUnit azId: cbbf79d7-83d0-401a-9915-295bf289bb6e
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 602fecac-2ba5-4a69-89f7-c043b4d41e71, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 602fecac-2ba5-4a69-89f7-c043b4d41e71, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 602fecac-2ba5-4a69-89f7-c043b4d41e71, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Egypt, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market 63424110-3c91-49ea-af9e-70cd0cfa5bed
-   ➡️ OrgUnit azId: 6210298f-5469-4c2b-9c3a-8565ec1476bb
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 63424110-3c91-49ea-af9e-70cd0cfa5bed, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 63424110-3c91-49ea-af9e-70cd0cfa5bed, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 63424110-3c91-49ea-af9e-70cd0cfa5bed, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Oman, Client=Ecolab, Brand=Ecolab, Category=General Services
-✅ Created Org Unit for Brand 'Ecolab' under Market b330dd7e-0eaf-4215-b04e-659c79d8c098
-   ➡️ OrgUnit azId: 5c323d08-9567-47af-bbbf-2bbb7e88755e
+   ✅ Matched brand exactly: 'Ecolab' (mdId=5293dab5-23c5-42cb-b862-59d7dd6c05c0)
+❌ Failed POST for Ecolab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b330dd7e-0eaf-4215-b04e-659c79d8c098, 4, Ecolab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b330dd7e-0eaf-4215-b04e-659c79d8c098, 4, Ecolab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b330dd7e-0eaf-4215-b04e-659c79d8c098, 4, Ecolab) already exists","object_id":null}
 
 🚀 Processing: Market=Saudi Arabia, Client=Netflix, Brand=Netflix, Category=Entertainment & Media
+   ✅ Matched brand exactly: 'Netflix' (mdId=8aefcce6-5fc6-4072-9993-988443e6cfaf)
 ❌ Failed POST for Netflix: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0230762-6a80-4b4e-a5e7-a423f3705179, 4, Netflix) already exists","object_id":null}
 
 🚀 Processing: Market=United Arab Emirates, Client=Netflix, Brand=Netflix, Category=Entertainment & Media
-✅ Created Org Unit for Brand 'Netflix' under Market 35d45c8b-cb78-48aa-858c-258bc7819163
-   ➡️ OrgUnit azId: 84de0a11-8df5-47f8-af33-59f248752bf8
+   ✅ Matched brand exactly: 'Netflix' (mdId=8aefcce6-5fc6-4072-9993-988443e6cfaf)
+❌ Failed POST for Netflix: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 35d45c8b-cb78-48aa-858c-258bc7819163, 4, Netflix) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 35d45c8b-cb78-48aa-858c-258bc7819163, 4, Netflix) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 35d45c8b-cb78-48aa-858c-258bc7819163, 4, Netflix) already exists","object_id":null}
 
 🚀 Processing: Market=Lebanon, Client=OLX, Brand=OLX, Category=Retail
-⚠️ Error: Market 'Lebanon' with client 'OLX' not found.
+   ✅ Matched brand exactly: 'OLX' (mdId=dafb5db2-ab7e-4a9a-8b61-c3f306be9cef)
+❌ Failed POST for OLX: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e1b00aac-128a-4cd7-aee7-b0073749cf8b, 4, OLX) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e1b00aac-128a-4cd7-aee7-b0073749cf8b, 4, OLX) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e1b00aac-128a-4cd7-aee7-b0073749cf8b, 4, OLX) already exists","object_id":null}
 
-🚀 Processing: Market=United States, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
-⚠️ Error: Market 'United States' with client 'Public Investment Fund' not found.
+🚀 Processing: Market=USA, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
+   ✅ Matched brand exactly: 'Public Investment Fund' (mdId=8e338788-2fba-4af0-a78d-e2c5efe42c81)
+⚠️ Error: Market 'USA' with client 'Public Investment Fund' not found.
 
-🚀 Processing: Market=United Kingdom, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
-⚠️ Error: Market 'United Kingdom' with client 'Public Investment Fund' not found.
+🚀 Processing: Market=United Kingdom of Great Britain and Northern Ireland, Client=Public Investment Fund, Brand=Public Investment Fund, Category=Government
+   ✅ Matched brand exactly: 'Public Investment Fund' (mdId=8e338788-2fba-4af0-a78d-e2c5efe42c81)
+❌ Failed POST for Public Investment Fund: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a404a69e-c33b-465c-ac9b-298875a5b206, 4, Public Investment Fund) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a404a69e-c33b-465c-ac9b-298875a5b206, 4, Public Investment Fund) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a404a69e-c33b-465c-ac9b-298875a5b206, 4, Public Investment Fund) already exists","object_id":null}
 
-🚀 Processing: Market=United Kingdom, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
-⚠️ Error: Market 'United Kingdom' with client 'Riyadh Air' not found.
+🚀 Processing: Market=United Kingdom of Great Britain and Northern Ireland, Client=Riyadh Air, Brand=Riyadh Air, Category=Travel
+   ✅ Matched brand exactly: 'Riyadh Air' (mdId=388fff15-033d-4486-ba8e-e75199e121d0)
+❌ Failed POST for Riyadh Air: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0b96ca74-0eb6-4d0b-a6e9-26a97df41444, 4, Riyadh Air) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0b96ca74-0eb6-4d0b-a6e9-26a97df41444, 4, Riyadh Air) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0b96ca74-0eb6-4d0b-a6e9-26a97df41444, 4, Riyadh Air) already exists","object_id":null}
 
 🚀 Processing: Market=Lebanon, Client=TotalEnergies, Brand=TotalEnergies, Category=Utilities
-⚠️ Error: Market 'Lebanon' with client 'TotalEnergies' not found.
+   ✅ Matched brand exactly: 'TotalEnergies' (mdId=e8efdee6-ea6b-4d1d-9065-94909b40d8fb)
+❌ Failed POST for TotalEnergies: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b647ed98-0887-44d7-a840-4ce3d53adf13, 4, TotalEnergies) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b647ed98-0887-44d7-a840-4ce3d53adf13, 4, TotalEnergies) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b647ed98-0887-44d7-a840-4ce3d53adf13, 4, TotalEnergies) already exists","object_id":null}

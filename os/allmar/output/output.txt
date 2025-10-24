@@ -1,1 +1,217 @@
-❌ Failed to load hierarchy: 401 Client Error: Unauthorized for url: https://media.os.wpp.com/api/v2/tenants/4c039217-7d17-4207-8314-98348983718a/hierarchy-tree
+========================================
+🔍 Processing client: Perfetti Van Melle | market: United Arab Emirates
+🌍 Market 'United Arab Emirates' -> United Arab Emirates (mdId=46c4ea23-1796-4af1-8a60-e620173de8da)
+❌ Failed for Perfetti Van Melle -> United Arab Emirates: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Saudi Arabia
+🌍 Market 'Saudi Arabia' -> Saudi Arabia (mdId=3d1f5e38-026f-4028-9900-84e45ccfcd78)
+❌ Failed for Perfetti Van Melle -> Saudi Arabia: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Kuwait
+🌍 Market 'Kuwait' -> Kuwait (mdId=8d5fb526-5be0-4cac-8620-ea623ef24d6d)
+❌ Failed for Perfetti Van Melle -> Kuwait: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Qatar
+🌍 Market 'Qatar' -> Qatar (mdId=66e5f330-3fbb-4e82-a4e4-44d71fb3842a)
+❌ Failed for Perfetti Van Melle -> Qatar: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Oman
+🌍 Market 'Oman' -> Oman (mdId=d294b665-2273-4997-953f-4a98c75a97a9)
+❌ Failed for Perfetti Van Melle -> Oman: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Bahrain
+🌍 Market 'Bahrain' -> Bahrain (mdId=63375e28-93e9-4a77-8a4d-0f98a484de3f)
+❌ Failed for Perfetti Van Melle -> Bahrain: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Iraq
+🌍 Market 'Iraq' -> Iraq (mdId=8d538bae-0486-43d5-aa02-a0181d896eb0)
+❌ Failed for Perfetti Van Melle -> Iraq: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Lebanon
+🌍 Market 'Lebanon' -> Lebanon (mdId=04d75fbb-700a-4e8a-9dd7-501a5a92a09d)
+❌ Failed for Perfetti Van Melle -> Lebanon: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Perfetti Van Melle | market: Morocco
+🌍 Market 'Morocco' -> Morocco (mdId=8262e42f-841e-47d2-a3de-6987ca706185)
+❌ Failed for Perfetti Van Melle -> Morocco: 400
+{'error': "Organization unit (id=98c278a0-1ff3-4f5e-9dd7-97b32fc43294) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: Saudi Arabia
+❌ Failed for Riyadh Air -> Saudi Arabia: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: United Arab Emirates
+❌ Failed for Riyadh Air -> United Arab Emirates: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: India
+🌍 Market 'India' -> India (mdId=bcec3dbc-7d0b-486c-9dd8-eff1b2e64e03)
+❌ Failed for Riyadh Air -> India: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: Egypt
+🌍 Market 'Egypt' -> Egypt (mdId=932f204f-a4d8-474e-9d88-524e2ba9d900)
+❌ Failed for Riyadh Air -> Egypt: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: Spain
+🌍 Market 'Spain' -> Spain (mdId=d84093ff-3974-4daa-82c4-9fceba38084f)
+❌ Failed for Riyadh Air -> Spain: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: France
+🌍 Market 'France' -> France (mdId=3e899810-f418-4d73-aae8-5952bef52ee8)
+❌ Failed for Riyadh Air -> France: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: Germany
+🌍 Market 'Germany' -> Germany (mdId=c4a22815-f54d-4b8d-9b81-b3ad73add8e6)
+❌ Failed for Riyadh Air -> Germany: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: Saudi Arabia
+❌ Failed for Rolex -> Saudi Arabia: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: United Arab Emirates
+❌ Failed for Rolex -> United Arab Emirates: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: Qatar
+❌ Failed for Rolex -> Qatar: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: Bahrain
+❌ Failed for Rolex -> Bahrain: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: Kuwait
+❌ Failed for Rolex -> Kuwait: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Rolex | market: Oman
+❌ Failed for Rolex -> Oman: 400
+{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Sanofi | market: Jordan
+🌍 Market 'Jordan' -> Jordan (mdId=79ae0971-74de-49e0-bc89-695e2d9a17c4)
+❌ Failed for Sanofi -> Jordan: 400
+{'error': "Organization unit (id=1dcab5c7-9ff6-446d-9c4e-e6090689d680) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Sanofi | market: Lebanon
+❌ Failed for Sanofi -> Lebanon: 400
+{'error': "Organization unit (id=1dcab5c7-9ff6-446d-9c4e-e6090689d680) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Sanofi | market: Iraq
+❌ Failed for Sanofi -> Iraq: 400
+{'error': "Organization unit (id=1dcab5c7-9ff6-446d-9c4e-e6090689d680) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Talabat | market: Iraq
+ℹ️  Org-unit already exists for Talabat -> Iraq
+{'status': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0d638f6e-835e-48e6-8e0f-6b0340c495cc, 3, Iraq) already exists', 'title': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0d638f6e-835e-48e6-8e0f-6b0340c495cc, 3, Iraq) already exists', 'detail': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0d638f6e-835e-48e6-8e0f-6b0340c495cc, 3, Iraq) already exists', 'object_id': None}
+========================================
+🔍 Processing client: Total Energies | market: United Arab Emirates
+❌ Failed for Total Energies -> United Arab Emirates: 400
+{'error': "Organization unit (id=818c4ad5-baf1-4428-87a1-aa7ada74467c) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Total Energies | market: Qatar
+❌ Failed for Total Energies -> Qatar: 400
+{'error': "Organization unit (id=818c4ad5-baf1-4428-87a1-aa7ada74467c) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Total Energies | market: Morocco
+❌ Failed for Total Energies -> Morocco: 400
+{'error': "Organization unit (id=818c4ad5-baf1-4428-87a1-aa7ada74467c) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: TotalEnergies | market: Egypt
+❌ Failed for TotalEnergies -> Egypt: 400
+{'error': "Organization unit (id=95460e45-ca7c-42c5-aff6-f0f6c6ae6d04) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: TOYOTA | market: Iraq
+❌ Failed for TOYOTA -> Iraq: 400
+{'error': "Organization unit (id=584ec081-6ec4-4256-ab41-4fbc5931bdce) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Vivo | market: Egypt
+❌ Failed for Vivo -> Egypt: 400
+{'error': "Organization unit (id=0db49eb3-9512-4fd5-88d5-9af11c88b9d1) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Xiaomi | market: United Arab Emirates
+❌ Failed for Xiaomi -> United Arab Emirates: 400
+{'error': "Organization unit (id=9618ecaa-aa59-4e37-8c2d-d9a05c1c24e6) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Xiaomi | market: Morocco
+❌ Failed for Xiaomi -> Morocco: 400
+{'error': "Organization unit (id=9618ecaa-aa59-4e37-8c2d-d9a05c1c24e6) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: EA Sports | market: Saudi Arabia
+❌ Failed for EA Sports -> Saudi Arabia: 400
+{'error': "Organization unit (id=f5805d40-07ad-4233-a803-c6fb4866a653) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: EA Sports | market: United Arab Emirates
+❌ Failed for EA Sports -> United Arab Emirates: 400
+{'error': "Organization unit (id=f5805d40-07ad-4233-a803-c6fb4866a653) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Saudi Arabia
+❌ Failed for Ecolab -> Saudi Arabia: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: United Arab Emirates
+❌ Failed for Ecolab -> United Arab Emirates: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Qatar
+❌ Failed for Ecolab -> Qatar: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Bahrain
+❌ Failed for Ecolab -> Bahrain: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Kuwait
+❌ Failed for Ecolab -> Kuwait: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Egypt
+❌ Failed for Ecolab -> Egypt: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Ecolab | market: Oman
+❌ Failed for Ecolab -> Oman: 400
+{'error': "Organization unit (id=cbbf79d7-83d0-401a-9915-295bf289bb6e) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Netflix | market: Saudi Arabia
+❌ Failed for Netflix -> Saudi Arabia: 400
+{'error': "Organization unit (id=84de0a11-8df5-47f8-af33-59f248752bf8) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Netflix | market: United Arab Emirates
+❌ Failed for Netflix -> United Arab Emirates: 400
+{'error': "Organization unit (id=84de0a11-8df5-47f8-af33-59f248752bf8) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: OLX | market: Lebanon
+❌ Failed for OLX -> Lebanon: 400
+{'error': "Organization unit (id=6ff9ab73-1565-4661-b687-1f0a888320dd) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Public Investment Fund | market: USA
+🌍 Market 'USA' -> United States of America (mdId=a795a2cb-ce34-48da-b9e7-52faf81307ca)
+❌ Failed for Public Investment Fund -> USA: 400
+{'error': "Organization unit (id=aff8b0b6-a484-4780-a1b8-c86b54cd9e90) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Public Investment Fund | market: United Kingdom of Great Britain and Northern Ireland
+🌍 Market 'United Kingdom of Great Britain and Northern Ireland' -> United Kingdom of Great Britain and Northern Ireland (mdId=c0dc40fb-4ccf-4b09-9852-49b3f39090c0)
+❌ Failed for Public Investment Fund -> United Kingdom of Great Britain and Northern Ireland: 400
+{'error': "Organization unit (id=aff8b0b6-a484-4780-a1b8-c86b54cd9e90) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: Riyadh Air | market: United Kingdom of Great Britain and Northern Ireland
+❌ Failed for Riyadh Air -> United Kingdom of Great Britain and Northern Ireland: 400
+{'error': "Organization unit (id=7f737def-63b4-4ab0-b5ef-67347bca1d4a) with Type: BRAND can't have children."}
+========================================
+🔍 Processing client: TotalEnergies | market: Lebanon
+❌ Failed for TotalEnergies -> Lebanon: 400
+{'error': "Organization unit (id=95460e45-ca7c-42c5-aff6-f0f6c6ae6d04) with Type: BRAND can't have children."}
