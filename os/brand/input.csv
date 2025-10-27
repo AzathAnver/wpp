@@ -1,53 +1,38 @@
-Market,Client,Brand,Category
-United Arab Emirates,Perfetti Van Melle,Mentos,Food
-Saudi Arabia,Perfetti Van Melle,Mentos,Food
-Kuwait,Perfetti Van Melle,Mentos,Food
-Qatar,Perfetti Van Melle,Mentos,Food
-Oman,Perfetti Van Melle,Mentos,Food
-Bahrain,Perfetti Van Melle,Mentos,Food
-Iraq,Perfetti Van Melle,Mentos,Food
-Lebanon,Perfetti Van Melle,Mentos,Food
-Morocco,Perfetti Van Melle,Mentos,Food
-Saudi Arabia,Riyadh Air,Riyadh Air,Travel
-United Arab Emirates,Riyadh Air,Riyadh Air,Travel
-India,Riyadh Air,Riyadh Air,Travel
-Egypt,Riyadh Air,Riyadh Air,Travel
-Spain,Riyadh Air,Riyadh Air,Travel
-France,Riyadh Air,Riyadh Air,Travel
-Germany,Riyadh Air,Riyadh Air,Travel
-Saudi Arabia,Rolex,Rolex,Fashion
-United Arab Emirates,Rolex,Rolex,Fashion
-Qatar,Rolex,Rolex,Fashion
-Bahrain,Rolex,Rolex,Fashion
-Kuwait,Rolex,Rolex,Fashion
-Oman,Rolex,Rolex,Fashion
-Jordan,Sanofi,Sanofi,Healthcare
-Lebanon,Sanofi,Sanofi,Healthcare
-Iraq,Sanofi,Sanofi,Healthcare
-Iraq,Talabat,Talabat,Retail
-United Arab Emirates,Total Energies,Total Energies,Utilities
-Qatar,Total Energies,Total Energies,Utilities
-Morocco,Total Energies,Energie,Automotive
-Egypt,TotalEnergies,Quartz,Utilities
-Egypt,TotalEnergies,Rubia,Utilities
-Egypt,TotalEnergies,Network,Utilities
-Iraq,TOYOTA,Toyota,Automotive
-Egypt,Vivo,Vivo,Consumer Electronics
-United Arab Emirates,Xiaomi,Xiaomi,Consumer Electronics
-Morocco,Xiaomi,Xiaomi,Consumer Electronics
-Saudi Arabia,EA Sports,EA Sports,Entertainment & Media
-United Arab Emirates,EA Sports,EA Sports,Entertainment & Media
-Saudi Arabia,Ecolab,Ecolab,General Services
-United Arab Emirates,Ecolab,Ecolab,General Services
-Qatar,Ecolab,Ecolab,General Services
-Bahrain,Ecolab,Ecolab,General Services
-Kuwait,Ecolab,Ecolab,General Services
-Egypt,Ecolab,Ecolab,General Services
-Oman,Ecolab,Ecolab,General Services
-Saudi Arabia,Netflix,Netflix,Entertainment & Media
-United Arab Emirates,Netflix,Netflix,Entertainment & Media
-Lebanon,OLX,OLX,Retail
-USA,Public Investment Fund,Public Investment Fund,Government
-United Kingdom of Great Britain and Northern Ireland,Public Investment Fund,Public Investment Fund,Government
-United Kingdom of Great Britain and Northern Ireland,Riyadh Air,Riyadh Air,Travel
-Lebanon,TotalEnergies,TotalEnergies,Utilities
+Market,Client,Brand,Open Brand Category
+Hong Kong,NinJiom,NinJiom,Healthcare & Pharmaceuticals
+Hong Kong,PrimeCredit,PrimeCredit,Finance
+Hong Kong,PrimeCredit,WeWa,Finance
+Hong Kong,Reolink,Reolink,Consumer Electronics
+Hong Kong,Rolex,Rolex,Jewellery
+Hong Kong,Rolex,Tudor,Jewellery
+Hong Kong,Swisse,Swisse,Healthcare
+Hong Kong,Peninsula Hotels,The Peninsula,Travel
+Canada,Peninsula Hotels,The Peninsula,Travel
+China,Peninsula Hotels,The Peninsula,Travel
+France,Peninsula Hotels,The Peninsula,Travel
+Germany,Peninsula Hotels,The Peninsula,Travel
+Japan,Peninsula Hotels,The Peninsula,Travel
+Philippines,Peninsula Hotels,The Peninsula,Travel
+South Korea,Peninsula Hotels,The Peninsula,Travel
+Thailand,Peninsula Hotels,The Peninsula,Travel
+Turkey,Peninsula Hotels,The Peninsula,Travel
+United Kingdom,Peninsula Hotels,The Peninsula,Travel
+United States of America,Peninsula Hotels,The Peninsula,Travel
+Iraq,Peninsula Hotels,The Peninsula,Travel
+Israel,Peninsula Hotels,The Peninsula,Travel
+Kuwait,Peninsula Hotels,The Peninsula,Travel
+Qatar,Peninsula Hotels,The Peninsula,Travel
+Saudi Arabia,Peninsula Hotels,The Peninsula,Travel
+United Arab Emirates,Peninsula Hotels,The Peninsula,Travel
+Hong Kong,UA Finance,UA Finance,Finance
+Hong Kong,Uber,Uber,Travel
+Hong Kong,Universal Pictures,Universal Pictures,Home Entertainment
+Hong Kong,Warner Bros.,Warner Bros.,Home Entertainment
+Hong Kong,Zespri,Zespri,Food
+Hong Kong,Zuellig Pharma,Zuellig Pharma,Healthcare & Pharmaceuticals
+Hong Kong,Sun Life Financial,Sun Life Financial,Financial Services & Insurance
+Vietnam,Sun Life Financial,Sun Life Financial,Financial Services & Insurance
+Philippines,Sun Life Financial,Sun Life Financial,Financial Services & Insurance
+Indonesia,Sun Life Financial,Sun Life Financial,Financial Services & Insurance
+Singapore,Sun Life Financial,Sun Life Financial,Financial Services & Insurance
+Malaysia,Sun Life Financial,Sun Life Financial,Financial Services & Insurance

@@ -65,8 +65,8 @@ resp = requests.get(hierarchy_url, headers=headers, cookies=cookies)
 resp.raise_for_status()
 hierarchy = resp.json().get("mapping", {})
 
-# --- 2. Fixed Thailand mdId
-thailand_md_id = "15050f40-d2fe-4a73-a937-b8fb6d78432f"
+# --- 2. Fixed Market mdId
+market_md_id = "9a201dd4-fb11-4bd6-bca3-ef170652ce2b"
 
 # --- 3. Loop clients ---
 for client_name in client_names:
@@ -91,14 +91,14 @@ for client_name in client_names:
         "parentId": parent_id,
         "categories": [],
         "data": {
-            "mdId": thailand_md_id
+            "mdId": market_md_id
         }
     }
 
     # Call API
     create_resp = requests.post(create_url, headers=headers, cookies=cookies, json=payload)
     if create_resp.status_code == 201:
-        print(f"✅ Successfully created Thailand org-unit under {client_name}")
+        print(f"✅ Successfully created Market org-unit under {client_name}")
     else:
         print(f"❌ Failed for {client_name}: {create_resp.status_code}")
         try:

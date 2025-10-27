@@ -1,53 +1,67 @@
 Market,Client,Brand,Category
-United Arab Emirates,Perfetti Van Melle,Mentos,Food
-Saudi Arabia,Perfetti Van Melle,Mentos,Food
-Kuwait,Perfetti Van Melle,Mentos,Food
-Qatar,Perfetti Van Melle,Mentos,Food
-Oman,Perfetti Van Melle,Mentos,Food
-Bahrain,Perfetti Van Melle,Mentos,Food
-Iraq,Perfetti Van Melle,Mentos,Food
-Lebanon,Perfetti Van Melle,Mentos,Food
-Morocco,Perfetti Van Melle,Mentos,Food
-Saudi Arabia,Riyadh Air,Riyadh Air,Travel
-United Arab Emirates,Riyadh Air,Riyadh Air,Travel
-India,Riyadh Air,Riyadh Air,Travel
-Egypt,Riyadh Air,Riyadh Air,Travel
-Spain,Riyadh Air,Riyadh Air,Travel
-France,Riyadh Air,Riyadh Air,Travel
-Germany,Riyadh Air,Riyadh Air,Travel
-Saudi Arabia,Rolex,Rolex,Fashion
-United Arab Emirates,Rolex,Rolex,Fashion
-Qatar,Rolex,Rolex,Fashion
-Bahrain,Rolex,Rolex,Fashion
-Kuwait,Rolex,Rolex,Fashion
-Oman,Rolex,Rolex,Fashion
-Jordan,Sanofi,Sanofi,Healthcare
-Lebanon,Sanofi,Sanofi,Healthcare
-Iraq,Sanofi,Sanofi,Healthcare
-Iraq,Talabat,Talabat,Retail
-United Arab Emirates,Total Energies,Total Energies,Utilities
-Qatar,Total Energies,Total Energies,Utilities
-Morocco,Total Energies,Energie,Automotive
-Egypt,TotalEnergies,Quartz,Utilities
-Egypt,TotalEnergies,Rubia,Utilities
-Egypt,TotalEnergies,Network,Utilities
-Iraq,TOYOTA,Toyota,Automotive
-Egypt,Vivo,Vivo,Consumer Electronics
-United Arab Emirates,Xiaomi,Xiaomi,Consumer Electronics
-Morocco,Xiaomi,Xiaomi,Consumer Electronics
-Saudi Arabia,EA Sports,EA Sports,Entertainment & Media
-United Arab Emirates,EA Sports,EA Sports,Entertainment & Media
-Saudi Arabia,Ecolab,Ecolab,General Services
-United Arab Emirates,Ecolab,Ecolab,General Services
-Qatar,Ecolab,Ecolab,General Services
-Bahrain,Ecolab,Ecolab,General Services
-Kuwait,Ecolab,Ecolab,General Services
-Egypt,Ecolab,Ecolab,General Services
-Oman,Ecolab,Ecolab,General Services
-Saudi Arabia,Netflix,Netflix,Entertainment & Media
-United Arab Emirates,Netflix,Netflix,Entertainment & Media
-Lebanon,OLX,OLX,Retail
+AZERBAIJAN,Qatar Airways,Qatar Airways,Travel
+BAHRAIN,Qatar Airways,Qatar Airways,Travel
+PALESTINE,Qatar Airways,Qatar Airways,Travel
+UZBEKISTAN,Qatar Airways,Qatar Airways,Travel
+KYRGYZSTAN,Qatar Airways,Qatar Airways,Travel
+YEMEN,Qatar Airways,Qatar Airways,Travel
+CHINA,Qatar Airways,Qatar Airways,Travel
+JAPAN,Qatar Airways,Qatar Airways,Travel
+KOREA SOUTH,Qatar Airways,Qatar Airways,Travel
+HONG KONG,Qatar Airways,Qatar Airways,Travel
+MONGOLIA,Qatar Airways,Qatar Airways,Travel
+TAIWAN,Qatar Airways,Qatar Airways,Travel
+QATAR,Qatar Airways,Qatar Airways,Travel
+INDIA,Qatar Airways,Qatar Airways,Travel
+BANGLADESH,Qatar Airways,Qatar Airways,Travel
+NEPAL,Qatar Airways,Qatar Airways,Travel
+SRI LANKA,Qatar Airways,Qatar Airways,Travel
+MALDIVES,Qatar Airways,Qatar Airways,Travel
+PHILIPPINES,Qatar Airways,Qatar Airways,Travel
+INDONESIA,Qatar Airways,Qatar Airways,Travel
+MALAYSIA,Qatar Airways,Qatar Airways,Travel
+THAILAND,Qatar Airways,Qatar Airways,Travel
+SINGAPORE,Qatar Airways,Qatar Airways,Travel
+VIETNAM,Qatar Airways,Qatar Airways,Travel
+MYANMAR,Qatar Airways,Qatar Airways,Travel
+CAMBODIA,Qatar Airways,Qatar Airways,Travel
+BRUNEI,Qatar Airways,Qatar Airways,Travel
+LAOS,Qatar Airways,Qatar Airways,Travel
+AUSTRALIA,Qatar Airways,Qatar Airways,Travel
+NEW ZEALAND,Qatar Airways,Qatar Airways,Travel
+PAPUA NEW GUINEA,Qatar Airways,Qatar Airways,Travel
+FIJI,Qatar Airways,Qatar Airways,Travel
+MARSHALL ISLANDS,Qatar Airways,Qatar Airways,Travel
+SAMOA,Qatar Airways,Qatar Airways,Travel
+NEW CALEDONIA,Qatar Airways,Qatar Airways,Travel
+GUAM,Qatar Airways,Qatar Airways,Travel
+USA,Royal Air Maroc,Royal Air Maroc,Travel
+United Kingdom of Great Britain and Northern Ireland,Royal Air Maroc,Royal Air Maroc,Travel
+Ivory Coast (C te d Ivoire),Royal Air Maroc,Royal Air Maroc,Travel
+Jordan,Sanofi,Sanofi,Healthcare & Pharmaceuticals
+Lebanon,Sanofi,Sanofi,Healthcare & Pharmaceuticals
+Iraq,Sanofi,Sanofi,Healthcare & Pharmaceuticals
+Qatar,Sidra Medicine,Sidra Medicine,Healthcare & Pharmaceuticals
+Lebanon,Transmed,Transmed,Healthcare & Pharmaceuticals
+Palestine,Arab Bank,Arab Bank,Finance
+Egypt,Didi,DiDi,Travel
+Egypt,Edita,Edita,Snacks
+United Kingdom of Great Britain and Northern Ireland,Emirates,Arabian Adventures,Travel
+USA,Emirates,Arabian Adventures,Travel
+United Kingdom of Great Britain and Northern Ireland,Emirates,Marhaba,Travel
+USA,Emirates,Marhaba,Travel
+Russia,Flynas,Flynas,Travel
+Syria,Flynas,Flynas,Travel
+Saudi Arabia,Netflix,Netflix,Entertainment & media
+United Arab Emirates,Ora,Ora,Utilities
 USA,Public Investment Fund,Public Investment Fund,Government
-United Kingdom of Great Britain and Northern Ireland,Public Investment Fund,Public Investment Fund,Government
-United Kingdom of Great Britain and Northern Ireland,Riyadh Air,Riyadh Air,Travel
-Lebanon,TotalEnergies,TotalEnergies,Utilities
+COTE D IVOIRE,Qatar Airways,Qatar Airways,Travel
+SWAZILAND,Qatar Airways,Qatar Airways,Travel
+REUNION,Qatar Airways,Qatar Airways,Travel
+GUINEA BISSAU,Qatar Airways,Qatar Airways,Travel
+CAPE VERDE ISL.,Qatar Airways,Qatar Airways,Travel
+USA,Qatar Airways,Qatar Airways,Travel
+REPUBLIC OF CHILE,Qatar Airways,Qatar Airways,Travel
+BAHAMAS,Qatar Airways,Qatar Airways,Travel
+SLOVAK REPUBLIC,Qatar Airways,Qatar Airways,Travel
+BOSNIA HERZEGOVINA,Qatar Airways,Qatar Airways,Travel

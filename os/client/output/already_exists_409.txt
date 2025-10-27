@@ -1,41 +1,17 @@
-Alat
-Aldar
-Alex Bank
-American Express
-Arab Bank
+American Airlines
 AXA
-Dabur
-Derayah Financial
-Didi
-Du
-EA Sports
-Ecolab
-Edita
-Emirates
-Ferrero
-IHG
-IM Motors
-International Development Bank
-King Salman International Airport
-Lamb Weston
-Lexus
-Marico
-McCain
-National Bank of Bahrain
-Netflix
-OLX
-Perfetti Van Melle
-Property Finder
-Public Investment Fund
-Qatar Airways
-Qiddiya
-Riyadh Air
-Rolex
-Sanofi
-Saudi Coffee Company
-Talabat
-Total Energies
-TotalEnergies
-VinFast
-Vivo
+Edrington
+Electronic Arts
+Haribo
+Harley Davidson
+Hitachi
+IKEA
+Kyndryl
+Lacoste
+Lululemon
+Mazda
+Mondelēz International
+MSC Cruises
+Novo Nordisk
+Volkswagen AG
 Xiaomi

@@ -1,486 +1,107 @@
 
-🔍 Processing client: Abdulla Al Masaood and Sons
-⚠️ Client 'Abdulla Al Masaood and Sons' not found in API search.
+🔍 Processing client: Adyen
+✅ Found exact client 'Adyen' with mdId: 536ec26e-5335-40af-a9c9-f0d913df3b88
+✅ Successfully created org-unit for 'Adyen' → LIVE
 
-🔍 Processing client: Abu Dhabi Government Media Office
-⚠️ Client 'Abu Dhabi Government Media Office' not found in API search.
+🔍 Processing client: American Airlines
+✅ Found exact client 'American Airlines' with mdId: 982f9d24-25f8-4ebf-9169-3e5cf33088d1
+ℹ️ Org-unit for 'American Airlines' already exists → skipping.
 
-🔍 Processing client: Abu Shakra
-⚠️ Client 'Abu Shakra' not found in API search.
-
-🔍 Processing client: ADCB
-⚠️ Client 'ADCB' not found in API search.
-
-🔍 Processing client: Ahmad Tea
-⚠️ Client 'Ahmad Tea' not found in API search.
-
-🔍 Processing client: AIAS Trading
-⚠️ Client 'AIAS Trading' not found in API search.
-
-🔍 Processing client: Al Fardan Trading
-⚠️ Client 'Al Fardan Trading' not found in API search.
-
-🔍 Processing client: Al Futtaim
-⚠️ Client 'Al Futtaim' not found in API search.
-
-🔍 Processing client: Al Gharbia Poultry Farms
-⚠️ Client 'Al Gharbia Poultry Farms' not found in API search.
-
-🔍 Processing client: Al Hatab Bakery
-⚠️ Client 'Al Hatab Bakery' not found in API search.
-
-🔍 Processing client: Al Jomaih Holding
-⚠️ Client 'Al Jomaih Holding' not found in API search.
-
-🔍 Processing client: Al Masaood Automobiles
-⚠️ Client 'Al Masaood Automobiles' not found in API search.
-
-🔍 Processing client: Al Taghziyah
-⚠️ Client 'Al Taghziyah' not found in API search.
-
-🔍 Processing client: Al Zayani
-⚠️ Client 'Al Zayani' not found in API search.
-
-🔍 Processing client: Alat
-✅ Found exact client 'Alat' with mdId: 3d8f8392-e8b2-4ad8-81f1-e026f87d754a
-ℹ️ Org-unit for 'Alat' already exists → skipping.
-
-🔍 Processing client: Aldar
-✅ Found exact client 'Aldar' with mdId: 2212ce27-c3a8-43ca-ab5f-37adfd840cb6
-ℹ️ Org-unit for 'Aldar' already exists → skipping.
-
-🔍 Processing client: Alex Bank
-✅ Found exact client 'Alex Bank' with mdId: 2e61bc96-2ac8-4a7e-b18e-a9944067977e
-ℹ️ Org-unit for 'Alex Bank' already exists → skipping.
-
-🔍 Processing client: Alinma Bank
-⚠️ Client 'Alinma Bank' not found in API search.
-
-🔍 Processing client: American Express
-✅ Found exact client 'American Express' with mdId: 94041a8b-fd6a-4e4c-9a4a-23c1cfbc2bad
-ℹ️ Org-unit for 'American Express' already exists → skipping.
-
-🔍 Processing client: American University of Beirut
-⚠️ Client 'American University of Beirut' not found in API search.
-
-🔍 Processing client: Americana Foods
-⚠️ Client 'Americana Foods' not found in API search.
-
-🔍 Processing client: Arab Bank
-✅ Found exact client 'Arab Bank' with mdId: 0fb174d2-4184-4896-b498-c8ca858dec5c
-ℹ️ Org-unit for 'Arab Bank' already exists → skipping.
-
-🔍 Processing client: Aramco
-⚠️ No exact match found for 'Aramco'. Closest API hit: Saudi Aramco
-
-🔍 Processing client: Artscoops
-⚠️ Client 'Artscoops' not found in API search.
-
-🔍 Processing client: Australian University
-⚠️ Client 'Australian University' not found in API search.
-
-🔍 Processing client: Auto Central
-⚠️ Client 'Auto Central' not found in API search.
+🔍 Processing client: Arcteryx
+⚠️ Client 'Arcteryx' not found in API search.
 
 🔍 Processing client: AXA
 ✅ Found exact client 'AXA' with mdId: 76349adf-0c79-4fb5-88a8-08d4ff337b10
 ℹ️ Org-unit for 'AXA' already exists → skipping.
 
-🔍 Processing client: Barakat
-⚠️ Client 'Barakat' not found in API search.
+🔍 Processing client: Capri Holdings
+⚠️ Client 'Capri Holdings' not found in API search.
 
-🔍 Processing client: Bonjorno
-⚠️ Client 'Bonjorno' not found in API search.
+🔍 Processing client: Edrington
+✅ Found exact client 'Edrington' with mdId: aeb52101-a5e2-44b0-9e0f-6d90cbd68100
+ℹ️ Org-unit for 'Edrington' already exists → skipping.
 
-🔍 Processing client: Bose
-⚠️ No exact match found for 'Bose'. Closest API hit: Bose Corp
+🔍 Processing client: Electronic Arts
+✅ Found exact client 'Electronic Arts' with mdId: 9589a0c8-7bd1-4732-ba7f-620a698cc1b0
+ℹ️ Org-unit for 'Electronic Arts' already exists → skipping.
 
-🔍 Processing client: Boursa Kuwait Securities Company
-⚠️ Client 'Boursa Kuwait Securities Company' not found in API search.
+🔍 Processing client: Haribo
+✅ Found exact client 'Haribo' with mdId: 85cd86df-d518-46f3-8d0e-73e1554e88fe
+ℹ️ Org-unit for 'Haribo' already exists → skipping.
 
-🔍 Processing client: Carina
-⚠️ Client 'Carina' not found in API search.
+🔍 Processing client: Harley Davidson
+✅ Found exact client 'Harley Davidson' with mdId: 054f72c8-92db-498b-bebc-2f95e08ceb6f
+ℹ️ Org-unit for 'Harley Davidson' already exists → skipping.
 
-🔍 Processing client: Creative Media Authority
-⚠️ Client 'Creative Media Authority' not found in API search.
+🔍 Processing client: Hitachi
+✅ Found exact client 'Hitachi' with mdId: 4bfb86e0-7982-4f59-a634-a7dfc8cbef44
+ℹ️ Org-unit for 'Hitachi' already exists → skipping.
 
-🔍 Processing client: Dabur
-✅ Found exact client 'Dabur' with mdId: 368108f6-140d-41fa-bb00-99473369aa35
-ℹ️ Org-unit for 'Dabur' already exists → skipping.
+🔍 Processing client: IBM
+✅ Found exact client 'IBM' with mdId: 72e2d10c-fac6-4403-860f-94a28c5892e3
+✅ Successfully created org-unit for 'IBM' → LIVE
 
-🔍 Processing client: Dada Group
-⚠️ Client 'Dada Group' not found in API search.
+🔍 Processing client: IKEA
+✅ Found exact client 'IKEA' with mdId: 1a8e9e5d-3a65-4a2a-9db6-9bae4d4ad0be
+ℹ️ Org-unit for 'IKEA' already exists → skipping.
 
-🔍 Processing client: Dawrat
-⚠️ Client 'Dawrat' not found in API search.
+🔍 Processing client: Jetstar
+⚠️ No exact match found for 'Jetstar'. Closest API hit: Jetstar Airways
 
-🔍 Processing client: Derayah Financial
-✅ Found exact client 'Derayah Financial' with mdId: eb46bdfc-9df2-4ca5-ae8c-8ae742f10c5c
-ℹ️ Org-unit for 'Derayah Financial' already exists → skipping.
+🔍 Processing client: Kyndryl
+✅ Found exact client 'Kyndryl' with mdId: 353c6366-0d19-4f2f-9218-c5786ae8f4b5
+ℹ️ Org-unit for 'Kyndryl' already exists → skipping.
 
-🔍 Processing client: DGDA
-⚠️ Client 'DGDA' not found in API search.
+🔍 Processing client: Lacoste
+✅ Found exact client 'Lacoste' with mdId: 19c94889-0fec-4703-b581-6b38e622bc0d
+ℹ️ Org-unit for 'Lacoste' already exists → skipping.
 
-🔍 Processing client: Didi
-✅ Found exact client 'Didi' with mdId: 0e19a2ce-45a5-4fd1-af48-7f1e07603409
-ℹ️ Org-unit for 'Didi' already exists → skipping.
+🔍 Processing client: Leo Palace
+✅ Found exact client 'Leo Palace' with mdId: bf205410-633a-4a3d-8377-9aa01faacfbf
+✅ Successfully created org-unit for 'Leo Palace' → LIVE
 
-🔍 Processing client: Du
-✅ Found exact client 'Du' with mdId: bd3cbae8-3cbd-4c83-a9fa-a03e165f1004
-ℹ️ Org-unit for 'Du' already exists → skipping.
+🔍 Processing client: Lululemon
+✅ Found exact client 'Lululemon' with mdId: bbcc1f0a-6d93-40b9-8e9f-921e9950ae2a
+ℹ️ Org-unit for 'Lululemon' already exists → skipping.
 
-🔍 Processing client: Dubai Islamic Bank
-⚠️ Client 'Dubai Islamic Bank' not found in API search.
+🔍 Processing client: Mazda
+✅ Found exact client 'Mazda' with mdId: 2f77337b-f4ee-4f70-9966-c5ae8ad5f208
+ℹ️ Org-unit for 'Mazda' already exists → skipping.
 
-🔍 Processing client: Dubizzle
-⚠️ Client 'Dubizzle' not found in API search.
+🔍 Processing client: Mondelēz International
+✅ Found exact client 'Mondelēz International' with mdId: 9c6c74a1-ffe5-4d69-834c-f9158f6da7b7
+ℹ️ Org-unit for 'Mondelēz International' already exists → skipping.
 
-🔍 Processing client: EA Sports
-✅ Found exact client 'EA Sports' with mdId: 38add4f7-2a25-4875-9d85-61822c3c60a9
-ℹ️ Org-unit for 'EA Sports' already exists → skipping.
+🔍 Processing client: MSC Cruises
+✅ Found exact client 'MSC Cruises' with mdId: b9b5d115-009e-4c6c-a3f7-38f5d7aa8963
+ℹ️ Org-unit for 'MSC Cruises' already exists → skipping.
 
-🔍 Processing client: Earthlink
-⚠️ Client 'Earthlink' not found in API search.
+🔍 Processing client: New Zealand Government - Tourism NZ
+✅ Found exact client 'New Zealand Government - Tourism NZ' with mdId: 0dc26c85-bf7f-4734-b06e-9772f8436e4c
+✅ Successfully created org-unit for 'New Zealand Government - Tourism NZ' → LIVE
 
-🔍 Processing client: Ecolab
-✅ Found exact client 'Ecolab' with mdId: d6977f04-a68c-4057-ba63-26cbbdc427ff
-ℹ️ Org-unit for 'Ecolab' already exists → skipping.
+🔍 Processing client: Novo Nordisk
+✅ Found exact client 'Novo Nordisk' with mdId: 5cd3c71a-e631-4dbf-b53c-08fcd043614d
+ℹ️ Org-unit for 'Novo Nordisk' already exists → skipping.
 
-🔍 Processing client: Edita
-✅ Found exact client 'Edita' with mdId: 57b7fd5d-0bfe-469a-9dd0-05af79ab592d
-ℹ️ Org-unit for 'Edita' already exists → skipping.
+🔍 Processing client: Qantas
+⚠️ No exact match found for 'Qantas'. Closest API hit: Qantas Airways
 
-🔍 Processing client: Electric Vehicle Infrastructure Company
-⚠️ Client 'Electric Vehicle Infrastructure Company' not found in API search.
+🔍 Processing client: Royal Swinkels
+✅ Found exact client 'Royal Swinkels' with mdId: 1c0d1f94-4e87-47f3-8ed9-a15979bd4574
+✅ Successfully created org-unit for 'Royal Swinkels' → LIVE
 
-🔍 Processing client: Emirates
-✅ Found exact client 'Emirates' with mdId: 8834caf2-eb3f-4f71-b587-8879ed162217
-ℹ️ Org-unit for 'Emirates' already exists → skipping.
+🔍 Processing client: SK-II
+✅ Found exact client 'SK-II' with mdId: ee27df11-f788-444e-80f6-bc2a0ec085b1
+✅ Successfully created org-unit for 'SK-II' → LIVE
 
-🔍 Processing client: Estithmar Properties
-⚠️ Client 'Estithmar Properties' not found in API search.
+🔍 Processing client: Tempur
+⚠️ No exact match found for 'Tempur'. Closest API hit: TEMPUR Pedic
 
-🔍 Processing client: Ethara
-⚠️ Client 'Ethara' not found in API search.
-
-🔍 Processing client: Etisalat
-⚠️ No exact match found for 'Etisalat'. Closest API hit: Etihad Etisalat Company (Mobily)
-
-🔍 Processing client: eXtra
-⚠️ Client 'eXtra' not found in API search.
-
-🔍 Processing client: Fawzia Sultan Health Network
-⚠️ Client 'Fawzia Sultan Health Network' not found in API search.
-
-🔍 Processing client: Ferrero
-✅ Found exact client 'Ferrero' with mdId: f1265baa-a52d-4920-9397-f5b9fd59a659
-ℹ️ Org-unit for 'Ferrero' already exists → skipping.
-
-🔍 Processing client: Fine Hygiene Paper
-⚠️ Client 'Fine Hygiene Paper' not found in API search.
-
-🔍 Processing client: Flynas
-⚠️ Client 'Flynas' not found in API search.
-
-🔍 Processing client: Gandour
-⚠️ Client 'Gandour' not found in API search.
-
-🔍 Processing client: Gargour Fils & Co
-⚠️ Client 'Gargour Fils & Co' not found in API search.
-
-🔍 Processing client: GIG
-⚠️ No exact match found for 'GIG'. Closest API hit: GIGA
-
-🔍 Processing client: Groupe SEB
-⚠️ Client 'Groupe SEB' not found in API search.
-
-🔍 Processing client: Gulf Bank
-⚠️ Client 'Gulf Bank' not found in API search.
-
-🔍 Processing client: Habib Bank
-⚠️ Client 'Habib Bank' not found in API search.
-
-🔍 Processing client: Hamad International Airport
-⚠️ Client 'Hamad International Airport' not found in API search.
-
-🔍 Processing client: Health Water Bottling
-⚠️ Client 'Health Water Bottling' not found in API search.
-
-🔍 Processing client: Horizon Developments
-⚠️ Client 'Horizon Developments' not found in API search.
-
-🔍 Processing client: IHG
-✅ Found exact client 'IHG' with mdId: abe935c5-c3cc-41d3-9d62-f8811b8af1b6
-ℹ️ Org-unit for 'IHG' already exists → skipping.
-
-🔍 Processing client: IM Motors
-✅ Found exact client 'IM Motors' with mdId: 688a2416-20c1-419a-8eb9-9630af3c0b31
-ℹ️ Org-unit for 'IM Motors' already exists → skipping.
-
-🔍 Processing client: Imkan
-⚠️ Client 'Imkan' not found in API search.
-
-🔍 Processing client: International Development Bank
-✅ Found exact client 'International Development Bank' with mdId: dd8f71e2-c4e9-474a-894f-c78bbee8c411
-ℹ️ Org-unit for 'International Development Bank' already exists → skipping.
-
-🔍 Processing client: International Islamic Arab Bank
-⚠️ Client 'International Islamic Arab Bank' not found in API search.
-
-🔍 Processing client: Izzat Marji and Sons Company
-⚠️ Client 'Izzat Marji and Sons Company' not found in API search.
-
-🔍 Processing client: Juhayna
-⚠️ Client 'Juhayna' not found in API search.
-
-🔍 Processing client: King Faisal Specialist Hospital & Research Center
-⚠️ Client 'King Faisal Specialist Hospital & Research Center' not found in API search.
-
-🔍 Processing client: King Salman International Airport
-✅ Found exact client 'King Salman International Airport' with mdId: 77e132cb-6672-46a5-aee7-973419f4903b
-ℹ️ Org-unit for 'King Salman International Airport' already exists → skipping.
-
-🔍 Processing client: Kuwait Finance House
-⚠️ Client 'Kuwait Finance House' not found in API search.
-
-🔍 Processing client: Lamb Weston
-✅ Found exact client 'Lamb Weston' with mdId: 3c235a3b-901b-4306-914c-6c1ef5a02091
-ℹ️ Org-unit for 'Lamb Weston' already exists → skipping.
-
-🔍 Processing client: Lexus
-✅ Found exact client 'Lexus' with mdId: a047dd20-0c1f-4dbb-9bf0-a87585c9c788
-ℹ️ Org-unit for 'Lexus' already exists → skipping.
-
-🔍 Processing client: Lifestyle Choice
-⚠️ Client 'Lifestyle Choice' not found in API search.
-
-🔍 Processing client: Liwa
-⚠️ Client 'Liwa' not found in API search.
-
-🔍 Processing client: Lusail International Circuit
-⚠️ Client 'Lusail International Circuit' not found in API search.
-
-🔍 Processing client: Margafrique
-⚠️ Client 'Margafrique' not found in API search.
-
-🔍 Processing client: Marico
-✅ Found exact client 'Marico' with mdId: 57a74fc9-4f92-471f-a202-0d41105eda10
-ℹ️ Org-unit for 'Marico' already exists → skipping.
-
-🔍 Processing client: McCain
-✅ Found exact client 'McCain' with mdId: efac1d2b-5962-4cf9-a1d3-a4c916f5c729
-ℹ️ Org-unit for 'McCain' already exists → skipping.
-
-🔍 Processing client: Ministry of Culture
-⚠️ No exact match found for 'Ministry of Culture'. Closest API hit: Ministry Of Culture And Information Uae
-
-🔍 Processing client: Misr Spain
-⚠️ Client 'Misr Spain' not found in API search.
-
-🔍 Processing client: Moda Mall
-⚠️ Client 'Moda Mall' not found in API search.
-
-🔍 Processing client: Modern Electronics
-⚠️ Client 'Modern Electronics' not found in API search.
-
-🔍 Processing client: Mondelez International
-⚠️ No exact match found for 'Mondelez International'. Closest API hit: Mondelēz International
-
-🔍 Processing client: Mondrian
-⚠️ Client 'Mondrian' not found in API search.
-
-🔍 Processing client: Msheireb Properties
-⚠️ Client 'Msheireb Properties' not found in API search.
-
-🔍 Processing client: My Clinic International Medical
-⚠️ Client 'My Clinic International Medical' not found in API search.
-
-🔍 Processing client: National Bank of Bahrain
-✅ Found exact client 'National Bank of Bahrain' with mdId: 77dba96b-cd85-4cf6-a7be-5ebf9f66a043
-ℹ️ Org-unit for 'National Bank of Bahrain' already exists → skipping.
-
-🔍 Processing client: National Bank of Kuwait
-⚠️ Client 'National Bank of Kuwait' not found in API search.
-
-🔍 Processing client: National Events Center
-⚠️ Client 'National Events Center' not found in API search.
-
-🔍 Processing client: National Housing Company
-⚠️ Client 'National Housing Company' not found in API search.
-
-🔍 Processing client: NBE
-⚠️ No exact match found for 'NBE'. Closest API hit: AB-Inbev
-
-🔍 Processing client: Netflix
-✅ Found exact client 'Netflix' with mdId: 971389ae-9e40-4225-a652-64543cd94685
-ℹ️ Org-unit for 'Netflix' already exists → skipping.
-
-🔍 Processing client: NICE
-⚠️ No exact match found for 'NICE'. Closest API hit: Nice S.P.A.
-
-🔍 Processing client: Nuqul Group
-⚠️ Client 'Nuqul Group' not found in API search.
-
-🔍 Processing client: Oban
-⚠️ No exact match found for 'Oban'. Closest API hit: Chobani
-
-🔍 Processing client: OLX
-✅ Found exact client 'OLX' with mdId: 0574e769-211f-4303-a091-97c1b11d87b3
-ℹ️ Org-unit for 'OLX' already exists → skipping.
-
-🔍 Processing client: Oman Future Telecommunications Company
-⚠️ Client 'Oman Future Telecommunications Company' not found in API search.
-
-🔍 Processing client: Ora
-⚠️ No exact match found for 'Ora'. Closest API hit: Abbott Laboratories
-
-🔍 Processing client: Orascom
-⚠️ Client 'Orascom' not found in API search.
-
-🔍 Processing client: Perfetti Van Melle
-✅ Found exact client 'Perfetti Van Melle' with mdId: 5e94eaa6-806d-4cb1-845a-87047ea4aa77
-ℹ️ Org-unit for 'Perfetti Van Melle' already exists → skipping.
-
-🔍 Processing client: Pets Delight
-⚠️ Client 'Pets Delight' not found in API search.
-
-🔍 Processing client: Property Finder
-✅ Found exact client 'Property Finder' with mdId: 40760f54-7874-4901-8e36-2f9d3dfb1594
-ℹ️ Org-unit for 'Property Finder' already exists → skipping.
-
-🔍 Processing client: Public Investment Fund
-✅ Found exact client 'Public Investment Fund' with mdId: 7746fead-bfba-45ef-aa3f-a19c37aaf5d3
-ℹ️ Org-unit for 'Public Investment Fund' already exists → skipping.
-
-🔍 Processing client: Qatar Airways
-✅ Found exact client 'Qatar Airways' with mdId: f39cb7b7-f565-4925-b7ef-657603e2fbdb
-ℹ️ Org-unit for 'Qatar Airways' already exists → skipping.
-
-🔍 Processing client: Qiddiya
-✅ Found exact client 'Qiddiya' with mdId: 41667c39-c0f1-4cc4-8a24-205bbfca2552
-ℹ️ Org-unit for 'Qiddiya' already exists → skipping.
-
-🔍 Processing client: Quintessentially
-⚠️ Client 'Quintessentially' not found in API search.
-
-🔍 Processing client: RIU Hotels
-⚠️ Client 'RIU Hotels' not found in API search.
-
-🔍 Processing client: Riyadh Air
-✅ Found exact client 'Riyadh Air' with mdId: 7ed74017-176f-4ea8-bef4-88714d83eba5
-ℹ️ Org-unit for 'Riyadh Air' already exists → skipping.
-
-🔍 Processing client: Rolex
-✅ Found exact client 'Rolex' with mdId: 53d68caa-18eb-4e36-87d9-82deaff23ba6
-ℹ️ Org-unit for 'Rolex' already exists → skipping.
-
-🔍 Processing client: Roshn
-⚠️ Client 'Roshn' not found in API search.
-
-🔍 Processing client: Royal Air Maroc
-⚠️ Client 'Royal Air Maroc' not found in API search.
-
-🔍 Processing client: Royal Commission for Riyadh City
-⚠️ No exact match found for 'Royal Commission for Riyadh City'. Closest API hit: Royal Commission For Riyadh City (Rcrc)
-
-🔍 Processing client: Sahm
-⚠️ Client 'Sahm' not found in API search.
-
-🔍 Processing client: Sanipak
-⚠️ Client 'Sanipak' not found in API search.
-
-🔍 Processing client: Sanofi
-✅ Found exact client 'Sanofi' with mdId: baa85985-f52a-4122-8de1-dbf264877254
-ℹ️ Org-unit for 'Sanofi' already exists → skipping.
-
-🔍 Processing client: Saudi Coffee Company
-✅ Found exact client 'Saudi Coffee Company' with mdId: cf9c2ebf-a15c-4242-87eb-8f6a694eb7cb
-ℹ️ Org-unit for 'Saudi Coffee Company' already exists → skipping.
-
-🔍 Processing client: Saudi Entertainment Ventures
-⚠️ Client 'Saudi Entertainment Ventures' not found in API search.
-
-🔍 Processing client: Seven
-⚠️ No exact match found for 'Seven'. Closest API hit: 2Seventy Bio
-
-🔍 Processing client: Sharjah Government Media Bureau
-⚠️ Client 'Sharjah Government Media Bureau' not found in API search.
-
-🔍 Processing client: Sidra Medicine
-⚠️ Client 'Sidra Medicine' not found in API search.
-
-🔍 Processing client: SMSA Express Transportation
-⚠️ Client 'SMSA Express Transportation' not found in API search.
-
-🔍 Processing client: Somafaco
-⚠️ Client 'Somafaco' not found in API search.
-
-🔍 Processing client: Souhoola
-⚠️ Client 'Souhoola' not found in API search.
-
-🔍 Processing client: Spinneys
-⚠️ Client 'Spinneys' not found in API search.
-
-🔍 Processing client: Ste Nouvelle COSARNO
-⚠️ Client 'Ste Nouvelle COSARNO' not found in API search.
-
-🔍 Processing client: Styli
-⚠️ Client 'Styli' not found in API search.
-
-🔍 Processing client: Talabat
-✅ Found exact client 'Talabat' with mdId: 89a09d83-6a0f-4589-ab85-bcf5aea2f40d
-ℹ️ Org-unit for 'Talabat' already exists → skipping.
-
-🔍 Processing client: Taqeef
-⚠️ Client 'Taqeef' not found in API search.
-
-🔍 Processing client: Tawuniya
-⚠️ Client 'Tawuniya' not found in API search.
-
-🔍 Processing client: The Kuwait Danish Dairy Company
-⚠️ Client 'The Kuwait Danish Dairy Company' not found in API search.
-
-🔍 Processing client: The Kuwaiti Danish Dairy Company
-⚠️ Client 'The Kuwaiti Danish Dairy Company' not found in API search.
-
-🔍 Processing client: Total Energies
-✅ Found exact client 'Total Energies' with mdId: e89aba8e-0553-4cc5-b2e2-24bcd2f3eb67
-ℹ️ Org-unit for 'Total Energies' already exists → skipping.
-
-🔍 Processing client: TotalEnergies
-✅ Found exact client 'TotalEnergies' with mdId: fd91a1bc-79ba-4c77-9a44-af1587afb9b4
-ℹ️ Org-unit for 'TotalEnergies' already exists → skipping.
-
-🔍 Processing client: TOYOTA
-✅ Found exact client 'TOYOTA' with mdId: 8ee5789d-32ef-4201-ba78-50d4e7ace72c
-✅ Successfully created org-unit for 'TOYOTA' → LIVE
-
-🔍 Processing client: Transmed
-⚠️ Client 'Transmed' not found in API search.
-
-🔍 Processing client: UAB
-⚠️ No exact match found for 'UAB'. Closest API hit: Shenzhen Huabao New Energy Co.
-
-🔍 Processing client: VinFast
-✅ Found exact client 'VinFast' with mdId: f3bc2e6a-ac17-489d-96bf-decf368ee39a
-ℹ️ Org-unit for 'VinFast' already exists → skipping.
-
-🔍 Processing client: Visit Sharjah
-⚠️ Client 'Visit Sharjah' not found in API search.
-
-🔍 Processing client: Vivo
-✅ Found exact client 'Vivo' with mdId: 02be2b17-b10e-4c9d-a14a-ad4d19f9ae19
-ℹ️ Org-unit for 'Vivo' already exists → skipping.
-
-🔍 Processing client: Wio Bank
-⚠️ Client 'Wio Bank' not found in API search.
+🔍 Processing client: Volkswagen AG
+✅ Found exact client 'Volkswagen AG' with mdId: 41aecbb5-04f7-46fe-8d4c-45c3d69bdf19
+ℹ️ Org-unit for 'Volkswagen AG' already exists → skipping.
 
 🔍 Processing client: Xiaomi
 ✅ Found exact client 'Xiaomi' with mdId: 96aa0d16-5284-42b6-a4c5-ff42301b1fcc
 ℹ️ Org-unit for 'Xiaomi' already exists → skipping.
-
-🔍 Processing client: Yaqeen Holding
-⚠️ Client 'Yaqeen Holding' not found in API search.
-
-🔍 Processing client: Zamil AC
-⚠️ Client 'Zamil AC' not found in API search.

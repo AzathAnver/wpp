@@ -1,584 +1,245 @@
-🔧 Will process 101 row(s) from CSV: C:\Users\Azath.A\os\alltemp\clients.csv
+🔧 Will process 82 row(s) from CSV: C:\Users\Azath.A\os\alltemp\clients.csv
 
-— Processing client: Client (market: Market)
-   ⚠️ Client/Brand node not found for 'Client'. Skipping.
-— Processing client: Edita (market: Egypt)
-   ✅ First assignmentId (client/brand): 9ea9dbc7-c57b-47f2-a20c-ad7982cdcee1
-   ✅ Second assignmentId (market=Egypt): 2939120b-a8b8-437f-996e-a33bb30348dd
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Alat (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): d4746485-eead-4b9d-bb6a-eb3e0f93e1f2
-   ✅ Second assignmentId (market=Saudi Arabia): 3177b1df-923e-4c3d-abee-fc88b7ba0772
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: American Express (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 2b5de95b-24dd-4661-95a9-bfbf6d3973f6
-   ✅ Second assignmentId (market=Saudi Arabia): 0c46df56-e153-4ca1-802d-8ab3b67413da
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: AXA (market: Egypt)
+— Processing client: client_name (markets: market)
+   ⚠️ Client/Brand node not found for 'client_name'. Skipping.
+— Processing client: Adidas (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): d9a14721-6071-4417-93d8-64b72ccfe819
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 3699e72d-1c9f-4022-9d0a-122ba24a9a1a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Allianz (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): d78a2419-b593-45da-a273-f23d57abd755
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 72282e68-2b78-456d-80bc-2ffb29806d13
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Anker (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 19bbd591-4e70-4c99-886a-9df5898985e5
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': d2adb91d-09a0-4d3c-9777-c820c31745b1
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: AXA (markets: Hong Kong)
    ✅ First assignmentId (client/brand): 16c70221-09c2-468b-865e-2d751e6fb704
-   ✅ Second assignmentId (market=Egypt): 0bbc4c83-ca7a-41fe-b6c4-f6763b91007a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: AXA (market: Morocco)
-   ✅ First assignmentId (client/brand): 16c70221-09c2-468b-865e-2d751e6fb704
-   ✅ Second assignmentId (market=Morocco): 45e83d5f-0c5e-4c63-84d1-3982dd7d9ea0
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Dabur (market: Egypt)
-   ✅ First assignmentId (client/brand): e2defd09-eaa3-4a94-8687-6d2dcab029a4
-   ✅ Second assignmentId (market=Egypt): 7b9308fb-e21a-4f33-9ada-8dc047658b93
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Derayah Financial (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): c02d4bfd-ceac-4755-980e-da1a9c2ce3fd
-   ✅ Second assignmentId (market=Saudi Arabia): 8aee7ff7-80b7-43ad-af14-0f77ee9c7f9b
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Didi (market: Egypt)
-   ✅ First assignmentId (client/brand): 5cd59638-5cb3-4780-ac0c-facaef6530bd
-   ✅ Second assignmentId (market=Egypt): e989e835-9267-4cd7-a49b-a188d4cfc2a7
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Ferrero (market: Jordan)
-   ✅ First assignmentId (client/brand): 3cf209b9-8370-4873-bb9b-1609ab493476
-   ✅ Second assignmentId (market=Jordan): 65ded406-4cad-4009-a45b-366d380cecfe
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ferrero (market: Lebanon)
-   ✅ First assignmentId (client/brand): 3cf209b9-8370-4873-bb9b-1609ab493476
-   ✅ Second assignmentId (market=Lebanon): b44b730f-2869-481d-8377-35a000827259
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ferrero (market: Iraq)
-   ✅ First assignmentId (client/brand): 3cf209b9-8370-4873-bb9b-1609ab493476
-   ✅ Second assignmentId (market=Iraq): 5742ae36-4b23-45d1-beea-19e6f0396741
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ferrero (market: Morocco)
-   ✅ First assignmentId (client/brand): 3cf209b9-8370-4873-bb9b-1609ab493476
-   ✅ Second assignmentId (market=Morocco): 778e12ae-c0d9-4960-bb59-1d56e6b89ee1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=Saudi Arabia): 055ad562-f262-497a-b247-d3b027349c9e
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=United Arab Emirates): fdede663-de6f-42ec-9909-378262eab406
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: Qatar)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=Qatar): afcce326-a48f-4b29-9e84-63bfb8003421
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: Bahrain)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=Bahrain): bb2d19db-5efa-45aa-b5b0-76b8a067e29d
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: Kuwait)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=Kuwait): f892c3bc-e446-45b1-aa50-988bd17227a5
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IHG (market: Oman)
-   ✅ First assignmentId (client/brand): 17172960-2bb0-4174-a6a5-4965f639c19e
-   ✅ Second assignmentId (market=Oman): 6e2ceefc-2223-4bdb-ae5d-b85681a2a3ed
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: IM Motors (market: Jordan)
-   ✅ First assignmentId (client/brand): 777e3cb4-cd5c-41b7-957b-b4792a38b68d
-   ✅ Second assignmentId (market=Jordan): 40d807e5-5d6c-4777-847c-a50be7eb0576
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: International Development Bank (market: Jordan)
-   ✅ First assignmentId (client/brand): fbae277e-db2e-4a6c-9ef2-d81e9890db0c
-   ✅ Second assignmentId (market=Jordan): 1f7f97f8-c29f-43dc-89f6-a12795c06db9
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Lamb Weston (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 9bed0505-227c-481e-8ab0-e5389e2dd042
-   ✅ Second assignmentId (market=United Arab Emirates): 6bd170de-7afe-4cfe-ae6c-5764c55ee9ad
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Lamb Weston (market: Kuwait)
-   ✅ First assignmentId (client/brand): 9bed0505-227c-481e-8ab0-e5389e2dd042
-   ✅ Second assignmentId (market=Kuwait): b78bfd42-a32d-4b0e-8e15-7ddb614ef1f1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Lamb Weston (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 9bed0505-227c-481e-8ab0-e5389e2dd042
-   ✅ Second assignmentId (market=Saudi Arabia): 22c7d906-45a3-45e9-ab98-c572a8ba4598
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Lexus (market: Iraq)
-   ✅ First assignmentId (client/brand): f15c0c79-f0ad-4e5a-8ac6-0f9777deaf74
-   ✅ Second assignmentId (market=Iraq): f45a6ed9-87be-4127-80e7-7603aabfc5be
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=Saudi Arabia): 06375482-ba5b-447b-bd4b-efa7b11354a3
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=United Arab Emirates): a10a6667-4215-4b54-ac2d-85c49cecde97
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: Qatar)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=Qatar): 443ee1ad-bed7-468f-a935-757f76359b62
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: Bahrain)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=Bahrain): c5c957f6-444d-4ebf-a338-0d9a3e9d0354
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: Kuwait)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=Kuwait): 855918c4-0718-402b-b9d6-654feda13e2c
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Marico (market: Oman)
-   ✅ First assignmentId (client/brand): 2a342476-e1d7-42f0-a06a-492da0d6c387
-   ✅ Second assignmentId (market=Oman): 2e599bee-8850-4639-9f45-cec8783e230a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: McCain (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 9f502edc-c5d5-406b-b6b4-d4cfe977c3c5
-   ✅ Second assignmentId (market=United Arab Emirates): 40f43aa9-b9cd-4bcc-9be5-a0224451f5a9
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: McCain (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 9f502edc-c5d5-406b-b6b4-d4cfe977c3c5
-   ✅ Second assignmentId (market=Saudi Arabia): fa8fa59a-2baf-4aeb-8359-b844e11504e8
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: McCain (market: Kuwait)
-   ✅ First assignmentId (client/brand): 9f502edc-c5d5-406b-b6b4-d4cfe977c3c5
-   ✅ Second assignmentId (market=Kuwait): 5642cfd9-12f1-4465-8f92-a10b193fe3ed
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=United Arab Emirates): 4ff6fe89-8d92-4e0c-ad07-d87eb9ccf0fe
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Saudi Arabia): 0e036b66-465e-402c-bdf3-401be8af7561
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Kuwait)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Kuwait): a58e7aa7-bb94-4e4e-af45-04032c0aabc7
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Qatar)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Qatar): 220a1123-0dfa-4c16-aedc-5e334264e718
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Oman)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Oman): bb9780c5-8bbd-4a3f-8abc-b90a12676fc6
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Bahrain)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Bahrain): d1a2a2d8-b7ea-4681-a3e5-2ed76d3bdf69
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Iraq)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Iraq): 3ab7b4f9-3d57-4a87-94e1-2e88d9edf21a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Lebanon)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Lebanon): 71c322af-668e-441f-a7fb-2516cc85d28a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Perfetti Van Melle (market: Morocco)
-   ✅ First assignmentId (client/brand): 068c68b0-ecae-4352-9fad-90a79f3fa04a
-   ✅ Second assignmentId (market=Morocco): f5e3eb88-a71e-4857-8d12-b549dc37e65e
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: France)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=France): a211502d-d10b-4341-96c1-4298eed0c4c4
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Germany)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Germany): 1cd7833a-e06c-4d9d-8cf6-adad1b47d7b0
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Japan)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Japan): 7e110cf8-2bd6-4102-aad6-bc8adb2bec5f
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Singapore)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Singapore): b1bf3215-f5b6-4259-89f4-b7b4bd10d104
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Saudi Arabia): 07abdae8-8716-4290-8cbb-dd7efbaa5e9a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=United Arab Emirates): e7f80dc1-864a-40c2-bd16-93d1cd0481fe
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Qatar)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Qatar): e6cb33bc-3d43-4910-8c87-cd0a1e2f86a1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Hong Kong)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Hong Kong): 477f6b27-ec18-4536-9da3-ed84caaede06
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Switzerland)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Switzerland): f04b205b-fc50-46e9-ada1-45750695221a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: India)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=India): b208b7c5-4150-4f49-a00b-d0d994a7e2e5
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: Canada)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ✅ Second assignmentId (market=Canada): 48428ec8-77a4-4151-8105-f51dd971c108
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Qiddiya (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): e3850cbf-13c8-4c7a-953d-5fb9a5985358
-   ✅ Second assignmentId (market=Saudi Arabia): 2857c670-d6be-4b03-a0b3-f2ebc2b38228
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Qiddiya (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): e3850cbf-13c8-4c7a-953d-5fb9a5985358
-   ✅ Second assignmentId (market=United Arab Emirates): e7888f58-ffc5-4e63-9c45-ee73ca9e9b58
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Qiddiya (market: Kuwait)
-   ✅ First assignmentId (client/brand): e3850cbf-13c8-4c7a-953d-5fb9a5985358
-   ✅ Second assignmentId (market=Kuwait): 6faca0a0-8307-4008-baa3-81303a007900
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Qiddiya (market: Bahrain)
-   ✅ First assignmentId (client/brand): e3850cbf-13c8-4c7a-953d-5fb9a5985358
-   ✅ Second assignmentId (market=Bahrain): 6cd407b2-ca23-49e1-a05d-40216a498b4d
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Qiddiya (market: Qatar)
-   ✅ First assignmentId (client/brand): e3850cbf-13c8-4c7a-953d-5fb9a5985358
-   ✅ Second assignmentId (market=Qatar): bb4643ad-d800-4543-a0c4-e193077cc2e5
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=Saudi Arabia): 697cc677-4f24-4225-a752-528ab57d9d77
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=United Arab Emirates): c98a48e2-593c-418e-940f-2afda8dec31d
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: India)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=India): 4774e093-b221-496d-bf2a-c4b7823bbedc
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: Egypt)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=Egypt): 48521eee-5961-4482-afdb-efc5142debc8
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: Spain)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=Spain): 714d5abb-6743-4d7e-9a9c-a3aa8ada3a35
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: France)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=France): 4d0520b2-1c6a-485f-ab69-bda1b7a85114
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Riyadh Air (market: Germany)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ✅ Second assignmentId (market=Germany): f15bebe6-bed1-42cd-93f1-da609c7b39b1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: Saudi Arabia)
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 7ef08d8b-6ac8-4021-b8d4-c8d6ee7570d1
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Swisse (markets: Hong Kong, Hong Kong)
+   ✅ First assignmentId (client/brand): 070f1c3d-36fb-4bec-8911-daef1d079dd5
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 6b0c00b9-1bf7-40e7-9b00-0ad0d770daad
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ℹ️ Market 'Hong Kong' already processed, skipping
+— Processing client: DBS (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 36b41be4-1091-45f8-87d6-7a844bc2f6f4
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 2117623b-1364-459b-aa4a-c10f0780c503
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Deloitte (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): bfa717da-c55a-4490-8897-471418019ad3
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': f946155b-c23f-445a-9e6c-174fe5bbe54d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Ecoflow (markets: Brazil, Mexico, Kenya, Nigeria, South Africa, Saudi Arabia, Malaysia, Australia, Philippines, Singapore, United States of America)
+   ✅ First assignmentId (client/brand): 66c43ee6-47d5-4274-9770-90ab54cd8057
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Brazil': 87a65c51-5ab7-424c-84e8-c304197f258d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Mexico': f7b7439d-b940-4679-921c-0464edcfa2c3
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Kenya': bdd3d8e9-16da-4764-a272-599f696a1ef9
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Nigeria': 20b1447a-9696-4d4c-a6bc-81874c4012cf
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'South Africa': 826491d0-b1db-4da9-a782-b7c2d90f9f67
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Saudi Arabia': e7a23c22-50fd-4f2f-9b53-ed0968dcd1d1
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Malaysia': 5edf2b51-bd61-40b2-b466-063ed30d3642
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Australia': 3a9e7926-3231-4dda-a703-ab13aee735c6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Philippines': 947f4232-eb86-4786-8c48-1fcc280284b0
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Singapore': 3d01e069-38be-4383-99c0-9bfd89098d46
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': 48e6129a-6605-42aa-b4ce-6776906690e0
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Huawei (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): d86a4c5d-9b3f-47a3-b0ac-a1facf03f250
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': a1a290ca-cbbb-4f2c-bed6-21236b2292cb
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Jackery (markets: United States of America, Canada, United Kingdom, Germany, France, Spain, Japan)
+   ✅ First assignmentId (client/brand): 2392d17f-6ce9-49ea-8ee9-34885683cbc1
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'United States of America': f685c213-9388-4951-b53e-bd4bf9b81e26
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Canada': 463f7c25-d697-4afc-b9f4-429d53c55aad
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ⚠️ Could not resolve market 'United Kingdom' for 'Jackery': Market 'United Kingdom' with client 'Jackery' not found.
+   ✅ Processing market 'Germany': f16978b5-b7a9-4153-9940-12c2cf1dd920
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': 7d8bec38-d302-4b5e-8abd-1d31f3da2dab
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Spain': d6152fd6-4f94-402e-bfc2-b2646d3b0e48
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Japan': 13059ce2-fc32-4475-a75a-1c4dd7c1e80c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Lee Kum Kee (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): e394d0b0-72dd-49f1-8c54-0e552b241b99
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 3dc85055-82cc-4308-929d-1d82b6368308
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Lululemon (markets: Australia, Canada, China, Hong Kong, India, Indonesia, Japan, Malaysia, New Zealand, Singapore, South Korea, Taiwan, Thailand, United States of America)
+   ✅ First assignmentId (client/brand): 783b91bf-b814-4bdc-b8e2-b78f3d1ecb8e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 823e5c55-6af0-49fe-9321-e865cdf02dc8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Canada': 295a3d40-65b5-4e06-a603-1c209c688903
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'China': cfa48d4d-6b57-4e2d-a179-26f809bc9d54
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hong Kong': 038edfaf-f22f-4bd6-a3cc-dd45947879ae
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'India': 48db8864-10d9-4b91-807b-a617d4000c59
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Indonesia': dda96f41-1cf1-4126-b612-02dd86140f5b
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Japan': b137e46a-01d5-4916-8b67-03bc2df8c475
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Malaysia': 15c3db45-1ffc-4131-811b-85622f98f3bb
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'New Zealand': 7b9b36c2-0b7a-4529-9d0f-c6d46fc93eaa
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Singapore': ba358faa-3e8e-443d-94a1-ff9f98be31da
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'South Korea': f93117d8-8b4c-4ca1-933a-1ec6c858dbdf
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Taiwan': 1afc04a1-426a-4667-9fde-7adfa2a0af2c
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Thailand': 0b8ea23f-52bb-4056-b9b9-50bbc7de9ff0
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'United States of America': 3cc37d37-0295-4d91-98e9-8039d0ebda4d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: LVMH (markets: Hong Kong, Hong Kong)
+   ✅ First assignmentId (client/brand): 8088da6e-fb17-4dc4-9b08-5e88faddfa01
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 1355ac59-44e1-4290-a15e-8e892e6f3a5a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ℹ️ Market 'Hong Kong' already processed, skipping
+— Processing client: MTR (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): fcf453ef-84fe-4d83-884f-27ae37cd21b7
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': fe4d5eba-f381-4ecc-8005-267076d58a81
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: NinJiom (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): d43c97ee-69c9-48fb-8dae-1db5db1175ef
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 785dd215-78ac-4764-ae13-58bc45c131b4
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: PrimeCredit (markets: Hong Kong, Hong Kong)
+   ✅ First assignmentId (client/brand): e40d2a87-ab92-453e-9ae1-5f25f21988b3
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 153f3f0a-4f00-44bb-a91a-c01c2fb53b9c
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ℹ️ Market 'Hong Kong' already processed, skipping
+— Processing client: Reolink (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): f8ad782a-73ec-4278-ab64-2d61ad031db6
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 395701e7-ced2-42ca-bc34-1fda97aa8a9f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Rolex (markets: Hong Kong, Hong Kong)
    ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=Saudi Arabia): 790dc9a7-73df-47c4-af71-10608de08f6a
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=United Arab Emirates): 6f68ee98-1a63-4364-a87c-34c6a2d96a07
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: Qatar)
-   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=Qatar): c241424e-e8ce-4841-b459-63d691f335fb
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: Bahrain)
-   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=Bahrain): 8544d4f4-33d6-43ea-a361-db17e74a2862
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: Kuwait)
-   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=Kuwait): d7fd883a-3567-43d3-a9c7-10648b195286
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Rolex (market: Oman)
-   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
-   ✅ Second assignmentId (market=Oman): 9622838c-72d1-4bf6-a3a3-26b0bf9fb178
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Sanofi (market: Jordan)
-   ✅ First assignmentId (client/brand): f32c4d6e-b8b0-4f99-a52b-5f38d652131c
-   ✅ Second assignmentId (market=Jordan): 28e87c03-2efe-41f6-bf12-d5e1aff458d0
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Sanofi (market: Lebanon)
-   ✅ First assignmentId (client/brand): f32c4d6e-b8b0-4f99-a52b-5f38d652131c
-   ✅ Second assignmentId (market=Lebanon): 948a2e59-c46d-4fc7-b89c-616f385a2116
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Sanofi (market: Iraq)
-   ✅ First assignmentId (client/brand): f32c4d6e-b8b0-4f99-a52b-5f38d652131c
-   ✅ Second assignmentId (market=Iraq): d0842461-632b-4400-8305-6c38bd438180
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Talabat (market: Iraq)
-   ✅ First assignmentId (client/brand): 0d638f6e-835e-48e6-8e0f-6b0340c495cc
-   ✅ Second assignmentId (market=Iraq): 1406d0e4-9a88-4e9b-9235-9f1ffdb46cc5
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Total Energies (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): faea776c-5afb-4b67-a046-8815ca38a98a
-   ✅ Second assignmentId (market=United Arab Emirates): bad722ed-e2a2-40a6-89ca-0639faaaf7d7
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Total Energies (market: Qatar)
-   ✅ First assignmentId (client/brand): faea776c-5afb-4b67-a046-8815ca38a98a
-   ✅ Second assignmentId (market=Qatar): e97a9b16-f0bf-4977-b88d-a6a828c31045
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Total Energies (market: Morocco)
-   ✅ First assignmentId (client/brand): faea776c-5afb-4b67-a046-8815ca38a98a
-   ✅ Second assignmentId (market=Morocco): d75fff4f-85f6-47f1-9993-8513141abc03
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: TotalEnergies (market: Egypt)
-   ✅ First assignmentId (client/brand): 3f161e97-dcae-45a9-9457-e382cde374bd
-   ✅ Second assignmentId (market=Egypt): a4d81f52-1234-4bd3-9a00-6a6775b42fb1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Toyota (market: Iraq)
-   ✅ First assignmentId (client/brand): 6d19d8ed-29f0-4f4a-98ff-f761888cd01c
-   ✅ Second assignmentId (market=Iraq): 98c3f872-7d7c-4051-9240-1541ab2ed16e
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: VinFast (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 8ae09621-05c3-4674-9fe1-f841b7103bcc
-   ✅ Second assignmentId (market=Saudi Arabia): 3b8128cf-b121-4b84-9d63-55fea3d3d963
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Vivo (market: Egypt)
-   ✅ First assignmentId (client/brand): 6f2944bf-b49f-41c9-a51e-5f1a619f9e3c
-   ✅ Second assignmentId (market=Egypt): 7e843360-e408-471f-befa-f5a1d10160bf
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: Xiaomi (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): cf8e753c-c472-4732-a427-e104dc7bd70a
-   ✅ Second assignmentId (market=United Arab Emirates): 40600f7c-504c-4f64-8bb6-d5b9d48c6d60
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Xiaomi (market: Morocco)
-   ✅ First assignmentId (client/brand): cf8e753c-c472-4732-a427-e104dc7bd70a
-   ✅ Second assignmentId (market=Morocco): 00774692-063f-4ec4-93b3-0a441451bc04
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: EA Sports (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 0e439ad8-e369-4325-ab7d-367ba2f650dc
-   ✅ Second assignmentId (market=Saudi Arabia): a7af175d-ec19-48aa-9a97-817e4da3f099
-   → POST #1 status: 200 ✅
-   → POST #2 status: 200 ✅
-— Processing client: EA Sports (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 0e439ad8-e369-4325-ab7d-367ba2f650dc
-   ✅ Second assignmentId (market=United Arab Emirates): e5ffd3e0-3a88-47dc-bb28-60152c72c8f0
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Saudi Arabia): ac0e7a5c-a546-437d-b551-9a4600814dd1
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=United Arab Emirates): ac1611b1-d690-45cb-8e01-2d92b1fbd3bd
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Qatar)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Qatar): b10a22e9-5a56-4e81-8028-8bdc6406384d
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Bahrain)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Bahrain): 1a5fbe2e-d3b1-4256-bfca-3a69da8a45f3
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Kuwait)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Kuwait): 602fecac-2ba5-4a69-89f7-c043b4d41e71
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Egypt)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Egypt): 63424110-3c91-49ea-af9e-70cd0cfa5bed
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Ecolab (market: Oman)
-   ✅ First assignmentId (client/brand): a6199513-cabf-455b-abd5-2cfe3dad82d3
-   ✅ Second assignmentId (market=Oman): b330dd7e-0eaf-4215-b04e-659c79d8c098
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Netflix (market: Saudi Arabia)
-   ✅ First assignmentId (client/brand): 4b88b590-121a-4dbf-ab09-4d1fa3e3de4a
-   ✅ Second assignmentId (market=Saudi Arabia): d0230762-6a80-4b4e-a5e7-a423f3705179
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Netflix (market: United Arab Emirates)
-   ✅ First assignmentId (client/brand): 4b88b590-121a-4dbf-ab09-4d1fa3e3de4a
-   ✅ Second assignmentId (market=United Arab Emirates): 35d45c8b-cb78-48aa-858c-258bc7819163
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: OLX (market: Lebanon)
-   ✅ First assignmentId (client/brand): bc52225a-7097-4604-8a3b-74c9b0eda447
-   ✅ Second assignmentId (market=Lebanon): e1b00aac-128a-4cd7-aee7-b0073749cf8b
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
-— Processing client: Public Investment Fund (market: United States)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ⚠️ Could not resolve market 'United States' for 'Public Investment Fund': Market 'United States' with client 'Public Investment Fund' not found.
-— Processing client: Public Investment Fund (market: United Kingdom)
-   ✅ First assignmentId (client/brand): 23426a98-3d2f-45eb-8c19-0105572c42b2
-   ⚠️ Could not resolve market 'United Kingdom' for 'Public Investment Fund': Market 'United Kingdom' with client 'Public Investment Fund' not found.
-— Processing client: Riyadh Air (market: United Kingdom)
-   ✅ First assignmentId (client/brand): e8c7db6a-cb29-4c31-9752-a5367e749c5b
-   ⚠️ Could not resolve market 'United Kingdom' for 'Riyadh Air': Market 'United Kingdom' with client 'Riyadh Air' not found.
-— Processing client: TotalEnergies (market: Lebanon)
-   ✅ First assignmentId (client/brand): 3f161e97-dcae-45a9-9457-e382cde374bd
-   ✅ Second assignmentId (market=Lebanon): b647ed98-0887-44d7-a840-4ce3d53adf13
-   → POST #1 status: 400 ❌
-     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
-   → POST #2 status: 200 ✅
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': e347baaa-d64f-4944-b64d-80ec2333d90e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ℹ️ Market 'Hong Kong' already processed, skipping
+— Processing client: Peninsula Hotels (markets: Hong Kong, Canada, China, France, Germany, Japan, Philippines, South Korea, Thailand, Turkey, United Kingdom, United States of America, Iraq, Israel, Kuwait, Qatar, Saudi Arabia, United Arab Emirates)
+   ✅ First assignmentId (client/brand): 6cfeaeae-461f-490a-abaa-7a739ab72434
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'Hong Kong': 2cba9b58-dfd7-4fbe-a6ad-2dbe3df50502
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Canada': 3a4e81b5-137a-4bac-b4af-26128e2e764d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'China': b05b76cb-8d77-46cc-9c4f-44d9c51f9804
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': e1b271a4-e15d-49ef-b3da-b7ba9fc38049
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': fb77c345-0ab4-499f-aecc-8486d3b28ae6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Japan': 03bc8a71-3cb1-4c73-b777-98ccc79ffb64
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Philippines': 0a3d3062-8927-44dd-9e0b-195a2103a1a4
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'South Korea': 492cf471-67bf-45e4-a659-e8ee4c128900
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Thailand': 7dd3b90d-b908-45bd-a1a7-fd4e89be9171
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Turkey': fb5ddfeb-96e8-487b-b249-5c6592d971ec
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ⚠️ Could not resolve market 'United Kingdom' for 'Peninsula Hotels': Market 'United Kingdom' with client 'Peninsula Hotels' not found.
+   ✅ Processing market 'United States of America': 3d6d2b18-a291-4118-93dc-c50ace96003a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Iraq': 14cccb02-b88b-4c6b-812e-55635626f519
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Israel': 01ef0ea8-0f93-4999-b955-a8024c7d61a8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Kuwait': 1e726284-6eb1-4a1a-a42c-037d99903bbb
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Qatar': 5987f60a-6de1-4b2f-9d13-15722fdf2466
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Saudi Arabia': 62cccca0-2b75-49b6-88d0-99e07b1dcea6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Arab Emirates': 42a977aa-2800-49ef-948f-f974b0ac044a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UA Finance (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 04adb442-8374-48e0-9339-2dbd41285e18
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 7630f528-8577-4824-bdf5-9a6bf5f1de17
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Uber (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): c82b9030-0f53-4c06-a36b-19c3dc2425e1
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 6714d966-4387-4776-90b4-64243866ae42
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Universal Pictures (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 9f523f06-57c9-409c-84b2-28d8bdd0cfe5
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 20aa58a3-54b4-42dd-9998-2a37adc9cfb4
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Warner Bros. (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): ef946ad6-77c7-4ee3-9a41-35f26c257640
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 134eab43-670b-4d69-b1e9-1bda9b74d823
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Zespri (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 32747ccb-c4cc-4285-8752-6db28b63a816
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 095dbe97-40bf-4005-9e01-ff46637fcb05
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Zuellig Pharma (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 53e836d8-d4ae-4c48-a9af-79df859a1853
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 518ea9c6-b26f-4150-90f0-fd1727ce5813
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Sun Life Financial (markets: Hong Kong, Vietnam, Philippines, Indonesia, Singapore, Malaysia)
+   ✅ First assignmentId (client/brand): 9efd3579-526e-42fe-9dbc-e6ef97f3abde
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 39029d4b-da9b-403e-bf77-90bce327b373
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Vietnam': 0708ed4b-0f75-4e7b-9f67-c8587fb80abb
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Philippines': ea2af6d1-4e3f-46e2-a6f2-9080d75cb339
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Indonesia': b065825e-606f-48ba-a7ef-7ee88ecd023c
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Singapore': bf98ac8a-134b-43e2-91c6-11010df3e18e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Malaysia': a72ee4c6-e7af-4e1a-92c4-f4b6c97f6d0e
+   → POST #2 status: 200 ✅ (Template applied to market)
+
+📊 Summary:
+   - Unique clients processed: 26
+   - Unique markets processed: 75
+   - Total rows in CSV: 82
 
 🏁 Done.

@@ -1,6 +1,6 @@
 import os
 import sys
-from typing import Dict, Any, Optional, List, Tuple
+from typing import Dict, Any, Optional, List, Tuple, Set
 import csv
 import requests
 from dotenv import load_dotenv
@@ -196,7 +196,7 @@ def load_clients_and_markets(csv_path: str) -> List[Tuple[str, str]]:
     return rows
 
 # --------------------
-# Main
+# Main (Enhanced)
 # --------------------
 def main():
     global log_file
@@ -226,39 +226,83 @@ def main():
 
         log(f"🔧 Will process {len(client_market_rows)} row(s) from CSV: {csv_path}\n")
 
+        # Track which client azIds have been processed
+        processed_clients: Set[str] = set()
+        # Track which market azIds have been processed (to avoid duplicate market posts)
+        processed_markets: Set[str] = set()
+        
+        # Group by client for better reporting
+        from collections import defaultdict
+        client_markets_map = defaultdict(list)
         for client_name, market_name in client_market_rows:
-            log(f"— Processing client: {client_name} (market: {market_name})")
-
-            # First assignment: client/brand node azId
+            client_markets_map[client_name].append(market_name)
+        
+        # Process each client and its markets
+        for client_name, markets in client_markets_map.items():
+            log(f"— Processing client: {client_name} (markets: {', '.join(markets)})")
+            
+            # Find client node once
             client_node = find_client_or_brand_node(mapping, client_name)
             if not client_node or not client_node.get("azId"):
                 log(f"   ⚠️ Client/Brand node not found for '{client_name}'. Skipping.")
                 continue
-            first_assignment_id = client_node["azId"]
-            log(f"   ✅ First assignmentId (client/brand): {first_assignment_id}")
+            
+            client_azid = client_node["azId"]
+            
+            # Apply template to client only if not already processed
+            if client_azid not in processed_clients:
+                log(f"   ✅ First assignmentId (client/brand): {client_azid}")
+                code1, body1 = apply_template(session, client_azid)
+                ok1 = 200 <= code1 < 300
+                
+                if ok1:
+                    log(f"   → POST #1 status: {code1} ✅ (Template applied to client)")
+                    processed_clients.add(client_azid)
+                else:
+                    # Check if it's already applied (not empty)
+                    if is_empty_error(body1):
+                        log(f"   → POST #1 status: {code1} ⚠️ (Template already applied to client)")
+                        processed_clients.add(client_azid)  # Mark as processed anyway
+                    else:
+                        log(f"   → POST #1 status: {code1} ❌")
+                        log(f"     Response: {body1}")
+            else:
+                log(f"   ℹ️ Client already processed, skipping client template application")
+            
+            # Process each market for this client
+            for market_name in markets:
+                try:
+                    market_azid = get_parent_market_azid(mapping, market_name, client_name)
+                    
+                    # Skip if we've already processed this specific market
+                    if market_azid in processed_markets:
+                        log(f"   ℹ️ Market '{market_name}' already processed, skipping")
+                        continue
+                    
+                    log(f"   ✅ Processing market '{market_name}': {market_azid}")
+                    code2, body2 = apply_template(session, market_azid)
+                    ok2 = 200 <= code2 < 300
+                    
+                    if ok2:
+                        log(f"   → POST #2 status: {code2} ✅ (Template applied to market)")
+                        processed_markets.add(market_azid)
+                    else:
+                        # Check if it's already applied (not empty)
+                        if is_empty_error(body2):
+                            log(f"   → POST #2 status: {code2} ⚠️ (Template already applied to market)")
+                            processed_markets.add(market_azid)  # Mark as processed anyway
+                        else:
+                            log(f"   → POST #2 status: {code2} ❌")
+                            log(f"     Response: {body2}")
+                            
+                except Exception as e:
+                    log(f"   ⚠️ Could not resolve market '{market_name}' for '{client_name}': {e}")
+                    continue
 
-            # Second assignment: market azId from CSV per-row
-            try:
-                second_assignment_id = get_parent_market_azid(mapping, market_name, client_name)
-                log(f"   ✅ Second assignmentId (market={market_name}): {second_assignment_id}")
-            except Exception as e:
-                log(f"   ⚠️ Could not resolve market '{market_name}' for '{client_name}': {e}")
-                continue
-
-            # POST #1
-            code1, body1 = apply_template(session, first_assignment_id)
-            ok1 = 200 <= code1 < 300
-            log(f"   → POST #1 status: {code1} {'✅' if ok1 else '❌'}")
-            if not ok1:
-                log(f"     Response: {body1}")
-
-            # POST #2
-            code2, body2 = apply_template(session, second_assignment_id)
-            ok2 = 200 <= code2 < 300
-            log(f"   → POST #2 status: {code2} {'✅' if ok2 else '❌'}")
-            if not ok2:
-                log(f"     Response: {body2}")
-
+        log(f"\n📊 Summary:")
+        log(f"   - Unique clients processed: {len(processed_clients)}")
+        log(f"   - Unique markets processed: {len(processed_markets)}")
+        log(f"   - Total rows in CSV: {len(client_market_rows)}")
         log("\n🏁 Done.")
 
     except requests.HTTPError as e:

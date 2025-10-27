@@ -1,11 +1,1 @@
-Saudi Arabia,EA Sports,EA Sports,Entertainment & Media
-United Arab Emirates,EA Sports,EA Sports,Entertainment & Media
-Saudi Arabia,Ecolab,Ecolab,General Services
-United Arab Emirates,Ecolab,Ecolab,General Services
-Qatar,Ecolab,Ecolab,General Services
-Bahrain,Ecolab,Ecolab,General Services
-Kuwait,Ecolab,Ecolab,General Services
-Egypt,Ecolab,Ecolab,General Services
-Oman,Ecolab,Ecolab,General Services
-Saudi Arabia,Netflix,Netflix,Entertainment & Media
-United Arab Emirates,Netflix,Netflix,Entertainment & Media
+Hong Kong,NinJiom,NinJiom,Healthcare & Pharmaceuticals

@@ -1,0 +1,133 @@
+🔧 Will process 28 client(s). Market: Japan
+
+— Processing client: Adyen
+   ✅ First assignmentId (client/brand): 114ab598-b901-463f-b977-b02352d707d3
+   ✅ Second assignmentId (market=Japan): 17b38f34-66ce-48fb-b596-cce4f33806b7
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: American Airlines
+   ✅ First assignmentId (client/brand): 5691d575-1d80-41ac-93cb-2968e107ac7d
+   ✅ Second assignmentId (market=Japan): 685f28fc-7a93-49c0-8fe2-51afe5fafa31
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Arcteryx
+   ⚠️ Client/Brand node not found for 'Arcteryx'. Skipping.
+— Processing client: AXA
+   ✅ First assignmentId (client/brand): 16c70221-09c2-468b-865e-2d751e6fb704
+   ✅ Second assignmentId (market=Japan): 0790ccd3-7af1-45df-b50d-b9dd4f947cc0
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Capri Holdings
+   ⚠️ Client/Brand node not found for 'Capri Holdings'. Skipping.
+— Processing client: Edrington
+   ✅ First assignmentId (client/brand): fd723a95-4e33-4840-8f79-301211b4715a
+   ✅ Second assignmentId (market=Japan): da9be8bb-d50b-4793-89f0-765f95dc8cb1
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Electronic Arts
+   ✅ First assignmentId (client/brand): 2cb734a3-0cea-43ce-a324-48db260b5e4f
+   ⚠️ Could not resolve Germany Market for 'Electronic Arts': Market 'Japan' with client 'Electronic Arts' not found.
+— Processing client: Haribo
+   ✅ First assignmentId (client/brand): e38f7e2d-5849-4863-879f-8c5997d8dbfb
+   ✅ Second assignmentId (market=Japan): 5715f599-4d0e-4b36-abd3-97a1f1dfa52a
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Harley Davidson
+   ✅ First assignmentId (client/brand): 05c82986-a466-4465-a971-3d757e5eff17
+   ✅ Second assignmentId (market=Japan): c8e6d41d-335a-4ce6-bfbd-5ddb3abbdddd
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Hitachi
+   ✅ First assignmentId (client/brand): 59ecb190-a697-4b61-a565-9448e56d137e
+   ⚠️ Could not resolve Germany Market for 'Hitachi': Market 'Japan' with client 'Hitachi' not found.
+— Processing client: IBM
+   ✅ First assignmentId (client/brand): 682f494d-0f4c-4909-9527-fc7715bdd799
+   ✅ Second assignmentId (market=Japan): d36b412e-0372-4d35-9b2a-7a1c41e478e7
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: IKEA
+   ✅ First assignmentId (client/brand): 50989892-e4b5-4f8a-b632-f701cb8477d8
+   ⚠️ Could not resolve Germany Market for 'IKEA': Market 'Japan' with client 'IKEA' not found.
+— Processing client: Jetstar
+   ⚠️ Client/Brand node not found for 'Jetstar'. Skipping.
+— Processing client: Kyndryl
+   ✅ First assignmentId (client/brand): 0b8600ff-047e-40b6-a51f-a3248db95dc6
+   ✅ Second assignmentId (market=Japan): e47a46ee-56eb-4347-884c-c9a9607eab0d
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Lacoste
+   ✅ First assignmentId (client/brand): 60c8e7ca-180e-4dd4-873c-bd612d030b1e
+   ⚠️ Could not resolve Germany Market for 'Lacoste': Market 'Japan' with client 'Lacoste' not found.
+— Processing client: Leo Palace
+   ✅ First assignmentId (client/brand): ead313e6-bb05-4abb-b0fb-33fdd6650e64
+   ✅ Second assignmentId (market=Japan): 51beb737-334b-4754-811b-66cd50fc3a0e
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Lululemon
+   ✅ First assignmentId (client/brand): 783b91bf-b814-4bdc-b8e2-b78f3d1ecb8e
+   ✅ Second assignmentId (market=Japan): b137e46a-01d5-4916-8b67-03bc2df8c475
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Mazda
+   ✅ First assignmentId (client/brand): ca95c62f-4378-47db-b8c0-d62e3594d910
+   ⚠️ Could not resolve Germany Market for 'Mazda': Market 'Japan' with client 'Mazda' not found.
+— Processing client: Mondelēz International
+   ✅ First assignmentId (client/brand): 0387d4d1-7b0c-43f0-981a-3df381b85e3c
+   ✅ Second assignmentId (market=Japan): 4c2383d4-e47e-4eca-9988-c8383c21d38d
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: MSC Cruises
+   ✅ First assignmentId (client/brand): 53016b00-37d1-4ae4-ab80-df1e3410d3c1
+   ✅ Second assignmentId (market=Japan): 2df702f6-e75d-4e23-8fa4-9b4565c83351
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: New Zealand Government - Tourism NZ
+   ✅ First assignmentId (client/brand): 449327a0-a7e6-460d-87e2-cc47eaa83f58
+   ✅ Second assignmentId (market=Japan): 6953ed98-1c11-4a81-b1d9-434615375241
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Novo Nordisk
+   ✅ First assignmentId (client/brand): 2be87fb4-e45b-40b3-b987-f61853255c06
+   ✅ Second assignmentId (market=Japan): 9a579c31-7d92-45e2-a2f5-f0d1ac223728
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Qantas
+   ⚠️ Client/Brand node not found for 'Qantas'. Skipping.
+— Processing client: Royal Swinkels
+   ✅ First assignmentId (client/brand): 70092690-a094-40d9-a89f-3e4dc7016f38
+   ✅ Second assignmentId (market=Japan): d9573f50-04bc-4cdf-8284-e38b41650509
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: SK-II
+   ✅ First assignmentId (client/brand): 23a1121d-5dbb-4e03-8056-5aa2d44822f5
+   ✅ Second assignmentId (market=Japan): 4add77f2-143b-4f6e-b62a-223d3d0b308c
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Tempur
+   ⚠️ Client/Brand node not found for 'Tempur'. Skipping.
+— Processing client: Volkswagen AG
+   ✅ First assignmentId (client/brand): 6ae544b9-393c-4d14-a756-208c2e7d3226
+   ✅ Second assignmentId (market=Japan): 9cbc0944-7d73-45ce-9940-9540c1b17e29
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Xiaomi
+   ✅ First assignmentId (client/brand): cf8e753c-c472-4732-a427-e104dc7bd70a
+   ✅ Second assignmentId (market=Japan): 0aeed4cc-5d7f-42dc-a71e-b45f4aefbbd6
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+
+🏁 Done.

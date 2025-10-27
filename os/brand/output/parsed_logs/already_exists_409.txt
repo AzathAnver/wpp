@@ -1,4 +1,3 @@
-Egypt,Alex Bank,Alex Bank,Finance
-United Arab Emirates,du,du,Telecoms
-Egypt,Edita,Molto,Food
-Egypt,Edita,Hohos,Food
+Hong Kong,PrimeCredit,PrimeCredit,Finance
+Hong Kong,Swisse,Swisse,Healthcare
+Hong Kong,UA Finance,UA Finance,Finance

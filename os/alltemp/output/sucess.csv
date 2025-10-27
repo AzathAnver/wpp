@@ -1,4 +1,4 @@
-client_name,market
+client,market
 Adidas,Hong Kong
 Allianz,Hong Kong
 Anker,Hong Kong
@@ -20,7 +20,6 @@ Ecoflow,United States of America
 Huawei,Hong Kong
 Jackery,United States of America
 Jackery,Canada
-Jackery,United Kingdom
 Jackery,Germany
 Jackery,France
 Jackery,Spain
@@ -35,21 +34,15 @@ Lululemon,Indonesia
 Lululemon,Japan
 Lululemon,Malaysia
 Lululemon,New Zealand
-Lululemon,Singapore
 Lululemon,South Korea
 Lululemon,Taiwan
-Lululemon,Thailand
 Lululemon,United States of America
-LVMH,Hong Kong
 LVMH,Hong Kong
 MTR,Hong Kong
 NinJiom,Hong Kong
 PrimeCredit,Hong Kong
-PrimeCredit,Hong Kong
 Reolink,Hong Kong
 Rolex,Hong Kong
-Rolex,Hong Kong
-Swisse,Hong Kong
 Peninsula Hotels,Hong Kong
 Peninsula Hotels,Canada
 Peninsula Hotels,China
@@ -60,7 +53,6 @@ Peninsula Hotels,Philippines
 Peninsula Hotels,South Korea
 Peninsula Hotels,Thailand
 Peninsula Hotels,Turkey
-Peninsula Hotels,United Kingdom
 Peninsula Hotels,United States of America
 Peninsula Hotels,Iraq
 Peninsula Hotels,Israel
