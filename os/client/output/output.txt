@@ -1,107 +1,750 @@
 
-🔍 Processing client: Adyen
-✅ Found exact client 'Adyen' with mdId: 536ec26e-5335-40af-a9c9-f0d913df3b88
-✅ Successfully created org-unit for 'Adyen' → LIVE
+🔍 Processing client: A&M Shinchan Noodles
+⚠️ No exact match found for 'A&M Shinchan Noodles'. Closest API hit: 1&1 Versatel Deutschland Gmbh
 
-🔍 Processing client: American Airlines
-✅ Found exact client 'American Airlines' with mdId: 982f9d24-25f8-4ebf-9169-3e5cf33088d1
-ℹ️ Org-unit for 'American Airlines' already exists → skipping.
+🔍 Processing client: ABFRL (Aditya Birla Fashion Retail Ltd)
+✅ Found exact client 'ABFRL (Aditya Birla Fashion Retail Ltd)' with mdId: 555074bc-a5bd-425f-a59e-c1f6ddba8ffc
+ℹ️ Org-unit for 'ABFRL (Aditya Birla Fashion Retail Ltd)' already exists → skipping.
 
-🔍 Processing client: Arcteryx
-⚠️ Client 'Arcteryx' not found in API search.
+🔍 Processing client: Aditya Birla Capital
+✅ Found exact client 'Aditya Birla Capital' with mdId: 8f25ee46-5ab8-49bf-bedc-61d37fef069f
+ℹ️ Org-unit for 'Aditya Birla Capital' already exists → skipping.
 
-🔍 Processing client: AXA
-✅ Found exact client 'AXA' with mdId: 76349adf-0c79-4fb5-88a8-08d4ff337b10
-ℹ️ Org-unit for 'AXA' already exists → skipping.
+🔍 Processing client: Aditya Birla Finance
+✅ Found exact client 'Aditya Birla Finance' with mdId: ed3f6a6e-dee1-4468-9ffc-03e876d4871f
+ℹ️ Org-unit for 'Aditya Birla Finance' already exists → skipping.
 
-🔍 Processing client: Capri Holdings
-⚠️ Client 'Capri Holdings' not found in API search.
+🔍 Processing client: Aditya Birla Health Insurance
+✅ Found exact client 'Aditya Birla Health Insurance' with mdId: d0b8838a-1b1c-424a-9840-335d3544a73d
+ℹ️ Org-unit for 'Aditya Birla Health Insurance' already exists → skipping.
 
-🔍 Processing client: Edrington
-✅ Found exact client 'Edrington' with mdId: aeb52101-a5e2-44b0-9e0f-6d90cbd68100
-ℹ️ Org-unit for 'Edrington' already exists → skipping.
+🔍 Processing client: Aditya Birla Management Corporation
+✅ Found exact client 'Aditya Birla Management Corporation' with mdId: 7cc9823b-844a-44b2-a166-c086dbe445ec
+ℹ️ Org-unit for 'Aditya Birla Management Corporation' already exists → skipping.
 
-🔍 Processing client: Electronic Arts
-✅ Found exact client 'Electronic Arts' with mdId: 9589a0c8-7bd1-4732-ba7f-620a698cc1b0
-ℹ️ Org-unit for 'Electronic Arts' already exists → skipping.
+🔍 Processing client: Aditya Birla Sun Life
+✅ Found exact client 'Aditya Birla Sun Life' with mdId: 787aa742-bc83-42f0-a516-1e43daf0dad8
+ℹ️ Org-unit for 'Aditya Birla Sun Life' already exists → skipping.
 
-🔍 Processing client: Haribo
-✅ Found exact client 'Haribo' with mdId: 85cd86df-d518-46f3-8d0e-73e1554e88fe
-ℹ️ Org-unit for 'Haribo' already exists → skipping.
+🔍 Processing client: Adret Retail Private Limited
+✅ Found exact client 'Adret Retail Private Limited' with mdId: 364e6db1-bba3-4571-b43b-6a50b9b02fff
+ℹ️ Org-unit for 'Adret Retail Private Limited' already exists → skipping.
 
-🔍 Processing client: Harley Davidson
-✅ Found exact client 'Harley Davidson' with mdId: 054f72c8-92db-498b-bebc-2f95e08ceb6f
-ℹ️ Org-unit for 'Harley Davidson' already exists → skipping.
+🔍 Processing client: Akzonobel
+✅ Found exact client 'Akzonobel' with mdId: fa9f8f47-36d5-4d61-9c22-cfb640133838
+ℹ️ Org-unit for 'Akzonobel' already exists → skipping.
 
-🔍 Processing client: Hitachi
-✅ Found exact client 'Hitachi' with mdId: 4bfb86e0-7982-4f59-a634-a7dfc8cbef44
-ℹ️ Org-unit for 'Hitachi' already exists → skipping.
+🔍 Processing client: Ampa Orthodontics
+✅ Found exact client 'Ampa Orthodontics' with mdId: 6e5ee9d4-1159-4a32-978a-06d208a267f4
+ℹ️ Org-unit for 'Ampa Orthodontics' already exists → skipping.
 
-🔍 Processing client: IBM
-✅ Found exact client 'IBM' with mdId: 72e2d10c-fac6-4403-860f-94a28c5892e3
-✅ Successfully created org-unit for 'IBM' → LIVE
+🔍 Processing client: Angel One
+✅ Found exact client 'Angel One' with mdId: 805d4e37-d163-4b73-9feb-1eb3bd3ce306
+ℹ️ Org-unit for 'Angel One' already exists → skipping.
 
-🔍 Processing client: IKEA
-✅ Found exact client 'IKEA' with mdId: 1a8e9e5d-3a65-4a2a-9db6-9bae4d4ad0be
-ℹ️ Org-unit for 'IKEA' already exists → skipping.
+🔍 Processing client: Apollo Pipes
+✅ Found exact client 'Apollo Pipes' with mdId: 5512c7c3-a3fd-4061-883e-83109cf1820b
+ℹ️ Org-unit for 'Apollo Pipes' already exists → skipping.
 
-🔍 Processing client: Jetstar
-⚠️ No exact match found for 'Jetstar'. Closest API hit: Jetstar Airways
+🔍 Processing client: Apollo Tyres Ltd
+✅ Found exact client 'Apollo Tyres Ltd' with mdId: 2914174b-0cb6-4516-84a8-efa5aebc7f2a
+ℹ️ Org-unit for 'Apollo Tyres Ltd' already exists → skipping.
 
-🔍 Processing client: Kyndryl
-✅ Found exact client 'Kyndryl' with mdId: 353c6366-0d19-4f2f-9218-c5786ae8f4b5
-ℹ️ Org-unit for 'Kyndryl' already exists → skipping.
+🔍 Processing client: Arha Media & Broadcasting
+✅ Found exact client 'Arha Media & Broadcasting' with mdId: de7e9f18-919b-4d3d-b5d4-5a369cd96f05
+ℹ️ Org-unit for 'Arha Media & Broadcasting' already exists → skipping.
 
-🔍 Processing client: Lacoste
-✅ Found exact client 'Lacoste' with mdId: 19c94889-0fec-4703-b581-6b38e622bc0d
-ℹ️ Org-unit for 'Lacoste' already exists → skipping.
+🔍 Processing client: Arvind Limited
+✅ Found exact client 'Arvind Limited' with mdId: 44b86006-6450-4589-b99d-8af548647a84
+ℹ️ Org-unit for 'Arvind Limited' already exists → skipping.
 
-🔍 Processing client: Leo Palace
-✅ Found exact client 'Leo Palace' with mdId: bf205410-633a-4a3d-8377-9aa01faacfbf
-✅ Successfully created org-unit for 'Leo Palace' → LIVE
+🔍 Processing client: Ava Cholayil Health Care
+✅ Found exact client 'Ava Cholayil Health Care' with mdId: aafbd6bd-5b51-4f47-a5a4-929d67c62719
+ℹ️ Org-unit for 'Ava Cholayil Health Care' already exists → skipping.
 
-🔍 Processing client: Lululemon
-✅ Found exact client 'Lululemon' with mdId: bbcc1f0a-6d93-40b9-8e9f-921e9950ae2a
-ℹ️ Org-unit for 'Lululemon' already exists → skipping.
+🔍 Processing client: Axiom Foods And Beverages
+✅ Found exact client 'Axiom Foods And Beverages' with mdId: 68e18338-975d-46c6-b0f5-39c3993bee29
+ℹ️ Org-unit for 'Axiom Foods And Beverages' already exists → skipping.
 
-🔍 Processing client: Mazda
-✅ Found exact client 'Mazda' with mdId: 2f77337b-f4ee-4f70-9966-c5ae8ad5f208
-ℹ️ Org-unit for 'Mazda' already exists → skipping.
+🔍 Processing client: Bambino Agro
+✅ Found exact client 'Bambino Agro' with mdId: 7c30d11b-dd3e-4e1d-bcc3-a078475cbc95
+ℹ️ Org-unit for 'Bambino Agro' already exists → skipping.
+
+🔍 Processing client: Bcci
+✅ Found exact client 'Bcci' with mdId: 6c0ac0ca-e0c9-41b4-a500-8da75e78979c
+ℹ️ Org-unit for 'Bcci' already exists → skipping.
+
+🔍 Processing client: Bharathi Cement
+✅ Found exact client 'Bharathi Cement' with mdId: 88af17f9-7055-403d-86e8-fc4122de2c3f
+ℹ️ Org-unit for 'Bharathi Cement' already exists → skipping.
+
+🔍 Processing client: Bharti Airtel
+✅ Found exact client 'Bharti Airtel' with mdId: b1a6c2ce-f666-4f69-bb38-74c947dc0cf0
+ℹ️ Org-unit for 'Bharti Airtel' already exists → skipping.
+
+🔍 Processing client: Bhima Jewels
+✅ Found exact client 'Bhima Jewels' with mdId: 2bfb1c63-7459-462e-8750-2b57c3f1dcfd
+ℹ️ Org-unit for 'Bhima Jewels' already exists → skipping.
+
+🔍 Processing client: Billionbrains Garage Ventures
+✅ Found exact client 'Billionbrains Garage Ventures' with mdId: 726f855d-d02d-472f-8cac-4ce5e6a02ae3
+ℹ️ Org-unit for 'Billionbrains Garage Ventures' already exists → skipping.
+
+🔍 Processing client: Bisleri
+✅ Found exact client 'Bisleri' with mdId: 45dbf583-7a7d-4b57-8f69-78d189909e18
+ℹ️ Org-unit for 'Bisleri' already exists → skipping.
+
+🔍 Processing client: Blue Heaven Cosmetics
+✅ Found exact client 'Blue Heaven Cosmetics' with mdId: e80b3514-7eea-4976-88af-a8b74b128c2a
+ℹ️ Org-unit for 'Blue Heaven Cosmetics' already exists → skipping.
+
+🔍 Processing client: Body Cupid
+✅ Found exact client 'Body Cupid' with mdId: 4ea29244-8cc5-4654-bf59-7bd0dbb30f81
+ℹ️ Org-unit for 'Body Cupid' already exists → skipping.
+
+🔍 Processing client: Brainbees Solutions
+✅ Found exact client 'Brainbees Solutions' with mdId: 896cbaa6-2a7a-4e00-8d5b-e37eb9e94bd4
+ℹ️ Org-unit for 'Brainbees Solutions' already exists → skipping.
+
+🔍 Processing client: Britannia
+✅ Found exact client 'Britannia' with mdId: 1142386a-97f8-44e1-ab6c-7ac2d0f6020c
+ℹ️ Org-unit for 'Britannia' already exists → skipping.
+
+🔍 Processing client: Burger King
+✅ Found exact client 'Burger King' with mdId: 5b24e652-aad7-48ba-8d39-236316a17c6f
+ℹ️ Org-unit for 'Burger King' already exists → skipping.
+
+🔍 Processing client: Burman Hospitality
+✅ Found exact client 'Burman Hospitality' with mdId: 6b2b5b6b-d528-443b-90d7-1aacf81cb2e7
+ℹ️ Org-unit for 'Burman Hospitality' already exists → skipping.
+
+🔍 Processing client: Butterfly Gandhimathi Appliances
+✅ Found exact client 'Butterfly Gandhimathi Appliances' with mdId: bad05027-d4a2-4b70-9d62-db0594ae929d
+ℹ️ Org-unit for 'Butterfly Gandhimathi Appliances' already exists → skipping.
+
+🔍 Processing client: Campus Activewear
+✅ Found exact client 'Campus Activewear' with mdId: b634a267-f021-4fee-b859-224fd83365ce
+ℹ️ Org-unit for 'Campus Activewear' already exists → skipping.
+
+🔍 Processing client: Cargill
+✅ Found exact client 'Cargill' with mdId: 80cb34fb-e9a8-4e79-9d9c-743973bc7a5f
+ℹ️ Org-unit for 'Cargill' already exists → skipping.
+
+🔍 Processing client: Cera Sanitaryware
+✅ Found exact client 'Cera Sanitaryware' with mdId: 62b470ef-a5ec-4d2f-97a6-d8cb2b104947
+ℹ️ Org-unit for 'Cera Sanitaryware' already exists → skipping.
+
+🔍 Processing client: Comfort Grid Technologies
+✅ Found exact client 'Comfort Grid Technologies' with mdId: 67eb067d-8d62-4874-8325-cce0432442a1
+ℹ️ Org-unit for 'Comfort Grid Technologies' already exists → skipping.
+
+🔍 Processing client: Coromandel International
+✅ Found exact client 'Coromandel International' with mdId: 37b4820f-568d-4813-af96-f8e9c25dc75f
+ℹ️ Org-unit for 'Coromandel International' already exists → skipping.
+
+🔍 Processing client: Crompton Greaves Consumer Electricals
+✅ Found exact client 'Crompton Greaves Consumer Electricals' with mdId: d3fba7c2-5488-41b5-bda6-17794c1cb263
+ℹ️ Org-unit for 'Crompton Greaves Consumer Electricals' already exists → skipping.
+
+🔍 Processing client: Cropnosys India
+✅ Found exact client 'Cropnosys India' with mdId: 80d17ae3-34da-4c7f-9ab5-d7ef7941225f
+ℹ️ Org-unit for 'Cropnosys India' already exists → skipping.
+
+🔍 Processing client: Culver Max Entertainment
+✅ Found exact client 'Culver Max Entertainment' with mdId: 241d4c19-e1bd-46a7-b1e6-825540a81162
+ℹ️ Org-unit for 'Culver Max Entertainment' already exists → skipping.
+
+🔍 Processing client: Cure And Care Wellness
+✅ Found exact client 'Cure And Care Wellness' with mdId: 7a0cf421-b0ee-4978-85ea-8c1bc8ff0b9c
+ℹ️ Org-unit for 'Cure And Care Wellness' already exists → skipping.
+
+🔍 Processing client: Daily Thanti
+✅ Found exact client 'Daily Thanti' with mdId: 4db38b4a-f9de-4831-930a-94a34b7f74d0
+ℹ️ Org-unit for 'Daily Thanti' already exists → skipping.
+
+🔍 Processing client: Danone
+✅ Found exact client 'Danone' with mdId: 78074137-e8c6-4bb9-96db-262b012f2f42
+ℹ️ Org-unit for 'Danone' already exists → skipping.
+
+🔍 Processing client: Deys Medical Store
+✅ Found exact client 'Deys Medical Store' with mdId: 465eab4a-f517-4aeb-8d26-9c836d357f12
+ℹ️ Org-unit for 'Deys Medical Store' already exists → skipping.
+
+🔍 Processing client: Dr.Oetker
+✅ Found exact client 'Dr.Oetker' with mdId: 2a59e885-c48e-4407-b777-2064c7916001
+ℹ️ Org-unit for 'Dr.Oetker' already exists → skipping.
+
+🔍 Processing client: Dr.Reddy's
+✅ Found exact client 'Dr.Reddy's' with mdId: ffdbac19-d913-463e-8cb0-8f29c8548ff2
+ℹ️ Org-unit for 'Dr.Reddy's' already exists → skipping.
+
+🔍 Processing client: Ds Group
+✅ Found exact client 'Ds Group' with mdId: 227e98ac-0863-49ca-b440-135075a294e1
+ℹ️ Org-unit for 'Ds Group' already exists → skipping.
+
+🔍 Processing client: Ecof Industries
+✅ Found exact client 'Ecof Industries' with mdId: ebf5dc99-839f-484e-9480-cafd4a3f64e9
+ℹ️ Org-unit for 'Ecof Industries' already exists → skipping.
+
+🔍 Processing client: Emami
+✅ Found exact client 'Emami' with mdId: 2152bf3b-1ff0-4561-9559-247c8b3667b5
+ℹ️ Org-unit for 'Emami' already exists → skipping.
+
+🔍 Processing client: Enovate Lifestyles
+✅ Found exact client 'Enovate Lifestyles' with mdId: 2e0ced27-5fa5-4597-9b33-ab9875bbec70
+ℹ️ Org-unit for 'Enovate Lifestyles' already exists → skipping.
+
+🔍 Processing client: Essentially Nothing
+✅ Found exact client 'Essentially Nothing' with mdId: e54cc81b-bfad-4600-8bec-365c715028ea
+ℹ️ Org-unit for 'Essentially Nothing' already exists → skipping.
+
+🔍 Processing client: Essilorluxottica
+✅ Found exact client 'Essilorluxottica' with mdId: 86322585-9ad9-4a22-8f49-de7167e80269
+ℹ️ Org-unit for 'Essilorluxottica' already exists → skipping.
+
+🔍 Processing client: Euphoric Innovations
+✅ Found exact client 'Euphoric Innovations' with mdId: e7d00067-8621-45dd-a41e-be123d2624cc
+ℹ️ Org-unit for 'Euphoric Innovations' already exists → skipping.
+
+🔍 Processing client: Fashnear Technologies
+✅ Found exact client 'Fashnear Technologies' with mdId: 4c8314f3-0a38-4813-a962-c89b2daae6bc
+ℹ️ Org-unit for 'Fashnear Technologies' already exists → skipping.
+
+🔍 Processing client: Flipkart
+✅ Found exact client 'Flipkart' with mdId: 37a6d39d-1c29-47df-b65f-545247d7161e
+ℹ️ Org-unit for 'Flipkart' already exists → skipping.
+
+🔍 Processing client: Ganesh Grains
+✅ Found exact client 'Ganesh Grains' with mdId: 1b9b8301-b020-4346-9493-9056d6a27bdf
+ℹ️ Org-unit for 'Ganesh Grains' already exists → skipping.
+
+🔍 Processing client: Gemini Edibles & Fats India
+✅ Found exact client 'Gemini Edibles & Fats India' with mdId: d181eec1-c583-4cf4-95d9-8010723ca4fb
+ℹ️ Org-unit for 'Gemini Edibles & Fats India' already exists → skipping.
+
+🔍 Processing client: General Mills
+✅ Found exact client 'General Mills' with mdId: 22b6a259-574a-4bbb-b16e-9cc8ed4cc0b7
+ℹ️ Org-unit for 'General Mills' already exists → skipping.
+
+🔍 Processing client: GITAM
+✅ Found exact client 'GITAM' with mdId: 65e7be6b-d7fa-4f9b-93d7-a5c8e5281902
+ℹ️ Org-unit for 'GITAM' already exists → skipping.
+
+🔍 Processing client: Gits Food
+✅ Found exact client 'Gits Food' with mdId: 3c24fc0b-4f8a-4341-bbcf-ffa5cb02cb11
+ℹ️ Org-unit for 'Gits Food' already exists → skipping.
+
+🔍 Processing client: Godrej Consumer Products
+✅ Found exact client 'Godrej Consumer Products' with mdId: 4aa53034-e773-449c-a9fc-480322c56eb3
+ℹ️ Org-unit for 'Godrej Consumer Products' already exists → skipping.
+
+🔍 Processing client: Grasim - Jaya Shree Textiles
+✅ Found exact client 'Grasim - Jaya Shree Textiles' with mdId: 0cafa801-eed9-497e-bd10-8211a63ffea3
+ℹ️ Org-unit for 'Grasim - Jaya Shree Textiles' already exists → skipping.
+
+🔍 Processing client: Grasim Industries (Birla Opus)
+✅ Found exact client 'Grasim Industries (Birla Opus)' with mdId: ac2c4bd6-14d4-4e85-93b5-cb6288518dee
+ℹ️ Org-unit for 'Grasim Industries (Birla Opus)' already exists → skipping.
+
+🔍 Processing client: GRB Dairy Foods
+✅ Found exact client 'GRB Dairy Foods' with mdId: 503b1f49-f356-44fe-a98d-f3f6c2202c04
+ℹ️ Org-unit for 'GRB Dairy Foods' already exists → skipping.
+
+🔍 Processing client: Greaves Electric Mobility
+✅ Found exact client 'Greaves Electric Mobility' with mdId: d4a3f3e3-4c22-4bc3-813c-edb387a82dc4
+ℹ️ Org-unit for 'Greaves Electric Mobility' already exists → skipping.
+
+🔍 Processing client: Greenlam Industries
+✅ Found exact client 'Greenlam Industries' with mdId: b0531d26-54cb-419f-b378-b668ad6e8a4b
+ℹ️ Org-unit for 'Greenlam Industries' already exists → skipping.
+
+🔍 Processing client: GRT Jewellers
+✅ Found exact client 'GRT Jewellers' with mdId: bd2d8640-b4ec-4dd8-ac5a-1f662cf99650
+ℹ️ Org-unit for 'GRT Jewellers' already exists → skipping.
+
+🔍 Processing client: Haier
+✅ Found exact client 'Haier' with mdId: b762ef30-2480-43f3-9985-b4e5eb53e4bf
+ℹ️ Org-unit for 'Haier' already exists → skipping.
+
+🔍 Processing client: Hamdard
+✅ Found exact client 'Hamdard' with mdId: 53ddb6cd-a63a-4fe3-b31b-793bf40a6920
+ℹ️ Org-unit for 'Hamdard' already exists → skipping.
+
+🔍 Processing client: Hatsun Agro
+✅ Found exact client 'Hatsun Agro' with mdId: 8d552a30-1aa0-424f-9706-12f46717c575
+ℹ️ Org-unit for 'Hatsun Agro' already exists → skipping.
+
+🔍 Processing client: Havells
+✅ Found exact client 'Havells' with mdId: 3ae37191-55ec-4bc8-9359-0fa5411c6681
+ℹ️ Org-unit for 'Havells' already exists → skipping.
+
+🔍 Processing client: Havmor Ice Cream
+✅ Found exact client 'Havmor Ice Cream' with mdId: 75231e0e-de9d-49d0-9687-d55c3515dec5
+ℹ️ Org-unit for 'Havmor Ice Cream' already exists → skipping.
+
+🔍 Processing client: Head Digital Works
+✅ Found exact client 'Head Digital Works' with mdId: 65cddf64-8b79-495d-a1b4-8d7e9e836c95
+ℹ️ Org-unit for 'Head Digital Works' already exists → skipping.
+
+🔍 Processing client: Hector Beverage
+✅ Found exact client 'Hector Beverage' with mdId: a42cb547-9887-4d66-9284-3a415bc1adeb
+ℹ️ Org-unit for 'Hector Beverage' already exists → skipping.
+
+🔍 Processing client: Heritage Foods
+✅ Found exact client 'Heritage Foods' with mdId: 371ff2b1-5697-474e-9cf8-afba54d6229b
+ℹ️ Org-unit for 'Heritage Foods' already exists → skipping.
+
+🔍 Processing client: Himalaya Wellness
+✅ Found exact client 'Himalaya Wellness' with mdId: 12ecb88d-acf6-4360-b995-e1bae96beaed
+ℹ️ Org-unit for 'Himalaya Wellness' already exists → skipping.
+
+🔍 Processing client: Hindware Limited
+✅ Found exact client 'Hindware Limited' with mdId: e0f804d2-9134-4721-b091-5607a94cfe6a
+ℹ️ Org-unit for 'Hindware Limited' already exists → skipping.
+
+🔍 Processing client: Honda Motorcycles
+✅ Found exact client 'Honda Motorcycles' with mdId: 0879a400-1022-43de-9a24-9a6e776f4680
+ℹ️ Org-unit for 'Honda Motorcycles' already exists → skipping.
+
+🔍 Processing client: Hygienic Research Institute
+✅ Found exact client 'Hygienic Research Institute' with mdId: 99799ad1-7893-4928-8ed5-ea2cfbdc335d
+ℹ️ Org-unit for 'Hygienic Research Institute' already exists → skipping.
+
+🔍 Processing client: ICC
+✅ Found exact client 'ICC' with mdId: cbb69fa4-c532-4915-894e-b1c2902efcc0
+ℹ️ Org-unit for 'ICC' already exists → skipping.
+
+🔍 Processing client: ICICI
+✅ Found exact client 'ICICI' with mdId: 24408719-f67b-4993-ae9f-59cc80c60f9f
+ℹ️ Org-unit for 'ICICI' already exists → skipping.
+
+🔍 Processing client: IDBI Bank
+✅ Found exact client 'IDBI Bank' with mdId: b034186a-2776-49dd-bba7-65d7f3813876
+ℹ️ Org-unit for 'IDBI Bank' already exists → skipping.
+
+🔍 Processing client: IGI
+✅ Found exact client 'IGI' with mdId: dcaf886f-68e4-451a-8fa5-d8902e2b2585
+ℹ️ Org-unit for 'IGI' already exists → skipping.
+
+🔍 Processing client: IIFL Finance
+✅ Found exact client 'IIFL Finance' with mdId: ec3fc367-ad15-4919-9ea4-f1c23c546311
+ℹ️ Org-unit for 'IIFL Finance' already exists → skipping.
+
+🔍 Processing client: Indeed
+✅ Found exact client 'Indeed' with mdId: 6f8b0eba-7231-4fce-ac48-6dba823ce208
+ℹ️ Org-unit for 'Indeed' already exists → skipping.
+
+🔍 Processing client: Intergrow Brands
+✅ Found exact client 'Intergrow Brands' with mdId: b80fa281-5d44-49d7-9e06-1c790605c041
+ℹ️ Org-unit for 'Intergrow Brands' already exists → skipping.
+
+🔍 Processing client: Jiostar
+✅ Found exact client 'Jiostar' with mdId: c2331300-1256-4679-a1db-f8266c8cef6e
+ℹ️ Org-unit for 'Jiostar' already exists → skipping.
+
+🔍 Processing client: JSW Cement
+✅ Found exact client 'JSW Cement' with mdId: 0b943560-865a-492b-a2db-3f39e84df081
+ℹ️ Org-unit for 'JSW Cement' already exists → skipping.
+
+🔍 Processing client: JSW Group
+✅ Found exact client 'JSW Group' with mdId: a567b859-aecb-4ee4-913d-ec3d4e939350
+ℹ️ Org-unit for 'JSW Group' already exists → skipping.
+
+🔍 Processing client: Jubilant Foodworks
+✅ Found exact client 'Jubilant Foodworks' with mdId: 2cf4b620-5976-4c22-ad01-d49491e42b36
+ℹ️ Org-unit for 'Jubilant Foodworks' already exists → skipping.
+
+🔍 Processing client: Kalyyan Jewellers
+✅ Found exact client 'Kalyyan Jewellers' with mdId: fbfc0e5e-73fa-4f9a-b60d-48004d1dc564
+ℹ️ Org-unit for 'Kalyyan Jewellers' already exists → skipping.
+
+🔍 Processing client: Kellogg's
+✅ Found exact client 'Kellogg's' with mdId: b3c1507f-4355-459b-a001-ac3e3a062208
+ℹ️ Org-unit for 'Kellogg's' already exists → skipping.
+
+🔍 Processing client: KFC
+✅ Found exact client 'KFC' with mdId: f9876e43-f954-4f15-b754-a0847450b0b6
+❌ Failed for KFC: 400
+Response: {"error":"Server error '502 Bad Gateway' for url 'https://alpha-zulu-prd-one.os.wpp.com/api/v20/accounts'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502"}
+
+🔍 Processing client: Kimberly-Clark
+✅ Found exact client 'Kimberly-Clark' with mdId: 583c764c-92a2-49f8-a3b1-7ff3ba8c8b30
+ℹ️ Org-unit for 'Kimberly-Clark' already exists → skipping.
+
+🔍 Processing client: Kinetic & Firodia Group
+✅ Found exact client 'Kinetic & Firodia Group' with mdId: 13caf38a-e205-461d-bf9b-8583616d7fd3
+ℹ️ Org-unit for 'Kinetic & Firodia Group' already exists → skipping.
+
+🔍 Processing client: Kirloskar Brothers
+✅ Found exact client 'Kirloskar Brothers' with mdId: d3473192-38d9-41c2-ab42-7c51c358b010
+ℹ️ Org-unit for 'Kirloskar Brothers' already exists → skipping.
+
+🔍 Processing client: Kotak Mahindra
+✅ Found exact client 'Kotak Mahindra' with mdId: 234c9516-6120-4aef-9dfa-6b7455dbbc3e
+ℹ️ Org-unit for 'Kotak Mahindra' already exists → skipping.
+
+🔍 Processing client: Kotak Mahindra Mutual Fund
+✅ Found exact client 'Kotak Mahindra Mutual Fund' with mdId: 7ce066d8-033b-4ac0-ae4f-7c593631bed3
+ℹ️ Org-unit for 'Kotak Mahindra Mutual Fund' already exists → skipping.
+
+🔍 Processing client: Kotak Securities
+✅ Found exact client 'Kotak Securities' with mdId: f70feed8-3c5b-4a49-b48a-8308e23d7615
+ℹ️ Org-unit for 'Kotak Securities' already exists → skipping.
+
+🔍 Processing client: KRBL Limited
+✅ Found exact client 'KRBL Limited' with mdId: 2159a8f5-4533-4714-ad3f-893f92fb155d
+ℹ️ Org-unit for 'KRBL Limited' already exists → skipping.
+
+🔍 Processing client: Le Travenues Technology
+✅ Found exact client 'Le Travenues Technology' with mdId: bca089fd-fcfb-461a-b771-c10b8ae1c48f
+ℹ️ Org-unit for 'Le Travenues Technology' already exists → skipping.
+
+🔍 Processing client: Lifestyle International
+✅ Found exact client 'Lifestyle International' with mdId: db861fb9-6b09-4bce-a246-e78c29ca03c3
+ℹ️ Org-unit for 'Lifestyle International' already exists → skipping.
+
+🔍 Processing client: Linkedin
+✅ Found exact client 'Linkedin' with mdId: b691d367-5bd4-49c6-9fd1-132c63c87e24
+ℹ️ Org-unit for 'Linkedin' already exists → skipping.
+
+🔍 Processing client: Lohiya Edible Oils
+✅ Found exact client 'Lohiya Edible Oils' with mdId: 626ea512-627a-4fef-bb41-a1526841c6e7
+ℹ️ Org-unit for 'Lohiya Edible Oils' already exists → skipping.
+
+🔍 Processing client: Lovely International Trust
+✅ Found exact client 'Lovely International Trust' with mdId: 94443b3e-b6a0-492e-96ef-a35e1f47eb0f
+ℹ️ Org-unit for 'Lovely International Trust' already exists → skipping.
+
+🔍 Processing client: Luminous Power Technologies
+✅ Found exact client 'Luminous Power Technologies' with mdId: d80a9953-7dca-4a82-9e90-75816b1a154f
+ℹ️ Org-unit for 'Luminous Power Technologies' already exists → skipping.
+
+🔍 Processing client: Lupin
+✅ Found exact client 'Lupin' with mdId: 3cc20dc0-be62-4788-804c-0d69e2495d17
+ℹ️ Org-unit for 'Lupin' already exists → skipping.
+
+🔍 Processing client: Makemytrip
+✅ Found exact client 'Makemytrip' with mdId: 44aa843d-df60-4d55-a2fe-51b2b7ac4cb4
+ℹ️ Org-unit for 'Makemytrip' already exists → skipping.
+
+🔍 Processing client: Manjilas Food Tech
+✅ Found exact client 'Manjilas Food Tech' with mdId: 6232de66-938a-4a0b-9911-6c16bef260bf
+ℹ️ Org-unit for 'Manjilas Food Tech' already exists → skipping.
+
+🔍 Processing client: Maruti Suzuki India Limited
+✅ Found exact client 'Maruti Suzuki India Limited' with mdId: 1b31bd16-e64c-474c-8092-211f8029f7be
+ℹ️ Org-unit for 'Maruti Suzuki India Limited' already exists → skipping.
+
+🔍 Processing client: Matrimony.com
+✅ Found exact client 'Matrimony.com' with mdId: ca5180ed-37c0-4de9-b400-f6bc350a9b59
+ℹ️ Org-unit for 'Matrimony.com' already exists → skipping.
+
+🔍 Processing client: Modenik
+✅ Found exact client 'Modenik' with mdId: 8b87bd49-ed68-4ab3-8b70-3564699601e6
+ℹ️ Org-unit for 'Modenik' already exists → skipping.
+
+🔍 Processing client: Mondelez International
+⚠️ No exact match found for 'Mondelez International'. Closest API hit: Mondelēz International
 
 🔍 Processing client: Mondelēz International
 ✅ Found exact client 'Mondelēz International' with mdId: 9c6c74a1-ffe5-4d69-834c-f9158f6da7b7
 ℹ️ Org-unit for 'Mondelēz International' already exists → skipping.
 
-🔍 Processing client: MSC Cruises
-✅ Found exact client 'MSC Cruises' with mdId: b9b5d115-009e-4c6c-a3f7-38f5d7aa8963
-ℹ️ Org-unit for 'MSC Cruises' already exists → skipping.
+🔍 Processing client: Mother Dairy
+✅ Found exact client 'Mother Dairy' with mdId: d0a8d1e2-7180-48f5-8686-8472e2bcc02d
+ℹ️ Org-unit for 'Mother Dairy' already exists → skipping.
 
-🔍 Processing client: New Zealand Government - Tourism NZ
-✅ Found exact client 'New Zealand Government - Tourism NZ' with mdId: 0dc26c85-bf7f-4734-b06e-9772f8436e4c
-✅ Successfully created org-unit for 'New Zealand Government - Tourism NZ' → LIVE
+🔍 Processing client: Motul
+✅ Found exact client 'Motul' with mdId: 4ae7c739-a59f-4107-bd63-86a0a50e1ac7
+ℹ️ Org-unit for 'Motul' already exists → skipping.
 
-🔍 Processing client: Novo Nordisk
-✅ Found exact client 'Novo Nordisk' with mdId: 5cd3c71a-e631-4dbf-b53c-08fcd043614d
-ℹ️ Org-unit for 'Novo Nordisk' already exists → skipping.
+🔍 Processing client: Muthoot Finance
+✅ Found exact client 'Muthoot Finance' with mdId: 8b934025-3423-4ca3-974f-add8583f18cc
+ℹ️ Org-unit for 'Muthoot Finance' already exists → skipping.
 
-🔍 Processing client: Qantas
-⚠️ No exact match found for 'Qantas'. Closest API hit: Qantas Airways
+🔍 Processing client: Muthoot Fincorp
+✅ Found exact client 'Muthoot Fincorp' with mdId: e8dfe614-ce6a-427e-98e0-9e12080beaef
+ℹ️ Org-unit for 'Muthoot Fincorp' already exists → skipping.
 
-🔍 Processing client: Royal Swinkels
-✅ Found exact client 'Royal Swinkels' with mdId: 1c0d1f94-4e87-47f3-8ed9-a15979bd4574
-✅ Successfully created org-unit for 'Royal Swinkels' → LIVE
+🔍 Processing client: MYK Laticrete
+✅ Found exact client 'MYK Laticrete' with mdId: 5e892f68-22d9-4d50-92eb-637dd63c3903
+ℹ️ Org-unit for 'MYK Laticrete' already exists → skipping.
 
-🔍 Processing client: SK-II
-✅ Found exact client 'SK-II' with mdId: ee27df11-f788-444e-80f6-bc2a0ec085b1
-✅ Successfully created org-unit for 'SK-II' → LIVE
+🔍 Processing client: Myntra
+✅ Found exact client 'Myntra' with mdId: b3f90c31-7f29-476a-aef7-c0a2936123eb
+ℹ️ Org-unit for 'Myntra' already exists → skipping.
 
-🔍 Processing client: Tempur
-⚠️ No exact match found for 'Tempur'. Closest API hit: TEMPUR Pedic
+🔍 Processing client: Nambisans Dairy
+✅ Found exact client 'Nambisans Dairy' with mdId: f7f1676a-6375-48e4-9009-ed99b9fa3752
+ℹ️ Org-unit for 'Nambisans Dairy' already exists → skipping.
 
-🔍 Processing client: Volkswagen AG
-✅ Found exact client 'Volkswagen AG' with mdId: 41aecbb5-04f7-46fe-8d4c-45c3d69bdf19
-ℹ️ Org-unit for 'Volkswagen AG' already exists → skipping.
+🔍 Processing client: Netflix
+✅ Found exact client 'Netflix' with mdId: 971389ae-9e40-4225-a652-64543cd94685
+ℹ️ Org-unit for 'Netflix' already exists → skipping.
+
+🔍 Processing client: Nippon Paint
+✅ Found exact client 'Nippon Paint' with mdId: 461538f6-02c8-49af-a654-8ca006ca4d93
+ℹ️ Org-unit for 'Nippon Paint' already exists → skipping.
+
+🔍 Processing client: Niva Bupa Health Insurance
+✅ Found exact client 'Niva Bupa Health Insurance' with mdId: 979f2c70-9c5b-4e0e-9fa4-cc163024b6b0
+ℹ️ Org-unit for 'Niva Bupa Health Insurance' already exists → skipping.
+
+🔍 Processing client: NPCI
+✅ Found exact client 'NPCI' with mdId: 759405db-3b79-4fdd-9e30-56073f4c29ea
+ℹ️ Org-unit for 'NPCI' already exists → skipping.
+
+🔍 Processing client: Nykaa
+✅ Found exact client 'Nykaa' with mdId: 2e37930e-3626-4555-9787-87a658ee86be
+ℹ️ Org-unit for 'Nykaa' already exists → skipping.
+
+🔍 Processing client: Oppo
+⚠️ No exact match found for 'Oppo'. Closest API hit: European Opportunities Trust
+
+🔍 Processing client: Orkla
+✅ Found exact client 'Orkla' with mdId: 2c748351-00fe-4e32-8d92-32125cb75774
+ℹ️ Org-unit for 'Orkla' already exists → skipping.
+
+🔍 Processing client: Paragon Polymer Products
+✅ Found exact client 'Paragon Polymer Products' with mdId: 146d5bff-dcef-4c08-aef2-8594af377cf4
+ℹ️ Org-unit for 'Paragon Polymer Products' already exists → skipping.
+
+🔍 Processing client: Parle Products
+✅ Found exact client 'Parle Products' with mdId: eba1b162-026c-4930-8993-1f808b135d4d
+ℹ️ Org-unit for 'Parle Products' already exists → skipping.
+
+🔍 Processing client: Pb Fintech Limited
+✅ Found exact client 'Pb Fintech Limited' with mdId: d0b526f4-75f1-484e-912d-be9381dede54
+ℹ️ Org-unit for 'Pb Fintech Limited' already exists → skipping.
+
+🔍 Processing client: Perfetti Van Melle
+✅ Found exact client 'Perfetti Van Melle' with mdId: 5e94eaa6-806d-4cb1-845a-87047ea4aa77
+ℹ️ Org-unit for 'Perfetti Van Melle' already exists → skipping.
+
+🔍 Processing client: Pernod Ricard
+✅ Found exact client 'Pernod Ricard' with mdId: 33530b84-2c21-4431-b10b-dcc89b703f3c
+ℹ️ Org-unit for 'Pernod Ricard' already exists → skipping.
+
+🔍 Processing client: Pine Labs
+✅ Found exact client 'Pine Labs' with mdId: 38521553-feae-4d10-8729-f3cf9317d417
+ℹ️ Org-unit for 'Pine Labs' already exists → skipping.
+
+🔍 Processing client: Pizza Hut
+✅ Found exact client 'Pizza Hut' with mdId: 1cea0b85-5803-4c82-a4e9-d7a943b4d6fb
+ℹ️ Org-unit for 'Pizza Hut' already exists → skipping.
+
+🔍 Processing client: Platinum Guild
+✅ Found exact client 'Platinum Guild' with mdId: 129b06f2-cb51-41c3-a0ad-2a754b806cbc
+ℹ️ Org-unit for 'Platinum Guild' already exists → skipping.
+
+🔍 Processing client: Play Games 24X7
+✅ Found exact client 'Play Games 24X7' with mdId: 2d0c9fdf-e649-425d-bac0-8fcc161c8ab5
+ℹ️ Org-unit for 'Play Games 24X7' already exists → skipping.
+
+🔍 Processing client: Preethi Kitchen Appliances
+✅ Found exact client 'Preethi Kitchen Appliances' with mdId: 0f3591b8-6e14-4c3a-acf3-599a54482a9e
+ℹ️ Org-unit for 'Preethi Kitchen Appliances' already exists → skipping.
+
+🔍 Processing client: Prism Johnson
+✅ Found exact client 'Prism Johnson' with mdId: 97fef29a-fca7-4998-8ff1-30f1503b15e1
+ℹ️ Org-unit for 'Prism Johnson' already exists → skipping.
+
+🔍 Processing client: Pulkit Metals
+✅ Found exact client 'Pulkit Metals' with mdId: 410a5fbf-259f-49db-bf2c-4d35b3856727
+ℹ️ Org-unit for 'Pulkit Metals' already exists → skipping.
+
+🔍 Processing client: Radico Khaitan
+✅ Found exact client 'Radico Khaitan' with mdId: cc1bfb64-1ce1-443e-8138-21380fda9821
+ℹ️ Org-unit for 'Radico Khaitan' already exists → skipping.
+
+🔍 Processing client: Reckitt
+✅ Found exact client 'Reckitt' with mdId: c72f6660-2956-4b8a-88a6-879491c1b4f2
+ℹ️ Org-unit for 'Reckitt' already exists → skipping.
+
+🔍 Processing client: Red Bull
+✅ Found exact client 'Red Bull' with mdId: f507357e-b6b5-4bb6-a7a9-a9fcdf2a7da4
+ℹ️ Org-unit for 'Red Bull' already exists → skipping.
+
+🔍 Processing client: RKSV Securities
+✅ Found exact client 'RKSV Securities' with mdId: 4a21d1d8-7aa4-4a10-9c9f-d3db3f13924e
+ℹ️ Org-unit for 'RKSV Securities' already exists → skipping.
+
+🔍 Processing client: Roche Diabetes Care
+✅ Found exact client 'Roche Diabetes Care' with mdId: f56e656d-f465-43ec-86ab-bfa88ad09780
+ℹ️ Org-unit for 'Roche Diabetes Care' already exists → skipping.
+
+🔍 Processing client: Rolex
+✅ Found exact client 'Rolex' with mdId: 53d68caa-18eb-4e36-87d9-82deaff23ba6
+ℹ️ Org-unit for 'Rolex' already exists → skipping.
+
+🔍 Processing client: Roppen Transportation Services
+✅ Found exact client 'Roppen Transportation Services' with mdId: ad8daaff-2940-4d87-aeb3-4975cca2ace9
+ℹ️ Org-unit for 'Roppen Transportation Services' already exists → skipping.
+
+🔍 Processing client: Saint Gobain
+✅ Found exact client 'Saint Gobain' with mdId: 26c93613-4cf1-4816-9e6a-825f0189f85f
+ℹ️ Org-unit for 'Saint Gobain' already exists → skipping.
+
+🔍 Processing client: Sarvocca Industries
+✅ Found exact client 'Sarvocca Industries' with mdId: 633086ab-39f5-4a2c-9b1d-fb1e019a3dd4
+ℹ️ Org-unit for 'Sarvocca Industries' already exists → skipping.
+
+🔍 Processing client: SBI Life Insurance
+✅ Found exact client 'SBI Life Insurance' with mdId: e864e674-8b83-46c1-b2c5-126f0c5c027d
+ℹ️ Org-unit for 'SBI Life Insurance' already exists → skipping.
+
+🔍 Processing client: Schneider Electric
+✅ Found exact client 'Schneider Electric' with mdId: c8fea7b2-cdcc-4c52-a2ee-2b0b2f20180b
+ℹ️ Org-unit for 'Schneider Electric' already exists → skipping.
+
+🔍 Processing client: Senco Gold
+✅ Found exact client 'Senco Gold' with mdId: facc6d58-d8a1-4df8-94dc-ffdc600c27f6
+ℹ️ Org-unit for 'Senco Gold' already exists → skipping.
+
+🔍 Processing client: SG Mart
+✅ Found exact client 'SG Mart' with mdId: c2a622d8-ec10-40e0-9c13-17bd4191c9d2
+ℹ️ Org-unit for 'SG Mart' already exists → skipping.
+
+🔍 Processing client: Shree Cement
+✅ Found exact client 'Shree Cement' with mdId: edbe1b01-ea9a-49b5-8741-09da8f1506ce
+ℹ️ Org-unit for 'Shree Cement' already exists → skipping.
+
+🔍 Processing client: Shriram Life Insurance
+✅ Found exact client 'Shriram Life Insurance' with mdId: 319f8413-a0ee-40d2-bff2-013a3453d6d1
+ℹ️ Org-unit for 'Shriram Life Insurance' already exists → skipping.
+
+🔍 Processing client: Skipper
+✅ Found exact client 'Skipper' with mdId: 893cd82c-f7a7-4f2e-ab6e-64e2b06423cb
+ℹ️ Org-unit for 'Skipper' already exists → skipping.
+
+🔍 Processing client: SMFG India Credit Company
+✅ Found exact client 'SMFG India Credit Company' with mdId: 674ed985-7a81-4c69-b107-a22fdd2c8058
+ℹ️ Org-unit for 'SMFG India Credit Company' already exists → skipping.
+
+🔍 Processing client: SNJ Sugars And Products
+✅ Found exact client 'SNJ Sugars And Products' with mdId: 31bb9bfa-b015-448e-8d8a-5a83b1fe431a
+ℹ️ Org-unit for 'SNJ Sugars And Products' already exists → skipping.
+
+🔍 Processing client: Specsmakers Opticians
+✅ Found exact client 'Specsmakers Opticians' with mdId: 9ae7385c-dd29-4069-a10a-3f2cc675304a
+ℹ️ Org-unit for 'Specsmakers Opticians' already exists → skipping.
+
+🔍 Processing client: Sporta Technologies
+✅ Found exact client 'Sporta Technologies' with mdId: 6dd138b1-330f-4c07-8d9f-db38d35a264d
+ℹ️ Org-unit for 'Sporta Technologies' already exists → skipping.
+
+🔍 Processing client: Tata Asset Management
+✅ Found exact client 'Tata Asset Management' with mdId: 9c794334-75f3-4a29-9e48-3638c823a515
+ℹ️ Org-unit for 'Tata Asset Management' already exists → skipping.
+
+🔍 Processing client: Tata Consumer Products
+✅ Found exact client 'Tata Consumer Products' with mdId: 0e64c328-028b-44e7-b97d-f1d9ce1e3d90
+ℹ️ Org-unit for 'Tata Consumer Products' already exists → skipping.
+
+🔍 Processing client: Tata Play
+✅ Found exact client 'Tata Play' with mdId: bc924ff3-c390-4a3d-ad9b-8fe2a41b0df0
+ℹ️ Org-unit for 'Tata Play' already exists → skipping.
+
+🔍 Processing client: Tata Steel
+✅ Found exact client 'Tata Steel' with mdId: b4dab4b5-3117-4da8-b587-1e208d7bd8e4
+ℹ️ Org-unit for 'Tata Steel' already exists → skipping.
+
+🔍 Processing client: Tatvartha Health
+✅ Found exact client 'Tatvartha Health' with mdId: e6885701-7ce7-4b33-ba33-d5da37e95869
+ℹ️ Org-unit for 'Tatvartha Health' already exists → skipping.
+
+🔍 Processing client: The South Indian Bank
+✅ Found exact client 'The South Indian Bank' with mdId: b08f44e6-82c1-49ad-948a-a5988cc96913
+ℹ️ Org-unit for 'The South Indian Bank' already exists → skipping.
+
+🔍 Processing client: Tribhovandas Bhimji Zaveri
+✅ Found exact client 'Tribhovandas Bhimji Zaveri' with mdId: 8cf3a642-dfe0-45f9-8d57-0b689af70978
+ℹ️ Org-unit for 'Tribhovandas Bhimji Zaveri' already exists → skipping.
+
+🔍 Processing client: Uber
+✅ Found exact client 'Uber' with mdId: dcc90247-4fc4-4fdd-9c7f-2826da7b3aee
+ℹ️ Org-unit for 'Uber' already exists → skipping.
+
+🔍 Processing client: Ultratech Cement
+✅ Found exact client 'Ultratech Cement' with mdId: 4ebe7aa3-c836-4e58-aadd-9fbe0a2115f6
+ℹ️ Org-unit for 'Ultratech Cement' already exists → skipping.
+
+🔍 Processing client: UNICEF
+✅ Found exact client 'UNICEF' with mdId: 9f423587-42a8-4642-8370-74afa8dfd941
+ℹ️ Org-unit for 'UNICEF' already exists → skipping.
+
+🔍 Processing client: Unicharm
+✅ Found exact client 'Unicharm' with mdId: c85316e9-5820-4446-bd1b-7fa57677c947
+ℹ️ Org-unit for 'Unicharm' already exists → skipping.
+
+🔍 Processing client: Usha International
+✅ Found exact client 'Usha International' with mdId: 21f090ed-6d5c-4f6f-8554-e221ecb31ec6
+ℹ️ Org-unit for 'Usha International' already exists → skipping.
+
+🔍 Processing client: USV Pharma
+✅ Found exact client 'USV Pharma' with mdId: 187bd1f5-70f8-4879-a0c5-7bc28e618086
+ℹ️ Org-unit for 'USV Pharma' already exists → skipping.
+
+🔍 Processing client: Vectus Industries
+✅ Found exact client 'Vectus Industries' with mdId: ef1e0b17-9dd8-4cd1-a3c0-cc9ad3cb970a
+ℹ️ Org-unit for 'Vectus Industries' already exists → skipping.
+
+🔍 Processing client: Veeba Foods
+✅ Found exact client 'Veeba Foods' with mdId: 9673c561-f157-4c2c-8ed3-a0198cd425b2
+ℹ️ Org-unit for 'Veeba Foods' already exists → skipping.
+
+🔍 Processing client: Vivo
+✅ Found exact client 'Vivo' with mdId: 02be2b17-b10e-4c9d-a14a-ad4d19f9ae19
+ℹ️ Org-unit for 'Vivo' already exists → skipping.
+
+🔍 Processing client: Vodafone Idea
+✅ Found exact client 'Vodafone Idea' with mdId: 321d5ed3-9939-412c-ba2a-ca0c3a2187dd
+ℹ️ Org-unit for 'Vodafone Idea' already exists → skipping.
+
+🔍 Processing client: Warner Bros. Discovery
+✅ Found exact client 'Warner Bros. Discovery' with mdId: 6733b542-96f0-4d47-9863-105ab660e428
+ℹ️ Org-unit for 'Warner Bros. Discovery' already exists → skipping.
+
+🔍 Processing client: Way2News
+✅ Found exact client 'Way2News' with mdId: 2957fa0e-7efb-4cb0-a180-941525d3c527
+ℹ️ Org-unit for 'Way2News' already exists → skipping.
+
+🔍 Processing client: Win Medicare
+✅ Found exact client 'Win Medicare' with mdId: 2e5f7000-bd9c-4c54-8eeb-374aa0cd07b2
+ℹ️ Org-unit for 'Win Medicare' already exists → skipping.
+
+🔍 Processing client: Winzo Games
+✅ Found exact client 'Winzo Games' with mdId: b2458682-be30-44f6-b88a-4aee30c72aee
+ℹ️ Org-unit for 'Winzo Games' already exists → skipping.
+
+🔍 Processing client: World Gold Council
+✅ Found exact client 'World Gold Council' with mdId: 7975be02-7629-492c-b23d-be8dd8dd7db4
+ℹ️ Org-unit for 'World Gold Council' already exists → skipping.
 
 🔍 Processing client: Xiaomi
 ✅ Found exact client 'Xiaomi' with mdId: 96aa0d16-5284-42b6-a4c5-ff42301b1fcc
 ℹ️ Org-unit for 'Xiaomi' already exists → skipping.
+
+🔍 Processing client: Yamaha
+✅ Found exact client 'Yamaha' with mdId: b6a9f867-a626-42e0-a187-1cef132fd67f
+ℹ️ Org-unit for 'Yamaha' already exists → skipping.
+
+🔍 Processing client: Zee Entertainment
+✅ Found exact client 'Zee Entertainment' with mdId: a5b53f88-b4cc-4347-a896-63effd2a1f42
+ℹ️ Org-unit for 'Zee Entertainment' already exists → skipping.
+
+🔍 Processing client: Zepto
+✅ Found exact client 'Zepto' with mdId: 5822d35f-276e-4fbc-9fd1-2c42ec444234
+ℹ️ Org-unit for 'Zepto' already exists → skipping.
+
+🔍 Processing client: Zomato
+✅ Found exact client 'Zomato' with mdId: 079474b7-9b29-444c-a79b-973f28797518
+ℹ️ Org-unit for 'Zomato' already exists → skipping.
+
+🔍 Processing client: Zydus Healthcare
+✅ Found exact client 'Zydus Healthcare' with mdId: bdbddf2e-d8d6-4bd0-b6d5-2ab67fd7d290
+ℹ️ Org-unit for 'Zydus Healthcare' already exists → skipping.
+
+🔍 Processing client: Zydus Wellness
+✅ Found exact client 'Zydus Wellness' with mdId: 9a865cba-f62a-4048-8cc9-68aeefbde2a0
+ℹ️ Org-unit for 'Zydus Wellness' already exists → skipping.

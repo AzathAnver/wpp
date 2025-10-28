@@ -5,6 +5,31 @@ import logging
 from dotenv import load_dotenv
 import os
 from typing import Optional, Dict, Any
+import sys
+import json
+from collections import deque
+
+import requests
+from dotenv import load_dotenv
+import pandas as pd
+
+# Define output file path
+OUTPUT_FILE_PATH = r"C:\Users\Azath.A\os\adduser\output\output.txt"
+
+# Open the output file
+output_file = open(OUTPUT_FILE_PATH, "w", encoding="utf-8")
+
+# Optional: Keep printing to console AND file
+_original_print = print
+
+def print(*args, **kwargs):
+    # Print to console
+    _original_print(*args, **kwargs)
+    # Print to file
+    sep = kwargs.get("sep", " ")
+    end = kwargs.get("end", "\n")
+    output_file.write(sep.join(map(str, args)) + end)
+    output_file.flush() 
 
 
 # --- Setup environment ---
@@ -178,3 +203,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+output_file.close()

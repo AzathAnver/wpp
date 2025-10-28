@@ -1,0 +1,34 @@
+market,client,brand,category,error_message
+India,Daily Thanti,Daily Thanti,ENTERTAINMENT & MEDIA,Brand 'Daily Thanti' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Daily Thanti')
+India,Kellogg's,Kelloggs Ragi Chocos,FOOD,Brand 'Kelloggs Ragi Chocos' with category 'FOOD' not found under market 'India' (client 'Kellogg's')
+India,Kotak Mahindra,Kotak Mahindra 811 Ac,FINANCE,Brand 'Kotak Mahindra 811 Ac' with category 'FINANCE' not found under market 'India' (client 'Kotak Mahindra')
+India,Linkedin,Linkedin,ENTERTAINMENT & MEDIA,Brand 'Linkedin' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Linkedin')
+India,Mondel?z International,Cadburys 5 Star,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Celebrations,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Chocobakes Cakes,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Chocobakes Cookies,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Chocolate,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Crispello,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Lickables,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Silk,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Silk Desserts Brownie,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Dairy Milk Silk Heart Blush,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Fuse,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Gems,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Oreo,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Oreo Pokemon,FOOD,Client not found: Mondel?z International
+India,Mondel?z International,Cadburys Perk,FOOD,Client not found: Mondel?z International
+India,Mother Dairy,Mother Dairy,ORGANIZATIONS & ASSOCIATIONS,Brand 'Mother Dairy' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'Mother Dairy')
+India,Myntra,Myntra,FASHION,Brand 'Myntra' with category 'FASHION' not found under market 'India' (client 'Myntra')
+India,NPCI,NPCI,FINANCE,Brand 'NPCI' with category 'FINANCE' not found under market 'India' (client 'NPCI')
+India,Netflix,Netflix,ENTERTAINMENT & MEDIA,Brand 'Netflix' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Netflix')
+India,Nippon Paint,Nippon Paint,HOUSEHOLD ITEMS,Brand 'Nippon Paint' with category 'HOUSEHOLD ITEMS' not found under market 'India' (client 'Nippon Paint')
+India,Oppo,OPPO A77,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Oppo,OPPO Find N2 Flip,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Oppo,OPPO Reno10 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Oppo,OPPO Reno7 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Oppo,OPPO Reno8 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Oppo,OPPO Smartphone,CONSUMER ELECTRONICS,Client not found: Oppo
+India,Tata Play,Tata Play,ENTERTAINMENT & MEDIA,Brand 'Tata Play' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Tata Play')
+India,World Gold Council,World Gold Council,ORGANIZATIONS & ASSOCIATIONS,Brand 'World Gold Council' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'World Gold Council')
+India,Zydus Wellness,Everyuth Golden Glow Peel Off,PERSONAL CARE,Brand 'Everyuth Golden Glow Peel Off' with category 'PERSONAL CARE' not found under market 'India' (client 'Zydus Wellness')

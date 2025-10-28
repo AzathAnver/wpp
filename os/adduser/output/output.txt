@@ -1,0 +1,630 @@
+2025-10-28 17:33:45,433 - INFO - Processing Row 1: Group='﻿Client Name', User='User Email'
+2025-10-28 17:33:46,226 - WARNING - Row 1: Group '﻿Client Name' not found. Skipping.
+2025-10-28 17:33:46,226 - INFO - Processing Row 2: Group='Abdulla Al Masaood and Sons', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:33:50,795 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 6bb9db0b-ead5-4625-b47c-f8f3c3113cda
+2025-10-28 17:33:50,795 - INFO - Processing Row 3: Group='Abdulla Al Masaood and Sons', User='abdallah.alaywan@mindshareworld.com'
+2025-10-28 17:33:56,100 - INFO - ✅ Successfully assigned abdallah.alaywan@mindshareworld.com to group 6bb9db0b-ead5-4625-b47c-f8f3c3113cda
+2025-10-28 17:33:56,100 - INFO - Processing Row 4: Group='Abu Dhabi Government Media Office', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:34:01,901 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group eccb37b6-3f9b-4c16-aa5a-17e64973cb7b
+2025-10-28 17:34:01,901 - INFO - Processing Row 5: Group='Abu Dhabi Government Media Office', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:34:06,720 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group eccb37b6-3f9b-4c16-aa5a-17e64973cb7b
+2025-10-28 17:34:06,720 - INFO - Processing Row 6: Group='Abu Shakra', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:34:11,737 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 691aa3d5-78e0-48b6-904b-e5d57e7323a8
+2025-10-28 17:34:11,737 - INFO - Processing Row 7: Group='Abu Shakra', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:34:17,102 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 691aa3d5-78e0-48b6-904b-e5d57e7323a8
+2025-10-28 17:34:17,102 - INFO - Processing Row 8: Group='Ahmad Tea', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:34:21,602 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 8265bd2b-2001-4da6-9252-e0c76fac39b4
+2025-10-28 17:34:21,602 - INFO - Processing Row 9: Group='Ahmad Tea', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:34:26,851 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 8265bd2b-2001-4da6-9252-e0c76fac39b4
+2025-10-28 17:34:26,851 - INFO - Processing Row 10: Group='Ahmad Tea', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:34:31,834 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group 8265bd2b-2001-4da6-9252-e0c76fac39b4
+2025-10-28 17:34:31,834 - INFO - Processing Row 11: Group='Al Futtaim', User='raed.hariz@mindshareworld.com'
+2025-10-28 17:34:36,750 - INFO - ✅ Successfully assigned raed.hariz@mindshareworld.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:34:36,750 - INFO - Processing Row 12: Group='Al Futtaim', User='jineesh.kattil@keyade.com'
+2025-10-28 17:34:41,943 - INFO - ✅ Successfully assigned jineesh.kattil@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:34:41,943 - INFO - Processing Row 13: Group='Al Futtaim', User='naveen.kumar@keyade.com'
+2025-10-28 17:34:46,240 - INFO - ✅ Successfully assigned naveen.kumar@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:34:46,241 - INFO - Processing Row 14: Group='Al Futtaim', User='Bashar.Mourad@keyade.com'
+2025-10-28 17:34:51,615 - INFO - ✅ Successfully assigned Bashar.Mourad@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:34:51,615 - INFO - Processing Row 15: Group='Al Futtaim', User='safaa.nebbate@keyade.com'
+2025-10-28 17:34:56,626 - INFO - ✅ Successfully assigned safaa.nebbate@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:34:56,626 - INFO - Processing Row 16: Group='Al Futtaim', User='Benjamin.kalinda@keyade.com'
+2025-10-28 17:35:01,361 - INFO - ✅ Successfully assigned Benjamin.kalinda@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:35:01,362 - INFO - Processing Row 17: Group='Al Futtaim', User='Anjana.murali@keyade.com'
+2025-10-28 17:35:05,859 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:35:05,859 - INFO - Processing Row 18: Group='Al Futtaim', User='laura.gleadhill@keyade.com'
+2025-10-28 17:35:12,057 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 8aa27929-94f8-4482-9519-a4522009b689
+2025-10-28 17:35:12,057 - INFO - Processing Row 19: Group='Al Masaood Automobiles', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:35:17,290 - INFO - Row 19: Searching users by username fragment: 'waseem.aldada'
+2025-10-28 17:35:18,042 - INFO - Row 19: Found potential match: waseem.aldada@essencemediacom.com
+2025-10-28 17:35:18,522 - INFO - ✅ Successfully assigned waseem.aldada@essencemediacom.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:18,523 - INFO - Processing Row 20: Group='Al Masaood Automobiles', User='zeid.nahhas@wppmedia.com'
+2025-10-28 17:35:22,423 - INFO - Row 20: Searching users by username fragment: 'zeid.nahhas'
+2025-10-28 17:35:23,179 - INFO - Row 20: Found potential match: zeid.nahhas@essencemediacom.com
+2025-10-28 17:35:23,620 - INFO - ✅ Successfully assigned zeid.nahhas@essencemediacom.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:23,620 - INFO - Processing Row 21: Group='Al Masaood Automobiles', User='zenia.shibu@wppmedia.com'
+2025-10-28 17:35:27,634 - INFO - Row 21: Searching users by username fragment: 'zenia.shibu'
+2025-10-28 17:35:28,543 - INFO - Row 21: Found potential match: zenia.shibu@essencemediacom.com
+2025-10-28 17:35:28,971 - INFO - ✅ Successfully assigned zenia.shibu@essencemediacom.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:28,971 - INFO - Processing Row 22: Group='Al Masaood Automobiles', User='sohail.khan@wppmedia.com'
+2025-10-28 17:35:33,590 - INFO - Row 22: Searching users by username fragment: 'sohail.khan'
+2025-10-28 17:35:34,457 - INFO - Row 22: Found potential match: sohail.khan@essencemediacom.com
+2025-10-28 17:35:34,877 - INFO - ✅ Successfully assigned sohail.khan@essencemediacom.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:34,877 - INFO - Row 22: Found potential match: sohail.khan@groupm.com
+2025-10-28 17:35:35,270 - INFO - ✅ Successfully assigned sohail.khan@groupm.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:35,271 - INFO - Processing Row 23: Group='Al Masaood Automobiles', User='lynn.choucair@wppmedia.com'
+2025-10-28 17:35:43,010 - INFO - Row 23: Searching users by username fragment: 'lynn.choucair'
+2025-10-28 17:35:43,770 - WARNING - Row 23: No users found for username 'lynn.choucair'
+2025-10-28 17:35:43,770 - INFO - Processing Row 24: Group='Al Masaood Automobiles', User='ali.mallah@wppmedia.com'
+2025-10-28 17:35:49,023 - INFO - Row 24: Searching users by username fragment: 'ali.mallah'
+2025-10-28 17:35:49,803 - INFO - Row 24: Found potential match: ali.mallah@groupm.com
+2025-10-28 17:35:50,260 - INFO - ✅ Successfully assigned ali.mallah@groupm.com to group f3cda94a-b7c4-4cc8-b1de-0ed4a6ed01b0
+2025-10-28 17:35:50,260 - INFO - Processing Row 25: Group='Al Taghziyah', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:35:55,224 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 2d678c8b-4691-4db4-aa95-af323aa3d239
+2025-10-28 17:35:55,224 - INFO - Processing Row 26: Group='Al Taghziyah', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:35:59,631 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 2d678c8b-4691-4db4-aa95-af323aa3d239
+2025-10-28 17:35:59,631 - INFO - Processing Row 27: Group='Aldar', User='joana.marques@mindshareworld.com'
+2025-10-28 17:36:04,409 - INFO - ✅ Successfully assigned joana.marques@mindshareworld.com to group fc2f3ada-d1d6-4f65-82e0-877212d5eee1
+2025-10-28 17:36:04,409 - INFO - Processing Row 28: Group='Aldar', User='aron.lim@groupm.com'
+2025-10-28 17:36:08,869 - INFO - ✅ Successfully assigned aron.lim@groupm.com to group fc2f3ada-d1d6-4f65-82e0-877212d5eee1
+2025-10-28 17:36:08,869 - INFO - Processing Row 29: Group='Aldar', User='spurgeon.scott@mindshareworld.com'
+2025-10-28 17:36:21,378 - INFO - ✅ Successfully assigned spurgeon.scott@mindshareworld.com to group fc2f3ada-d1d6-4f65-82e0-877212d5eee1
+2025-10-28 17:36:21,378 - INFO - Processing Row 30: Group='Aldar', User='maria.elhajj@groupm.com'
+2025-10-28 17:36:25,801 - INFO - ✅ Successfully assigned maria.elhajj@groupm.com to group fc2f3ada-d1d6-4f65-82e0-877212d5eee1
+2025-10-28 17:36:25,801 - INFO - Processing Row 31: Group='American University of Beirut', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:36:30,608 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group fcab80fe-ec53-45a5-96d0-5020c6d2ee5f
+2025-10-28 17:36:30,608 - INFO - Processing Row 32: Group='American University of Beirut', User='christina.maalouf@mindshareworld.com'
+2025-10-28 17:36:35,024 - INFO - ✅ Successfully assigned christina.maalouf@mindshareworld.com to group fcab80fe-ec53-45a5-96d0-5020c6d2ee5f
+2025-10-28 17:36:35,024 - INFO - Processing Row 33: Group='American University of Beirut', User='karim.kanso@mindshareworld.com'
+2025-10-28 17:36:39,737 - INFO - ✅ Successfully assigned karim.kanso@mindshareworld.com to group fcab80fe-ec53-45a5-96d0-5020c6d2ee5f
+2025-10-28 17:36:39,737 - INFO - Processing Row 34: Group='Americana Foods', User='camelia.haddadi@mindshareworld.com'
+2025-10-28 17:36:44,811 - INFO - ✅ Successfully assigned camelia.haddadi@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:36:44,812 - INFO - Processing Row 35: Group='Americana Foods', User='mohammed.bentaleb@mindshareworld.com'
+2025-10-28 17:36:49,697 - INFO - ✅ Successfully assigned mohammed.bentaleb@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:36:49,697 - INFO - Processing Row 36: Group='Americana Foods', User='yasmine.bennani@mindshareworld.com'
+2025-10-28 17:36:54,359 - INFO - ✅ Successfully assigned yasmine.bennani@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:36:54,360 - INFO - Processing Row 37: Group='Americana Foods', User='safia.bennani@mindshareworld.com'
+2025-10-28 17:36:58,245 - INFO - ✅ Successfully assigned safia.bennani@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:36:58,245 - INFO - Processing Row 38: Group='Americana Foods', User='soufiane.bougarmah@mindshareworld.com'
+2025-10-28 17:37:02,675 - INFO - Row 38: Searching users by username fragment: 'soufiane.bougarmah'
+2025-10-28 17:37:03,651 - WARNING - Row 38: No users found for username 'soufiane.bougarmah'
+2025-10-28 17:37:03,651 - INFO - Processing Row 39: Group='Americana Foods', User='ikram.ajmady@mindshareworld.com'
+2025-10-28 17:37:08,458 - INFO - ✅ Successfully assigned ikram.ajmady@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:37:08,458 - INFO - Processing Row 40: Group='Americana Foods', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:37:13,792 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:37:13,792 - INFO - Processing Row 41: Group='Americana Foods', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:37:18,413 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 1f260125-1a9a-4dfe-81fc-72f5adecda2c
+2025-10-28 17:37:18,424 - INFO - Processing Row 42: Group='Arab Bank', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:37:23,537 - INFO - ✅ Successfully assigned tatyana.zakari@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:23,537 - INFO - Processing Row 43: Group='Arab Bank', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:37:28,387 - INFO - ✅ Successfully assigned khadija.elbekkar@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:28,387 - INFO - Processing Row 44: Group='Arab Bank', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:37:33,187 - INFO - ✅ Successfully assigned saad.benmansour@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:33,194 - INFO - Processing Row 45: Group='Arab Bank', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:37:37,973 - INFO - ✅ Successfully assigned hassania.salahi@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:37,973 - INFO - Processing Row 46: Group='Arab Bank', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:37:42,787 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:42,787 - INFO - Processing Row 47: Group='Arab Bank', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:37:47,116 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:47,116 - INFO - Processing Row 48: Group='Arab Bank', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:37:51,853 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:51,869 - INFO - Processing Row 49: Group='Arab Bank', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:37:56,366 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 6738f290-49ab-457f-8ca6-9f590931099b
+2025-10-28 17:37:56,366 - INFO - Processing Row 50: Group='Artscoops', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:38:00,889 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group 7c8b80a7-57de-47bd-b7d5-e1dc22d73e39
+2025-10-28 17:38:00,889 - INFO - Processing Row 51: Group='Artscoops', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:38:05,452 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 7c8b80a7-57de-47bd-b7d5-e1dc22d73e39
+2025-10-28 17:38:05,452 - INFO - Processing Row 52: Group='Australian University', User='ahlam.marwan@mindshareworld.com'
+2025-10-28 17:38:10,093 - INFO - ✅ Successfully assigned ahlam.marwan@mindshareworld.com to group 7727f163-7862-4fdf-a140-5f54751ba163
+2025-10-28 17:38:10,093 - INFO - Processing Row 53: Group='Barakat', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:38:14,649 - INFO - Row 53: Searching users by username fragment: 'pathum.wanigasekara'
+2025-10-28 17:38:15,409 - WARNING - Row 53: No users found for username 'pathum.wanigasekara'
+2025-10-28 17:38:15,409 - INFO - Processing Row 54: Group='Barakat', User='simone.letts@keyade.com'
+2025-10-28 17:38:19,517 - INFO - Row 54: Searching users by username fragment: 'simone.letts'
+2025-10-28 17:38:20,374 - INFO - Row 54: Found potential match: simone.letts@groupm.com
+2025-10-28 17:38:20,774 - INFO - ✅ Successfully assigned simone.letts@groupm.com to group 09196cbd-d4f2-4fc1-b184-25020596f00a
+2025-10-28 17:38:20,774 - INFO - Processing Row 55: Group='Barakat', User='Bashar.Mourad@keyade.com'
+2025-10-28 17:38:25,410 - INFO - ✅ Successfully assigned Bashar.Mourad@keyade.com to group 09196cbd-d4f2-4fc1-b184-25020596f00a
+2025-10-28 17:38:25,410 - INFO - Processing Row 56: Group='Barakat', User='Anjana.murali@keyade.com'
+2025-10-28 17:38:31,055 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 09196cbd-d4f2-4fc1-b184-25020596f00a
+2025-10-28 17:38:31,055 - INFO - Processing Row 57: Group='Barakat', User='laura.gleadhill@keyade.com'
+2025-10-28 17:38:35,743 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 09196cbd-d4f2-4fc1-b184-25020596f00a
+2025-10-28 17:38:35,743 - INFO - Processing Row 58: Group='Bose', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:38:39,637 - INFO - Row 58: Searching users by username fragment: 'waseem.aldada'
+2025-10-28 17:38:40,396 - INFO - Row 58: Found potential match: waseem.aldada@essencemediacom.com
+2025-10-28 17:38:40,839 - INFO - ✅ Successfully assigned waseem.aldada@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:38:40,839 - INFO - Processing Row 59: Group='Bose', User='elias.odeh@wppmedia.com'
+2025-10-28 17:38:45,278 - INFO - Row 59: Searching users by username fragment: 'elias.odeh'
+2025-10-28 17:38:46,090 - INFO - Row 59: Found potential match: elias.odeh@essencemediacom.com
+2025-10-28 17:38:46,504 - INFO - ✅ Successfully assigned elias.odeh@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:38:46,504 - INFO - Processing Row 60: Group='Bose', User='samiah.arshad@wppmedia.com'
+2025-10-28 17:38:51,116 - INFO - Row 60: Searching users by username fragment: 'samiah.arshad'
+2025-10-28 17:38:52,341 - INFO - Row 60: Found potential match: samiah.arshad@mindshareworld.com
+2025-10-28 17:38:52,788 - INFO - ✅ Successfully assigned samiah.arshad@mindshareworld.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:38:52,798 - INFO - Row 60: Found potential match: samiah.arshad@essencemediacom.com
+2025-10-28 17:38:53,248 - INFO - ✅ Successfully assigned samiah.arshad@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:38:53,248 - INFO - Processing Row 61: Group='Bose', User='shamsa.alketbi@wppmedia.com'
+2025-10-28 17:38:58,600 - INFO - Row 61: Searching users by username fragment: 'shamsa.alketbi'
+2025-10-28 17:38:59,359 - INFO - Row 61: Found potential match: shamsa.alketbi@essencemediacom.com
+2025-10-28 17:38:59,853 - INFO - ✅ Successfully assigned shamsa.alketbi@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:38:59,853 - INFO - Processing Row 62: Group='Bose', User='sohail.khan@wppmedia.com'
+2025-10-28 17:39:04,274 - INFO - Row 62: Searching users by username fragment: 'sohail.khan'
+2025-10-28 17:39:05,041 - INFO - Row 62: Found potential match: sohail.khan@essencemediacom.com
+2025-10-28 17:39:05,518 - INFO - ✅ Successfully assigned sohail.khan@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:39:05,518 - INFO - Row 62: Found potential match: sohail.khan@groupm.com
+2025-10-28 17:39:05,944 - INFO - ✅ Successfully assigned sohail.khan@groupm.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:39:05,944 - INFO - Processing Row 63: Group='Bose', User='mohammad.ghalayini@wppmedia.com'
+2025-10-28 17:39:10,208 - INFO - Row 63: Searching users by username fragment: 'mohammad.ghalayini'
+2025-10-28 17:39:10,986 - INFO - Row 63: Found potential match: mohammad.ghalayini@wmglobal.com
+2025-10-28 17:39:11,412 - INFO - ✅ Successfully assigned mohammad.ghalayini@wmglobal.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:39:11,426 - INFO - Row 63: Found potential match: mohammad.ghalayini@essencemediacom.com
+2025-10-28 17:39:11,859 - INFO - ✅ Successfully assigned mohammad.ghalayini@essencemediacom.com to group 626664d9-7a0b-4e1c-9431-efe2dbd1eb37
+2025-10-28 17:39:11,859 - INFO - Processing Row 64: Group='Colgate', User='Anjana.murali@keyade.com'
+2025-10-28 17:39:14,885 - WARNING - Row 64: Group 'Colgate' not found. Skipping.
+2025-10-28 17:39:14,885 - INFO - Processing Row 65: Group='Colgate', User='laura.gleadhill@keyade.com'
+2025-10-28 17:39:18,125 - WARNING - Row 65: Group 'Colgate' not found. Skipping.
+2025-10-28 17:39:18,139 - INFO - Processing Row 66: Group='Dada Group', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:39:22,828 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group a04667d7-13ac-45b0-beff-12b49cab7174
+2025-10-28 17:39:22,828 - INFO - Processing Row 67: Group='Dada Group', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:39:27,240 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group a04667d7-13ac-45b0-beff-12b49cab7174
+2025-10-28 17:39:27,240 - INFO - Processing Row 68: Group='Dada Group', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:39:31,852 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group a04667d7-13ac-45b0-beff-12b49cab7174
+2025-10-28 17:39:31,852 - INFO - Processing Row 69: Group='EA Sports', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:39:36,289 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group 23bb7a4c-9277-4d26-8bf2-31499f0a5089
+2025-10-28 17:39:36,289 - INFO - Processing Row 70: Group='EA Sports', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:39:40,873 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group 23bb7a4c-9277-4d26-8bf2-31499f0a5089
+2025-10-28 17:39:40,873 - INFO - Processing Row 71: Group='EA Sports', User='mohamad.haidar@groupm.com'
+2025-10-28 17:39:45,400 - INFO - ✅ Successfully assigned mohamad.haidar@groupm.com to group 23bb7a4c-9277-4d26-8bf2-31499f0a5089
+2025-10-28 17:39:45,400 - INFO - Processing Row 72: Group='Earthlink', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:39:49,832 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group e1e1c19e-a52f-45e7-8eb6-a2d41a27b2af
+2025-10-28 17:39:49,832 - INFO - Processing Row 73: Group='Earthlink', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:39:54,309 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group e1e1c19e-a52f-45e7-8eb6-a2d41a27b2af
+2025-10-28 17:39:54,309 - INFO - Processing Row 74: Group='Earthlink', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:39:59,108 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group e1e1c19e-a52f-45e7-8eb6-a2d41a27b2af
+2025-10-28 17:39:59,108 - INFO - Processing Row 75: Group='Emirates', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:40:03,924 - INFO - Row 75: Searching users by username fragment: 'pathum.wanigasekara'
+2025-10-28 17:40:04,724 - WARNING - Row 75: No users found for username 'pathum.wanigasekara'
+2025-10-28 17:40:04,724 - INFO - Processing Row 76: Group='Emirates', User='Benjamin.kalinda@keyade.com'
+2025-10-28 17:40:09,534 - INFO - ✅ Successfully assigned Benjamin.kalinda@keyade.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:09,534 - INFO - Processing Row 77: Group='Emirates', User='naveen.kumar@keyade.com'
+2025-10-28 17:40:14,336 - INFO - ✅ Successfully assigned naveen.kumar@keyade.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:14,336 - INFO - Processing Row 78: Group='Emirates', User='raed.hariz@mindshareworld.com'
+2025-10-28 17:40:18,655 - INFO - ✅ Successfully assigned raed.hariz@mindshareworld.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:18,657 - INFO - Processing Row 79: Group='Emirates', User='safaa.nebbate@keyade.com'
+2025-10-28 17:40:23,449 - INFO - ✅ Successfully assigned safaa.nebbate@keyade.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:23,449 - INFO - Processing Row 80: Group='Emirates', User='Anjana.murali@keyade.com'
+2025-10-28 17:40:28,130 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:28,130 - INFO - Processing Row 81: Group='Emirates', User='laura.gleadhill@keyade.com'
+2025-10-28 17:40:32,523 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 2fc1d509-7087-4bc3-ba39-feba98c6b406
+2025-10-28 17:40:32,523 - INFO - Processing Row 82: Group='Estithmar Properties', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:40:37,559 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 58ca03df-8eb5-465b-b03c-f72e69df166c
+2025-10-28 17:40:37,559 - INFO - Processing Row 83: Group='Estithmar Properties', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:40:42,173 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 58ca03df-8eb5-465b-b03c-f72e69df166c
+2025-10-28 17:40:42,173 - INFO - Processing Row 84: Group='Estithmar Properties', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:40:46,495 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 58ca03df-8eb5-465b-b03c-f72e69df166c
+2025-10-28 17:40:46,495 - INFO - Processing Row 85: Group='Ethara', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:40:51,405 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group 9c0b794e-544e-4f9a-8522-1cb2cbf8ea7a
+2025-10-28 17:40:51,405 - INFO - Processing Row 86: Group='Ethara', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:40:56,289 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group 9c0b794e-544e-4f9a-8522-1cb2cbf8ea7a
+2025-10-28 17:40:56,289 - INFO - Processing Row 87: Group='Ethara', User='mohamad.haidar@groupm.com'
+2025-10-28 17:41:01,107 - INFO - ✅ Successfully assigned mohamad.haidar@groupm.com to group 9c0b794e-544e-4f9a-8522-1cb2cbf8ea7a
+2025-10-28 17:41:01,107 - INFO - Processing Row 88: Group='eXtra', User='karim.belouadi@keyade.com'
+2025-10-28 17:41:05,722 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group 595ee211-19bb-475b-a6ca-993b36d07e88
+2025-10-28 17:41:05,722 - INFO - Processing Row 89: Group='eXtra', User='Annas.khan@keyade.com'
+2025-10-28 17:41:10,008 - INFO - ✅ Successfully assigned Annas.khan@keyade.com to group 595ee211-19bb-475b-a6ca-993b36d07e88
+2025-10-28 17:41:10,008 - INFO - Processing Row 90: Group='eXtra', User='simone.letts@keyade.com'
+2025-10-28 17:41:14,455 - INFO - Row 90: Searching users by username fragment: 'simone.letts'
+2025-10-28 17:41:15,237 - INFO - Row 90: Found potential match: simone.letts@groupm.com
+2025-10-28 17:41:15,670 - INFO - ✅ Successfully assigned simone.letts@groupm.com to group 595ee211-19bb-475b-a6ca-993b36d07e88
+2025-10-28 17:41:15,670 - INFO - Processing Row 91: Group='eXtra', User='tala.elamine@keyade.com'
+2025-10-28 17:41:20,208 - INFO - Row 91: Searching users by username fragment: 'tala.elamine'
+2025-10-28 17:41:20,980 - WARNING - Row 91: No users found for username 'tala.elamine'
+2025-10-28 17:41:20,980 - INFO - Processing Row 92: Group='eXtra', User='Anjana.murali@keyade.com'
+2025-10-28 17:41:25,872 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 595ee211-19bb-475b-a6ca-993b36d07e88
+2025-10-28 17:41:25,872 - INFO - Processing Row 93: Group='eXtra', User='laura.gleadhill@keyade.com'
+2025-10-28 17:41:31,188 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 595ee211-19bb-475b-a6ca-993b36d07e88
+2025-10-28 17:41:31,188 - INFO - Processing Row 94: Group='Ferrero', User='ben.chadd@mindshareworld.com'
+2025-10-28 17:41:35,948 - INFO - ✅ Successfully assigned ben.chadd@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:35,948 - INFO - Processing Row 95: Group='Ferrero', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:41:40,432 - INFO - ✅ Successfully assigned tatyana.zakari@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:40,432 - INFO - Processing Row 96: Group='Ferrero', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:41:44,942 - INFO - ✅ Successfully assigned khadija.elbekkar@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:44,942 - INFO - Processing Row 97: Group='Ferrero', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:41:49,504 - INFO - ✅ Successfully assigned saad.benmansour@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:49,504 - INFO - Processing Row 98: Group='Ferrero', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:41:54,640 - INFO - ✅ Successfully assigned hassania.salahi@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:54,640 - INFO - Processing Row 99: Group='Ferrero', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:41:58,788 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:41:58,788 - INFO - Processing Row 100: Group='Ferrero', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:42:03,308 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:42:03,308 - INFO - Processing Row 101: Group='Ferrero', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:42:07,901 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group d40aa256-3e83-4fc2-8015-c62743abbf82
+2025-10-28 17:42:07,901 - INFO - Processing Row 102: Group='flynas', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:42:12,195 - INFO - Row 102: Searching users by username fragment: 'pathum.wanigasekara'
+2025-10-28 17:42:13,000 - WARNING - Row 102: No users found for username 'pathum.wanigasekara'
+2025-10-28 17:42:13,000 - INFO - Processing Row 103: Group='flynas', User='Eva.amer@keyade.com'
+2025-10-28 17:42:17,320 - INFO - Row 103: Searching users by username fragment: 'Eva.amer'
+2025-10-28 17:42:18,119 - WARNING - Row 103: No users found for username 'Eva.amer'
+2025-10-28 17:42:18,119 - INFO - Processing Row 104: Group='flynas', User='Bashar.Mourad@keyade.com'
+2025-10-28 17:42:22,918 - INFO - ✅ Successfully assigned Bashar.Mourad@keyade.com to group 984e2f59-09ac-44d7-9628-c7225d43dd1b
+2025-10-28 17:42:22,918 - INFO - Processing Row 105: Group='flynas', User='bashar.eid@keyade.com'
+2025-10-28 17:42:28,208 - INFO - ✅ Successfully assigned bashar.eid@keyade.com to group 984e2f59-09ac-44d7-9628-c7225d43dd1b
+2025-10-28 17:42:28,208 - INFO - Processing Row 106: Group='flynas', User='jineesh.kattil@keyade.com'
+2025-10-28 17:42:34,034 - INFO - ✅ Successfully assigned jineesh.kattil@keyade.com to group 984e2f59-09ac-44d7-9628-c7225d43dd1b
+2025-10-28 17:42:34,034 - INFO - Processing Row 107: Group='flynas', User='Anjana.murali@keyade.com'
+2025-10-28 17:42:38,053 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 984e2f59-09ac-44d7-9628-c7225d43dd1b
+2025-10-28 17:42:38,053 - INFO - Processing Row 108: Group='flynas', User='laura.gleadhill@keyade.com'
+2025-10-28 17:42:42,537 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 984e2f59-09ac-44d7-9628-c7225d43dd1b
+2025-10-28 17:42:42,537 - INFO - Processing Row 109: Group='Gandour', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:42:47,585 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 3c089884-e33b-461d-87fb-b5358313e501
+2025-10-28 17:42:47,585 - INFO - Processing Row 110: Group='Gandour', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:42:52,852 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group 3c089884-e33b-461d-87fb-b5358313e501
+2025-10-28 17:42:52,852 - INFO - Processing Row 111: Group='Gargour Fils & Co', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:42:57,321 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 9d91e202-0bec-4745-acc2-cf06852bbcce
+2025-10-28 17:42:57,321 - INFO - Processing Row 112: Group='Gargour Fils & Co', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:43:01,907 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 9d91e202-0bec-4745-acc2-cf06852bbcce
+2025-10-28 17:43:01,907 - INFO - Processing Row 113: Group='Gargour Fils & Co', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:43:06,701 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 9d91e202-0bec-4745-acc2-cf06852bbcce
+2025-10-28 17:43:06,702 - INFO - Processing Row 114: Group='GIG', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:43:11,645 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 907f8dce-e8f3-4f69-8949-c6a2db02d679
+2025-10-28 17:43:11,645 - INFO - Processing Row 115: Group='GIG', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:43:16,623 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 907f8dce-e8f3-4f69-8949-c6a2db02d679
+2025-10-28 17:43:16,623 - INFO - Processing Row 116: Group='GIG', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:43:21,604 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 907f8dce-e8f3-4f69-8949-c6a2db02d679
+2025-10-28 17:43:21,604 - INFO - Processing Row 117: Group='Gulf Bank', User='simi.joy@groupm.com'
+2025-10-28 17:43:26,174 - INFO - ✅ Successfully assigned simi.joy@groupm.com to group 2f33d75c-00b1-4a7b-9009-30b804b7f256
+2025-10-28 17:43:26,174 - INFO - Processing Row 118: Group='Gulf Bank', User='soha.ashmar@groupm.com'
+2025-10-28 17:43:31,121 - INFO - ✅ Successfully assigned soha.ashmar@groupm.com to group 2f33d75c-00b1-4a7b-9009-30b804b7f256
+2025-10-28 17:43:31,121 - INFO - Processing Row 119: Group='Gulf Bank', User='dana.saidi@groupm.com'
+2025-10-28 17:43:35,959 - INFO - ✅ Successfully assigned dana.saidi@groupm.com to group 2f33d75c-00b1-4a7b-9009-30b804b7f256
+2025-10-28 17:43:35,959 - INFO - Processing Row 120: Group='Honor', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:43:40,259 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group c4144716-289b-44ab-ac68-60c435c7b533
+2025-10-28 17:43:40,259 - INFO - Processing Row 121: Group='Honor', User='zainab.emad@mindshareworld.com'
+2025-10-28 17:43:44,946 - INFO - ✅ Successfully assigned zainab.emad@mindshareworld.com to group c4144716-289b-44ab-ac68-60c435c7b533
+2025-10-28 17:43:44,946 - INFO - Processing Row 122: Group='Honor', User='fahad.esam@mindshareworld.com'
+2025-10-28 17:43:49,271 - INFO - ✅ Successfully assigned fahad.esam@mindshareworld.com to group c4144716-289b-44ab-ac68-60c435c7b533
+2025-10-28 17:43:49,271 - INFO - Processing Row 123: Group='Huawei', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:43:54,089 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group 39de5410-73c9-4e1a-ae2e-ac5c48ef8633
+2025-10-28 17:43:54,089 - INFO - Processing Row 124: Group='Huawei', User='zainab.emad@mindshareworld.com'
+2025-10-28 17:43:59,551 - INFO - ✅ Successfully assigned zainab.emad@mindshareworld.com to group 39de5410-73c9-4e1a-ae2e-ac5c48ef8633
+2025-10-28 17:43:59,551 - INFO - Processing Row 125: Group='Huawei', User='fahad.esam@mindshareworld.com'
+2025-10-28 17:44:04,325 - INFO - ✅ Successfully assigned fahad.esam@mindshareworld.com to group 39de5410-73c9-4e1a-ae2e-ac5c48ef8633
+2025-10-28 17:44:04,325 - INFO - Processing Row 126: Group='Huawei', User='sarah.hamdan@mindshareworld.com'
+2025-10-28 17:44:09,106 - INFO - ✅ Successfully assigned sarah.hamdan@mindshareworld.com to group 39de5410-73c9-4e1a-ae2e-ac5c48ef8633
+2025-10-28 17:44:09,106 - INFO - Processing Row 127: Group='Huawei', User='soha.ashmar@groupm.com'
+2025-10-28 17:44:14,292 - INFO - ✅ Successfully assigned soha.ashmar@groupm.com to group 39de5410-73c9-4e1a-ae2e-ac5c48ef8633
+2025-10-28 17:44:14,292 - INFO - Processing Row 128: Group='IHG', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:44:18,794 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group 1334e150-2dec-4130-85cd-5c28ed85f9cf
+2025-10-28 17:44:18,794 - INFO - Processing Row 129: Group='IHG', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:44:23,527 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group 1334e150-2dec-4130-85cd-5c28ed85f9cf
+2025-10-28 17:44:23,527 - INFO - Processing Row 130: Group='IHG', User='mohamad.haidar@groupm.com'
+2025-10-28 17:44:28,128 - INFO - ✅ Successfully assigned mohamad.haidar@groupm.com to group 1334e150-2dec-4130-85cd-5c28ed85f9cf
+2025-10-28 17:44:28,129 - INFO - Processing Row 131: Group='Ikea', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:44:32,694 - INFO - Row 131: Searching users by username fragment: 'waseem.aldada'
+2025-10-28 17:44:33,851 - INFO - Row 131: Found potential match: waseem.aldada@essencemediacom.com
+2025-10-28 17:44:34,273 - INFO - ✅ Successfully assigned waseem.aldada@essencemediacom.com to group 7403f81b-03f5-4d0e-b3d3-62471701c189
+2025-10-28 17:44:34,283 - INFO - Processing Row 132: Group='IM Motors', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:44:39,021 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 714c9ad5-7e83-41e5-991a-2a0989402cdc
+2025-10-28 17:44:39,021 - INFO - Processing Row 133: Group='IM Motors', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:44:43,867 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 714c9ad5-7e83-41e5-991a-2a0989402cdc
+2025-10-28 17:44:43,867 - INFO - Processing Row 134: Group='IM Motors', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:44:49,247 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 714c9ad5-7e83-41e5-991a-2a0989402cdc
+2025-10-28 17:44:49,247 - INFO - Processing Row 135: Group='International Development Bank', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:44:54,180 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group b6a684ce-9cd1-4514-93c1-42d9508246ff
+2025-10-28 17:44:54,180 - INFO - Processing Row 136: Group='International Development Bank', User='saja.hicham@mindshareworld.com'
+2025-10-28 17:44:59,171 - INFO - ✅ Successfully assigned saja.hicham@mindshareworld.com to group b6a684ce-9cd1-4514-93c1-42d9508246ff
+2025-10-28 17:44:59,171 - INFO - Processing Row 137: Group='International Islamic Arab Bank', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:45:04,013 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 4393f9d9-c392-474c-9179-f827ca9f45ac
+2025-10-28 17:45:04,013 - INFO - Processing Row 138: Group='International Islamic Arab Bank', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:45:08,536 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 4393f9d9-c392-474c-9179-f827ca9f45ac
+2025-10-28 17:45:08,536 - INFO - Processing Row 139: Group='International Islamic Arab Bank', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:45:13,417 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 4393f9d9-c392-474c-9179-f827ca9f45ac
+2025-10-28 17:45:13,417 - INFO - Processing Row 140: Group='Izzat Marji and Sons Company', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:45:19,307 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group fd32cfd3-e0ab-4f33-a526-da9498a79443
+2025-10-28 17:45:19,307 - INFO - Processing Row 141: Group='Izzat Marji and Sons Company', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:45:24,017 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group fd32cfd3-e0ab-4f33-a526-da9498a79443
+2025-10-28 17:45:24,017 - INFO - Processing Row 142: Group='Izzat Marji and Sons Company', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:45:28,394 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group fd32cfd3-e0ab-4f33-a526-da9498a79443
+2025-10-28 17:45:28,394 - INFO - Processing Row 143: Group='LC', User='Benjamin.kalinda@keyade.com'
+2025-10-28 17:45:32,337 - WARNING - Row 143: Group 'LC' not found. Skipping.
+2025-10-28 17:45:32,337 - INFO - Processing Row 144: Group='LC', User='tala.elamine@keyade.com'
+2025-10-28 17:45:36,260 - WARNING - Row 144: Group 'LC' not found. Skipping.
+2025-10-28 17:45:36,260 - INFO - Processing Row 145: Group='LC', User='leen.alatallah@keyade.com'
+2025-10-28 17:45:39,038 - WARNING - Row 145: Group 'LC' not found. Skipping.
+2025-10-28 17:45:39,038 - INFO - Processing Row 146: Group='LC', User='Anjana.murali@keyade.com'
+2025-10-28 17:45:42,306 - WARNING - Row 146: Group 'LC' not found. Skipping.
+2025-10-28 17:45:42,306 - INFO - Processing Row 147: Group='LC', User='laura.gleadhill@keyade.com'
+2025-10-28 17:45:45,471 - WARNING - Row 147: Group 'LC' not found. Skipping.
+2025-10-28 17:45:45,471 - INFO - Processing Row 148: Group='Legal & General', User='brendan.cunningham@mindshareworld.com'
+2025-10-28 17:45:49,992 - INFO - ✅ Successfully assigned brendan.cunningham@mindshareworld.com to group 1ba4803d-ea09-4d34-92b6-12bbc3a4b298
+2025-10-28 17:45:49,992 - INFO - Processing Row 149: Group='Lexus', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:45:56,247 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 60df2af1-d932-4e19-a3e1-51002f3e092d
+2025-10-28 17:45:56,247 - INFO - Processing Row 150: Group='Lexus', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:46:01,101 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 60df2af1-d932-4e19-a3e1-51002f3e092d
+2025-10-28 17:46:01,101 - INFO - Processing Row 151: Group='Lexus', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:46:06,071 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group 60df2af1-d932-4e19-a3e1-51002f3e092d
+2025-10-28 17:46:06,071 - INFO - Processing Row 152: Group='Liwa Stores', User='omar.shehadeh@keyade.com'
+2025-10-28 17:46:06,571 - WARNING - Row 152: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:06,571 - INFO - Processing Row 153: Group='Liwa Stores', User='simone.letts@keyade.com'
+2025-10-28 17:46:07,071 - WARNING - Row 153: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:07,071 - INFO - Processing Row 154: Group='Liwa Stores', User='Eva.amer@keyade.com'
+2025-10-28 17:46:07,928 - WARNING - Row 154: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:07,928 - INFO - Processing Row 155: Group='Liwa Stores', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:46:08,452 - WARNING - Row 155: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:08,452 - INFO - Processing Row 156: Group='Liwa Stores', User='Anjana.murali@keyade.com'
+2025-10-28 17:46:08,934 - WARNING - Row 156: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:08,944 - INFO - Processing Row 157: Group='Liwa Stores', User='laura.gleadhill@keyade.com'
+2025-10-28 17:46:09,560 - WARNING - Row 157: Group 'Liwa Stores' not found. Skipping.
+2025-10-28 17:46:09,560 - INFO - Processing Row 158: Group='Lufthansa', User='ben.chadd@mindshareworld.com'
+2025-10-28 17:46:14,558 - INFO - ✅ Successfully assigned ben.chadd@mindshareworld.com to group f3ad491f-31df-43b6-8a45-9c0f8279b899
+2025-10-28 17:46:14,558 - INFO - Processing Row 159: Group='LV=', User='omobolaji.okenla@mindshareworld.com'
+2025-10-28 17:46:20,049 - INFO - ✅ Successfully assigned omobolaji.okenla@mindshareworld.com to group 7bc99507-0a7d-4b1c-80c8-5440cf398bfb
+2025-10-28 17:46:20,049 - INFO - Processing Row 160: Group='Marks and Spencer', User='ben.hancock@mindshareworld.com'
+2025-10-28 17:46:24,699 - INFO - ✅ Successfully assigned ben.hancock@mindshareworld.com to group 4d905e9f-fc65-42b5-8ff5-051f282cc3dc
+2025-10-28 17:46:24,699 - INFO - Processing Row 161: Group='Marks and Spencer', User='omobolaji.okenla@mindshareworld.com'
+2025-10-28 17:46:29,832 - INFO - ✅ Successfully assigned omobolaji.okenla@mindshareworld.com to group 4d905e9f-fc65-42b5-8ff5-051f282cc3dc
+2025-10-28 17:46:29,832 - INFO - Processing Row 162: Group='Mondelez International', User='yassamine.bounagui@mindshareworld.com'
+2025-10-28 17:46:34,134 - INFO - Row 162: Searching users by username fragment: 'yassamine.bounagui'
+2025-10-28 17:46:34,904 - INFO - Row 162: Found potential match: yassamine.bounagui@groupm.com
+2025-10-28 17:46:35,322 - INFO - ✅ Successfully assigned yassamine.bounagui@groupm.com to group 5dc969ae-2f74-4157-ae8b-28f3fc60d2c9
+2025-10-28 17:46:35,323 - INFO - Processing Row 163: Group='Mondelez International', User='meryem.khechani@groupm.com'
+2025-10-28 17:46:39,690 - INFO - ✅ Successfully assigned meryem.khechani@groupm.com to group 5dc969ae-2f74-4157-ae8b-28f3fc60d2c9
+2025-10-28 17:46:39,690 - INFO - Processing Row 164: Group='Mondelez International', User='reda.bennani@groupm.com'
+2025-10-28 17:46:45,187 - INFO - ✅ Successfully assigned reda.bennani@groupm.com to group 5dc969ae-2f74-4157-ae8b-28f3fc60d2c9
+2025-10-28 17:46:45,187 - INFO - Processing Row 165: Group='NICE', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:46:49,440 - INFO - Row 165: Searching users by username fragment: 'pathum.wanigasekara'
+2025-10-28 17:46:50,230 - WARNING - Row 165: No users found for username 'pathum.wanigasekara'
+2025-10-28 17:46:50,230 - INFO - Processing Row 166: Group='NICE', User='Anjana.murali@keyade.com'
+2025-10-28 17:46:55,513 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group ce6cebd1-3cd3-46f7-a4e8-4cff1c5b61b3
+2025-10-28 17:46:55,513 - INFO - Processing Row 167: Group='NICE', User='laura.gleadhill@keyade.com'
+2025-10-28 17:47:00,219 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group ce6cebd1-3cd3-46f7-a4e8-4cff1c5b61b3
+2025-10-28 17:47:00,220 - INFO - Processing Row 168: Group='Nuqul Group', User='rana.elayyan@mindshareworld.com'
+2025-10-28 17:47:04,652 - INFO - ✅ Successfully assigned rana.elayyan@mindshareworld.com to group 25f25c61-8ae6-4824-a878-058d5f15a482
+2025-10-28 17:47:04,652 - INFO - Processing Row 169: Group='Nuqul Group', User='sameeh.dawerji@mindshareworld.com'
+2025-10-28 17:47:09,154 - INFO - ✅ Successfully assigned sameeh.dawerji@mindshareworld.com to group 25f25c61-8ae6-4824-a878-058d5f15a482
+2025-10-28 17:47:09,154 - INFO - Processing Row 170: Group='Nuqul Group', User='jafar.abualhaj@mindshareworld.com'
+2025-10-28 17:47:14,904 - INFO - ✅ Successfully assigned jafar.abualhaj@mindshareworld.com to group 25f25c61-8ae6-4824-a878-058d5f15a482
+2025-10-28 17:47:14,904 - INFO - Processing Row 171: Group='OLX', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:47:19,814 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group 8da551a1-234b-42ef-a387-721ce4576366
+2025-10-28 17:47:19,814 - INFO - Processing Row 172: Group='OLX', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:47:24,549 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 8da551a1-234b-42ef-a387-721ce4576366
+2025-10-28 17:47:24,549 - INFO - Processing Row 173: Group='Ora', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:47:28,971 - INFO - Row 173: Searching users by username fragment: 'waseem.aldada'
+2025-10-28 17:47:29,741 - INFO - Row 173: Found potential match: waseem.aldada@essencemediacom.com
+2025-10-28 17:47:30,171 - INFO - ✅ Successfully assigned waseem.aldada@essencemediacom.com to group 1b8bb0a1-59a3-4537-8435-fdaf6c3e1184
+2025-10-28 17:47:30,174 - INFO - Processing Row 174: Group='Ora', User='toqa.mohamed@wppmedia.com'
+2025-10-28 17:47:34,226 - INFO - Row 174: Searching users by username fragment: 'toqa.mohamed'
+2025-10-28 17:47:34,998 - INFO - Row 174: Found potential match: toqa.mohamed@essencemediacom.com
+2025-10-28 17:47:35,460 - INFO - ✅ Successfully assigned toqa.mohamed@essencemediacom.com to group 1b8bb0a1-59a3-4537-8435-fdaf6c3e1184
+2025-10-28 17:47:35,460 - INFO - Processing Row 175: Group='Ora', User='malak.elfeky@wppmedia.com'
+2025-10-28 17:47:40,218 - INFO - Row 175: Searching users by username fragment: 'malak.elfeky'
+2025-10-28 17:47:40,988 - INFO - Row 175: Found potential match: malak.elfeky@essencemediacom.com
+2025-10-28 17:47:41,436 - INFO - ✅ Successfully assigned malak.elfeky@essencemediacom.com to group 1b8bb0a1-59a3-4537-8435-fdaf6c3e1184
+2025-10-28 17:47:41,436 - INFO - Processing Row 176: Group='Ora', User='sohail.khan@wppmedia.com'
+2025-10-28 17:47:45,857 - INFO - Row 176: Searching users by username fragment: 'sohail.khan'
+2025-10-28 17:47:46,616 - INFO - Row 176: Found potential match: sohail.khan@groupm.com
+2025-10-28 17:47:47,024 - INFO - ✅ Successfully assigned sohail.khan@groupm.com to group 1b8bb0a1-59a3-4537-8435-fdaf6c3e1184
+2025-10-28 17:47:47,024 - INFO - Row 176: Found potential match: sohail.khan@essencemediacom.com
+2025-10-28 17:47:47,502 - INFO - ✅ Successfully assigned sohail.khan@essencemediacom.com to group 1b8bb0a1-59a3-4537-8435-fdaf6c3e1184
+2025-10-28 17:47:47,502 - INFO - Processing Row 177: Group='Ora', User='lynn.choucair@wppmedia.com'
+2025-10-28 17:47:52,657 - INFO - Row 177: Searching users by username fragment: 'lynn.choucair'
+2025-10-28 17:47:53,421 - WARNING - Row 177: No users found for username 'lynn.choucair'
+2025-10-28 17:47:53,421 - INFO - Processing Row 178: Group='Pet's Delight', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:47:54,075 - WARNING - Row 178: Group 'Pet's Delight' not found. Skipping.
+2025-10-28 17:47:54,075 - INFO - Processing Row 179: Group='Pet's Delight', User='Bashar.Mourad@keyade.com'
+2025-10-28 17:47:54,602 - WARNING - Row 179: Group 'Pet's Delight' not found. Skipping.
+2025-10-28 17:47:54,602 - INFO - Processing Row 180: Group='Pet's Delight', User='naveen.kumar@keyade.com'
+2025-10-28 17:47:54,993 - ERROR - Error searching group 'Pet's Delight': 500 Server Error: Internal Server Error for url: https://media.os.wpp.com/api/tenants/4c039217-7d17-4207-8314-98348983718a/groups?page=1&itemsPerPage=50&sort=name&filter%5Bsearch%5D=Pet%27s%20Delight
+2025-10-28 17:47:54,993 - WARNING - Row 180: Group 'Pet's Delight' not found. Skipping.
+2025-10-28 17:47:54,993 - INFO - Processing Row 181: Group='Pet's Delight', User='Anjana.murali@keyade.com'
+2025-10-28 17:47:55,533 - WARNING - Row 181: Group 'Pet's Delight' not found. Skipping.
+2025-10-28 17:47:55,533 - INFO - Processing Row 182: Group='Pet's Delight', User='laura.gleadhill@keyade.com'
+2025-10-28 17:47:56,044 - WARNING - Row 182: Group 'Pet's Delight' not found. Skipping.
+2025-10-28 17:47:56,044 - INFO - Processing Row 183: Group='Qiddiya Investment Company', User='Shadir.Ashraf@wppmedia.com'
+2025-10-28 17:47:56,590 - WARNING - Row 183: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:56,590 - INFO - Processing Row 184: Group='Qiddiya Investment Company', User='alia.arnous-mc@wppmedia.com'
+2025-10-28 17:47:57,087 - WARNING - Row 184: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:57,087 - INFO - Processing Row 185: Group='Qiddiya Investment Company', User='farah.ayoubi@essencemediacom.com'
+2025-10-28 17:47:58,132 - WARNING - Row 185: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:58,132 - INFO - Processing Row 186: Group='Qiddiya Investment Company', User='kareem.salhab@groupm.com'
+2025-10-28 17:47:58,641 - WARNING - Row 186: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:58,656 - INFO - Processing Row 187: Group='Qiddiya Investment Company', User='ahmad.youssef@groupm.com'
+2025-10-28 17:47:59,285 - WARNING - Row 187: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:59,285 - INFO - Processing Row 188: Group='Qiddiya Investment Company', User='bayan.sammour@groupm.com'
+2025-10-28 17:47:59,815 - WARNING - Row 188: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:47:59,815 - INFO - Processing Row 189: Group='Qiddiya Investment Company', User='gurdeep.matharu@wppmedia.com'
+2025-10-28 17:48:00,320 - WARNING - Row 189: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:48:00,320 - INFO - Processing Row 190: Group='Qiddiya Investment Company', User='rodrigo.trevino@groupm.com'
+2025-10-28 17:48:00,843 - WARNING - Row 190: Group 'Qiddiya Investment Company' not found. Skipping.
+2025-10-28 17:48:00,843 - INFO - Processing Row 191: Group='Quintessentially', User='karim.belouadi@keyade.com'
+2025-10-28 17:48:10,851 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group 8f45922d-d6b3-49a9-b65c-8042c7c06dd9
+2025-10-28 17:48:10,851 - INFO - Processing Row 192: Group='Quintessentially', User='bashar.eid@keyade.com'
+2025-10-28 17:48:15,603 - INFO - ✅ Successfully assigned bashar.eid@keyade.com to group 8f45922d-d6b3-49a9-b65c-8042c7c06dd9
+2025-10-28 17:48:15,603 - INFO - Processing Row 193: Group='Quintessentially', User='leen.alatallah@keyade.com'
+2025-10-28 17:48:21,605 - INFO - ✅ Successfully assigned leen.alatallah@keyade.com to group 8f45922d-d6b3-49a9-b65c-8042c7c06dd9
+2025-10-28 17:48:21,605 - INFO - Processing Row 194: Group='Quintessentially', User='Anjana.murali@keyade.com'
+2025-10-28 17:48:37,340 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 8f45922d-d6b3-49a9-b65c-8042c7c06dd9
+2025-10-28 17:48:37,340 - INFO - Processing Row 195: Group='Quintessentially', User='laura.gleadhill@keyade.com'
+2025-10-28 17:48:42,041 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 8f45922d-d6b3-49a9-b65c-8042c7c06dd9
+2025-10-28 17:48:42,041 - INFO - Processing Row 196: Group='RIU Hotels', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:48:46,935 - INFO - ✅ Successfully assigned tatyana.zakari@mindshareworld.com to group 383c21d3-c301-40e5-aff2-d3e00730d075
+2025-10-28 17:48:46,935 - INFO - Processing Row 197: Group='RIU Hotels', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:48:51,702 - INFO - ✅ Successfully assigned khadija.elbekkar@mindshareworld.com to group 383c21d3-c301-40e5-aff2-d3e00730d075
+2025-10-28 17:48:51,702 - INFO - Processing Row 198: Group='RIU Hotels', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:48:57,190 - INFO - ✅ Successfully assigned saad.benmansour@mindshareworld.com to group 383c21d3-c301-40e5-aff2-d3e00730d075
+2025-10-28 17:48:57,190 - INFO - Processing Row 199: Group='RIU Hotels', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:49:01,486 - INFO - ✅ Successfully assigned hassania.salahi@mindshareworld.com to group 383c21d3-c301-40e5-aff2-d3e00730d075
+2025-10-28 17:49:01,486 - INFO - Processing Row 200: Group='Rolex', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:49:15,659 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group a6464db2-a476-4a9c-bce0-a8377e3abf45
+2025-10-28 17:49:15,659 - INFO - Processing Row 201: Group='Rolex', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:49:20,380 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group a6464db2-a476-4a9c-bce0-a8377e3abf45
+2025-10-28 17:49:20,395 - INFO - Processing Row 202: Group='Rolex', User='mohamad.haidar@groupm.com'
+2025-10-28 17:49:25,282 - INFO - ✅ Successfully assigned mohamad.haidar@groupm.com to group a6464db2-a476-4a9c-bce0-a8377e3abf45
+2025-10-28 17:49:25,282 - INFO - Processing Row 203: Group='Royal Air Maroc', User='karim.belouadi@keyade.com'
+2025-10-28 17:49:29,433 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:29,433 - INFO - Processing Row 204: Group='Royal Air Maroc', User='Annas.khan@keyade.com'
+2025-10-28 17:49:35,387 - INFO - ✅ Successfully assigned Annas.khan@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:35,387 - INFO - Processing Row 205: Group='Royal Air Maroc', User='bashar.eid@keyade.com'
+2025-10-28 17:49:40,832 - INFO - ✅ Successfully assigned bashar.eid@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:40,832 - INFO - Processing Row 206: Group='Royal Air Maroc', User='omar.shehadeh@keyade.com'
+2025-10-28 17:49:45,639 - INFO - ✅ Successfully assigned omar.shehadeh@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:45,639 - INFO - Processing Row 207: Group='Royal Air Maroc', User='Anjana.murali@keyade.com'
+2025-10-28 17:49:50,973 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:50,973 - INFO - Processing Row 208: Group='Royal Air Maroc', User='laura.gleadhill@keyade.com'
+2025-10-28 17:49:55,808 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 02a9592c-0d15-42db-b05f-63211b48d999
+2025-10-28 17:49:55,808 - INFO - Processing Row 209: Group='Sanipak', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:50:00,387 - INFO - ✅ Successfully assigned tatyana.zakari@mindshareworld.com to group 12aeafcd-e51e-47b1-b6d7-bf0f54ca60ff
+2025-10-28 17:50:00,387 - INFO - Processing Row 210: Group='Sanipak', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:50:04,831 - INFO - ✅ Successfully assigned khadija.elbekkar@mindshareworld.com to group 12aeafcd-e51e-47b1-b6d7-bf0f54ca60ff
+2025-10-28 17:50:04,831 - INFO - Processing Row 211: Group='Sanipak', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:50:09,485 - INFO - ✅ Successfully assigned saad.benmansour@mindshareworld.com to group 12aeafcd-e51e-47b1-b6d7-bf0f54ca60ff
+2025-10-28 17:50:09,485 - INFO - Processing Row 212: Group='Sanipak', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:50:14,206 - INFO - ✅ Successfully assigned hassania.salahi@mindshareworld.com to group 12aeafcd-e51e-47b1-b6d7-bf0f54ca60ff
+2025-10-28 17:50:14,206 - INFO - Processing Row 213: Group='Sanofi', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:50:20,308 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group 6a6c1f7e-7810-493f-927b-7aca01609565
+2025-10-28 17:50:20,308 - INFO - Processing Row 214: Group='Sanofi', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:50:24,739 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group 6a6c1f7e-7810-493f-927b-7aca01609565
+2025-10-28 17:50:24,739 - INFO - Processing Row 215: Group='Sanofi', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:50:35,013 - ERROR - Error searching group 'Sanofi': 500 Server Error: Internal Server Error for url: https://media.os.wpp.com/api/tenants/4c039217-7d17-4207-8314-98348983718a/groups?page=1&itemsPerPage=50&sort=name&filter%5Bsearch%5D=Sanofi
+2025-10-28 17:50:35,013 - WARNING - Row 215: Group 'Sanofi' not found. Skipping.
+2025-10-28 17:50:35,013 - INFO - Processing Row 216: Group='Sharjah Government Media Bureau', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:50:39,191 - INFO - Row 216: Searching users by username fragment: 'waseem.aldada'
+2025-10-28 17:50:40,018 - INFO - Row 216: Found potential match: waseem.aldada@essencemediacom.com
+2025-10-28 17:50:40,432 - INFO - ✅ Successfully assigned waseem.aldada@essencemediacom.com to group ff11d64f-7b45-47a9-9d14-a964a5206172
+2025-10-28 17:50:40,432 - INFO - Processing Row 217: Group='Sharjah Government Media Bureau', User='toqa.mohamed@wppmedia.com'
+2025-10-28 17:50:44,707 - INFO - Row 217: Searching users by username fragment: 'toqa.mohamed'
+2025-10-28 17:50:45,603 - INFO - Row 217: Found potential match: toqa.mohamed@essencemediacom.com
+2025-10-28 17:50:46,070 - INFO - ✅ Successfully assigned toqa.mohamed@essencemediacom.com to group ff11d64f-7b45-47a9-9d14-a964a5206172
+2025-10-28 17:50:46,070 - INFO - Processing Row 218: Group='Sharjah Government Media Bureau', User='malak.elfeky@wppmedia.com'
+2025-10-28 17:50:50,544 - INFO - Row 218: Searching users by username fragment: 'malak.elfeky'
+2025-10-28 17:50:51,323 - INFO - Row 218: Found potential match: malak.elfeky@essencemediacom.com
+2025-10-28 17:50:51,755 - INFO - ✅ Successfully assigned malak.elfeky@essencemediacom.com to group ff11d64f-7b45-47a9-9d14-a964a5206172
+2025-10-28 17:50:51,755 - INFO - Processing Row 219: Group='Sharjah Government Media Bureau', User='sohail.khan@wppmedia.com'
+2025-10-28 17:50:56,697 - INFO - Row 219: Searching users by username fragment: 'sohail.khan'
+2025-10-28 17:50:57,553 - INFO - Row 219: Found potential match: sohail.khan@essencemediacom.com
+2025-10-28 17:50:57,984 - INFO - ✅ Successfully assigned sohail.khan@essencemediacom.com to group ff11d64f-7b45-47a9-9d14-a964a5206172
+2025-10-28 17:50:57,984 - INFO - Row 219: Found potential match: sohail.khan@groupm.com
+2025-10-28 17:50:59,037 - INFO - ✅ Successfully assigned sohail.khan@groupm.com to group ff11d64f-7b45-47a9-9d14-a964a5206172
+2025-10-28 17:50:59,037 - INFO - Processing Row 220: Group='Sharjah Government Media Bureau', User='lynn.choucair@wppmedia.com'
+2025-10-28 17:51:04,194 - INFO - Row 220: Searching users by username fragment: 'lynn.choucair'
+2025-10-28 17:51:05,224 - WARNING - Row 220: No users found for username 'lynn.choucair'
+2025-10-28 17:51:05,224 - INFO - Processing Row 221: Group='Sté Nouvelle COSARNO', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:51:05,748 - WARNING - Row 221: Group 'Sté Nouvelle COSARNO' not found. Skipping.
+2025-10-28 17:51:05,763 - INFO - Processing Row 222: Group='Sté Nouvelle COSARNO', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:51:06,302 - WARNING - Row 222: Group 'Sté Nouvelle COSARNO' not found. Skipping.
+2025-10-28 17:51:06,302 - INFO - Processing Row 223: Group='Sté Nouvelle COSARNO', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:51:06,815 - WARNING - Row 223: Group 'Sté Nouvelle COSARNO' not found. Skipping.
+2025-10-28 17:51:06,815 - INFO - Processing Row 224: Group='Sté Nouvelle COSARNO', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:51:07,309 - WARNING - Row 224: Group 'Sté Nouvelle COSARNO' not found. Skipping.
+2025-10-28 17:51:07,309 - INFO - Processing Row 225: Group='Styli', User='karim.belouadi@keyade.com'
+2025-10-28 17:51:11,684 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group 3459371c-9520-4e89-a50c-90c9a76ab559
+2025-10-28 17:51:11,684 - INFO - Processing Row 226: Group='Styli', User='pathum.wanigasekara@keyade.com'
+2025-10-28 17:51:16,113 - INFO - Row 226: Searching users by username fragment: 'pathum.wanigasekara'
+2025-10-28 17:51:16,890 - WARNING - Row 226: No users found for username 'pathum.wanigasekara'
+2025-10-28 17:51:16,890 - INFO - Processing Row 227: Group='Styli', User='Annas.khan@keyade.com'
+2025-10-28 17:51:21,529 - INFO - ✅ Successfully assigned Annas.khan@keyade.com to group 3459371c-9520-4e89-a50c-90c9a76ab559
+2025-10-28 17:51:21,529 - INFO - Processing Row 228: Group='Styli', User='leen.alatallah@keyade.com'
+2025-10-28 17:51:26,357 - INFO - ✅ Successfully assigned leen.alatallah@keyade.com to group 3459371c-9520-4e89-a50c-90c9a76ab559
+2025-10-28 17:51:26,357 - INFO - Processing Row 229: Group='Styli', User='Anjana.murali@keyade.com'
+2025-10-28 17:51:31,200 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 3459371c-9520-4e89-a50c-90c9a76ab559
+2025-10-28 17:51:31,200 - INFO - Processing Row 230: Group='Styli', User='laura.gleadhill@keyade.com'
+2025-10-28 17:51:35,845 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 3459371c-9520-4e89-a50c-90c9a76ab559
+2025-10-28 17:51:35,845 - INFO - Processing Row 231: Group='Superdrug Stores', User='ben.chadd@mindshareworld.com'
+2025-10-28 17:51:40,470 - INFO - ✅ Successfully assigned ben.chadd@mindshareworld.com to group 2699bf67-f575-4bc9-91a6-a16d608c7133
+2025-10-28 17:51:40,470 - INFO - Processing Row 232: Group='Talabat', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:51:45,914 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group f7a3314d-2875-4b4f-ae37-592912609b2b
+2025-10-28 17:51:45,914 - INFO - Processing Row 233: Group='Talabat', User='zainab.emad@mindshareworld.com'
+2025-10-28 17:51:50,788 - INFO - ✅ Successfully assigned zainab.emad@mindshareworld.com to group f7a3314d-2875-4b4f-ae37-592912609b2b
+2025-10-28 17:51:50,788 - INFO - Processing Row 234: Group='Talabat', User='fahad.esam@mindshareworld.com'
+2025-10-28 17:51:55,465 - INFO - ✅ Successfully assigned fahad.esam@mindshareworld.com to group f7a3314d-2875-4b4f-ae37-592912609b2b
+2025-10-28 17:51:55,465 - INFO - Processing Row 235: Group='Taqeef', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:52:00,029 - INFO - ✅ Successfully assigned shahad.majeed@mindshareworld.com to group 23db7236-cddd-45cf-a85a-e96273db72e1
+2025-10-28 17:52:00,029 - INFO - Processing Row 236: Group='Taqeef', User='zainab.emad@mindshareworld.com'
+2025-10-28 17:52:04,640 - INFO - ✅ Successfully assigned zainab.emad@mindshareworld.com to group 23db7236-cddd-45cf-a85a-e96273db72e1
+2025-10-28 17:52:04,640 - INFO - Processing Row 237: Group='Taqeef', User='fahad.esam@mindshareworld.com'
+2025-10-28 17:52:09,558 - INFO - ✅ Successfully assigned fahad.esam@mindshareworld.com to group 23db7236-cddd-45cf-a85a-e96273db72e1
+2025-10-28 17:52:09,559 - INFO - Processing Row 238: Group='Tawuniya', User='karim.belouadi@keyade.com'
+2025-10-28 17:52:15,517 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:15,517 - INFO - Processing Row 239: Group='Tawuniya', User='jineesh.kattil@keyade.com'
+2025-10-28 17:52:19,682 - INFO - ✅ Successfully assigned jineesh.kattil@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:19,682 - INFO - Processing Row 240: Group='Tawuniya', User='Annas.khan@keyade.com'
+2025-10-28 17:52:24,646 - INFO - ✅ Successfully assigned Annas.khan@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:24,646 - INFO - Processing Row 241: Group='Tawuniya', User='leen.alatallah@keyade.com'
+2025-10-28 17:52:29,371 - INFO - ✅ Successfully assigned leen.alatallah@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:29,371 - INFO - Processing Row 242: Group='Tawuniya', User='Anjana.murali@keyade.com'
+2025-10-28 17:52:34,638 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:34,638 - INFO - Processing Row 243: Group='Tawuniya', User='laura.gleadhill@keyade.com'
+2025-10-28 17:52:39,327 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group 7b090f22-a272-4347-ab41-cae1132daea7
+2025-10-28 17:52:39,327 - INFO - Processing Row 244: Group='The Kuwait Danish Dairy Company', User='simi.joy@groupm.com'
+2025-10-28 17:52:44,220 - INFO - ✅ Successfully assigned simi.joy@groupm.com to group cb5b0501-e39b-47dc-9a53-10ce5eb6be11
+2025-10-28 17:52:44,220 - INFO - Processing Row 245: Group='The Kuwait Danish Dairy Company', User='ahlam.marwan@mindshareworld.com'
+2025-10-28 17:52:48,700 - INFO - ✅ Successfully assigned ahlam.marwan@mindshareworld.com to group cb5b0501-e39b-47dc-9a53-10ce5eb6be11
+2025-10-28 17:52:48,700 - INFO - Processing Row 246: Group='The Kuwait Danish Dairy Company', User='arjun.anaghan@mindshareworld.com'
+2025-10-28 17:52:53,890 - INFO - ✅ Successfully assigned arjun.anaghan@mindshareworld.com to group cb5b0501-e39b-47dc-9a53-10ce5eb6be11
+2025-10-28 17:52:53,890 - INFO - Processing Row 247: Group='TotalEnergies', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:52:57,976 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group e6416842-66d4-4825-b4f7-9abcf657807d
+2025-10-28 17:52:57,976 - INFO - Processing Row 248: Group='TotalEnergies', User='abdallah.alaywan@mindshareworld.com'
+2025-10-28 17:53:02,936 - INFO - ✅ Successfully assigned abdallah.alaywan@mindshareworld.com to group e6416842-66d4-4825-b4f7-9abcf657807d
+2025-10-28 17:53:02,936 - INFO - Processing Row 249: Group='Toyota', User='abdallah.sharbaji@mindshareworld.com'
+2025-10-28 17:53:08,091 - INFO - ✅ Successfully assigned abdallah.sharbaji@mindshareworld.com to group eda9944f-6bab-48e2-8328-1ff3a6e0c8b7
+2025-10-28 17:53:08,091 - INFO - Processing Row 250: Group='Toyota', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:53:12,521 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group eda9944f-6bab-48e2-8328-1ff3a6e0c8b7
+2025-10-28 17:53:12,521 - INFO - Processing Row 251: Group='Toyota', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:53:17,703 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group eda9944f-6bab-48e2-8328-1ff3a6e0c8b7
+2025-10-28 17:53:17,703 - INFO - Processing Row 252: Group='Transmed', User='ramzi.abaza@mindshareworld.com'
+2025-10-28 17:53:22,759 - INFO - ✅ Successfully assigned ramzi.abaza@mindshareworld.com to group 6570faa5-0740-4245-9308-59ffd8ad7847
+2025-10-28 17:53:22,759 - INFO - Processing Row 253: Group='Transmed', User='bassam.eldayekh@mindshareworld.com'
+2025-10-28 17:53:27,997 - INFO - ✅ Successfully assigned bassam.eldayekh@mindshareworld.com to group 6570faa5-0740-4245-9308-59ffd8ad7847
+2025-10-28 17:53:27,997 - INFO - Processing Row 254: Group='UAB', User='adil.hussain@mindshareworld.com'
+2025-10-28 17:53:33,070 - INFO - ✅ Successfully assigned adil.hussain@mindshareworld.com to group da70aa09-6dac-4207-8184-92e71e72bddd
+2025-10-28 17:53:33,070 - INFO - Processing Row 255: Group='UAB', User='mohamad.haidar@groupm.com'
+2025-10-28 17:53:37,936 - INFO - ✅ Successfully assigned mohamad.haidar@groupm.com to group da70aa09-6dac-4207-8184-92e71e72bddd
+2025-10-28 17:53:37,936 - INFO - Processing Row 256: Group='UAB', User='lucie.rudd@mindshareworld.com'
+2025-10-28 17:53:49,233 - INFO - ✅ Successfully assigned lucie.rudd@mindshareworld.com to group da70aa09-6dac-4207-8184-92e71e72bddd
+2025-10-28 17:53:49,233 - INFO - Processing Row 257: Group='Villa Maria', User='ben.chadd@mindshareworld.com'
+2025-10-28 17:53:53,348 - INFO - ✅ Successfully assigned ben.chadd@mindshareworld.com to group 1ec449a4-d63e-43f8-91d4-531644f053c1
+2025-10-28 17:53:53,348 - INFO - Processing Row 258: Group='Vodafone', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:53:56,729 - WARNING - Row 258: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:53:56,729 - INFO - Processing Row 259: Group='Vodafone', User='toqa.mohamed@wppmedia.com'
+2025-10-28 17:54:00,519 - WARNING - Row 259: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:54:00,519 - INFO - Processing Row 260: Group='Vodafone', User='malak.elfeky@wppmedia.com'
+2025-10-28 17:54:05,194 - WARNING - Row 260: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:54:05,194 - INFO - Processing Row 261: Group='Vodafone', User='sohail.khan@wppmedia.com'
+2025-10-28 17:54:08,153 - WARNING - Row 261: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:54:08,153 - INFO - Processing Row 262: Group='Vodafone', User='mohammad.ghalayini@wppmedia.com'
+2025-10-28 17:54:11,605 - WARNING - Row 262: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:54:11,605 - INFO - Processing Row 263: Group='Vodafone', User='elizabeth.joseph@wppmedia.com'
+2025-10-28 17:54:15,217 - WARNING - Row 263: Group 'Vodafone' not found. Skipping.
+2025-10-28 17:54:15,217 - INFO - Processing Row 264: Group='Xiamoi', User='waseem.aldada@wppmedia.com'
+2025-10-28 17:54:15,757 - WARNING - Row 264: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:15,757 - INFO - Processing Row 265: Group='Xiamoi', User='elias.odeh@wppmedia.com'
+2025-10-28 17:54:16,249 - WARNING - Row 265: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:16,249 - INFO - Processing Row 266: Group='Xiamoi', User='samiah.arshad@wppmedia.com'
+2025-10-28 17:54:22,328 - WARNING - Row 266: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:22,328 - INFO - Processing Row 267: Group='Xiamoi', User='shahad.majeed@mindshareworld.com'
+2025-10-28 17:54:22,820 - WARNING - Row 267: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:22,820 - INFO - Processing Row 268: Group='Xiamoi', User='zainab.emad@mindshareworld.com'
+2025-10-28 17:54:23,475 - WARNING - Row 268: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:23,475 - INFO - Processing Row 269: Group='Xiamoi', User='fahad.esam@mindshareworld.com'
+2025-10-28 17:54:23,999 - WARNING - Row 269: Group 'Xiamoi' not found. Skipping.
+2025-10-28 17:54:23,999 - INFO - Processing Row 270: Group='Xiaomi', User='tatyana.zakari@mindshareworld.com'
+2025-10-28 17:54:29,595 - INFO - ✅ Successfully assigned tatyana.zakari@mindshareworld.com to group fec8c280-b144-49fb-9272-337602e2c4e2
+2025-10-28 17:54:29,595 - INFO - Processing Row 271: Group='Xiaomi', User='khadija.elbekkar@mindshareworld.com'
+2025-10-28 17:54:34,318 - INFO - ✅ Successfully assigned khadija.elbekkar@mindshareworld.com to group fec8c280-b144-49fb-9272-337602e2c4e2
+2025-10-28 17:54:34,318 - INFO - Processing Row 272: Group='Xiaomi', User='saad.benmansour@mindshareworld.com'
+2025-10-28 17:54:39,680 - INFO - ✅ Successfully assigned saad.benmansour@mindshareworld.com to group fec8c280-b144-49fb-9272-337602e2c4e2
+2025-10-28 17:54:39,680 - INFO - Processing Row 273: Group='Xiaomi', User='hassania.salahi@mindshareworld.com'
+2025-10-28 17:54:44,511 - INFO - ✅ Successfully assigned hassania.salahi@mindshareworld.com to group fec8c280-b144-49fb-9272-337602e2c4e2
+2025-10-28 17:54:44,511 - INFO - Processing Row 274: Group='Zamil AC', User='karim.belouadi@keyade.com'
+2025-10-28 17:54:49,307 - INFO - ✅ Successfully assigned karim.belouadi@keyade.com to group c659b374-ef6a-4ec9-afb3-51316435a23c
+2025-10-28 17:54:49,307 - INFO - Processing Row 275: Group='Zamil AC', User='raed.hariz@mindshareworld.com'
+2025-10-28 17:54:54,154 - INFO - ✅ Successfully assigned raed.hariz@mindshareworld.com to group c659b374-ef6a-4ec9-afb3-51316435a23c
+2025-10-28 17:54:54,154 - INFO - Processing Row 276: Group='Zamil AC', User='bashar.eid@keyade.com'
+2025-10-28 17:54:58,880 - INFO - ✅ Successfully assigned bashar.eid@keyade.com to group c659b374-ef6a-4ec9-afb3-51316435a23c
+2025-10-28 17:54:58,880 - INFO - Processing Row 277: Group='Zamil AC', User='tala.elamine@keyade.com'
+2025-10-28 17:55:03,105 - INFO - Row 277: Searching users by username fragment: 'tala.elamine'
+2025-10-28 17:55:03,915 - WARNING - Row 277: No users found for username 'tala.elamine'
+2025-10-28 17:55:03,915 - INFO - Processing Row 278: Group='Zamil AC', User='Anjana.murali@keyade.com'
+2025-10-28 17:55:08,321 - INFO - ✅ Successfully assigned Anjana.murali@keyade.com to group c659b374-ef6a-4ec9-afb3-51316435a23c
+2025-10-28 17:55:08,321 - INFO - Processing Row 279: Group='Zamil AC', User='laura.gleadhill@keyade.com'
+2025-10-28 17:55:13,100 - INFO - ✅ Successfully assigned laura.gleadhill@keyade.com to group c659b374-ef6a-4ec9-afb3-51316435a23c
