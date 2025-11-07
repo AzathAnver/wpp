@@ -1,188 +1,71 @@
-A&M Shinchan Noodles
-ABFRL (Aditya Birla Fashion Retail Ltd)
-Aditya Birla Capital
-Aditya Birla Finance
-Aditya Birla Health Insurance
-Aditya Birla Management Corporation
-Aditya Birla Sun Life
-Adret Retail Private Limited
-Akzonobel
-Ampa Orthodontics
-Angel One
-Apollo Pipes
-Apollo Tyres Ltd
-Arha Media & Broadcasting
-Arvind Limited
-Ava Cholayil Health Care
-Axiom Foods And Beverages
-Bambino Agro
-Bcci
-Bharathi Cement
-Bharti Airtel
-Bhima Jewels 
-Billionbrains Garage Ventures
-Bisleri
-Blue Heaven Cosmetics
-Body Cupid
-Brainbees Solutions
-Britannia 
-Burger King
-Burman Hospitality
-Butterfly Gandhimathi Appliances
-Campus Activewear
-Cargill
-Cera Sanitaryware
-Comfort Grid Technologies
-Coromandel International
-Crompton Greaves Consumer Electricals
-Cropnosys India
-Culver Max Entertainment
-Cure And Care Wellness
-Daily Thanti 
-Danone
-Deys Medical Store
-Dr.Oetker
-Dr.Reddy's
-Ds Group
-Ecof Industries
-Emami
-Enovate Lifestyles
-Essentially Nothing
-Essilorluxottica
-Euphoric Innovations
-Fashnear Technologies 
-Flipkart
-Ganesh Grains
-Gemini Edibles & Fats India 
-General Mills
-GITAM
-Gits Food
-Godrej Consumer Products
-Grasim - Jaya Shree Textiles
-Grasim Industries (Birla Opus)
-GRB Dairy Foods
-Greaves Electric Mobility
-Greenlam Industries 
-GRT Jewellers
-Haier
-Hamdard
-Hatsun Agro
-Havells
-Havmor Ice Cream
-Head Digital Works
-Hector Beverage
-Heritage Foods
-Himalaya Wellness
-Hindware Limited
-Honda Motorcycles
-Hygienic Research Institute
-ICC
-ICICI
-IDBI Bank
-IGI
-IIFL Finance
-Indeed
-Intergrow Brands
-Jiostar
-JSW Cement
-JSW Group
-Jubilant Foodworks
-Kalyyan Jewellers
-Kellogg's
-KFC
-Kimberly-Clark
-Kinetic & Firodia Group
-Kirloskar Brothers
-Kotak Mahindra
-Kotak Mahindra Mutual Fund
-Kotak Securities
-KRBL Limited
-Le Travenues Technology
-Lifestyle International
-Linkedin
-Lohiya Edible Oils
-Lovely International Trust
-Luminous Power Technologies
-Lupin
-Makemytrip
-Manjilas Food Tech
-Maruti Suzuki India Limited
-Matrimony.com
-Modenik
-Mondelez International
-Mondelēz International
-Mother Dairy
-Motul
-Muthoot Finance
-Muthoot Fincorp
-MYK Laticrete
-Myntra
-Nambisans Dairy
-Netflix
-Nippon Paint 
-Niva Bupa Health Insurance
-NPCI
-Nykaa 
-Oppo
-Orkla
-Paragon Polymer Products
-Parle Products
-Pb Fintech Limited
-Perfetti Van Melle
-Pernod Ricard
-Pine Labs
-Pizza Hut
-Platinum Guild
-Play Games 24X7
-Preethi Kitchen Appliances 
-Prism Johnson
-Pulkit Metals
-Radico Khaitan
-Reckitt 
-Red Bull
-RKSV Securities 
-Roche Diabetes Care
-Rolex
-Roppen Transportation Services 
-Saint Gobain
-Sarvocca Industries
-SBI Life Insurance
-Schneider Electric
-Senco Gold
-SG Mart
-Shree Cement
-Shriram Life Insurance
-Skipper
-SMFG India Credit Company 
-SNJ Sugars And Products 
-Specsmakers Opticians
-Sporta Technologies
-Tata Asset Management
-Tata Consumer Products
-Tata Play
-Tata Steel
-Tatvartha Health
-The South Indian Bank
-Tribhovandas Bhimji Zaveri
-Uber
-Ultratech Cement
-UNICEF
-Unicharm
-Usha International
-USV Pharma
-Vectus Industries
-Veeba Foods
-Vivo
-Vodafone Idea
-Warner Bros. Discovery
-Way2News
-Win Medicare 
-Winzo Games
-World Gold Council
-Xiaomi
-Yamaha
-Zee Entertainment 
-Zepto
-Zomato
-Zydus Healthcare
-Zydus Wellness
+ALDI
+AS Watson Benelux
+AXA Belgium
+Action
+Ahold
+Akzo Nobel Paints Belgium
+Albert Heijn Belgium
+Aviq
+Bank Degroof
+Baronie Belgium
+Bord Bia, Irish Food Board
+Britvic EMEA
+Brocom
+Burger Brands Belgium
+CONSORZIO PER LA TUTELA DEL FORMAGGIO MOZZARELLA DI BUFALA C
+Campari Benelux
+Corman SA
+DOKTR
+Doccle
+Duvel Moortgat
+Etablissement Joseph Soubry
+Eurostar International
+Gamma BelgiÃ«
+Group a
+Helan
+Hill's Pet Products
+Ierace, Dechmann & Partners
+Immoscoop 2.0 BV
+Inno
+Innocent BE
+KBC Group
+KONINKLIJKE GAZELLE
+KVIK A/S
+Kaasimport Jan Dupont
+Laboratoires SVR Belgium
+Ligue Braille
+Lotus Bakeries Belgium
+MGA Entertainment Belgium
+MGA ZAPF CREATION
+MacArthur Glenn
+Maxi Zoo Belgium
+Mobile Vikings
+NAOS BENELUX
+Niko Belgium
+Oniverse Holding
+Perfection Habitat
+Pietercil Delby's
+Play Media
+Polestar automotive Belgium
+Profel
+Quintet Private Bank Luxembourg
+REMY COINTREAU BELGIUM
+Randstad Belgium
+Roularta Media Group (Roeselare)
+SCHWEPPES SUNTORY BENELUX
+SONY Interactive Entertainment Belgium
+SPF Economie, P.M.E., Classes moyennes et Energie
+Savencia Fromage & Dairy SK, a. s.
+Scarlet Belgium
+Shop-Apotheke Service
+Sofidel
+Sony Pictures Releasing
+Telenet
+Tempo-Team
+Tiense Suiker
+Transavia Airlines C.V
+Trixxo M
+VAB
+WESTTOER
+Yuzzu
+Zespri International Europe

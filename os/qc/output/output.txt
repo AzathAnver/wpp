@@ -1,642 +1,163 @@
-(India,Honda Motorcycles,Honda Corporate,AUTOMOTIVE): cf26aeaf-41b3-4b49-8cd5-30bb7ae30d17
-(India,Honda Motorcycles,Honda Shine,AUTOMOTIVE): c0795a70-fb8d-45e7-a49a-af3534b2c434
-(India,Hygienic Research Institute,Super Vasmol 33,PERSONAL CARE): 76e25787-ebff-46d2-8c60-97fbd199a2c0
-(India,Hygienic Research Institute,Streax Insta Shampoo Hair Colours,PERSONAL CARE): 0da66e62-c5ac-46d6-aad6-34109cd8592f
-(India,Hygienic Research Institute,Super Vasmol 33 Kesh Kala Hair Colour,PERSONAL CARE): 669ad22f-bef4-4371-b6a7-eb97bde46515
-(India,Hygienic Research Institute,Streax Cream Hair Colour,PERSONAL CARE): 5f4d094d-6fa6-47ea-bcb4-932fd5ad1f96
-(India,Hygienic Research Institute,Streax Hair Serum,PERSONAL CARE): 0478abd8-5bcd-4098-945f-e3e8de36124b
-(India,Hygienic Research Institute,Streax Gel Hair Colour,PERSONAL CARE): 00e500a0-bc16-4e52-b62a-c17950385fed
-(India,Hygienic Research Institute,Super Vasmol 33 Coconut Oil Kesh Kala,PERSONAL CARE): 01c6e7c0-f730-406c-849e-6b5b48ebb447
-(India,IIFL Finance,IIFL Finance Gold Loan,FINANCE): b3cb1479-2771-435c-a504-825c599e305f
-(India,Indeed,Indeed,TECHNOLOGY): 3b1c7bd6-9458-47fe-be1a-86bfff430566
-(India,Makemytrip,Goibibo,TRAVEL): eb73c91e-a8a3-42f2-a342-37585ba69b8d
-(India,Makemytrip,Makemytrip.Com,TRAVEL): d906fe29-ea6f-43e2-afa1-1e5166f1c1f7
-(India,NPCI,Rupay Credit Card,FINANCE): 81113d10-216b-48fe-96ef-9386b91e80f2
-Error (India,NPCI,NPCI,FINANCE): Brand 'NPCI' with category 'FINANCE' not found under market 'India' (client 'NPCI')
-(India,NPCI,Upi Chalega,FINANCE): 360bef57-731c-4c67-886d-371f4b62d0ed
-(India,NPCI,Bhim App,FINANCE): cd40e2d9-c9ab-4f12-b0f4-23fcef426680
-(India,Parle Products,Appy Fizz,DRINKS (NON-ALCOHOLIC)): 7bab7b06-bada-4c61-b4b9-6b5aa13a6d44
-(India,Parle Products,Frooti,DRINKS (NON-ALCOHOLIC)): f83b326a-dbcc-4e65-9280-f2d071df9ced
-(India,Parle Products,Parle Smoodh Coffee Frappe,DRINKS (NON-ALCOHOLIC)): f7063f79-1c1e-4e0e-b24f-a2e730861158
-(India,Parle Products,Parle Smoodh,DRINKS (NON-ALCOHOLIC)): c2788e12-1259-49cb-9725-d53773338b9a
-(India,Parle Products,Parle Smoodh Lassi,DRINKS (NON-ALCOHOLIC)): 221d8fc3-9ab8-4237-b5cf-620e82a5bd19
-(India,Play Games 24X7,My11Circle,GENERAL SERVICES): f6eecdd0-96aa-4019-9ba5-1ff9a818384e
-(India,Play Games 24X7,Rummycircle,GENERAL SERVICES): 477448af-3c82-4036-ad94-e2b75ce53f61
-(India,Roche Diabetes Care,Accu-Chek Instant S,HEALTHCARE): 29ea0719-c465-4c40-9afa-77cac348d71e
-(India,Roche Diabetes Care,Accu-Chek Instant,HEALTHCARE): 41a002ad-a97e-47ed-a6bf-545ed6d4080b
-(India,Roppen Transportation Services,Rapido Bike Taxi,AUTOMOTIVE): 82a2ce21-db89-4b48-92ef-37798bb215d7
-(India,Roppen Transportation Services,Rapido Auto,AUTOMOTIVE): fe6cc529-e98f-4645-8aad-a7fd3bbd7ff9
-(India,Roppen Transportation Services,Rapido Cabs,AUTOMOTIVE): 95612333-1059-4568-b65f-ca0677226eb5
-(India,Roppen Transportation Services,Rapido Bike Taxi & Auto App,AUTOMOTIVE): f1b5274e-cbb3-4c64-8666-1d4ffe6ba88c
-(India,Uber,Uber Auto,AUTOMOTIVE): ada2ee05-769c-4330-8231-82de5388bfc6
-(India,Usha International,Bloom Series Fans,HOME APPLIANCES): aa4634e0-a5b4-4713-90d4-099f81fc6f39
-(India,Usha International,Goodbye Dust Fan,HOME APPLIANCES): a003fcf2-456d-4d49-964b-b38f7ce5265f
-(India,Usha International,Racer Fans,HOME APPLIANCES): 622eaff6-dfff-4280-b076-07fe02d99f0a
-(India,Usha International,Striker Air Cooler,HOME APPLIANCES): 7e4db59d-3b22-4624-a8e1-2314818c0e0b
-(India,Usha International,Sewing Machine,HOME APPLIANCES): ddf46c6a-9787-4d67-94ea-825f6e161161
-(India,Usha International,Racer Chrome,HOME APPLIANCES): 04fa03fd-d92c-4177-965e-4924511b50fd
-(India,Usha International,Heleous,HOME APPLIANCES): 325b2108-8832-46ec-9ecb-30e145ac4a9a
-(India,Usha International,Air Coolers ( Intl),HOME APPLIANCES): 46aa9d84-ef28-4c06-8c5a-f4aaced9c44e
-(India,Usha International,Onio Series,HOME APPLIANCES): d06d4294-24d6-4cdd-8a1a-7ba195635ad9
-(India,Usha International,Striker,HOME APPLIANCES): 68a6508a-379f-4f6a-8d36-506fa28a9e81
-(India,Usha International,I Chef Smart Air Fryer,HOME APPLIANCES): c5bc92d7-a3a7-4266-8517-dbca35584d36
-(India,Usha International,Tisva Architectural Lights,HOUSEHOLD ITEMS): 1a489cb0-903e-4348-9d46-71f527967819
-(India,Usha International,I Chef Blender Heater,HOME APPLIANCES): b8c4cc48-a35f-42fb-8b00-1dcff1dc39e2
-(India,Usha International,I Chef Steam Oven,HOME APPLIANCES): 6dccc7f3-46c4-460c-9429-d3222530b602
-(India,Vivo,Vivo Smart Phones,CONSUMER ELECTRONICS): cd72af4f-19ff-4cc7-965b-8fc099d483f6
-(India,Vivo,Vivo X60,CONSUMER ELECTRONICS): 5478cc4c-0d89-4367-aae2-db418802bc4e
-(India,Vivo,Vivo V40 Series,CONSUMER ELECTRONICS): 20e76022-3173-49ba-a7b4-9d0a3be3f88d
-(India,Vivo,Vivo X200 Series,CONSUMER ELECTRONICS): 8b48b24a-c118-4f02-b5dd-6bd4b66f84b2
-(India,Vivo,Vivo V50 Series,CONSUMER ELECTRONICS): 9261b465-f89f-4cec-9a48-0b3868e8e787
-(India,Way2News,Way2News App,ENTERTAINMENT & MEDIA): bd0eb35e-8996-4c2b-9947-1f37ce18a8df
-(India,Zee Entertainment,Zee5,ENTERTAINMENT & MEDIA): 1d4efde8-ad53-4d28-a3d5-c113ce788441
-(India,Zee Entertainment,Zee5 Premium,ENTERTAINMENT & MEDIA): df5200ed-fb86-4548-9051-ebbc5b55ec59
-(India,Zee Entertainment,Eduauraa,EDUCATION): 055d7a08-768e-449e-af5b-785e02020ac3
-(India,Hindware Limited,Hindware Italian Collection,HOUSEHOLD ITEMS): 657d6c7d-51a7-4627-8a5d-34ebadfdcfe9
-(India,Hindware Limited,Hindware Italian Collection Tiles,REAL ESTATE): 89811f90-9be2-45be-ae53-ed5f1d2e9f8e
-(India,Hindware Limited,Queo European Bath Lounges,HOUSEHOLD ITEMS): 13210ca8-5959-4abe-af1f-543708e37bcd
-(India,ICC,ICC,SPORTS): e74affc6-6e5d-4693-b96b-dc22ae6362e8
-(India,ICICI,ICICI Bank Imobile,FINANCE): 901b0e12-4e67-493a-994a-4166e338370c
-(India,ICICI,ICICIBank Step Up Home Loans,FINANCE): 0370a80c-697d-45a4-b039-f2ffd497a947
-(India,ICICI,ICICI Bank Credit Cards,FINANCE): b9e00e8b-dda3-4589-bb7c-188dd1975485
-(India,ICICI,ICICI Bank Insta Biz,FINANCE): 727b0cd4-0b19-4365-89c7-67cc27f53260
-(India,ICICI,ICICI Bank The One Savings A/C,FINANCE): 1a20ab8d-eeb8-4d2e-be82-a73381884cb3
-(India,ICICI,ICICI Bank Digital Banking,FINANCE): e554cfee-fea9-46c2-8081-1bc2074c2bde
-(India,ICICI,ICICI Bank Business Banking Digital Banking,FINANCE): 24ba4739-a9c5-41d6-a4e9-dd8af990eeaf
-(India,ICICI,ICICI Bank Super Merchant Current Account,FINANCE): 2a2cb685-a240-4e96-b2c6-e57622513175
-(India,ICICI,ICICI Bank Imobile Pay,FINANCE): 76d5486b-8120-4e4b-a14f-11f03f2cb17d
-(India,ICICI,ICICI Bank,FINANCE): ef935832-243e-49cd-b560-3f45a25f2959
-(India,ICICI,ICICI Bank Loan Against Gold,FINANCE): aadeae5f-40e3-496c-81c8-6d4bc85dec70
-(India,ICICI,ICICI Lombard General Insurance,FINANCE): 41b6b48a-28a3-4329-ad53-36d162330244
-(India,ICICI,ICICI Lombard Elevate,FINANCE): 2c5088af-7241-4841-a9df-eafdc0ef4bb5
-(India,ICICI,ICICI Prudential Mutual Fund,FINANCE): be5ad328-16cf-4e00-87df-a11c7a1f644c
-(India,ICICI,ICICI Prudential Life Insurance,FINANCE): 3ab4444a-6d9b-423e-bcd7-69cdef1c125a
-(India,ICICI,ICICIdirect.Com,FINANCE): 4e0c74af-605c-4d86-a1fa-340d06ec4790
-(India,JSW Group,JSW Group,ORGANIZATIONS & ASSOCIATIONS): 452c1c9e-4e81-4186-84f6-e530f96ad7f3
-(India,JSW Group,JSW Paints,HOUSEHOLD ITEMS): 9eb68e7c-5e42-4be9-a7bf-f0f220e962c3
-(India,JSW Group,JSW Halo Aquaglo,HOUSEHOLD ITEMS): f556b4a0-8633-47ad-a0f0-80f2e62d2708
-(India,JSW Group,JSW Paints Pixa,HOUSEHOLD ITEMS): cd48362b-63eb-4d8d-ae20-c867dc7f17d3
-(India,JSW Group,JSW Colouron+,REAL ESTATE): 217224e7-7be9-4650-919c-cd19d6e50c12
-(India,JSW Group,JSW Neosteel,REAL ESTATE): 825271ad-5803-4826-b821-6f9f7a22aa45
-(India,Jubilant Foodworks,Dominos Cheese Volcano,RESTAURANTS): bf043cd2-177a-4194-8546-ac464e207423
-(India,Jubilant Foodworks,Dominos Cheesiken,RESTAURANTS): 141f3738-c9b7-4383-98d5-142c98f98830
-(India,Jubilant Foodworks,Dominos Pizza,RESTAURANTS): aa20c751-02dc-448e-99f2-437b6d3daea2
-(India,Jubilant Foodworks,Dominos Cheese Burst Pizza,RESTAURANTS): 27bc4866-b0f0-4de5-9958-6318a375df6e
-(India,Jubilant Foodworks,Dominos Chicken Feast,RESTAURANTS): 6e567ab7-4e28-4b28-8ac6-c3ef6f5f2925
-(India,Jubilant Foodworks,Dominos Big Big 6 In 1 Pizza,RESTAURANTS): 2ff2784c-ca31-4e39-9934-91f277b9021e
-(India,Kellogg's,Kelloggs Corn Flakes Brownie Delite,FOOD): d069fd15-0df5-41f8-b362-e42a48d53699
-Error (India,Kellogg's,Kelloggs Ragi Chocos,FOOD): Brand 'Kelloggs Ragi Chocos' with category 'FOOD' not found under market 'India' (client 'Kellogg's')
-(India,Kellogg's,Kelloggs Cf Real Almond & Honey,FOOD): f047088c-e6fa-4746-9195-b08af568ee29
-(India,Kellogg's,Kelloggs Muesli,FOOD): eef059d2-9fb5-4835-b86b-c81a896a8aff
-(India,Kellogg's,Kelloggs Chocos Fills,FOOD): c3887af9-265c-46bd-bad1-f4002e8a1171
-(India,Kellogg's,Kelloggs Muesli Fruit And Nut,FOOD): 92588775-3a32-4e52-844f-6ee41d0f1334
-(India,Kellogg's,CB-Kelloggs Corn Flakes-Gold The Dream That United,FOOD): 9993cde2-35c4-407a-aa05-54393f9bdc3e
-(India,Kellogg's,CB-Kelloggs Corn Flakes-Gold-The Dream That United,FOOD): 735e3fed-e141-43db-8487-680819e1a77a
-(India,Kellogg's,Kelloggs Chocos Chhota Laddoo,FOOD): 5b97467c-dc30-4c4d-bdd8-5214d370d523
-(India,Kellogg's,Kelloggs Granola Almonds & Cranberries,FOOD): fcc3d7d3-44fb-4c5f-9574-8381600f8fe5
-(India,Kellogg's,Kelloggs Chocos Webs,FOOD): baadfc30-749c-4346-a161-919dbc0aa29e
-(India,Kellogg's,Kelloggs Chocos Magic Hearts,FOOD): 694f85ce-d7d5-488b-95b4-8620b17a36a9
-(India,Kellogg's,Kelloggs Muesli Fruit Nut And Seeds,FOOD): f24320e3-e7a2-4821-b0a3-612ce1953901
-(India,Kellogg's,Kelloggs Chocos,FOOD): be4423e3-2d30-4664-95a2-a04ec9564de6
-(India,Kellogg's,Kelloggs Corn Flakes,FOOD): 516e4886-6383-40df-8aef-072cc37cc991
-(India,Kellogg's,Kelloggs Corn Flakes/Chocos,FOOD): f9aad83f-83ae-4dff-9858-44e94a7136a8
-(India,Kellogg's,Kelloggs Multigrain Chocos,FOOD): 72b2eca8-7fc6-4765-8f71-a234a45b71fc
-(India,KFC,KFC,RESTAURANTS): 3825c2a5-75ce-4af2-8638-84f4eccdc400
-(India,KFC,KFC Chicken Burger,RESTAURANTS): 083a9e87-f582-4e24-827a-db804805d5a5
-(India,KFC,KFC Popcorn Chicken,RESTAURANTS): cd1f19c8-06d4-412f-9306-ec20a38138c4
-(India,KFC,KFC Boneless Range,RESTAURANTS): e5e8cefa-1b62-4b7c-b281-c216884cd360
-(India,Lifestyle International,CB-Max Retail-Bolo Dugga Maiki,RETAIL): 6ba344df-e075-48d4-9ada-c4f841a4475e
-(India,Lifestyle International,Max Avengers Collection,RETAIL): 43eedb74-8898-464c-a835-7cc83b0b7f1d
-(India,Lifestyle International,Max,RETAIL): 7f9a80c9-5b7d-432b-a5fe-c9bbc646ccb5
-(India,Lifestyle International,Home Centre (Landmark Online India),RETAIL): 0f2e4792-f5bf-4382-b99c-7b5065891414
-(India,Maruti Suzuki India Limited,Maruti Suzuki Wagonr,AUTOMOTIVE): 2c7bb015-7b11-44f8-8a44-c1b1e0c2f3b5
-(India,Maruti Suzuki India Limited,Maruti Suzuki Alto K10,AUTOMOTIVE): e75ad79c-e7c9-4349-8676-297c27e0e5e5
-(India,Maruti Suzuki India Limited,Maruti Suzuki Brezza,AUTOMOTIVE): 93d0a625-0ac0-49ef-aee1-90a15660a770
-(India,Maruti Suzuki India Limited,Maruti Suzuki Jimny,AUTOMOTIVE): 359ea94d-78f5-4bb4-8174-2ecdba7d4d4b
-(India,Maruti Suzuki India Limited,Maruti Suzuki Swift,AUTOMOTIVE): 20df252e-1bec-4d77-943b-f0e4c7c9823c
-(India,Maruti Suzuki India Limited,Maruti Suzuki Brezza Black Edition,AUTOMOTIVE): cb290c1f-d5ae-4eb8-a8f6-e44963d97c8f
-(India,Maruti Suzuki India Limited,Maruti Suzuki Hybrid Cars,AUTOMOTIVE): 118b5362-333a-42ba-8e06-07e57c2bc9ed
-(India,Maruti Suzuki India Limited,Maruti Suzuki Fronx,AUTOMOTIVE): 06e8317e-2308-4e9d-9e04-8ab524bdab23
-(India,Maruti Suzuki India Limited,Maruti Suzuki E Vitara,AUTOMOTIVE): 6d81d381-c660-414b-993b-ba562ff62442
-(India,Maruti Suzuki India Limited,Maruti Suzuki Arena,AUTOMOTIVE): 45399d02-82c7-4556-b464-8cc21cb8a0d6
-(India,Maruti Suzuki India Limited,Maruti Suzuki True Value,AUTOMOTIVE): b448071e-32b1-417b-9159-234fc59bbc13
-(India,Maruti Suzuki India Limited,Maruti Suzuki Super Carry,AUTOMOTIVE): 98be7958-9d34-4f97-a863-6474b8484524
-(India,Maruti Suzuki India Limited,Maruti Suzuki Dzire,AUTOMOTIVE): a5b018ca-6697-4e36-83b7-88de80541f2a
-(India,Maruti Suzuki India Limited,Maruti Suzuki The Advanced Grand Vitara,AUTOMOTIVE): 30a9dda5-3f7a-4240-bc40-87275ff55dc2
-(India,Maruti Suzuki India Limited,Nexa (Maruti Suzuki),AUTOMOTIVE): 68058b0e-f861-40fe-9be4-daff054ca22e
-(India,Muthoot Finance,Muthoot Finance Interest Prepaid Loan,FINANCE): 387d244e-0f95-4ca3-9a40-eb58e89b3596
-(India,Muthoot Finance,TP Muthoot Finance,FINANCE): 886d1f0e-b903-48d3-94c3-2d14ab3fd6b1
-(India,Muthoot Finance,TP Muthoot Finance Gold Loan,FINANCE): 1f88d317-55c8-4d6c-859c-9cd0207f82ca
-(India,Muthoot Finance,Muthoot Group-Corporate,ORGANIZATIONS & ASSOCIATIONS): dd4bb244-793c-45e2-93b2-9518c89a08c7
-(India,Muthoot Finance,Muthoot Financial Enterprises,FINANCE): 9e2a8d9f-b3d2-42b3-842c-643826c4a41b
-(India,Muthoot Finance,Muthoot Fincorp Loan Against Gold,FINANCE): b86f9d30-3706-4f7f-b179-dfc69a322c01
-(India,Muthoot Finance,Muthoot Finance Gold Unlocker,FINANCE): b66fb3cb-db6b-4d5e-8b6b-241c13efc6c0
-(India,Muthoot Finance,Muthoot Fin Loan Against Gold,FINANCE): 3b2eb45a-c396-485c-bce1-c753d5e7a0f0
-(India,Nykaa,NYKAA,FASHION): 4eb75cc0-6cf3-4072-bca3-9b0cb5275e4b
-Error (India,Oppo,OPPO Smartphone,CONSUMER ELECTRONICS): Client not found: Oppo
-Error (India,Oppo,OPPO Reno7 Series 5G,CONSUMER ELECTRONICS): Client not found: Oppo
-Error (India,Oppo,OPPO Reno8 Series 5G,CONSUMER ELECTRONICS): Client not found: Oppo
-Error (India,Oppo,OPPO A77,CONSUMER ELECTRONICS): Client not found: Oppo
-Error (India,Oppo,OPPO Find N2 Flip,CONSUMER ELECTRONICS): Client not found: Oppo
-Error (India,Oppo,OPPO Reno10 Series 5G,CONSUMER ELECTRONICS): Client not found: Oppo
-(India,Pizza Hut,Pizza Hut Melts,RESTAURANTS): fe3d1cbd-42fd-499e-ae01-a50fdf1e44e0
-(India,Pizza Hut,Pizza Hut Momo Mia Pizza,RESTAURANTS): 87e83366-0ce4-4ca8-a3cf-e71b85124f42
-(India,Pizza Hut,Pizza Hut Juicylicious Pizzas,RESTAURANTS): d298e59e-6779-4f60-a98a-a08b83157a47
-(India,Prism Johnson,Johnson Maxgrip Anti-Skid Tiles,REAL ESTATE): ec88960f-b3a3-41e1-92e3-c0831bc0a055
-(India,Prism Johnson,Johnson Cool Roof Tiles,REAL ESTATE): 254d2d7f-0fd6-4dc4-839f-da4f852ac3e2
-(India,Pulkit Metals,Pulkit Tmt Bars,REAL ESTATE): cbbdd952-78c9-47d5-b3cc-6b8360d10d04
-(India,Makemytrip,Redbus.In,TRAVEL): ffa039b0-b142-4774-b098-c1eabee9402f
-(India,RKSV Securities,Upstox,FINANCE): 7c7ffb3f-3423-401c-a3fe-7e2863840bff
-(India,Saint Gobain,Saint Gobain Gyproc,REAL ESTATE): 6a6d72b4-7d46-4a50-a2d6-9ff8f4031241
-(India,SBI Life Insurance,SBI Life,FINANCE): 9d70db1f-0d1e-4b14-94a5-c639a3f05039
-(India,SBI Life Insurance,SBI Life Poorna Suraksha,FINANCE): caf99972-77fc-44e3-b499-a582004648c9
-(India,SBI Life Insurance,SP N18I Sbi Life Insurance Budget Highli,ENTERTAINMENT & MEDIA): 312424d0-7d51-4013-9ce5-78b1782c5c06
-(India,SBI Life Insurance,SBI Life Term Plan,FINANCE): ded19a74-b64a-4dfe-aed0-eefcf4b6bad0
-(India,SBI Life Insurance,SBI Life Insurance Protection Plans,FINANCE): fd70bba3-0d73-4af2-b1ef-fbc60562d92a
-(India,SBI Life Insurance,SBI Life Eshield Next,FINANCE): a01365c7-81a7-4d32-98ca-7caa939674c4
-(India,SBI Life Insurance,SBI Life Smart Platina Supreme,FINANCE): 1cb09bd7-68f0-40fd-a7a2-0541f5e10190
-(India,Schneider Electric,Lauritz Knudsen Electrical & Automation,ORGANIZATIONS & ASSOCIATIONS): 53c9c328-b4d9-4433-b49a-d75eedba8306
-(India,Senco Gold,Senco Gold & Diamonds,RETAIL): f169df33-a720-4e3c-8d83-a87cccd6c42c
-(India,Senco Gold,Senco Gold & Diamonds Vivaha Collection,RETAIL): 51ed5e9f-e7c3-490a-bb8d-9a28fef2c5c6
-(India,Senco Gold,Senco Gold Aham Collection,RETAIL): 4864ed69-aff2-4244-a9a1-28ff07203fa2
-(India,SG Mart,APL Apollo Sg Tmt,REAL ESTATE): f3f6af64-a24b-4e70-82ea-649de534219b
-(India,Shree Cement,Bangur Power Cement,REAL ESTATE): 39d08652-b40c-4b1d-9595-83be5f88c557
-(India,Shree Cement,Bangur Cement,REAL ESTATE): f143d6fb-ed47-48ea-9cf1-84d98580185b
-(India,Skipper,Skipper Pipes,REAL ESTATE): 606ff704-4396-4fdb-9440-244f8dd82dc1
-(India,SMFG India Credit Company,SMFG India Credit Multiple Loans,FINANCE): 9794753e-0e97-47ba-a05a-c33a70858df2
-(India,SMFG India Credit Company,SMFG India Credit Personal Loans,FINANCE): 5c12f78a-a33a-4fe0-b25a-eaa3367cac1e
-(India,SMFG India Credit Company,SMFG India Credit Business Loan,FINANCE): 73077a85-d84c-4108-8ada-7cfe68c510cc
-(India,SMFG India Credit Company,SMFG India Credit Two Wheeler Loans,FINANCE): c007a51a-040b-40af-b8e6-e9a6144b753f
-(India,SMFG India Credit Company,SMFG India Credit Home Loans,FINANCE): b169f40e-7f29-4e18-bd30-01be7e4fe483
-(India,Specsmakers Opticians,Specsmakers,RETAIL): 3d377c7e-8ccb-45ec-8175-e0fa931a4fb8
-(India,Tata Steel,Tata Steel,REAL ESTATE): 89dcbd04-3de7-4e08-9d77-6f1a73323171
-(India,Tatvartha Health,Traya.Health,HEALTHCARE): 026e1e72-db9b-402e-9175-2981d38c8f46
-(India,Ultratech Cement,Ultratech Cement,REAL ESTATE): 5a942a94-0303-4220-84c0-fa093953bfcd
-(India,Ultratech Cement,Ultratech Weather Plus,REAL ESTATE): f3fe2cd5-3107-4dc0-ab4c-c2b3513c17ca
-(India,Ultratech Cement,Birla White Wall Care Putty,HOUSEHOLD ITEMS): 967ce39c-3465-4c34-abcd-13c8529b6945
-(India,Ultratech Cement,Birla White Bio-Shield Putty,HOUSEHOLD ITEMS): 05493a3d-7995-4966-a6e9-5edba2daeaa9
-(India,Ultratech Cement,Birla White Cement Advantage,REAL ESTATE): c405fc98-1458-4708-bd9a-38e346eacc6d
-(India,Ultratech Cement,Birla White Tilestix,REAL ESTATE): b3ba8802-7643-4d2c-b091-e3905f86a690
-(India,Preethi Kitchen Appliances,Preethi Zodiac Mixer Grinder,HOME APPLIANCES): 75d474f6-685b-4a13-a6a3-7dcad093f839
-(India,Winzo Games,Winzo Games,GENERAL SERVICES): 0ec16076-c699-4018-b039-10ee63627c69
-(India,Zomato,Zomato.Com,FOOD): a25aaa9e-8aa4-4eeb-9fd5-9a0a2a0e83d0
-(India,Arha Media & Broadcasting,AHA App,ENTERTAINMENT & MEDIA): f779895c-553e-4b95-983f-b2c7e7c006c4
-(India,Arha Media & Broadcasting,AHA Gold App,ENTERTAINMENT & MEDIA): 5ceb4b06-7aa7-4ff5-8793-b4004e034d22
-(India,A&M Shinchan Noodles,A&M Shinchan Noodles,FOOD): ce5753b8-8212-4f90-a156-f824d834a4fa
-Error (India,Daily Thanti,Daily Thanti,ENTERTAINMENT & MEDIA): Brand 'Daily Thanti' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Daily Thanti')
-(India,Enovate Lifestyles,Candere (Kalyan Jewellers),RETAIL): b85838a7-638c-429a-9e4d-7b09ea0bcd29
-(India,Gits Food,Gits Gulab Jamun Mix,FOOD): 30cb4c24-f753-4e99-b684-e193ae130ff8
-(India,Gits Food,Gits Gulab Jamun,FOOD): b20574d8-cc32-4950-824c-2dd3bbc8063c
-(India,Greaves Electric Mobility,Ampere Nexus,AUTOMOTIVE): 5795091b-3b8a-4b56-89bb-771c8556e31a
-(India,Greaves Electric Mobility,Ampere Magnus Neo,AUTOMOTIVE): 271d6406-5a8c-40d3-9aee-19f47dd1b6de
-(India,Havells,Havells Cables,HOUSEHOLD ITEMS): df552d04-7116-4bca-8249-c9b87afdc357
-(India,Havells,Havells Fans,HOME APPLIANCES): 53ecfb02-c7e8-4423-bc8e-1b59a01fac4a
-(India,Havells,Havells Trika Led,HOUSEHOLD ITEMS): a34aff23-1963-41f0-8800-1c1b7a620c3b
-(India,Havells,Havells Led Light,HOUSEHOLD ITEMS): 7c6fecc7-29e0-453a-9faa-b766d4fbcc71
-(India,Havells,Havells Quadra Glow,HOUSEHOLD ITEMS): b5893a65-83e8-4de9-9da1-c3a4531766de
-(India,Havells,Lloyd Ac,HOME APPLIANCES): e7e2fa98-c145-4a9c-bc70-492848d6b52e
-(India,Havells,Havells Super Speed 400,HOME APPLIANCES): f2ec1ee0-263c-4bd0-a20c-603b746ef9ad
-(India,Havells,Lloyd Intelli Logic Ac,HOME APPLIANCES): bddb1724-e00b-43f8-89b5-52e45440b553
-(India,Havells,Lloyd Grande Heavy Duty Ac,HOME APPLIANCES): df98eb70-818c-48f4-a7c1-c194ecdc2595
-(India,Havells,Havells Stealth Bldc Fan,HOME APPLIANCES): 1ac45516-1279-4eab-9e3a-488d7a9fb009
-(India,Havells,Lloyd Durable Range,HOME APPLIANCES): 32221e52-ed50-4863-8b83-33a267c83276
-(India,Havells,Lloyd Refrigerators,HOME APPLIANCES): 5c9e2333-15fb-4660-b94a-e6fc2d223a5a
-(India,Havells,Lloyd Washing Machine,HOME APPLIANCES): 137cbde4-38fc-4164-b919-124215dcde36
-(India,Havells,Havells Home Appliances,HOME APPLIANCES): af632d56-57d0-42d8-8926-aa2456476fab
-(India,Havells,Havells Life Shield Wires,HOUSEHOLD ITEMS): a6b318cd-f182-4b31-9185-ced8e8db7025
-(India,Havells,Havells Lighting Products,HOUSEHOLD ITEMS): 0c7e2682-be2f-4334-8ba3-601913c05eeb
-(India,Havells,Lloyd Novante Washing Machine,HOME APPLIANCES): c4b79534-1192-43aa-9c9e-413be9b45d15
-(India,Havells,Standard Bldc Fan,HOME APPLIANCES): 57b3d6e0-0711-46b3-b25b-9629ce98c5e2
-(India,Havells,Standard Durable & Sleek Switches,HOME APPLIANCES): 188eac01-0eac-4815-8ac2-24f2ea769b66
-(India,Havells,Standard Range Of Product,HOME APPLIANCES): aaf46fe1-e60d-44c2-988c-8d259b0854dc
-(India,Havells,Standard Water Heater,HOME APPLIANCES): dd52f2fd-30aa-45e9-9bfd-71f9ee87db91
-(India,Havells,Havells Bldc Plus Fans,HOME APPLIANCES): c53d5675-23a5-446b-b348-479cf50423b1
-(India,Havells,Lloyd Ac Luxuria Collection,HOME APPLIANCES): 9e11aade-7a98-4964-acb4-08908c5f9fa2
-(India,Himalaya Wellness,Himalaya Complete Care Toothpaste,ORAL CARE): 1539c810-b0e7-42c9-8bab-0addc644adc9
-(India,Himalaya Wellness,Himalaya Purifying Neem Face Wash,PERSONAL CARE): 15a0a13c-a828-4993-b313-c03770c4f067
-(India,Himalaya Wellness,Himalaya Neem & Turmeric Soap,PERSONAL CARE): b7300196-46ad-417c-90b5-92cdc54fd1cb
-(India,Himalaya Wellness,Himalaya Lip Balm,PERSONAL CARE): 59ba513d-63bc-4fe4-9c43-e68adc8e8e38
-(India,Himalaya Wellness,Himalaya Range Of Products (FMCG,PERSONAL CARE): 80d9c974-1fcc-4d83-837b-0b71663e6df7
-(India,Himalaya Wellness,Himalaya Natural Glow Rose Face Wash,PERSONAL CARE): 1bd1e7c7-c1ce-4ab6-9e34-e07e29945606
-(India,Himalaya Wellness,Himalaya Anti Hair Fall Shampoo,PERSONAL CARE): 320f66fc-b0a5-4f6d-80d5-a373d778d620
-(India,Himalaya Wellness,Himalaya Hair Fall Control Shampoo,PERSONAL CARE): 61923c01-70f4-424a-9e8a-d7d87ec6d8f8
-(India,Himalaya Wellness,Himalaya Koflet,HEALTHCARE): 36aeaf5d-d61f-4791-88e5-ee376e38008f
-(India,Himalaya Wellness,Himalaya Hydrating Aloe Vera Face Wash,PERSONAL CARE): 71821cef-fd34-4397-8f94-e015168f7e13
-(India,Himalaya Wellness,Himalaya Oil Clear Lemon Face Wash,PERSONAL CARE): 64e97243-3330-44c9-b493-3965066f533b
-(India,IDBI Bank,IDBI Bank Home Loans,FINANCE): 47a4a69c-139b-4de0-926b-722b6fbf3d3e
-(India,IDBI Bank,IDBI Bank Auto Finance,FINANCE): 3a082d20-df7d-4967-bf68-34197dac8b65
-(India,IDBI Bank,IDBI Bank Fixed Deposit-Fd,FINANCE): 6ab92fb5-451c-41ff-9b86-347a71e5d3ff
-(India,Yamaha,Yamaha Fascino,AUTOMOTIVE): eb2b59c0-88ac-4619-a10c-571c1341ddeb
-(India,Yamaha,Yamaha Fz,AUTOMOTIVE): 593230c6-dbbc-4fd3-8bdd-61dbfcbe3a22
-(India,Yamaha,Yamaha Fascino 125 Fi/Cygnus Ray Zr 125 Fi,AUTOMOTIVE): 10cecd7e-71fb-4da1-a52f-ed0e1077e8e7
-(India,Yamaha,Yamaha Two Wheelers,AUTOMOTIVE): 8bbb6b9d-5f66-452a-aa4b-dd16b2bef04e
-(India,Yamaha,Yamaha Fascino 125 Fi Hybrid/Ray Zr 125 Fi Hybrid,AUTOMOTIVE): 6068f6db-db78-4e24-83cf-e753a0bc5ad7
-(India,Yamaha,Yamaha Mt 15 Version 2.0,AUTOMOTIVE): b47cc805-2db5-4369-906c-9ad388012649
-(India,Yamaha,Yamaha Fz S Fi,AUTOMOTIVE): 8b604def-72c6-4ac6-9b67-9e483a82f9bd
-(India,Yamaha,Yamaha Fascino 125 Fi Hybrid,AUTOMOTIVE): 1741a250-2fcf-4586-aff2-e42a9b9fb85a
-(India,Yamaha,Yamaha Fz S,AUTOMOTIVE): 2d0f87e3-f4b3-4223-9294-ee321a0e8fef
-(India,Yamaha,Yamaha Ray Zr 125 Fi Street Rally,AUTOMOTIVE): abe80605-1b67-4b1d-8036-c9738cc7a766
-(India,IGI,IGI,JEWELLERY): 10611ca3-1c50-4876-aca5-c433d71f7328
-(India,Kalyyan Jewellers,Kalyan Jewellers Ameya Celebration Wear,JEWELLERY): d44f7a42-c431-4db8-a474-13f2553db593
-(India,Kalyyan Jewellers,CB-Kalyan Jewelers-Bangarraju,JEWELLERY): f6a1007c-3e6d-447f-a570-e41bf6d7073d
-(India,Kalyyan Jewellers,Kalyan Jewellers,JEWELLERY): 62bccde7-a23e-487d-9f94-914944ab49b6
-(India,Kalyyan Jewellers,Kalyan Jewellers Tejasvi,JEWELLERY): 3a3820a0-4a2f-4bc3-bcdb-d2c58c51812c
-(India,Kalyyan Jewellers,Kalyan Jewellers Nimah Collection,JEWELLERY): 89bbc194-81e7-4e29-9c5b-6fd9fda390cf
-(India,Kinetic & Firodia Group,Kinetic Green E Luna,AUTOMOTIVE): 0be02b6f-076a-43a8-8031-2cd737c18c8b
-(India,Zepto,Zepto,FOOD): 168f7e13-a4c5-4925-861a-2b11da7432f2
-(India,Kirloskar Brothers,Kirloskar Brothers,UTILITIES): d650e739-58fb-44de-96df-79d6ade025e7
-(India,Manjilas Food Tech,Double Horse Easy Idiyappam Powder,FOOD): 15acb5cb-49ef-490b-9c39-0ccda5872c86
-(India,Manjilas Food Tech,Double Horse Easy Pathiri Podi,FOOD): 802e901c-9d8e-4c2a-8e44-c10c52ebfa4a
-(India,Manjilas Food Tech,Double Horse Instant Sadhya Palada Mix,FOOD): 89a5abaa-71da-4343-85c8-5f314be34981
-(India,Manjilas Food Tech,Double Horse Roasted Rava,FOOD): 45bbf8df-ccd5-4576-ab40-f8bd8cb6de72
-(India,Manjilas Food Tech,Double Horse Food Prod Range,FOOD): f181eb2b-3acb-4542-8e0a-6c02c3156841
-(India,MYK Laticrete,MYK Laticrete Sp-100,REAL ESTATE): b36828b5-9b09-46f2-b111-7a9eaa46b9cf
-(India,MYK Laticrete,MYK Laticrete,REAL ESTATE): 746dad92-fef4-46af-9931-f362783df27b
-(India,Nambisans Dairy,Nambisans Wild Flower Honey,FOOD): 38a4ec99-6570-4ef1-8db1-250088229ec0
-(India,Pine Labs,Pine Labs Mini,FINANCE): 96a7dfcc-dd20-4afd-a4f0-6657176bc2aa
-(India,Radico Khaitan,Royal Ranthambore Premium Glassware,DRINKS (ALCOHOLIC)): 1bba88a7-ea13-4720-9cf7-6288f5179ff5
-(India,SNJ Sugars And Products,SNJ Sugars And Products,FOOD): 5ed9ad73-d480-4494-bd61-d21b8fae72dd
-(India,Tribhovandas Bhimji Zaveri,Tribhovandas Bhimji Zav (Tbz),RETAIL): a89bf5a0-6d60-4414-8aaa-17a16151eb55
-(India,Win Medicare,Groviva Child Nutrition Supplement,DRINKS (NON-ALCOHOLIC)): 1dabe0d0-f9d2-46ca-9e95-49c9e0c87615
-Error (India,World Gold Council,World Gold Council,ORGANIZATIONS & ASSOCIATIONS): Brand 'World Gold Council' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'World Gold Council')
-(India,Adret Retail Private Limited,Kapiva Dia Free Juice,DRINKS (NON-ALCOHOLIC)): 1605db81-2bb5-47a3-a1fa-fca7fd26ee1e
-(India,Axiom Foods And Beverages,AXIOM ALO FRUT,DRINKS (NON-ALCOHOLIC)): 3f9e6660-5950-444f-b9e0-b43ba7caeef8
-(India,Bhima Jewels,Bhima Jewellers-Pavithra Vivaha,JEWELLERY): 88fb7e8c-58b0-4c85-99df-3768e96a5d33
-(India,Bhima Jewels,Bhima Jewellers,JEWELLERY): a54b07b4-4057-4977-9f80-fc8856d1976b
-(India,Bhima Jewels,Bhima Diamonds,JEWELLERY): ab5d59cc-ced8-4e75-839f-33af830934fd
-(India,Bhima Jewels,Bhima Parinaya,JEWELLERY): 702d991a-8200-4846-887e-8010f3b9d6c3
-(India,Culver Max Entertainment,Sony Liv App,ENTERTAINMENT & MEDIA): 9780111a-fdf4-4e0c-b680-d2aa5788b4e6
-(India,Warner Bros. Discovery,Discovery Plus App,ENTERTAINMENT & MEDIA): 1d03e59a-d30e-4387-b661-aa5b5c51940f
-(India,Warner Bros. Discovery,PP Dis Legends Of The Ramayana With Amish,ENTERTAINMENT & MEDIA): c5c2c661-5cf8-4ace-9a13-4447250309bf
-(India,Warner Bros. Discovery,PP Dis The Journey Of India,ENTERTAINMENT & MEDIA): 6bf0d34b-eeb9-420b-b11e-eb97e5b2d9ab
-(India,Warner Bros. Discovery,PP Dis Anant Anadi Vadnagar,ENTERTAINMENT & MEDIA): d03b332b-a8e0-4b36-b4ec-23a17f274719
-(India,Warner Bros. Discovery,CI Warner Bros Discovery Network,ENTERTAINMENT & MEDIA): b589d35e-f747-4362-9d40-13d292bf73a7
-(India,Warner Bros. Discovery,PP Dis I Should Have Stayed Home Safar Se Suffer,ENTERTAINMENT & MEDIA): d5eca694-7d8f-4ea8-bf48-f12b6194102b
-(India,Warner Bros. Discovery,PP Dis Ps-Policy Bazaar Star Vs Food Survival,ENTERTAINMENT & MEDIA): ba82245b-dc00-4d52-8eb4-117eb9bd26d1
-(India,Warner Bros. Discovery,PP Dis History Hunter,ENTERTAINMENT & MEDIA): aac29c27-b228-4847-b980-8a6eb7e5ab19
-(India,Warner Bros. Discovery,PP Dis Secrets Of The Buddha Relics,ENTERTAINMENT & MEDIA): 15f7425f-cd0c-4b7c-8fcf-951da5be81ca
-(India,Warner Bros. Discovery,PBM Anm Survival Of The Fiercest,ENTERTAINMENT & MEDIA): c0cccd49-ea73-433d-8bb7-1a2a23bda706
-(India,Dr.Reddy's,Rebalanz Qrs,HEALTHCARE): a7632fa7-77da-4bdb-8462-82d5af5309eb
-(India,Dr.Reddy's,Zedex Cough Syrup,HEALTHCARE): 366402d3-eb9a-4512-b1d5-698b925f3a3f
-(India,Dr.Reddy's,Zedex Cough Syrup/Bro Zedex Cr,HEALTHCARE): 1c306f68-e235-4d11-8283-4acab19a274f
-(India,Emami,Emami Healthy & Tasty Mantra Meat Masala,FOOD): 15b3ef6d-2f8d-4047-8d38-a019f13a9194
-(India,Emami,Emami Healthy & Tasty Soyabean Oil,FOOD): 75a5630f-0ce2-45fc-a3ee-c291686fcf34
-(India,Emami,Himani Best Choice Refined Sunflower Oil,FOOD): 736259e1-27e9-4b71-8219-ef48bf7b5d9d
-(India,Emami,Emami Healthy & Tasty Mantra Chicken Masala,FOOD): 0cb56bf5-7348-4fa6-86bc-76c9ba98af37
-(India,Emami,Himani Best Choice Refined Soyabean Oil,FOOD): 3dfea7f8-573e-49b3-8898-329a7024ca9e
-(India,Emami,Emami Healthy & Tasty Mantra Shorshe Posto,FOOD): 61868294-2e76-4314-87c9-c6b2c4dc58b3
-(India,Emami,Emami Healthy & Tasty Mantra Chilli Powder,FOOD): b5183c7d-867d-49b1-9a0c-a5a6a423e006
-(India,Emami,CB-Emami Hlth & T Mantra M-Brahma Janen Gopon Komm,FOOD): 21a812ac-5ab0-4da0-bf08-e14c0728a7fa
-(India,Emami,Emami Healthy & Tasty Mantra Jeera,FOOD): 3039002d-8b92-4718-8533-e15463700cca
-(India,Emami,Emami Healthy & Tasty Nutri Soya Chunks,FOOD): c32836fa-ae0b-4d82-935e-dd69eec9454b
-(India,Emami,Emami Healthy & Tasty Mantra Nawabi Meat,FOOD): ca5cc529-6690-4328-9a5b-4d62e84236ef
-(India,Emami,Emami Healthy & Tasty Ultra Lite Soyabean Oil,FOOD): 7a2e1771-9e4c-45ca-881e-a304007f7bec
-(India,Emami,Emami Healthy & Tasty Mantra Garam Masala,FOOD): d76a41a7-abfd-4daf-bec8-5a8ac5ce4607
-(India,Emami,Emami Healthy & Tasty Mantra Masala,FOOD): d7574ecb-fa9c-4d03-983c-de03805602fa
-(India,Emami,Emami Healthy & Tasty Advans Soya Chunks,FOOD): baa5d6f7-cf49-42e6-b628-e759ee85ca5a
-(India,Emami,Emami Healthy & Tasty Super Strong Kachchi Ghani Must,FOOD): af56ceeb-75a3-43fa-9ff7-394f8b1d7937
-(India,Emami,Emami Healthy & Tasty Kachchi Ghani Mustard,FOOD): 7edd6b3a-273c-4718-8a5e-09831e77091a
-(India,Emami,Emami Healthy & Tasty Super Strong Kachchi-Puratan,FOOD): 6df8d15d-905f-4eb7-b187-c4e1524ff7fd
-(India,Emami,Emami 7 Oils In One,PERSONAL CARE): 7d0c4443-2bef-46e3-bfcc-db7c0fdd1959
-(India,Emami,Zandu Pancharist,HEALTHCARE): 83cf97c6-8546-4fd3-9145-d94ba13376e7
-(India,Emami,Kesh King Oil,PERSONAL CARE): a00b7914-8860-4811-b589-1fb7a7e69455
-(India,Emami,Zandu Nityam Tablets,HEALTHCARE): fa637c04-b7ca-45fc-b6a9-a414c1c48b1c
-(India,Emami,Kesh King Shampoo,PERSONAL CARE): 5519c286-1a84-48a6-9312-5df5b902c53d
-(India,Emami,Boroplus Ice,PERSONAL CARE): e4b4aeba-8791-4f54-9e8a-3a07a5194c0a
-(India,Emami,Himani Navratna,PERSONAL CARE): c7357ea2-4399-4550-8b1a-729d3a832d01
-(India,Emami,Mentho Plus Balm,HEALTHCARE): 12b8d417-eeee-4465-bde9-eec28dfd8f66
-(India,Emami,Kesh King Oil/Shampoo,PERSONAL CARE): 6a8400d1-23fb-4841-b3de-d03acd711e9f
-(India,Emami,Zandu Ortho Vedic Oil,HEALTHCARE): 84255aff-0709-4cd6-be82-7ac0c6c80c89
-(India,Emami,Zandu Vigorex Gold/Shilajit Vigorex Gold,HEALTHCARE): c4cd5711-bd19-43d7-8735-3a4d2bb2e183
-(India,Emami,Kesh King Ayurvedic Anti Dandruff Shampoo,PERSONAL CARE): ce2ace4f-7bbe-40b5-93a1-e79046557aa0
-(India,Emami,Himani Navratna Cool Talc,PERSONAL CARE): dc11f822-6174-4d36-8cd4-7c912362e763
-(India,Emami,Dermi Cool,PERSONAL CARE): 7a64f5ed-463c-4ee2-9de7-c3f29320ce75
-(India,Emami,Boroplus Doodh Kesar Body Lotion,PERSONAL CARE): 9187ac47-7179-4e49-91be-583b3ad3bbde
-(India,Emami,Zandu Chyavanprash Jaggery,HEALTHCARE): c14fef98-5aca-4129-80d9-df2143e5d380
-(India,Emami,Zandu Ayurvedic Cough Syrup,HEALTHCARE): 5d6a1741-0b71-4277-800c-97dddd81a4ef
-(India,Emami,Zandu Balm Ultra Power,HEALTHCARE): 742b6591-31f5-46c5-b9f8-4f4b8fb53991
-(India,Emami,Zandu Balm,HEALTHCARE): a344af00-15b7-4f73-ab11-bd77c0c1f343
-(India,Emami,Kesh King Anti Hairfall Shampoo,PERSONAL CARE): 4ac29f67-9e9e-47bf-b1aa-872309fda44b
-(India,Emami,Boroplus,HEALTHCARE): 88913454-e7f5-455d-9421-c6d310db85f9
-(India,Emami,Smart And Handsome Brightening Cream/Face Wa,PERSONAL CARE): edc02b90-17ae-49bc-85c0-e7f42c575234
-(India,Emami,Mentho Plus Balm Total,HEALTHCARE): 414c3049-715e-487c-ae26-d22630396153
-(India,Emami,Dermi Cool Soap,PERSONAL CARE): 755a21ca-6c61-4333-8da5-366a3a97c5ce
-(India,Emami,Pure Glow Complete Brightening Cream,PERSONAL CARE): e4dc9c96-2930-4f7a-976f-4339b0466fdc
-(India,GITAM,Gitam University-Ml,EDUCATION): a7b99408-b9d0-406e-b44e-d5b2b2ed89c1
-(India,Hamdard,Hamdard Raughan-E-Badam Shireen,HEALTHCARE): 2041fde8-ca31-4579-8e7e-b5643e0729b2
-(India,Intergrow Brands,Kitchen Treasures,FOOD): 92051bef-559e-400c-b06b-348e716814ad
-(India,Intergrow Brands,Vieda Kachiya Enna,PERSONAL CARE): 20250cc9-314f-49eb-9357-b3e63563dbac
-(India,Intergrow Brands,Kitchen Treasures Spicy Chicken Masala,FOOD): 07de5f3b-d366-4764-89cf-8084a9f93104
-(India,Intergrow Brands,Kitchen Treasures Sambar Powder,FOOD): 24f492dd-f238-4e46-a4fc-e9e7b5e158af
-(India,Intergrow Brands,Kitchen Treasures Chicken Masala,FOOD): 6b44128e-e03b-401c-ad92-51ad85d01535
-(India,JSW Cement,JSW Cement,REAL ESTATE): dd1dcfc9-1104-4323-8bff-0aae786a66d2
-(India,JSW Cement,JSW Cement Concreel Hd,REAL ESTATE): c6e932e4-9ba7-4158-b750-c5181b177a1b
-(India,JSW Cement,JSW Comp Cem,REAL ESTATE): 2aaab0ae-08f3-4794-8482-6be22017bbf4
-(India,Lovely International Trust,Lovely International Trust,EDUCATION): 629ae1f3-a3ff-4adc-bacc-1e2ac6402b1b
-(India,Motul,Motul Lubricants,AUTOMOTIVE): 3c99c4a0-bd59-4a6e-83f2-a7d278f218dd
-(India,Burger King,Burger King Stunner Menu,RESTAURANTS): ab3a3756-d1b4-4fb9-b003-7fa6fb96fdcd
-(India,Burger King,Burger King Crispy Veg/Chicken Burger/Chicken Pizz,RESTAURANTS): d74b5e40-db3d-4846-ac74-d31012d6a297
-(India,Burger King,Burger King Crispy Veg/Chicken Burger,RESTAURANTS): f46726e7-a446-48b5-92d2-487b5a6cef55
-(India,Tata Asset Management,Tata Nifty India Tourism Index Fund,FINANCE): 0fc660b8-b833-4437-b5ee-6ebc74c9db73
-(India,Tata Asset Management,Tata Nifty Capital Markets Index Fund,FINANCE): f01d6dfc-f140-457b-8083-8b074fff790f
-(India,Tata Asset Management,Tata India Innovation Fund,FINANCE): c3bdacdf-b26d-46e0-8534-b08f61b5b3fc
-(India,Tata Asset Management,Tata Bse Select Business Groups Index Fund,FINANCE): 67e8f1ee-83f5-4d88-9526-58533243d59d
-(India,Tata Asset Management,Tata Index Funds,FINANCE): 5ca4bdea-1c2a-4d60-ae0d-26e5c51f1b42
-(India,USV Pharma,Diataal Capsules,HEALTHCARE): 2906375e-df10-43d5-888b-c93289585faf
-(India,USV Pharma,Diataal-D Capsule,HEALTHCARE): e5510312-5b50-47ec-a5c1-3847d7d0554f
-(India,Veeba Foods,Veeba Foods,FOOD): a3585982-8ed7-48e0-97fc-e8f97b48b0b4
-(India,Warner Bros. Discovery,PBM Pgo Happy Birthday Bheem,ENTERTAINMENT & MEDIA): 183416df-eb15-43f4-9f85-23e4b79160cb
-(India,Warner Bros. Discovery,PP Pgo Hff Chhota Bheem Aur Zuhu Ka Zalzala,ENTERTAINMENT & MEDIA): 9ab2ca6e-4252-4b4f-82be-61cad3fbb454
-(India,Warner Bros. Discovery,PP Cnt Teen Titans Go/Dragon Ball,ENTERTAINMENT & MEDIA): 99eeeaa6-7b3b-4d5a-b5b7-85fa1a2a168f
-(India,Warner Bros. Discovery,PBM Pgo 2 Ka Dum,ENTERTAINMENT & MEDIA): 48a0d837-270b-4065-aab2-b8300e2d3781
-(India,Warner Bros. Discovery,PBM Cnt Lpl Laughter Premier League,ENTERTAINMENT & MEDIA): f4e681e1-d60c-4fdc-b6ad-446ac2da8271
-(India,Xiaomi,Redmi Note 14 Series,CONSUMER ELECTRONICS): a9d26204-6d03-431f-bb9e-3c8ed19167a1
-(India,Akzonobel,Dulux Paints,HOUSEHOLD ITEMS): 3feff7d7-ae80-4236-bb35-b1223d63ba8b
-(India,Akzonobel,Dulux Weathershield Powerflexx,HOUSEHOLD ITEMS): b2bfbbf2-0291-43bf-ad0b-019f36cd5e41
-(India,Arvind Limited,Arvind Fabrics,FASHION): b13341cf-85fb-45a6-9f7a-7857ba6db7c6
-(India,Arvind Limited,Arvind Primante,FASHION): dd7acac4-6444-4042-9c73-02be3ff2028e
-(India,Bisleri,Bisleri Mineral Water,DRINKS (NON-ALCOHOLIC)): 20e1fb43-0f0d-4317-a2a3-3710ba12bd01
-(India,Bcci,PP Sspnet Tata Wpl,SPORTS): 951e7ae0-953a-4f7f-ba40-30175ad4bef1
-(India,Brainbees Solutions,Firstcry,RETAIL): b585e2b7-4b16-446e-80e1-c7ef592a9f62
-(India,Burman Hospitality,Taco Bell,RESTAURANTS): ff42e15d-6321-4367-8382-a22460d8b376
-(India,Cargill,Gemini Refined Edible Oil,FOOD): 02e8aa7c-97e1-4891-9aa1-2ed9547c0148
-(India,Cargill,Gemini Sunflower Oil(Cargill),FOOD): 5892e364-f3ac-4952-958d-cd0d225c6fe5
-(India,Cargill,Gemini Pureit Sunflower Oil,FOOD): 7b85f759-e5ec-4a62-865b-4dee5fc2c10d
-(India,Euphoric Innovations,CB-Vkc Walkaroo Shoes-Laal Singh Chaddha,FASHION): da736d77-68b6-4375-a7f8-d941e574236c
-(India,Euphoric Innovations,Vkc Walkaroo Plus,FASHION): fa58947e-1cc7-4a3d-ab35-a719799ce021
-(India,Euphoric Innovations,VKC Walkaroo Flip-Flopz,FASHION): c1fe81a6-aab0-40fa-958a-6658e74745b0
-(India,Grasim Industries (Birla Opus),Birla Opus All Dry Wall N Roof,HOUSEHOLD ITEMS): 6760fdeb-4316-4d04-92d2-4425d8c5836e
-(India,Grasim Industries (Birla Opus),Birla Opus Paints,HOUSEHOLD ITEMS): 9e89049a-dac5-4f60-8054-92a711ac0da4
-(India,Haier,Haier Duo Washing Machine,HOME APPLIANCES): 86c70f87-a974-4f10-be79-5057a2bef8c3
-(India,Haier,Haier Shock Proof Water Heaters,HOME APPLIANCES): c4932f24-b054-4ce2-927d-ea851c596a21
-(India,Haier,Haier Easy Connect,CONSUMER ELECTRONICS): 624d936f-3e6a-4aed-82a5-d99e42a9d776
-(India,Haier,Haier Water Heater,HOME APPLIANCES): 098bbdea-a7be-4c5f-b1c0-c16e0bab02cf
-(India,Haier,Haier Android Tv,CONSUMER ELECTRONICS): 121bcf8e-5647-4576-b521-ec3aec44729c
-(India,Haier,Haier Washing Machine,HOME APPLIANCES): 530669a6-93d0-43ec-b67a-c3948b1b6276
-(India,Haier,Haier Bmr 14 In 1 Convertible,HOME APPLIANCES): dc0c79f7-01a3-41e8-91af-24db56a2f57c
-(India,Haier,Haier Oled Tv/Qled Tv,CONSUMER ELECTRONICS): e6339591-67fa-46fc-91a5-e21546a0d92f
-(India,Haier,Haier Vogue Series,HOME APPLIANCES): 6a66368f-d99a-476c-9107-0ef532f98737
-(India,Haier,Haier 3 Door Convertible Side By Side Refrigerator,HOME APPLIANCES): ea456f1d-7110-455a-a3e7-519ea4bb80f3
-(India,Haier,Haier Ai Dbt Series,HOME APPLIANCES): 7fffb36e-f01f-4572-8c4a-4fe1cf7688f9
-(India,Haier,Haier Qd Mini Led Tv,CONSUMER ELECTRONICS): ed206000-c461-4b1b-b9a8-5c73cbbf92ed
-(India,Haier,Haier Gravity Ac,HOME APPLIANCES): 740d2327-b955-4abd-8b27-2b5ffb38128e
-(India,Haier,Haier Lumiere Series,HOME APPLIANCES): 683f865c-02f8-44e6-8c17-e7b1d2ca7c76
-(India,Haier,Haier Oled Tv/Od-Mini Led/Qled Tv,CONSUMER ELECTRONICS): 17e3c7e3-2886-456e-b82b-fe10545544c5
-(India,Hatsun Agro,Arokya Curd,FOOD): 17f51f53-20a2-4869-ad94-047ff0312e77
-(India,Hatsun Agro,Arokya Milk,FOOD): 05577820-ef53-4295-8113-c56bfaf14334
-(India,Hatsun Agro,Arokya Milk/Arokya Curd,FOOD): 0c9ef5f3-d242-4062-b3df-260aaa666fc9
-(India,Hatsun Agro,Ibaco Ice Cream Cakes,FOOD): 23aaa205-9703-4977-859b-924be1c8a2f0
-(India,Hatsun Agro,Ibaco,FOOD): 52a390e2-c702-44a6-8c08-5eb34d816414
-(India,Havmor Ice Cream,Havmor Ice Cream,FOOD): ef315b92-20c5-4e15-83f2-ce8c61e02efb
-(India,Havmor Ice Cream,Havmor Dry Fruit Ice Cream,FOOD): 2d683fc7-a5ad-426a-b0a7-152ce6ca5fcf
-(India,Havmor Ice Cream,Havmor Chocolate Ice Cream,FOOD): 5836dc5d-6357-4fc4-b9cb-fe7bef8da61f
-(India,Kimberly-Clark,Huggies Wonder Pants,PERSONAL CARE): b7116d13-ff41-4959-8515-a688245db40a
-(India,Kimberly-Clark,Huggies Dry Pants,PERSONAL CARE): 4e9333fa-22b7-4dd4-a665-293a3ade97c8
-(India,Kimberly-Clark,Huggies Complete Comfort,PERSONAL CARE): 09c59593-b6c7-4e33-b87a-f9d02a2e0e6e
-Error (India,Kotak Mahindra,Kotak Mahindra 811 Ac,FINANCE): Brand 'Kotak Mahindra 811 Ac' with category 'FINANCE' not found under market 'India' (client 'Kotak Mahindra')
-(India,Kotak Mahindra,Kotak Mahindra Activmoney Savings Account,FINANCE): 1ff00191-4d59-4a12-a584-62667f71eaba
-(India,Kotak Mahindra,Kotak Group,FINANCE): 0804e5f0-9cfc-4abd-8915-4f71a152bb03
-(India,Kotak Mahindra Mutual Fund,Kotak Mutual Fund,FINANCE): e728d3ff-a218-4cb5-a880-997434f1f60e
-(India,Kotak Securities,Kotak Neo,FINANCE): 97ce374d-aec5-424d-95cc-291f309ce5dc
-(India,KRBL Limited,India Gate Basmati Rice,FOOD): 913ed531-ae49-4a98-b9ed-670f2f56485c
-(India,Le Travenues Technology,Abhibus.Com,TRAVEL): 4922eac2-8f97-43a3-bcab-31698f529c12
-(India,Le Travenues Technology,Confirmtkt App,TRAVEL): bd43a889-b57f-4de4-b63d-d83922a2bdf9
-(India,Le Travenues Technology,Ixigo Trains,TRAVEL): bf83ae05-aaeb-4bbc-84f7-6bd1b34618ae
-Error (India,Linkedin,Linkedin,ENTERTAINMENT & MEDIA): Brand 'Linkedin' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Linkedin')
-(India,Lohiya Edible Oils,Gold Drop Sunflower Oil,FOOD): 73099a32-20d1-490e-8330-7d45506598ef
-(India,Luminous Power Technologies,Luminous Solar Products,UTILITIES): 9c152fe2-aa26-4d39-baae-5634c1f67a8e
-(India,Lupin,Softovac Bowel Regulator,HEALTHCARE): 406fbc23-31d6-4311-a7aa-475d054a3380
-(India,Lupin,Softovac Bowel Regulator,HEALTHCARE): 406fbc23-31d6-4311-a7aa-475d054a3380
-(India,Lupin,Aptivate Syrup,HEALTHCARE): c23943f2-2209-4a19-b4c1-2027c60bc048
-(India,Matrimony.com,Bharat Matrimony.Com,GENERAL SERVICES): e08788bc-be2a-4b9b-9483-30ff34cbaaf7
-(India,Matrimony.com,Christian Matrimony.Com,GENERAL SERVICES): 78a01970-7e8b-4097-ab9f-fc18f8f7a82f
-(India,Matrimony.com,Ezhavamatrimony.Com,GENERAL SERVICES): 49f4865e-287d-49b3-9d63-f91ea4aae3e5
-(India,Matrimony.com,Kapumatrimony.Com,GENERAL SERVICES): fc08fcf5-6a84-44bd-aeb1-fa7a7357c488
-(India,Matrimony.com,Kerala Matrimony.Com,GENERAL SERVICES): 9eec9b94-82c4-4d1a-9f5e-3b7c8f4c2e8d
-(India,Matrimony.com,Konguvellalar Matrimony.Com,GENERAL SERVICES): 31e86037-b636-4be8-a1e0-c7b8459a706a
-(India,Matrimony.com,Rajasthani Matrimony,GENERAL SERVICES): 02d3b452-aba8-4850-9df3-e12b8b493c09
-(India,Matrimony.com,Tamil Matrimony.Com,GENERAL SERVICES): 5fcfb622-05f5-4c62-bfbb-e7410f7d106e
-(India,Matrimony.com,Vokkaligamatrimony.Com,GENERAL SERVICES): 2ebd2b71-cf3b-412e-bf34-1f4442245012
-(India,Matrimony.com,Adidravidarmatrimony.Com,GENERAL SERVICES): 2fcdeb3c-d99d-4ed3-bf91-e0eb0b35a989
-(India,Matrimony.com,Aryavysyamatrimony.Com,GENERAL SERVICES): 5ec00070-42e6-405b-a7c4-ec4115fbb91f
-(India,Matrimony.com,Bengali Matrimony.Com,GENERAL SERVICES): a7af4dbb-5421-4e38-9dec-b84345d488c7
-(India,Matrimony.com,Elite Matrimony.Com,GENERAL SERVICES): 0938573c-e0ef-439b-a191-cf40bbfcf435
-(India,Matrimony.com,Kammamatrimony.Com,GENERAL SERVICES): df8946f8-8c46-4c84-994b-273ece1dee8d
-(India,Matrimony.com,Lingayath Matrimony.Com,GENERAL SERVICES): 7c836f34-012f-4b05-a478-afe22fd9a2f7
-(India,Matrimony.com,Marathi Matrimony.Com,GENERAL SERVICES): a808cebe-a7ee-44dc-a485-ef9f466e6158
-(India,Matrimony.com,Oriya Matrimony.Com,GENERAL SERVICES): af5e88d2-6a2c-4a36-abcb-2986464ae0b1
-(India,Matrimony.com,Reddymatrimony.Com,GENERAL SERVICES): 82a1243a-0330-4396-b5a6-b2f12ebaebcb
-(India,Matrimony.com,Vanniyarmatrimony.Com,GENERAL SERVICES): 176f4f84-3810-4c4c-b84d-1864e4b42a50
-(India,Matrimony.com,Muslimmatrimony.Com,GENERAL SERVICES): 9fd433a3-038f-4054-8796-c048e39e610b
-(India,Matrimony.com,Punjabi Matrimony.Com,GENERAL SERVICES): 6bfaf1b0-4b92-4f18-bf85-f797b05ae483
-(India,Matrimony.com,Gujarati Matrimony.Com,GENERAL SERVICES): 9f594ad2-9ec7-4a88-93ae-569045ca822f
-(India,Matrimony.com,Jodii App,GENERAL SERVICES): 594b987d-1ad8-4970-a82a-ab94f4f8901a
-(India,Matrimony.com,Kannada Matrimony.Com,GENERAL SERVICES): 7b0b75d1-f14f-491d-a8af-1650973b3766
-(India,Matrimony.com,Telugu Matrimony.Com,GENERAL SERVICES): 3146289f-4502-4c32-be3a-783c238efe08
-(India,Matrimony.com,Nairmatrimony.Com,GENERAL SERVICES): c0d51ac1-5266-4597-929c-470e95b11aa6
-(India,Matrimony.com,Patelmatrimony.Com,GENERAL SERVICES): a153aabd-817c-429e-8e05-dd063e18a3e3
-(India,Matrimony.com,Sikhmatrimony.Com,GENERAL SERVICES): 3c17d256-eb63-43de-b6d0-e9f2d2bc66f4
-(India,Matrimony.com,96Kulimaratha Matrimony.Com,GENERAL SERVICES): 8ad33029-3e96-43c2-9fff-6b65dfed3c93
-(India,Matrimony.com,Brahmin Matrimony.Com,GENERAL SERVICES): fd6f27b1-3233-424a-a12d-b295c0f3606e
-(India,Matrimony.com,Kayastha Matrimony.Com,GENERAL SERVICES): 7425a222-0acd-490e-b14a-003d6d7b2722
-(India,Matrimony.com,Rajput Matrimony.Com,GENERAL SERVICES): bdccca62-1f7a-4471-90ac-c69e8c95f110
-(India,Modenik,Dixcy Scott,FASHION): 4c069a67-d4d1-438d-8f7b-af8beabba2d8
-Error (India,Mondel?z International,Cadburys 5 Star,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Bournvita,DRINKS (NON-ALCOHOLIC)): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Fuse,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Oreo,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Tang Orange Flavour,DRINKS (NON-ALCOHOLIC)): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Gems,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Perk,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Tang,DRINKS (NON-ALCOHOLIC)): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Crispello,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Lickables,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Celebrations,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Chocolate,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Silk,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Chocobakes Cakes,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Silk Heart Blush,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Dairy Milk Silk Desserts Brownie,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Chocobakes Cookies,FOOD): Client not found: Mondel?z International
-Error (India,Mondel?z International,Cadburys Oreo Pokemon,FOOD): Client not found: Mondel?z International
-(India,Mother Dairy,Safal Outlet (Mother Dairy),RETAIL): 7fc63627-d948-4cfe-b217-1980466b4379
-(India,Mother Dairy,Dhara Range,FOOD): 07a17f0b-b011-482e-86c5-e4e1ba402b80
-Error (India,Mother Dairy,Mother Dairy,ORGANIZATIONS & ASSOCIATIONS): Brand 'Mother Dairy' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'Mother Dairy')
-(India,Mother Dairy,Dhara Oil,FOOD): b07d7a49-d090-440b-9c30-e29acd0ed04e
-(India,Mother Dairy,Dhara Kachi Ghani Mustard Oil,FOOD): 6edefc59-f9b5-41e7-90c0-8ac3e309524f
-(India,Mother Dairy,Mother Dairy Range Of Product,FOOD): 49c5ce15-dde2-4936-827e-90a8062e68c8
-(India,Orkla,MTR Sambar Powder,FOOD): 0235b860-5d2b-41ab-9c61-5c8c5d09a17f
-(India,Orkla,MTR Special Garam Masala,FOOD): 37ec486d-65d4-423f-a15c-8ded506929e4
-(India,Orkla,MTR Spicy Sambar Powder,FOOD): 7969ef44-a299-4656-bbbc-13c3bbfe22f1
-(India,Orkla,MTR Rice Masala,FOOD): 114c7605-9c9f-409f-9021-2f379c0233b8
-(India,Orkla,MTR Gojju Magic Masala,FOOD): 242b8936-6aaa-425c-b3c0-1948c65fc873
-(India,Orkla,MTR Minute Rasam,FOOD): deb61a86-105c-40af-ae13-d83d1acd1857
-(India,Muthoot Fincorp,Muthoot Fincorp Two Wheeler Loan,FINANCE): 77c2723c-f579-4a81-9d51-b7daf0cad766
-(India,Muthoot Fincorp,Muthoot Ashwas Dinam Gold Loan,FINANCE): 9516e85d-e585-49b5-bcc0-defbcdbf3e0a
-(India,Muthoot Fincorp,Muthoot Fincorp,FINANCE): 565e9ac1-517b-4935-bc1d-95c9704b99ef
-(India,Muthoot Fincorp,Muthoot Fincorp Atmanirbhar Mahila Gold Loan,FINANCE): 665c90fd-71bb-44cf-b6a1-faabc32e1547
-(India,Muthoot Fincorp,Cb-Muthoot Fincorp Loan Against Gold-Minnal Murali,FINANCE): b66b162b-a2e9-44a4-a76f-13bec7b77ef6
-(India,Myntra,The Roadster Life Co,FASHION): 8dc0a112-a88e-4178-8ec8-64c09bea4cb3
-Error (India,Myntra,Myntra,FASHION): Brand 'Myntra' with category 'FASHION' not found under market 'India' (client 'Myntra')
-Error (India,Netflix,Netflix,ENTERTAINMENT & MEDIA): Brand 'Netflix' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Netflix')
-(India,Nippon Paint,Nippon Odour Less Air Care,HOUSEHOLD ITEMS): 45c7303e-a43c-4e10-83bc-1e0ad297cbbb
-(India,Nippon Paint,Nippon Weatherbond Advance,HOUSEHOLD ITEMS): b76694fa-e65f-4249-987f-439e9556cc1a
-(India,Nippon Paint,Nippon Paint Kidz,HOUSEHOLD ITEMS): e173c40c-577d-48f9-b94f-d58818a58239
-(India,Nippon Paint,Nippon Durafresh Solo,HOUSEHOLD ITEMS): 346ba190-461b-4685-85dd-c02be4a7ce39
-(India,Nippon Paint,Nippon Walltron,HOUSEHOLD ITEMS): b0ac881a-d563-440e-a7b2-19d97d2d1865
-(India,Nippon Paint,Nippon Spot-Less Paint,HOUSEHOLD ITEMS): 405e0845-9068-443e-b0c6-d6d8e4e6d5ce
-(India,Nippon Paint,Nippon Weatherbond Pro,HOUSEHOLD ITEMS): 5f1a4641-d598-465d-ac1b-f43e94d980b2
-(India,Nippon Paint,Nippon Paint Wellness Range,HOUSEHOLD ITEMS): 0f669a3e-dc60-4d85-800e-0dd43e5fa08a
-(India,Nippon Paint,Nippon Paint Breeze Star,HOUSEHOLD ITEMS): 4a4bdf27-1ec4-48c8-b16e-f0d8ec07e255
-(India,Nippon Paint,Nippon Paint Durofresh Solo,HOUSEHOLD ITEMS): 3658b143-cded-48f4-ac8d-5130d648d3b4
-(India,Nippon Paint,Nippon Paint Atom Fibra,HOUSEHOLD ITEMS): e39859f2-eb07-4629-8552-004d82938179
-(India,Nippon Paint,Nippon Paint Weatherbond Pro,HOUSEHOLD ITEMS): 498baa38-7abc-4c61-a5aa-b88f12c9c8e6
-Error (India,Nippon Paint,Nippon Paint,HOUSEHOLD ITEMS): Brand 'Nippon Paint' with category 'HOUSEHOLD ITEMS' not found under market 'India' (client 'Nippon Paint')
-(India,Nippon Paint,Nippon Paint Atom 2 In 1,HOUSEHOLD ITEMS): a5bb8773-d020-44bb-bb72-9f47a9b59b2c
-(India,Niva Bupa Health Insurance,Niva Bupa Health Insurance,FINANCE): 371c4e6f-2eb9-4c11-af53-86eb20eb0a42
-(India,Danone,Nutricia Aptagrow,DRINKS (NON-ALCOHOLIC)): 426a01ec-8c48-44c6-9515-22923a7233dc
-(India,Danone,Protinex,DRINKS (NON-ALCOHOLIC)): 2979d6f4-c217-4a17-afe2-b9d53cc6514d
-(India,Danone,Protinex Diabetes Care,HEALTHCARE): b9afa17e-53e1-4a59-8367-c9a372333f7e
-(India,Orkla,MTR Spices,FOOD): 3725f66e-ef83-464e-b2fd-1e4f3f86ca6c
-(India,Orkla,MTRBadam Drink Mix,DRINKS (NON-ALCOHOLIC)): 5b258459-bbfb-4d52-9983-0c569d6b4c41
-(India,Orkla,MTR Food Product Range,FOOD): fd2e9604-48d9-46b2-9db0-ff6ffc4fb70d
-(India,Orkla,MTR Puliogare Powder,FOOD): bd75d7f5-6292-4329-9e99-4856d0eea5a5
-(India,Orkla,MTR Gulab Jamun Mix,FOOD): c3b51a15-87e3-481c-9614-0be7d6997b9c
-(India,Orkla,MTR Original Sambar/Spicy Sambar Powder,FOOD): cfcafe80-dd86-4b99-9ec1-c5d3473a60e5
-(India,Orkla,Eastern Chicken Masala,FOOD): e0d8b884-f8be-441a-b93f-5f01d18ab098
-(India,Orkla,Eastern Mutton Masala,FOOD): 90f4f118-b5bd-41ea-8404-9b2f05dc7668
-(India,Paragon Polymer Products,Office Chappals&Sandal,FASHION): 455539af-23d6-4ba9-8d96-effcbcb43edc
-(India,Paragon Polymer Products,Footwear,FASHION): 1620ca7a-28e1-45c9-8ad8-0508ca617361
-(India,Pb Fintech Limited,Policybazaar.Com,FINANCE): 5dd22b08-6112-45a4-9394-fec7e5342370
-(India,Pb Fintech Limited,Paisabazaar.Com,FINANCE): 60911ac7-6195-471e-a147-c5843a33b2f3
-(India,Perfetti Van Melle,Alpenliebe Pop,FOOD): 9c8f3613-2861-4939-9a29-73737a75a4aa
-(India,Perfetti Van Melle,Center Fresh,FOOD): db338d81-fddb-43ce-977e-e7067b9e8874
-(India,Perfetti Van Melle,Alpenliebe Juzt Jelly,FOOD): 1e688169-0e69-4cd3-9ed2-299a293bbf04
-(India,Perfetti Van Melle,Mentos Mint,FOOD): e65de04b-9721-4bd2-87da-1f7611ad8f0b
-(India,Perfetti Van Melle,Chupa Chups,FOOD): 998b0969-4fe5-491f-9826-9ca6bcdb103d
-(India,Perfetti Van Melle,Alpenliebe Gold,FOOD): 1508ffde-adcd-47de-bbc9-93e4135f3d30
-(India,Perfetti Van Melle,Chupa Chups Lollypop,FOOD): cb469728-c4cd-45f1-9510-3997798b7c88
-(India,Perfetti Van Melle,Alpenliebe,FOOD): 4dba9013-1c62-42ab-8013-3800f589dc0b
-(India,Perfetti Van Melle,Center Fresh 3 Layers Gum,FOOD): 41aca489-2a4a-4571-bf77-4f24c419d26c
-(India,Perfetti Van Melle,Chupa Chups Lollipop,FOOD): 317d2d14-a183-4295-88d9-602b4572af6c
-(India,Perfetti Van Melle,Chupa Chups Do You Love Me,FOOD): 243b4201-31c9-4835-b610-dfe1c037676a
-(India,Perfetti Van Melle,Alpenliebe Juzt Jelly Cars & Planes,FOOD): f5291ed7-2560-4fc3-a558-19808126ab1d
-(India,Perfetti Van Melle,Chupa Chups Mix Up,FOOD): 09b9afc9-2bdf-4861-8c5a-889a315db070
-(India,Perfetti Van Melle,Chupa Chups Colour Your Tongue Lollipop,FOOD): e844299e-526b-403f-a0f6-2c9b257c33d9
-(India,Perfetti Van Melle,Happydent White,FOOD): dd92dbe9-e05b-4f55-b6bf-c820a0d91507
-(India,Perfetti Van Melle,Center Fresh Gums/Mints,FOOD): 59f9c9b4-b91b-4ea3-b013-ccd1f80bdc2e
-(India,Perfetti Van Melle,Center Fruit Tennis Ball Shape,FOOD): 4e1ec614-0d62-4d03-bcfa-b10636f8886c
-(India,Perfetti Van Melle,Center Fruit,FOOD): b0f857fa-dca8-466a-887a-576b6b66420c
-(India,Perfetti Van Melle,Chupa Chups Jellies,FOOD): 2bb4b1ec-1b28-4643-973d-4226b108f0e9
-(India,Perfetti Van Melle,Mentos Rainbow,FOOD): ef604765-62dd-44d1-9b51-8fbb3547eb42
-(India,Perfetti Van Melle,Chupa Chups Sour Belt/Sour Bites,FOOD): 9252eff3-3563-4f95-b7eb-613af1d06b65
-(India,Pernod Ricard,Seagrams Imperial Blue (Mineral Water),DRINKS (NON-ALCOHOLIC)): ce6934d3-ad03-4b4b-8066-f64cd518667d
-(India,Pernod Ricard,Pernod Ricard,DRINKS (ALCOHOLIC)): 11e56833-c0e8-454f-a02a-fe5980e82db2
-(India,Platinum Guild,Platinum Days Of Love,JEWELLERY): 5b041f1f-a6b8-461a-871d-85189741cb0d
-(India,Platinum Guild,Platinum Evara,JEWELLERY): 510d3575-035e-4b04-b7b8-9dae9fad099d
-(India,Reckitt,Dettol Powder To Liquid Handwash,HOUSEHOLD ITEMS): 44dbbd84-3342-41fc-ab90-b52d079489c8
-(India,Reckitt,Vanish Crystal White,HOUSEHOLD ITEMS): 7f68167c-8bc1-4236-892e-1e88f36067ea
-(India,Reckitt,Harpic Power Plus 10X Max Clean,HOUSEHOLD ITEMS): 47b10171-6efa-4d0e-98d3-9e3277578905
-(India,Reckitt,Dettol Antiseptic Liquid,HEALTHCARE): 88ddbad6-f4f5-4503-966b-acb47b3cb227
-(India,Reckitt,Dettol Skincare Hand Wash,HOUSEHOLD ITEMS): bad2942c-d6c1-48ce-9dfa-7106a940a55c
-(India,Reckitt,Dettol Lime Cool Soap,PERSONAL CARE): 5c6d1bb4-6579-4f4b-a3a1-43e54facb36f
-(India,Reckitt,Robin Fabric Whitener,HOUSEHOLD ITEMS): 271d2437-cb09-44dd-8f3c-7eef9d1329ea
-(India,Reckitt,Harpic Power Plus 10X Advanced,HOUSEHOLD ITEMS): 3586007a-972c-4664-950e-8af15b5ebea5
-(India,Reckitt,Lizol Shakti,HOUSEHOLD ITEMS): 835b4dd7-3ffc-4ad5-a823-54ddb4530c8d
-(India,Reckitt,Durex Close Fit Invisible,HEALTHCARE): 4bc220a7-7edf-41f9-953b-758df28964a6
-(India,Reckitt,Dettol Toilet Soaps,PERSONAL CARE): 0d3425f4-f72a-4a32-94d1-27e6ccb94f1d
-(India,Reckitt,Lizol All In 1,HOUSEHOLD ITEMS): 758608cb-f7f0-4fdb-abe7-cdb226dffb57
-(India,Reckitt,Vanish Oxi Action,HOUSEHOLD ITEMS): 3aed3948-d7bc-4780-9ff1-1537c8ed28bf
-(India,Reckitt,Colin,HOUSEHOLD ITEMS): d47bd33b-3087-41ae-a035-bb619b50604a
-(India,Reckitt,Harpic Drain Xpert Powder,HOUSEHOLD ITEMS): 8617b61a-1c17-4b48-a370-9bc8dfa8a7fe
-(India,Reckitt,Harpic Bathroom Cleaner,HOUSEHOLD ITEMS): 74fddd06-be01-481f-ab76-30ea8e932213
-(India,Reckitt,Gaviscon,HEALTHCARE): 10df0145-05ad-4efd-9738-4e07cdc29781
-(India,Reckitt,Veet Pure,PERSONAL CARE): 341d829b-db7f-41f8-a691-0ae9733f001f
-(India,Reckitt,Dettol Liquid Soap,PERSONAL CARE): 03d5ef96-830b-47bb-8dcb-1441feaa8049
-(India,Reckitt,Mortein 2 In 1 Insect Killer,HOUSEHOLD ITEMS): 3c8518c4-64ff-4a3f-90b7-c2aabc526638
-(India,Reckitt,Harpic Flushmatic,HOUSEHOLD ITEMS): 8abd38a2-d456-4bc3-bd2a-b1294290af80
-(India,Reckitt,Mortein Liquid Vaporizer,HOUSEHOLD ITEMS): cc6153e1-4c23-43bc-8b23-9da6b26d62d0
-(India,Reckitt,Mortein Cockroach Killer,HOUSEHOLD ITEMS): b7010e4c-82a4-4a2e-a2b6-2e41733ca5e5
-(India,Reckitt,Dettol Icy Cool/Lime Cool Soap,PERSONAL CARE): 94ea7203-54d5-43d7-b780-24442b72b405
-(India,Reckitt,Dettol Skincare Soap,PERSONAL CARE): 9e5b7d44-321e-4f5b-97df-17bf32c32bcb
-(India,Reckitt,Strepsils Orange,HEALTHCARE): a646fed8-5c10-407d-ad3d-5aaf6e2cb448
-(India,Reckitt,Durex Realfeel,HEALTHCARE): a8f9d3a2-20b2-474b-8848-0581070ef7ab
-(India,Reckitt,Veet Professional,PERSONAL CARE): de23e9a6-5be1-49c1-b239-fcd0a0868ab2
-(India,Reckitt,Dettol Icy Cool,PERSONAL CARE): 680da078-d349-4da3-99a9-76d910b30d86
-(India,Reckitt,Strepsils Dry Cough,HEALTHCARE): d6921c3c-8615-4565-9973-015dcb321441
-(India,Reckitt,Durex Extra Time Ultra Thin,HEALTHCARE): e1c38a07-3b58-4ee2-afb2-f66727243d46
-(India,Reckitt,Dettol Lime Fresh,PERSONAL CARE): e2db637f-4034-46ea-a2c2-e7cd81d9ddd5
-(India,Reckitt,Dettol Cologne Fresh,PERSONAL CARE): d09bcba1-0b51-4816-a00b-7741cd006ce6
-(India,Reckitt,Moov Active Spray,HEALTHCARE): 594052cb-6f38-4b76-b77b-17ab479de725
-(India,Reckitt,Moov Pain Balm,HEALTHCARE): 7f30f2d9-14de-464c-859f-322bbe9a73ef
-(India,Reckitt,Ringguard Cream,HEALTHCARE): 3cc9b98d-27eb-40a4-99ad-8d030a3ce568
-(India,Reckitt,Moov Cool,HEALTHCARE): 92d4904b-1de7-4afc-a3b1-3761465c02df
-(India,Reckitt,Itch Guard Cream,HEALTHCARE): d26c7ce6-20bb-47f5-89fc-34177fc71b23
-(India,Reckitt,Moov Spray/Moov Cool,HEALTHCARE): a8e85734-cb3b-4ba7-b70d-60eb0ec06e64
-(India,Red Bull,Red Bull Flugtag,DRINKS (NON-ALCOHOLIC)): a3e7d3fa-8926-4af8-9d55-b90b09734059
-(India,Red Bull,Red Bull Energy Drink,DRINKS (NON-ALCOHOLIC)): d975ca75-fe05-498a-a765-f8479ad97f35
-(India,Rolex,Rolex,CONSUMER ELECTRONICS): 57e2d612-04ae-4a64-a4e7-c1e0c2a77804
-(India,Sarvocca Industries,So Klin Smart Det Powder,HOUSEHOLD ITEMS): 1ae394af-f694-44cf-a632-14ba6d9687db
-(India,Shriram Life Insurance,Shriram Life Genius Assured Benefit Plan,FINANCE): f678e281-be01-4e85-bfec-7022aebbb8a5
-(India,Shriram Life Insurance,Shriram Life Assured Income Plus Plan,FINANCE): 7b371fcd-9738-48c7-b4c4-0dc4b67515c6
-(India,Shriram Life Insurance,Shriram Life Assured Advantage Plus,FINANCE): c8667ac9-8a9f-4e6d-a294-16c36b4d95e1
-(India,Shriram Life Insurance,Shriram Life Super Income Plan,FINANCE): 2ca446d7-1cdb-4b94-9047-ae980fe24b9d
-(India,Shriram Life Insurance,Shriram Life Golden Premier Saver Plan,FINANCE): 85f8a9d8-e2b6-4783-9d8a-1dca77736f76
-(India,Sporta Technologies,Dream11.Com,GENERAL SERVICES): afc48213-b81d-40ab-828b-455d7dd97b9c
-(India,Sporta Technologies,Revital H,HEALTHCARE): 1bce86c0-22f6-4588-af9e-e9d31c473acc
-(India,Sporta Technologies,Sun Pharmaceutical,HEALTHCARE): b6d3b1b2-173c-4c1f-9e3c-0ee1d51477e1
-(India,Sporta Technologies,Revital H Woman,HEALTHCARE): 75d3d8bb-2084-4e20-bc49-bd28ff8943fd
-(India,Sporta Technologies,Volini Gel/Spary,HEALTHCARE): e28fbb8f-426b-460c-ac9d-927276af6335
-(India,Sporta Technologies,Volini Maxx,HEALTHCARE): c856df21-ce5e-44a9-9e0b-572ef2ecf3b1
-(India,Tata Consumer Products,Tata Tea Chakra Gold Elaichi,DRINKS (NON-ALCOHOLIC)): 70180db9-5cfd-4553-a8ee-89923f93804c
-(India,Tata Consumer Products,Tata Tea,DRINKS (NON-ALCOHOLIC)): 0edbc400-f874-4b25-829c-e1fa9321cb8e
-(India,Tata Consumer Products,Tata Premium Ctc Leaf,DRINKS (NON-ALCOHOLIC)): b964fd98-4c4e-47a5-b79d-3a3c69ef984f
-(India,Tata Consumer Products,Tata Tea Gold Care,DRINKS (NON-ALCOHOLIC)): 330e0b87-32cd-4e87-be4e-d718096c16a3
-(India,Tata Consumer Products,Tata Tea Agni Leaf,DRINKS (NON-ALCOHOLIC)): df15a768-6538-4bbd-b6f4-b5f942d8b8cb
-(India,Tata Consumer Products,Tata Agni Elaichi Chai,DRINKS (NON-ALCOHOLIC)): d001f40e-c69a-4395-b33a-715e9f00c284
-(India,Tata Consumer Products,Tata Coffee Grand,DRINKS (NON-ALCOHOLIC)): 5407e609-da61-40e5-9623-aaec02cde80b
-(India,Tata Consumer Products,Tata Tea Premium Desh Ka Garv Collection,DRINKS (NON-ALCOHOLIC)): 401842aa-e932-48fd-b7ca-9030cb4704b6
-(India,Tata Consumer Products,Tetley Green Tea Immune,DRINKS (NON-ALCOHOLIC)): a9b19952-267b-4e07-b808-f6c8a8e16a4f
-(India,Tata Consumer Products,Tata Kanan Devan Strong,DRINKS (NON-ALCOHOLIC)): 5f39ce24-aed5-4a22-a86d-61ccb0ce9540
-(India,Tata Consumer Products,Tata Tea Gold,DRINKS (NON-ALCOHOLIC)): baa99380-3326-45fa-a8b7-e170c6fa1ab9
-(India,Tata Consumer Products,Tata Soulfull Ragi Bites No Maida Choco Sticks,FOOD): a477f38a-48fa-43df-87d7-c6978e323041
-(India,Tata Consumer Products,Tata Soulfull Ragi Bites No Maida Choco,FOOD): e3a6f675-62e0-4b1e-80aa-8652cf699bf3
-(India,Tata Consumer Products,Tata Gemini,DRINKS (NON-ALCOHOLIC)): 6c7ac7f3-1426-455e-8279-99654e1aec75
-(India,Tata Consumer Products,Tata Chakra Gold,DRINKS (NON-ALCOHOLIC)): cc482ecc-7c66-4bfb-a1e0-011fd4abddde
-(India,Tata Consumer Products,Tata Soulfull No Maida Rusk,FOOD): 373eb0df-aeba-46fb-8e5d-bdb59f796645
-(India,Tata Consumer Products,Tata Tea Chakra Gold Premium Leaf Tea,DRINKS (NON-ALCOHOLIC)): 501da7f4-c6bf-49cf-9d2d-8d8b2e3c8d52
-(India,Tata Consumer Products,Tata Gluco Plus Jelly Energy Drink,DRINKS (NON-ALCOHOLIC)): 5711e439-fbc0-48c2-b2cf-207915bc2d9f
-(India,Tata Consumer Products,Tata Gluco Plus,DRINKS (NON-ALCOHOLIC)): 6a3d5b0b-3c3a-43f9-acff-8800f8f71d56
-(India,Tata Consumer Products,Tata Copper Plus Water,DRINKS (NON-ALCOHOLIC)): 6a91d15b-5394-4e04-9291-78eb3425f17e
-(India,Tata Consumer Products,Tata Salt,FOOD): 341003b5-8984-4692-b3a1-0ca1496d4a83
-(India,Tata Consumer Products,Tata Crystal Salt,FOOD): 458b05b2-2536-4e7e-b106-77f90e4fce18
-(India,Tata Consumer Products,Tata Salt Crystal,FOOD): 961be1a4-894d-4faa-a163-9a4cb13f5ff3
-(India,Tata Play,Tata Play Binge App,ENTERTAINMENT & MEDIA): 641cbd8f-c470-43ad-9c70-6b17672947bb
-Error (India,Tata Play,Tata Play,ENTERTAINMENT & MEDIA): Brand 'Tata Play' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Tata Play')
-(India,The South Indian Bank,South Indian Bank,FINANCE): c824f51d-1fd1-4d52-b54d-4a36a22b4e37
-(India,Unicharm,Sofy Antibacteria,PERSONAL CARE): 6f9717cb-c4c4-4605-ae7e-255faace73dd
-(India,UNICEF,UNICEF,CHARITIES): 1e655efd-3ced-465b-9511-2bb8d882ef71
-(India,Vodafone Idea,Vi Cellular Phone Service,TELECOMS): 14ab9638-1b05-46ff-bde0-b63aab46e1eb
-(India,Vectus Industries,Vectus Pipes And Tanks,REAL ESTATE): 61259c6d-5757-44af-a1b0-d459a0333f71
-(India,Zee Entertainment,Zee Entertainment,ENTERTAINMENT & MEDIA): 713b2d61-098b-41cf-b364-2a5f8b80cc00
-(India,Zee Entertainment,Gec,ENTERTAINMENT & MEDIA): 023d34b7-ae5c-4bf4-8ae8-c2ab5d69bf15
-(India,Zee Entertainment,Regional,ENTERTAINMENT & MEDIA): 806b728d-91c4-43d5-8e83-0de49da4329b
-(India,Zee Entertainment,News,ENTERTAINMENT & MEDIA): 15510436-43d2-48d8-be66-4eb6003d7fd7
-(India,Zee Entertainment,Movies,ENTERTAINMENT & MEDIA): d451f411-c94f-45aa-b253-85c4d4e52b49
-(India,Zee Entertainment,Others,ENTERTAINMENT & MEDIA): 1b1993f2-e6c0-4b80-b656-f74bdb8f1961
-(India,Zydus Healthcare,Zydus Nasoclear,HEALTHCARE): a2370428-1fcf-4ee2-89c1-9eb4b8fbc703
-(India,Zydus Wellness,Everyuth Naturals Walnut Scrub,PERSONAL CARE): 6017cc38-6eb2-46e9-8617-c330403e7ed2
-(India,Zydus Wellness,Sugar Free Green,FOOD): 0c39b75c-fe1e-4738-bb7f-0434cad084fc
-Error (India,Zydus Wellness,Everyuth Golden Glow Peel Off,PERSONAL CARE): Brand 'Everyuth Golden Glow Peel Off' with category 'PERSONAL CARE' not found under market 'India' (client 'Zydus Wellness')
-(India,Zydus Wellness,Everyuth Nat Adv Walnut Apricot Scrub,PERSONAL CARE): 7ed7ed3a-a9e3-45eb-a96b-b086eb50be51
-(India,Zydus Wellness,Complan,DRINKS (NON-ALCOHOLIC)): f6a66ae9-d376-4af6-978c-b59c9d64a27d
-(India,Zydus Wellness,Glucon D,DRINKS (NON-ALCOHOLIC)): abdaa9df-340b-4d4b-abed-53aea2587152
-(India,Zydus Wellness,Everyuth Naturals Body Lotion,PERSONAL CARE): 0b0d459e-b7d4-4e30-9b11-ae029b503fbb
-(India,Zydus Wellness,Glucon D Mango Blast,DRINKS (NON-ALCOHOLIC)): 0e8b26fa-d80e-441f-8590-51635b02ba93
-(India,Zydus Wellness,Everyuth Naturals Tan Removal Chocolate And Cherry,PERSONAL CARE): 79cb5242-18e8-42ea-86b6-c09912399065
-(India,Zydus Wellness,Everyuth Naturals Anti Pollution Face Wash,PERSONAL CARE): 991de868-aca9-4a58-abdd-0588b0a2b492
-(India,Zydus Wellness,Complan Immuno Gro,DRINKS (NON-ALCOHOLIC)): 93eb0ebd-83ee-4e7c-a862-057b693b022e
-(India,Zydus Wellness,I M Lite Sugar,FOOD): 3f3fb5e7-04a3-434e-9224-c19cca3c9080
-(India,Zydus Wellness,Everyuth Naturals Anti Pollution Scrub,PERSONAL CARE): 2722bd0d-1790-4c5f-b341-7a9f49b63e30
-(India,Zydus Wellness,Nycil Ph Powder,PERSONAL CARE): 6b083c58-b27a-4541-ac0b-f9ef8edd6ec2
-(India,Zydus Wellness,Glucon D Activors,DRINKS (NON-ALCOHOLIC)): e2cde54a-684e-4d41-b714-4933eb4b7d9e
+Found row(austria,Action Service & Distribution BV,Action,Retail): 09c1edf5-8a34-43f6-9ade-08ab4b7b6cab
+Found row(austria,ACTUAL Fenster Tueren Sonnenschutz,ACTUAL Fenster Tueren Sonnenschutz,Home Appliances): bacb4e6c-ddf6-4fec-ad89-58e7c4fe3f88
+Found row(austria,ADLER-Werk Lackfabrik,Adler,Household Items): d92ccd2f-ee2a-42b0-b6c3-d4345b78f47a
+Error (austria,Afro Coffee,Afro-Coffee,Drinks (non-alcoholic)): Brand 'Afro-Coffee' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Afro Coffee')
+Found row(austria,Air Up,air up,Drinks (non-alcoholic)): 335ccd36-a59c-4a3c-91df-9d4bbba86f76
+Found row(austria,AkzoNobel,AkzoNobel Coating,Home Appliances): 5d619f05-8f67-434b-a2dd-0ebd151c7031
+Found row(austria,Amt der NOE Landesregierung,Amt der NOE LR,GOVERNMENT): 9ee1a503-90cf-4ab7-9111-dd9c6eef2630
+Found row(austria,Asset Management by froots,Asset Management,Finance): a944ded9-afa9-4018-9689-4446a0831e37
+Found row(austria,Be The Change Flexible Company,Be The Change Flexible Company,Entertainment & media): b20f6ba1-74d7-4b2a-a0ac-9a762ad1b97e
+Error (austria,Beijing Sankuai Online Technology Co. Ltd,Beijing Sankuai Online Technology Co. Ltd,Technology): Client not found: Beijing Sankuai Online Technology Co. Ltd
+Found row(austria,Bionorica,Bionorica Austria,Healthcare): f383b245-2667-49b8-b2e6-49e44d12284e
+Error (austria,Bolton Group,Bolton,Food): Market 'austria' not found under client 'Bolton Group'
+Error (austria,Bosch,Bosch,Home Appliances): Client not found: Bosch
+Error (austria,Bosch,Siemens,Home Appliances): Client not found: Bosch
+Error (austria,Bosch,Neff,Home Appliances): Client not found: Bosch
+Error (austria,Bosch,Gaggenau,Home Appliances): Client not found: Bosch
+Found row(austria,Breuninger,Breuninger,Fashion): 0a603060-ebb9-44a2-b36f-d195b3b8c5c5
+Error (austria,Campari,Aperol,Drinks (alcoholic)): Brand 'Aperol' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+Found row(austria,Campari,Sarti,Drinks (alcoholic)): e14b09e1-3587-475e-bc76-5a25bdef1d11
+Error (austria,Campari,Crodino,Drinks (alcoholic)): Brand 'Crodino' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+Error (austria,Campari,Averna,Drinks (alcoholic)): Brand 'Averna' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+Found row(austria,Carglass,Carglass,Automotive): 711dba9f-4a4b-434e-a6e0-6a0b1ab472de
+Found row(austria,CC Real,CC Real,Real Estate): 2f68238f-0111-4141-a31a-9f2d88b820d2
+Found row(austria,Continental,Continental Aftermarket & Services,Automotive): ca8b4014-c854-41b4-9681-a4fdda45487f
+Found row(austria,Continental,Continental Reifen Deutschland,Automotive): d14b133a-23e9-4861-a0d9-8a5eee676319
+Found row(austria,Continental,Continental,Automotive): 85ae74b9-ced7-458a-89e8-90a421dea742
+Found row(austria,CP GABA,Elmex,Oral Care): 799c2757-32e7-4cdd-b345-73dae97a638e
+Found row(austria,CP GABA,Meridol,Oral Care): 469902f6-194b-4091-a2f3-57d11fa1a8c5
+Found row(austria,CP GABA,Colgate,Oral Care): ec964530-613e-46f9-b90e-16c0a82e1df5
+Found row(austria,Die Presse VerlagsgesmbH. & CO KG,Die Presse VerlagsgesmbH. & CO KG,Entertainment & media): f0232eec-b816-4ee3-85c8-ac21b93b3cdf
+Found row(austria,Die Tafel Oesterreich - der Verein fuer sozialen Transfer,Die Tafel,CHARITIES): 1202dae3-6b1e-4148-b254-33d0d1e6b9dc
+Found row(austria,Direct Parcel Distribution,Direct Parcel Distribution,General Services): 92612c46-39c5-4476-aa59-7235e4413cb5
+Error (austria,dm drogerie markt,dm,Retail): Client not found: dm drogerie markt
+Error (austria,Dr Oetker,Conditorei Coppenrath & Wiese KG,Food): Market 'austria' not found under client 'Dr Oetker'
+Error (austria,Dr Oetker,Dr Oetker,Food): Market 'austria' not found under client 'Dr Oetker'
+Error (austria,Dr Oetker,Henkell,Drinks (alcoholic)): Market 'austria' not found under client 'Dr Oetker'
+Found row(austria,Dr. C. Soldan Vertriebs,em-eukal,Food): 2a101f16-2884-43ae-844f-f8daf80873ab
+Error (austria,Duering AG,Duering,Home Appliances): Brand 'Duering' with category 'Home Appliances' not found under market 'austria' (client 'Duering AG')
+Found row(austria,EA Swiss Sarl,EA Swiss Sarl,Home Entertainment): b25b7315-657f-4b65-bdbe-36bb40392174
+Error (austria,Emmi,Emmi,Drinks (non-alcoholic)): Brand 'Emmi' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Emmi')
+Found row(austria,Epamedia - Europaeische Plakat- und Aussenmedien,Epamedia - Europaeische Plakat- und Aussenmedien GmbH,Entertainment & media): e121a16c-e87c-4f57-9bc6-18f06a0d044f
+Found row(austria,Erste Group,Erste Bank,Finance): 8e33967e-52ee-4436-9f77-09fb8dcec456
+Found row(austria,Euronics,Euronics,Home Appliances): f188acb1-a6fe-491b-b1a4-dc9ba2493bb8
+Found row(austria,Explora Journeys,Explora Journeys,Travel): ebce65bd-0e14-48c6-b706-4d3340385683
+Found row(austria,FAIRTRADE Oesterreich,Fairtrade,Food): c4e67375-6fa8-44e0-bcfa-370018f2a9cd
+Error (austria,FAIRTRADE Oesterreich,Immobilien Scout Oesterreich,Real Estate): Brand 'Immobilien Scout Oesterreich' with category 'Real Estate' not found under market 'austria' (client 'FAIRTRADE Oesterreich')
+Found row(austria,Felix Austria GesmbH,Felix Austria,Food): 1aa1bae2-f35b-4d3c-aa03-78dfed5f7422
+Error (austria,Ferrero,Ferrero,Food): Market 'austria' not found under client 'Ferrero'
+Found row(austria,Filmladen,Filmladen,Entertainment & media): e888d849-191c-48ad-9e7d-c6e08abe5618
+Found row(austria,Finanzgruppe,Teambank,Finance): b4bc7af0-5fb0-4eaa-874c-e657fb884b16
+Found row(austria,Finanzgruppe,Union Investment,Finance): e37d5dcd-4de1-4d22-b78f-c7531d0318f7
+Error (austria,Fressnapf,Fressnapf Handels,Pet Care): Market 'austria' not found under client 'Fressnapf'
+Found row(austria,Freytag-Berndt und Artaria KG,Freytag-Berndt und Artaria KG,Travel): e47c7874-68ab-492b-9485-7845849fe3e6
+Found row(austria,Geberit,Geberit,Home Appliances): 0d9e836a-f6a2-4f3c-8666-156457a5ad54
+Found row(austria,Gebro Pharma,Alpinamed,Healthcare): b09dd56f-94ac-4a6f-a78b-3c6af082b6ea
+Found row(austria,Grazer Wechselseitige Versicherung AG,Grazer Wechselseitige,Finance): d57ee1b8-94eb-40ba-80a0-a59f928ecb85
+Found row(austria,Gruene Wirtschaft,Gruene Wirtschaft,General Services): 4b0c72d2-d7b8-4be0-be84-068c6f7258f1
+Error (austria,H&M,H&M,Fashion): Market 'austria' not found under client 'H&M'
+Found row(austria,HAAI,HAAI,Consumer Electronics): c2091cf7-b04e-44bf-8205-977c14d5b528
+Error (austria,Hachette,Hachette,Entertainment & media): Market 'austria' not found under client 'Hachette'
+Found row(austria,Handl Tyrol,Handl Tyrol,Food): 469a7836-76a6-45c1-ba69-c0952b01223f
+Error (austria,Haribo,Haribo,Food): Market 'austria' not found under client 'Haribo'
+Found row(austria,Heimbau,Heimbau,Real Estate): 84b47a73-c08d-4b4f-bc77-9bfcef9eabb1
+Error (austria,Hofer,Hofer,Retail): Client not found: Hofer
+Found row(austria,Honor Technologies,Honor,Telecoms): f55c157d-d16d-4f1d-aabd-e5eb819c2fe6
+Found row(austria,Joh. Alex Niernsee AG,Joh. Alex Niernsee AG,Home Appliances): ef30e2b3-2429-439d-b534-b7cb49778349
+Found row(austria,Kapsch TrafficCom AG,Kapsch TrafficCom AG,Automotive): b6b7a1b5-1d5b-49c1-b2f9-f2bea8e24ef4
+Error (austria,Karriere.at,Karriere.at,Automotive): Client not found: Karriere.at
+Found row(austria,Katjes Fassin,Katjes Fassin,Food): 279be043-f300-4349-924d-db64ab5594c6
+Found row(austria,KRONE-Verlag GmbH & Co,Krone,Entertainment & media): d5e696ee-1524-4ffd-86b7-cf6a8193025e
+Found row(austria,KSV1870 Holding AG,KSV1870 Holding AG,General Services): d7832e8b-746c-4d8c-ac98-9cc7be66ade2
+Found row(austria,Kwizda Pharma,Kwizda Pharma,Healthcare): 7d19ccc3-25d5-4bd0-b371-171b8c39e556
+Found row(austria,Lagerhaus Franchise,Lagerhaus,Retail): 2cf23571-1bb3-4b77-916e-e92af42794cc
+Found row(austria,Lavazza,Lavazza,Drinks (non-alcoholic)): b8cefd0c-6051-48ca-a890-ea36155bd35b
+Found row(austria,Lexus,Lexus,Automotive): ccafc701-0025-444e-ba5e-d49b75246abd
+Found row(austria,Lufthansa,Austrian Airlines,Travel): 4550210c-d400-44ce-80c1-20cb58b20e57
+Found row(austria,M&D Restaurant Development,M&D Restaurant Development,Automotive): f2790871-20ca-46df-942c-db8a600c49a2
+Found row(austria,Markilux,Markilux,Household Items): 3ac2ea5b-bcc8-4cea-bffa-24697ffc0009
+Found row(austria,Mautner Markhof,Mautner Markhof,Food): 3d6e57ef-9532-4690-9254-22347a56347c
+Found row(austria,McArthurglen,McArthurGlen,Retail): 665f8069-3e7a-400b-bf1c-dd5c84cf1efe
+Found row(austria,mfi Immobilien Marketing,mfi Immobilien Marketing,Real Estate): b9d888c2-4699-4086-ad95-83e31edf401e
+Found row(austria,Milford Tee Austria Gesellschaft m.b.H.,Milford,Drinks (non-alcoholic)): dc50a16f-758e-4bf8-b48d-059abf7f4801
+Found row(austria,Mona Naturprodukte,Mona,Food): 6df976df-59ad-45dc-ae8b-bddbc238d44d
+Error (austria,MSC Cruises,MSC,Travel): Brand 'MSC' with category 'Travel' not found under market 'austria' (client 'MSC Cruises')
+Found row(austria,Muenze Oesterreich AG,Muenze Oesterreich AG,Finance): 071498c0-547c-4084-9e1e-7aecff79f8d7
+Found row(austria,Neuburger GmbH&Co OG,Neuburger GmbH&Co OG,Food): e54bbe46-b089-4338-9a6b-e20b09e8bc03
+Found row(austria,NOE Landesgesundheitsagentur,NOE Landesgesundheitsagentur,GOVERNMENT): 9932db1e-bd09-45eb-bd78-d0900d31cd20
+Error (austria,Novo Nordisk,Novo Nordisk,Healthcare): Market 'austria' not found under client 'Novo Nordisk'
+Found row(austria,NV Niederoesterreichische Versicherung AG,NV Niederoesterreichische Versicherung AG,Finance): bb393273-ef6d-4ecd-a7eb-9f68b5dc2177
+Error (austria,oekostrom,oekostrom,Utilities): Client not found: oekostrom
+Error (austria,Oesterreichische Bundesbahn,OEBB,Travel): Brand 'OEBB' with category 'Travel' not found under market 'austria' (client 'Oesterreichische Bundesbahn')
+Error (austria,Oesterreichische Bundesforste AG,Oesterr. Bundesforste,Organisations & associations): Brand 'Oesterr. Bundesforste' with category 'Organisations & associations' not found under market 'austria' (client 'Oesterreichische Bundesforste AG')
+Found row(austria,Oesterreichische Nationalbank,Oesterreichische Nationalbank,Finance): 34021bf0-b71c-4957-9482-b1bc7a91f262
+Found row(austria,OMV Group,OMV Aktiengesellschaft,Utilities): c96b92a8-a3b9-4478-9e7d-c9315d232977
+Found row(austria,OMV Group,OMV Downstream,Utilities): 5ea947ad-ac5b-4a4c-9762-14d1370ecb2d
+Found row(austria,Otto group,Otto Austria Group,Fashion): 67bc24ad-d995-4245-9789-fd03ae8ff061
+Found row(austria,Pappas Holding,Pappas,Automotive): 8abbca9d-69d8-489b-bc62-5f2e6e689010
+Found row(austria,Pearle,Pearle,Retail): bdcf7690-3b20-4f6a-8441-e98239b6eba1
+Error (austria,Peek & Cloppenburg,Peek & Cloppenburg,Fashion): Market 'austria' not found under client 'Peek & Cloppenburg'
+Found row(austria,Pelpharma Handels,Pelpharma Handels GmbH,Healthcare): 08e56112-5409-4da3-aa84-0510ae4e76e7
+Found row(austria,Perfetti Van Melle,Mentos,Food): ae570db4-7ec4-4bbe-9c7a-ef03e29592c1
+Found row(austria,Pfizer,Pfizer,Healthcare): 0e4543db-a67b-48dd-bb78-520da5eda88f
+Found row(austria,Princes Foods,Princes,Food): 57a785b2-f446-4cd4-b0e0-82ca067d222f
+Error (austria,Red Bull,Red Bull,Drinks (non-alcoholic)): Brand 'Red Bull' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Red Bull')
+Found row(austria,Red Bull,Red Bull MOBILE,Telecoms): 5b3eecf4-2e0d-4525-affe-42c7980167af
+Error (austria,REWE,ADEG,Retail): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,BIPA,Retail): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,Oe-Bonus Club,Retail): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,REWE Eigenmarken,Food): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,Penny,Retail): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,BILLA Reisen,Travel): Market 'austria' not found under client 'REWE'
+Error (austria,REWE,BILLA,Retail): Market 'austria' not found under client 'REWE'
+Found row(austria,Roche Diagnostics International,Roche,Healthcare): 9f868849-8b8b-435d-9936-b9485ca506fb
+Error (austria,ROLEX,ROLEX,Jewellery): Market 'austria' not found under client 'ROLEX'
+Found row(austria,Rolf Benz AG & Co. KG,Rolf Benz,Home Appliances): 08174089-b494-41ed-a805-fbb97ee89812
+Found row(austria,Rupa Werbe GesmbH,Rupa Werbe GesmbH,General Services): 4fa822de-7aab-4ce6-a575-9cc2671b25e6
+Error (austria,Sanova,Oekopharm,Healthcare): Brand 'Oekopharm' with category 'Healthcare' not found under market 'austria' (client 'Sanova')
+Found row(austria,Sanova,similasan,Healthcare): 7d71f181-7aa3-4757-8104-ab354c7b55eb
+Error (austria,Savencia,Savencia Fromage & Dairy,Food): Market 'austria' not found under client 'Savencia'
+Found row(austria,Selfstorage,SelfStorage Dein Lagerraum,Real Estate): e06dcd35-78cd-4381-8529-9a84e5674dae
+Found row(austria,Silhouette International,Silhouette,Fashion): 0e32418f-12d2-4ff4-9185-998fa20a5772
+Error (austria,Sketchers,Sketchers,Fashion): Client not found: Sketchers
+Found row(austria,Smile Insurance & IT Solutions,Smile Insurance & IT Solutions,Finance): 043b8bc4-871a-42fd-8677-4636902c0e8b
+Found row(austria,Smyths Toys,Smyths Toys,Retail): 26ca836c-cab4-4970-acf4-b162a5fab093
+Found row(austria,SONY,Sony Europe B.V.,Home Entertainment): 41289fdf-b18f-46b7-b1e5-c67c12d5e046
+Found row(austria,SONY,Sony Interactive Entertainment,Home Entertainment): 03fde42f-40e8-4ee7-a991-c0e3f63e86ad
+Found row(austria,SP United Vertriebs,SP Connect,Home Appliances): caab8100-e9dd-43c2-9650-c2bd7696b7fc
+Found row(austria,Spar,HERVIS,Sports): 8928dda9-a9c7-4aa5-978e-021757617fad
+Found row(austria,Spar,INTERSPAR,Retail): 68072244-0ca1-4349-bc13-ef1d14f52e22
+Error (austria,Spar,SPAR,Retail): Brand 'SPAR' with category 'Retail' not found under market 'austria' (client 'Spar')
+Found row(austria,Spar,SPAR Direkt,Retail): 533f71de-096f-46b7-befc-730d77194a3d
+Found row(austria,Sutterluety Handels,Sutterluety Handels,Retail): 0aa19ac6-d14a-40ea-a89b-81cfd895eaf5
+Error (austria,Technisches Museum Wien,Technisches Museum Wien,Entertainment & media): Client not found: Technisches Museum Wien
+Error (austria,Teekane Holding GmbH,Teekanne,Drinks (non-alcoholic)): Client not found: Teekane Holding GmbH
+Error (austria,Tempur Sealy,Temper-Pedic/Sealy,Household Items): Client not found: Tempur Sealy
+Error (austria,Thalia,Thalia,Retail): Market 'austria' not found under client 'Thalia'
+Found row(austria,Therme Wien GmbH & Co KG,Therme Wien,Travel): 30f13d0b-c71b-4e36-9b54-a17039acd289
+Error (austria,TJX,TK Maxx,Restaurants): Market 'austria' not found under client 'TJX'
+Found row(austria,T-Mobile,Magenta,Telecoms): ee7d62d4-1482-4882-943e-3e43985e8472
+Error (austria,Toyota,Toyota,Automotive): Market 'austria' not found under client 'Toyota'
+Error (austria,TUI,TUI Cruises,Travel): Market 'austria' not found under client 'TUI'
+Error (austria,Unibail Rodamco,Donauzentrum,Retail): Client not found: Unibail Rodamco
+Error (austria,Unibail Rodamco,Shopping City S d,Retail): Client not found: Unibail Rodamco
+Error (austria,Unibail Rodamco,Unibail-Rodamco-Westfield,Retail): Client not found: Unibail Rodamco
+Error (austria,Unicef,UNICEF,CHARITIES): Market 'austria' not found under client 'Unicef'
+Error (austria,UNIQA,UNIQA,Healthcare): Client not found: UNIQA
+Found row(austria,UNIQA Insurance Group AG,Mavie,Healthcare): b15ef99c-46e7-4cad-9753-56788819a735
+Found row(austria,UNIQA Insurance Group AG,RUDI,General Services): d1d39e77-ce91-4837-afaf-31e700cf5f0b
+Found row(austria,Universal Pictures,UPI,Entertainment & media): 5bef1178-dc43-418d-a323-2d8610188f5b
+Found row(austria,VAV - Versicherungs-Aktiengesellschaft,VAV,Healthcare): 8053034a-9e38-4d85-9bcd-f738fa96b1e8
+Found row(austria,Verein Fachhochschule Technikum Wien,Verein Fachhochschule Technikum Wien,EDUCATION): f468cf13-3a89-4542-b3e5-cc62fce72e50
+Error (austria,Vierpfoten,Vierpfoten,CHARITIES): Client not found: Vierpfoten
+Error (austria,VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften,VOEIG,Organisations & associations): Brand 'VOEIG' with category 'Organisations & associations' not found under market 'austria' (client 'VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften')
+Found row(austria,voestalpine,voestalpine,General Services): 454aa0ad-4864-4ec6-9960-6622703981c0
+Error (austria,WARNER BROS. Discovery,WARNER BROS. Discovery,Entertainment & media): Market 'austria' not found under client 'WARNER BROS. Discovery'
+Found row(austria,Wiener Arbeitnehmerinnen Foerderungsfonds (waff),Wiener Arbeitnehmerinnen Foerderungsfonds (waff),General Services): 72a464ff-1e17-4c92-bb4f-ef74d81f737e
+Error (austria,Wiener St dtische Versicherung,Wr. Staedtische,Finance): Client not found: Wiener St dtische Versicherung
+Found row(austria,Willhaben Internet Service,Willhaben.at,General Services): 865a6f0e-58fd-472d-bf4c-4b2491854b86
+Found row(austria,Woerwag Pharma,Woerwag Pharma,Healthcare): efa965f6-ee5d-4026-ae40-2f7d484b6e66
+Found row(austria,WOJNAR Beteiligungs,WOJNAR Beteiligungs,Food): c259bd9c-d2b1-4d89-85be-450fe83db61a
+Found row(austria,Wolfgang Denzel Auto AG,Wolfgang Denzel Auto AG,Automotive): 304d4979-3baf-4f4d-95d6-b3243496410d
+Error (austria,Yakult,Yakult,Drinks (non-alcoholic)): Brand 'Yakult' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Yakult')
+Error (austria,ZEV - Nah&Frisch Marketingservice GmbH,Nah&Frisch,Retail): Client not found: ZEV - Nah&Frisch Marketingservice GmbH

@@ -1,643 +1,164 @@
 Market,Client,Brand,Category
-India,Honda Motorcycles,Honda Corporate,AUTOMOTIVE
-India,Honda Motorcycles,Honda Shine,AUTOMOTIVE
-India,Hygienic Research Institute,Super Vasmol 33,PERSONAL CARE
-India,Hygienic Research Institute,Streax Insta Shampoo Hair Colours,PERSONAL CARE
-India,Hygienic Research Institute,Super Vasmol 33 Kesh Kala Hair Colour,PERSONAL CARE
-India,Hygienic Research Institute,Streax Cream Hair Colour,PERSONAL CARE
-India,Hygienic Research Institute,Streax Hair Serum,PERSONAL CARE
-India,Hygienic Research Institute,Streax Gel Hair Colour,PERSONAL CARE
-India,Hygienic Research Institute,Super Vasmol 33 Coconut Oil Kesh Kala,PERSONAL CARE
-India,IIFL Finance,IIFL Finance Gold Loan,FINANCE
-India,Indeed,Indeed,TECHNOLOGY
-India,Makemytrip,Goibibo,TRAVEL
-India,Makemytrip,Makemytrip.Com,TRAVEL
-India,NPCI,Rupay Credit Card,FINANCE
-India,NPCI,NPCI,FINANCE
-India,NPCI,Upi Chalega,FINANCE
-India,NPCI,Bhim App,FINANCE
-India,Parle Products,Appy Fizz,DRINKS (NON-ALCOHOLIC)
-India,Parle Products,Frooti,DRINKS (NON-ALCOHOLIC)
-India,Parle Products,Parle Smoodh Coffee Frappe,DRINKS (NON-ALCOHOLIC)
-India,Parle Products,Parle Smoodh,DRINKS (NON-ALCOHOLIC)
-India,Parle Products,Parle Smoodh Lassi,DRINKS (NON-ALCOHOLIC)
-India,Play Games 24X7,My11Circle,GENERAL SERVICES
-India,Play Games 24X7,Rummycircle,GENERAL SERVICES
-India,Roche Diabetes Care,Accu-Chek Instant S,HEALTHCARE
-India,Roche Diabetes Care,Accu-Chek Instant,HEALTHCARE
-India,Roppen Transportation Services ,Rapido Bike Taxi,AUTOMOTIVE
-India,Roppen Transportation Services ,Rapido Auto,AUTOMOTIVE
-India,Roppen Transportation Services ,Rapido Cabs,AUTOMOTIVE
-India,Roppen Transportation Services ,Rapido Bike Taxi & Auto App,AUTOMOTIVE
-India,Uber,Uber Auto,AUTOMOTIVE
-India,Usha International,Bloom Series Fans,HOME APPLIANCES
-India,Usha International,Goodbye Dust Fan,HOME APPLIANCES
-India,Usha International,Racer Fans,HOME APPLIANCES
-India,Usha International,Striker Air Cooler,HOME APPLIANCES
-India,Usha International,Sewing Machine,HOME APPLIANCES
-India,Usha International,Racer Chrome,HOME APPLIANCES
-India,Usha International,Heleous,HOME APPLIANCES
-India,Usha International,Air Coolers ( Intl),HOME APPLIANCES
-India,Usha International,Onio Series,HOME APPLIANCES
-India,Usha International,Striker,HOME APPLIANCES
-India,Usha International,I Chef Smart Air Fryer,HOME APPLIANCES
-India,Usha International,Tisva Architectural Lights,HOUSEHOLD ITEMS
-India,Usha International,I Chef Blender Heater,HOME APPLIANCES
-India,Usha International,I Chef Steam Oven,HOME APPLIANCES
-India,Vivo,Vivo Smart Phones,CONSUMER ELECTRONICS
-India,Vivo,Vivo X60,CONSUMER ELECTRONICS
-India,Vivo,Vivo V40 Series,CONSUMER ELECTRONICS
-India,Vivo,Vivo X200 Series,CONSUMER ELECTRONICS
-India,Vivo,Vivo V50 Series,CONSUMER ELECTRONICS
-India,Way2News,Way2News App,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Zee5,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Zee5 Premium,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Eduauraa,EDUCATION
-India,Hindware Limited,Hindware Italian Collection,HOUSEHOLD ITEMS
-India,Hindware Limited,Hindware Italian Collection Tiles,REAL ESTATE
-India,Hindware Limited,Queo European Bath Lounges,HOUSEHOLD ITEMS
-India,ICC,ICC,SPORTS
-India,ICICI,ICICI Bank Imobile,FINANCE
-India,ICICI,ICICIBank Step Up Home Loans,FINANCE
-India,ICICI,ICICI Bank Credit Cards,FINANCE
-India,ICICI,ICICI Bank Insta Biz,FINANCE
-India,ICICI,ICICI Bank The One Savings A/C,FINANCE
-India,ICICI,ICICI Bank Digital Banking,FINANCE
-India,ICICI,ICICI Bank Business Banking Digital Banking,FINANCE
-India,ICICI,ICICI Bank Super Merchant Current Account,FINANCE
-India,ICICI,ICICI Bank Imobile Pay,FINANCE
-India,ICICI,ICICI Bank,FINANCE
-India,ICICI,ICICI Bank Loan Against Gold,FINANCE
-India,ICICI,ICICI Lombard General Insurance,FINANCE
-India,ICICI,ICICI Lombard Elevate,FINANCE
-India,ICICI,ICICI Prudential Mutual Fund,FINANCE
-India,ICICI,ICICI Prudential Life Insurance,FINANCE
-India,ICICI,ICICIdirect.Com,FINANCE
-India,JSW Group,JSW Group,ORGANIZATIONS & ASSOCIATIONS
-India,JSW Group,JSW Paints,HOUSEHOLD ITEMS
-India,JSW Group,JSW Halo Aquaglo,HOUSEHOLD ITEMS
-India,JSW Group,JSW Paints Pixa,HOUSEHOLD ITEMS
-India,JSW Group,JSW Colouron+,REAL ESTATE
-India,JSW Group,JSW Neosteel,REAL ESTATE
-India,Jubilant Foodworks,Dominos Cheese Volcano,RESTAURANTS
-India,Jubilant Foodworks,Dominos Cheesiken,RESTAURANTS
-India,Jubilant Foodworks,Dominos Pizza,RESTAURANTS
-India,Jubilant Foodworks,Dominos Cheese Burst Pizza,RESTAURANTS
-India,Jubilant Foodworks,Dominos Chicken Feast,RESTAURANTS
-India,Jubilant Foodworks,Dominos Big Big 6 In 1 Pizza,RESTAURANTS
-India,Kellogg's,Kelloggs Corn Flakes Brownie Delite,FOOD
-India,Kellogg's,Kelloggs Ragi Chocos          ,FOOD
-India,Kellogg's,Kelloggs Cf Real Almond & Honey,FOOD
-India,Kellogg's,Kelloggs Muesli,FOOD
-India,Kellogg's,Kelloggs Chocos Fills,FOOD
-India,Kellogg's,Kelloggs Muesli Fruit And Nut,FOOD
-India,Kellogg's,CB-Kelloggs Corn Flakes-Gold The Dream That United,FOOD
-India,Kellogg's,CB-Kelloggs Corn Flakes-Gold-The Dream That United,FOOD
-India,Kellogg's,Kelloggs Chocos Chhota Laddoo,FOOD
-India,Kellogg's,Kelloggs Granola Almonds & Cranberries,FOOD
-India,Kellogg's,Kelloggs Chocos Webs,FOOD
-India,Kellogg's,Kelloggs Chocos Magic Hearts,FOOD
-India,Kellogg's,Kelloggs Muesli Fruit Nut And Seeds,FOOD
-India,Kellogg's,Kelloggs Chocos,FOOD
-India,Kellogg's,Kelloggs Corn Flakes,FOOD
-India,Kellogg's,Kelloggs Corn Flakes/Chocos,FOOD
-India,Kellogg's,Kelloggs Multigrain Chocos,FOOD
-India,KFC,KFC,RESTAURANTS
-India,KFC,KFC Chicken Burger,RESTAURANTS
-India,KFC,KFC Popcorn Chicken,RESTAURANTS
-India,KFC,KFC Boneless Range,RESTAURANTS
-India,Lifestyle International,CB-Max Retail-Bolo Dugga Maiki,RETAIL
-India,Lifestyle International,Max Avengers Collection,RETAIL
-India,Lifestyle International,Max,RETAIL
-India,Lifestyle International,Home Centre (Landmark Online India),RETAIL
-India,Maruti Suzuki India Limited,Maruti Suzuki Wagonr,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Alto K10,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Brezza,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Jimny,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Swift,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Brezza Black Edition,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Hybrid Cars,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Fronx,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki E Vitara,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Arena,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki True Value,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Super Carry,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki Dzire,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Maruti Suzuki The Advanced Grand Vitara,AUTOMOTIVE
-India,Maruti Suzuki India Limited,Nexa (Maruti Suzuki),AUTOMOTIVE
-India,Muthoot Finance,Muthoot Finance Interest Prepaid Loan,FINANCE
-India,Muthoot Finance,TP Muthoot Finance,FINANCE
-India,Muthoot Finance,TP Muthoot Finance Gold Loan,FINANCE
-India,Muthoot Finance,Muthoot Group-Corporate,ORGANIZATIONS & ASSOCIATIONS
-India,Muthoot Finance,Muthoot Financial Enterprises,FINANCE
-India,Muthoot Finance,Muthoot Fincorp Loan Against Gold,FINANCE
-India,Muthoot Finance,Muthoot Finance Gold Unlocker,FINANCE
-India,Muthoot Finance,Muthoot Fin Loan Against Gold,FINANCE
-India,Nykaa ,NYKAA,FASHION
-India,Oppo,OPPO Smartphone,CONSUMER ELECTRONICS
-India,Oppo,OPPO Reno7 Series 5G,CONSUMER ELECTRONICS
-India,Oppo,OPPO Reno8 Series 5G,CONSUMER ELECTRONICS
-India,Oppo,OPPO A77,CONSUMER ELECTRONICS
-India,Oppo,OPPO Find N2 Flip,CONSUMER ELECTRONICS
-India,Oppo,OPPO Reno10 Series 5G,CONSUMER ELECTRONICS
-India,Pizza Hut,Pizza Hut Melts,RESTAURANTS
-India,Pizza Hut,Pizza Hut Momo Mia Pizza,RESTAURANTS
-India,Pizza Hut,Pizza Hut Juicylicious Pizzas,RESTAURANTS
-India,Prism Johnson,Johnson Maxgrip Anti-Skid Tiles,REAL ESTATE
-India,Prism Johnson,Johnson Cool Roof Tiles,REAL ESTATE
-India,Pulkit Metals,Pulkit Tmt Bars,REAL ESTATE
-India,Makemytrip,Redbus.In,TRAVEL
-India,RKSV Securities ,Upstox,FINANCE
-India,Saint Gobain,Saint Gobain Gyproc,REAL ESTATE
-India,SBI Life Insurance,SBI Life,FINANCE
-India,SBI Life Insurance,SBI Life Poorna Suraksha,FINANCE
-India,SBI Life Insurance,SP N18I Sbi Life Insurance Budget Highli,ENTERTAINMENT & MEDIA
-India,SBI Life Insurance,SBI Life Term Plan,FINANCE
-India,SBI Life Insurance,SBI Life Insurance Protection Plans,FINANCE
-India,SBI Life Insurance,SBI Life Eshield Next,FINANCE
-India,SBI Life Insurance,SBI Life Smart Platina Supreme,FINANCE
-India,Schneider Electric,Lauritz Knudsen Electrical & Automation,ORGANIZATIONS & ASSOCIATIONS
-India,Senco Gold,Senco Gold & Diamonds,RETAIL
-India,Senco Gold,Senco Gold & Diamonds Vivaha Collection,RETAIL
-India,Senco Gold,Senco Gold Aham Collection,RETAIL
-India,SG Mart,APL Apollo Sg Tmt,REAL ESTATE
-India,Shree Cement,Bangur Power Cement,REAL ESTATE
-India,Shree Cement,Bangur Cement,REAL ESTATE
-India,Skipper,Skipper Pipes,REAL ESTATE
-India,SMFG India Credit Company ,SMFG India Credit Multiple Loans,FINANCE
-India,SMFG India Credit Company ,SMFG India Credit Personal Loans,FINANCE
-India,SMFG India Credit Company ,SMFG India Credit Business Loan,FINANCE
-India,SMFG India Credit Company ,SMFG India Credit Two Wheeler Loans,FINANCE
-India,SMFG India Credit Company ,SMFG India Credit Home Loans,FINANCE
-India,Specsmakers Opticians,Specsmakers,RETAIL
-India,Tata Steel,Tata Steel,REAL ESTATE
-India,Tatvartha Health,Traya.Health,HEALTHCARE
-India,Ultratech Cement,Ultratech Cement,REAL ESTATE
-India,Ultratech Cement,Ultratech Weather Plus,REAL ESTATE
-India,Ultratech Cement,Birla White Wall Care Putty,HOUSEHOLD ITEMS
-India,Ultratech Cement,Birla White Bio-Shield Putty,HOUSEHOLD ITEMS
-India,Ultratech Cement,Birla White Cement Advantage,REAL ESTATE
-India,Ultratech Cement,Birla White Tilestix,REAL ESTATE
-India,Preethi Kitchen Appliances ,Preethi Zodiac Mixer Grinder,HOME APPLIANCES
-India,Winzo Games,Winzo Games,GENERAL SERVICES
-India,Zomato,Zomato.Com,FOOD
-India,Arha Media & Broadcasting,AHA App,ENTERTAINMENT & MEDIA
-India,Arha Media & Broadcasting,AHA Gold App,ENTERTAINMENT & MEDIA
-India,A&M Shinchan Noodles,A&M Shinchan Noodles,FOOD
-India,Daily Thanti ,Daily Thanti ,ENTERTAINMENT & MEDIA
-India,Enovate Lifestyles,Candere (Kalyan Jewellers),RETAIL
-India,Gits Food,Gits Gulab Jamun Mix,FOOD
-India,Gits Food,Gits Gulab Jamun,FOOD
-India,Greaves Electric Mobility,Ampere Nexus,AUTOMOTIVE
-India,Greaves Electric Mobility,Ampere Magnus Neo,AUTOMOTIVE
-India,Havells,Havells Cables,HOUSEHOLD ITEMS
-India,Havells,Havells Fans,HOME APPLIANCES
-India,Havells,Havells Trika Led,HOUSEHOLD ITEMS
-India,Havells,Havells Led Light,HOUSEHOLD ITEMS
-India,Havells,Havells Quadra Glow,HOUSEHOLD ITEMS
-India,Havells,Lloyd Ac,HOME APPLIANCES
-India,Havells,Havells Super Speed 400,HOME APPLIANCES
-India,Havells,Lloyd Intelli Logic Ac,HOME APPLIANCES
-India,Havells,Lloyd Grande Heavy Duty Ac,HOME APPLIANCES
-India,Havells,Havells Stealth Bldc Fan,HOME APPLIANCES
-India,Havells,Lloyd Durable Range,HOME APPLIANCES
-India,Havells,Lloyd Refrigerators,HOME APPLIANCES
-India,Havells,Lloyd Washing Machine,HOME APPLIANCES
-India,Havells,Havells Home Appliances,HOME APPLIANCES
-India,Havells,Havells Life Shield Wires,HOUSEHOLD ITEMS
-India,Havells,Havells Lighting Products,HOUSEHOLD ITEMS
-India,Havells,Lloyd Novante Washing Machine,HOME APPLIANCES
-India,Havells,Standard Bldc Fan,HOME APPLIANCES
-India,Havells,Standard Durable & Sleek Switches,HOME APPLIANCES
-India,Havells,Standard Range Of Product,HOME APPLIANCES
-India,Havells,Standard Water Heater,HOME APPLIANCES
-India,Havells,Havells Bldc Plus Fans,HOME APPLIANCES
-India,Havells,Lloyd Ac Luxuria Collection,HOME APPLIANCES
-India,Himalaya Wellness,Himalaya Complete Care Toothpaste,ORAL CARE
-India,Himalaya Wellness,Himalaya Purifying Neem Face Wash,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Neem & Turmeric Soap,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Lip Balm,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Range Of Products (FMCG,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Natural Glow Rose Face Wash,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Anti Hair Fall Shampoo,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Hair Fall Control Shampoo,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Koflet,HEALTHCARE
-India,Himalaya Wellness,Himalaya Hydrating Aloe Vera Face Wash,PERSONAL CARE
-India,Himalaya Wellness,Himalaya Oil Clear Lemon Face Wash,PERSONAL CARE
-India,IDBI Bank,IDBI Bank Home Loans,FINANCE
-India,IDBI Bank,IDBI Bank Auto Finance,FINANCE
-India,IDBI Bank,IDBI Bank Fixed Deposit-Fd,FINANCE
-India,Yamaha,Yamaha Fascino,AUTOMOTIVE
-India,Yamaha,Yamaha Fz,AUTOMOTIVE
-India,Yamaha,Yamaha Fascino 125 Fi/Cygnus Ray Zr 125 Fi,AUTOMOTIVE
-India,Yamaha,Yamaha Two Wheelers,AUTOMOTIVE
-India,Yamaha,Yamaha Fascino 125 Fi Hybrid/Ray Zr 125 Fi Hybrid,AUTOMOTIVE
-India,Yamaha,Yamaha Mt 15 Version 2.0,AUTOMOTIVE
-India,Yamaha,Yamaha Fz S Fi,AUTOMOTIVE
-India,Yamaha,Yamaha Fascino 125 Fi Hybrid,AUTOMOTIVE
-India,Yamaha,Yamaha Fz S,AUTOMOTIVE
-India,Yamaha,Yamaha Ray Zr 125 Fi Street Rally,AUTOMOTIVE
-India,IGI,IGI,JEWELLERY
-India,Kalyyan Jewellers,Kalyan Jewellers Ameya Celebration Wear,JEWELLERY
-India,Kalyyan Jewellers,CB-Kalyan Jewelers-Bangarraju,JEWELLERY
-India,Kalyyan Jewellers,Kalyan Jewellers,JEWELLERY
-India,Kalyyan Jewellers,Kalyan Jewellers Tejasvi,JEWELLERY
-India,Kalyyan Jewellers,Kalyan Jewellers Nimah Collection,JEWELLERY
-India,Kinetic & Firodia Group,Kinetic Green E Luna,AUTOMOTIVE
-India,Zepto,Zepto,FOOD
-India,Kirloskar Brothers,Kirloskar Brothers,UTILITIES
-India,Manjilas Food Tech,Double Horse Easy Idiyappam Powder,FOOD
-India,Manjilas Food Tech,Double Horse Easy Pathiri Podi,FOOD
-India,Manjilas Food Tech,Double Horse Instant Sadhya Palada Mix,FOOD
-India,Manjilas Food Tech,Double Horse Roasted Rava,FOOD
-India,Manjilas Food Tech,Double Horse Food Prod Range,FOOD
-India,MYK Laticrete,MYK Laticrete Sp-100,REAL ESTATE
-India,MYK Laticrete,MYK Laticrete,REAL ESTATE
-India,Nambisans Dairy,Nambisans Wild Flower Honey,FOOD
-India,Pine Labs,Pine Labs Mini,FINANCE
-India,Radico Khaitan,Royal Ranthambore Premium Glassware,DRINKS (ALCOHOLIC)
-India,SNJ Sugars And Products ,SNJ Sugars And Products,FOOD
-India,Tribhovandas Bhimji Zaveri,Tribhovandas Bhimji Zav (Tbz),RETAIL
-India,Win Medicare ,Groviva Child Nutrition Supplement,DRINKS (NON-ALCOHOLIC)
-India,World Gold Council,World Gold Council,ORGANIZATIONS & ASSOCIATIONS
-India,Adret Retail Private Limited,Kapiva Dia Free Juice,DRINKS (NON-ALCOHOLIC)
-India,Axiom Foods And Beverages,AXIOM ALO FRUT,DRINKS (NON-ALCOHOLIC)
-India,Bhima Jewels ,Bhima Jewellers-Pavithra Vivaha,JEWELLERY
-India,Bhima Jewels ,Bhima Jewellers,JEWELLERY
-India,Bhima Jewels ,Bhima Diamonds,JEWELLERY
-India,Bhima Jewels ,Bhima Parinaya,JEWELLERY
-India,Culver Max Entertainment,Sony Liv App,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,Discovery Plus App,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis Legends Of The Ramayana With Amish,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis The Journey Of India,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis Anant Anadi Vadnagar,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,CI Warner Bros Discovery Network,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis I Should Have Stayed Home Safar Se Suffer,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis Ps-Policy Bazaar Star Vs Food Survival,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis History Hunter,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Dis Secrets Of The Buddha Relics,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PBM Anm Survival Of The Fiercest,ENTERTAINMENT & MEDIA
-India,Dr.Reddy's,Rebalanz Qrs,HEALTHCARE
-India,Dr.Reddy's,Zedex Cough Syrup,HEALTHCARE
-India,Dr.Reddy's,Zedex Cough Syrup/Bro Zedex Cr,HEALTHCARE
-India,Emami,Emami Healthy & Tasty Mantra Meat Masala,FOOD
-India,Emami,Emami Healthy & Tasty Soyabean Oil,FOOD
-India,Emami,Himani Best Choice Refined Sunflower Oil,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Chicken Masala,FOOD
-India,Emami,Himani Best Choice Refined Soyabean Oil,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Shorshe Posto,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Chilli Powder,FOOD
-India,Emami,CB-Emami Hlth & T Mantra M-Brahma Janen Gopon Komm,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Jeera,FOOD
-India,Emami,Emami Healthy & Tasty Nutri Soya Chunks,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Nawabi Meat,FOOD
-India,Emami,Emami Healthy & Tasty Ultra Lite Soyabean Oil,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Garam Masala,FOOD
-India,Emami,Emami Healthy & Tasty Mantra Masala,FOOD
-India,Emami,Emami Healthy & Tasty Advans Soya Chunks,FOOD
-India,Emami,Emami Healthy & Tasty Super Strong Kachchi Ghani Must,FOOD
-India,Emami,Emami Healthy & Tasty Kachchi Ghani Mustard,FOOD
-India,Emami,Emami Healthy & Tasty Super Strong Kachchi-Puratan,FOOD
-India,Emami,Emami 7 Oils In One,PERSONAL CARE
-India,Emami,Zandu Pancharist,HEALTHCARE
-India,Emami,Kesh King Oil,PERSONAL CARE
-India,Emami,Zandu Nityam Tablets,HEALTHCARE
-India,Emami,Kesh King Shampoo,PERSONAL CARE
-India,Emami,Boroplus Ice,PERSONAL CARE
-India,Emami,Himani Navratna,PERSONAL CARE
-India,Emami,Mentho Plus Balm,HEALTHCARE
-India,Emami,Kesh King Oil/Shampoo,PERSONAL CARE
-India,Emami,Zandu Ortho Vedic Oil,HEALTHCARE
-India,Emami,Zandu Vigorex Gold/Shilajit Vigorex Gold,HEALTHCARE
-India,Emami,Kesh King Ayurvedic Anti Dandruff Shampoo,PERSONAL CARE
-India,Emami,Himani Navratna Cool Talc,PERSONAL CARE
-India,Emami,Dermi Cool,PERSONAL CARE
-India,Emami,Boroplus Doodh Kesar Body Lotion,PERSONAL CARE
-India,Emami,Zandu Chyavanprash Jaggery,HEALTHCARE
-India,Emami,Zandu Ayurvedic Cough Syrup,HEALTHCARE
-India,Emami,Zandu Balm Ultra Power,HEALTHCARE
-India,Emami,Zandu Balm,HEALTHCARE
-India,Emami,Kesh King Anti Hairfall Shampoo,PERSONAL CARE
-India,Emami,Boroplus,HEALTHCARE
-India,Emami,Smart And Handsome Brightening Cream/Face Wa,PERSONAL CARE
-India,Emami,Mentho Plus Balm Total,HEALTHCARE
-India,Emami,Dermi Cool Soap,PERSONAL CARE
-India,Emami,Pure Glow Complete Brightening Cream,PERSONAL CARE
-India,GITAM,Gitam University-Ml,EDUCATION
-India,Hamdard,Hamdard Raughan-E-Badam Shireen,HEALTHCARE
-India,Intergrow Brands,Kitchen Treasures,FOOD
-India,Intergrow Brands,Vieda Kachiya Enna,PERSONAL CARE
-India,Intergrow Brands,Kitchen Treasures Spicy Chicken Masala,FOOD
-India,Intergrow Brands,Kitchen Treasures Sambar Powder,FOOD
-India,Intergrow Brands,Kitchen Treasures Chicken Masala,FOOD
-India,JSW Cement,JSW Cement,REAL ESTATE
-India,JSW Cement,JSW Cement Concreel Hd,REAL ESTATE
-India,JSW Cement,JSW Comp Cem,REAL ESTATE
-India,Lovely International Trust,Lovely International Trust,EDUCATION
-India,Motul,Motul Lubricants,AUTOMOTIVE
-India,Burger King,Burger King Stunner Menu,RESTAURANTS
-India,Burger King,Burger King Crispy Veg/Chicken Burger/Chicken Pizz,RESTAURANTS
-India,Burger King,Burger King Crispy Veg/Chicken Burger,RESTAURANTS
-India,Tata Asset Management,Tata Nifty India Tourism Index Fund,FINANCE
-India,Tata Asset Management,Tata Nifty Capital Markets Index Fund,FINANCE
-India,Tata Asset Management,Tata India Innovation Fund,FINANCE
-India,Tata Asset Management,Tata Bse Select Business Groups Index Fund,FINANCE
-India,Tata Asset Management,Tata Index Funds,FINANCE
-India,USV Pharma,Diataal Capsules,HEALTHCARE
-India,USV Pharma,Diataal-D Capsule,HEALTHCARE
-India,Veeba Foods,Veeba Foods,FOOD
-India,Warner Bros. Discovery,PBM Pgo Happy Birthday Bheem,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Pgo Hff Chhota Bheem Aur Zuhu Ka Zalzala,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PP Cnt Teen Titans Go/Dragon Ball,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PBM Pgo 2 Ka Dum,ENTERTAINMENT & MEDIA
-India,Warner Bros. Discovery,PBM Cnt Lpl Laughter Premier League,ENTERTAINMENT & MEDIA
-India,Xiaomi,Redmi Note 14 Series,CONSUMER ELECTRONICS
-India,Akzonobel,Dulux Paints,HOUSEHOLD ITEMS
-India,Akzonobel,Dulux Weathershield Powerflexx,HOUSEHOLD ITEMS
-India,Arvind Limited,Arvind Fabrics,FASHION
-India,Arvind Limited,Arvind Primante,FASHION
-India,Bisleri,Bisleri Mineral Water,DRINKS (NON-ALCOHOLIC)
-India,Bcci,PP Sspnet Tata Wpl,SPORTS
-India,Brainbees Solutions,Firstcry,RETAIL
-India,Burman Hospitality,Taco Bell,RESTAURANTS
-India,Cargill,Gemini Refined Edible Oil,FOOD
-India,Cargill,Gemini Sunflower Oil(Cargill),FOOD
-India,Cargill,Gemini Pureit Sunflower Oil,FOOD
-India,Euphoric Innovations,CB-Vkc Walkaroo Shoes-Laal Singh Chaddha,FASHION
-India,Euphoric Innovations,Vkc Walkaroo Plus,FASHION
-India,Euphoric Innovations,VKC Walkaroo Flip-Flopz,FASHION
-India,Grasim Industries (Birla Opus),Birla Opus All Dry Wall N Roof,HOUSEHOLD ITEMS
-India,Grasim Industries (Birla Opus),Birla Opus Paints,HOUSEHOLD ITEMS
-India,Haier,Haier Duo Washing Machine,HOME APPLIANCES
-India,Haier,Haier Shock Proof Water Heaters,HOME APPLIANCES
-India,Haier,Haier Easy Connect,CONSUMER ELECTRONICS
-India,Haier,Haier Water Heater,HOME APPLIANCES
-India,Haier,Haier Android Tv,CONSUMER ELECTRONICS
-India,Haier,Haier Washing Machine,HOME APPLIANCES
-India,Haier,Haier Bmr 14 In 1 Convertible,HOME APPLIANCES
-India,Haier,Haier Oled Tv/Qled Tv,CONSUMER ELECTRONICS
-India,Haier,Haier Vogue Series,HOME APPLIANCES
-India,Haier,Haier 3 Door Convertible Side By Side Refrigerator,HOME APPLIANCES
-India,Haier,Haier Ai Dbt Series,HOME APPLIANCES
-India,Haier,Haier Qd Mini Led Tv,CONSUMER ELECTRONICS
-India,Haier,Haier Gravity Ac,HOME APPLIANCES
-India,Haier,Haier Lumiere Series,HOME APPLIANCES
-India,Haier,Haier Oled Tv/Od-Mini Led/Qled Tv,CONSUMER ELECTRONICS
-India,Hatsun Agro,Arokya Curd,FOOD
-India,Hatsun Agro,Arokya Milk,FOOD
-India,Hatsun Agro,Arokya Milk/Arokya Curd,FOOD
-India,Hatsun Agro,Ibaco Ice Cream Cakes,FOOD
-India,Hatsun Agro,Ibaco,FOOD
-India,Havmor Ice Cream,Havmor Ice Cream,FOOD
-India,Havmor Ice Cream,Havmor Dry Fruit Ice Cream,FOOD
-India,Havmor Ice Cream,Havmor Chocolate Ice Cream,FOOD
-India,Kimberly-Clark,Huggies Wonder Pants,PERSONAL CARE
-India,Kimberly-Clark,Huggies Dry Pants,PERSONAL CARE
-India,Kimberly-Clark,Huggies Complete Comfort,PERSONAL CARE
-India,Kotak Mahindra,Kotak Mahindra 811 Ac ,FINANCE
-India,Kotak Mahindra,Kotak Mahindra Activmoney Savings Account,FINANCE
-India,Kotak Mahindra,Kotak Group,FINANCE
-India,Kotak Mahindra Mutual Fund,Kotak Mutual Fund,FINANCE
-India,Kotak Securities,Kotak Neo,FINANCE
-India,KRBL Limited,India Gate Basmati Rice,FOOD
-India,Le Travenues Technology,Abhibus.Com,TRAVEL
-India,Le Travenues Technology,Confirmtkt App,TRAVEL
-India,Le Travenues Technology,Ixigo Trains,TRAVEL
-India,Linkedin,Linkedin,ENTERTAINMENT & MEDIA
-India,Lohiya Edible Oils,Gold Drop Sunflower Oil,FOOD
-India,Luminous Power Technologies,Luminous Solar Products,UTILITIES
-India,Lupin,Softovac Bowel Regulator,HEALTHCARE
-India,Lupin,Softovac Bowel Regulator ,HEALTHCARE
-India,Lupin,Aptivate Syrup,HEALTHCARE
-India,Matrimony.com,Bharat Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Christian Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Ezhavamatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Kapumatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Kerala Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Konguvellalar Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Rajasthani Matrimony,GENERAL SERVICES
-India,Matrimony.com,Tamil Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Vokkaligamatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Adidravidarmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Aryavysyamatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Bengali Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Elite Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Kammamatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Lingayath Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Marathi Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Oriya Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Reddymatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Vanniyarmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Muslimmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Punjabi Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Gujarati Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Jodii App,GENERAL SERVICES
-India,Matrimony.com,Kannada Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Telugu Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Nairmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Patelmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Sikhmatrimony.Com,GENERAL SERVICES
-India,Matrimony.com,96Kulimaratha Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Brahmin Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Kayastha Matrimony.Com,GENERAL SERVICES
-India,Matrimony.com,Rajput Matrimony.Com,GENERAL SERVICES
-India,Modenik,Dixcy Scott,FASHION
-India,Mondel?z International,Cadburys 5 Star,FOOD
-India,Mondel?z International,Cadburys Bournvita,DRINKS (NON-ALCOHOLIC)
-India,Mondel?z International,Cadburys Fuse,FOOD
-India,Mondel?z International,Cadburys Oreo,FOOD
-India,Mondel?z International,Tang Orange Flavour,DRINKS (NON-ALCOHOLIC)
-India,Mondel?z International,Cadburys Gems,FOOD
-India,Mondel?z International,Cadburys Perk,FOOD
-India,Mondel?z International,Tang,DRINKS (NON-ALCOHOLIC)
-India,Mondel?z International,Cadburys Dairy Milk Crispello,FOOD
-India,Mondel?z International,Cadburys Dairy Milk Lickables,FOOD
-India,Mondel?z International,Cadburys Celebrations,FOOD
-India,Mondel?z International,Cadburys Dairy Milk Chocolate,FOOD
-India,Mondel?z International,Cadburys Dairy Milk Silk,FOOD
-India,Mondel?z International,Cadburys Chocobakes Cakes,FOOD
-India,Mondel?z International,Cadburys Dairy Milk Silk Heart Blush,FOOD
-India,Mondel?z International,Cadburys Dairy Milk Silk Desserts Brownie,FOOD
-India,Mondel?z International,Cadburys Chocobakes Cookies,FOOD
-India,Mondel?z International,Cadburys Oreo Pokemon,FOOD
-India,Mother Dairy,Safal Outlet (Mother Dairy),RETAIL
-India,Mother Dairy,Dhara Range,FOOD
-India,Mother Dairy,Mother Dairy,ORGANIZATIONS & ASSOCIATIONS
-India,Mother Dairy,Dhara Oil,FOOD
-India,Mother Dairy,Dhara Kachi Ghani Mustard Oil,FOOD
-India,Mother Dairy,Mother Dairy Range Of Product,FOOD
-India,Orkla,MTR Sambar Powder,FOOD
-India,Orkla,MTR Special Garam Masala,FOOD
-India,Orkla,MTR Spicy Sambar Powder,FOOD
-India,Orkla,MTR Rice Masala,FOOD
-India,Orkla,MTR Gojju Magic Masala,FOOD
-India,Orkla,MTR Minute Rasam,FOOD
-India,Muthoot Fincorp,Muthoot Fincorp Two Wheeler Loan,FINANCE
-India,Muthoot Fincorp,Muthoot Ashwas Dinam Gold Loan,FINANCE
-India,Muthoot Fincorp,Muthoot Fincorp,FINANCE
-India,Muthoot Fincorp,Muthoot Fincorp Atmanirbhar Mahila Gold Loan,FINANCE
-India,Muthoot Fincorp,Cb-Muthoot Fincorp Loan Against Gold-Minnal Murali,FINANCE
-India,Myntra,The Roadster Life Co,FASHION
-India,Myntra,Myntra,FASHION
-India,Netflix,Netflix,ENTERTAINMENT & MEDIA
-India,Nippon Paint ,Nippon Odour Less Air Care,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Weatherbond Advance,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Kidz,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Durafresh Solo,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Walltron,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Spot-Less Paint,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Weatherbond Pro,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Wellness Range,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Breeze Star,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Durofresh Solo,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Atom Fibra,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Weatherbond Pro,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint,HOUSEHOLD ITEMS
-India,Nippon Paint ,Nippon Paint Atom 2 In 1,HOUSEHOLD ITEMS
-India,Niva Bupa Health Insurance,Niva Bupa Health Insurance,FINANCE
-India,Danone,Nutricia Aptagrow,DRINKS (NON-ALCOHOLIC)
-India,Danone,Protinex,DRINKS (NON-ALCOHOLIC)
-India,Danone,Protinex Diabetes Care,HEALTHCARE
-India,Orkla,MTR Spices,FOOD
-India,Orkla,MTRBadam Drink Mix,DRINKS (NON-ALCOHOLIC)
-India,Orkla,MTR Food Product Range,FOOD
-India,Orkla,MTR Puliogare Powder,FOOD
-India,Orkla,MTR Gulab Jamun Mix,FOOD
-India,Orkla,MTR Original Sambar/Spicy Sambar Powder,FOOD
-India,Orkla,Eastern Chicken Masala,FOOD
-India,Orkla,Eastern Mutton Masala,FOOD
-India,Paragon Polymer Products,Office Chappals&Sandal,FASHION
-India,Paragon Polymer Products,Footwear,FASHION
-India,Pb Fintech Limited,Policybazaar.Com,FINANCE
-India,Pb Fintech Limited,Paisabazaar.Com,FINANCE
-India,Perfetti Van Melle,Alpenliebe Pop,FOOD
-India,Perfetti Van Melle,Center Fresh,FOOD
-India,Perfetti Van Melle,Alpenliebe Juzt Jelly,FOOD
-India,Perfetti Van Melle,Mentos Mint,FOOD
-India,Perfetti Van Melle,Chupa Chups,FOOD
-India,Perfetti Van Melle,Alpenliebe Gold,FOOD
-India,Perfetti Van Melle,Chupa Chups Lollypop,FOOD
-India,Perfetti Van Melle,Alpenliebe,FOOD
-India,Perfetti Van Melle,Center Fresh 3 Layers Gum,FOOD
-India,Perfetti Van Melle,Chupa Chups Lollipop,FOOD
-India,Perfetti Van Melle,Chupa Chups Do You Love Me,FOOD
-India,Perfetti Van Melle,Alpenliebe Juzt Jelly Cars & Planes,FOOD
-India,Perfetti Van Melle,Chupa Chups Mix Up,FOOD
-India,Perfetti Van Melle,Chupa Chups Colour Your Tongue Lollipop,FOOD
-India,Perfetti Van Melle,Happydent White,FOOD
-India,Perfetti Van Melle,Center Fresh Gums/Mints,FOOD
-India,Perfetti Van Melle,Center Fruit Tennis Ball Shape,FOOD
-India,Perfetti Van Melle,Center Fruit,FOOD
-India,Perfetti Van Melle,Chupa Chups Jellies,FOOD
-India,Perfetti Van Melle,Mentos Rainbow,FOOD
-India,Perfetti Van Melle,Chupa Chups Sour Belt/Sour Bites,FOOD
-India,Pernod Ricard,Seagrams Imperial Blue (Mineral Water),DRINKS (NON-ALCOHOLIC)
-India,Pernod Ricard,Pernod Ricard,DRINKS (ALCOHOLIC)
-India,Platinum Guild,Platinum Days Of Love,JEWELLERY
-India,Platinum Guild,Platinum Evara,JEWELLERY
-India,Reckitt ,Dettol Powder To Liquid Handwash,HOUSEHOLD ITEMS
-India,Reckitt ,Vanish Crystal White,HOUSEHOLD ITEMS
-India,Reckitt ,Harpic Power Plus 10X Max Clean,HOUSEHOLD ITEMS
-India,Reckitt ,Dettol Antiseptic Liquid,HEALTHCARE
-India,Reckitt ,Dettol Skincare Hand Wash,HOUSEHOLD ITEMS
-India,Reckitt ,Dettol Lime Cool Soap,PERSONAL CARE
-India,Reckitt ,Robin Fabric Whitener,HOUSEHOLD ITEMS
-India,Reckitt ,Harpic Power Plus 10X Advanced,HOUSEHOLD ITEMS
-India,Reckitt ,Lizol Shakti,HOUSEHOLD ITEMS
-India,Reckitt ,Durex Close Fit Invisible,HEALTHCARE
-India,Reckitt ,Dettol Toilet Soaps,PERSONAL CARE
-India,Reckitt ,Lizol All In 1,HOUSEHOLD ITEMS
-India,Reckitt ,Vanish Oxi Action,HOUSEHOLD ITEMS
-India,Reckitt ,Colin,HOUSEHOLD ITEMS
-India,Reckitt ,Harpic Drain Xpert Powder,HOUSEHOLD ITEMS
-India,Reckitt ,Harpic Bathroom Cleaner,HOUSEHOLD ITEMS
-India,Reckitt ,Gaviscon,HEALTHCARE
-India,Reckitt ,Veet Pure,PERSONAL CARE
-India,Reckitt ,Dettol Liquid Soap,PERSONAL CARE
-India,Reckitt ,Mortein 2 In 1 Insect Killer,HOUSEHOLD ITEMS
-India,Reckitt ,Harpic Flushmatic,HOUSEHOLD ITEMS
-India,Reckitt ,Mortein Liquid Vaporizer,HOUSEHOLD ITEMS
-India,Reckitt ,Mortein Cockroach Killer,HOUSEHOLD ITEMS
-India,Reckitt ,Dettol Icy Cool/Lime Cool Soap,PERSONAL CARE
-India,Reckitt ,Dettol Skincare Soap,PERSONAL CARE
-India,Reckitt ,Strepsils Orange,HEALTHCARE
-India,Reckitt ,Durex Realfeel,HEALTHCARE
-India,Reckitt ,Veet Professional,PERSONAL CARE
-India,Reckitt ,Dettol Icy Cool,PERSONAL CARE
-India,Reckitt ,Strepsils Dry Cough,HEALTHCARE
-India,Reckitt ,Durex Extra Time Ultra Thin,HEALTHCARE
-India,Reckitt ,Dettol Lime Fresh,PERSONAL CARE
-India,Reckitt ,Dettol Cologne Fresh,PERSONAL CARE
-India,Reckitt ,Moov Active Spray,HEALTHCARE
-India,Reckitt ,Moov Pain Balm,HEALTHCARE
-India,Reckitt ,Ringguard Cream,HEALTHCARE
-India,Reckitt ,Moov Cool,HEALTHCARE
-India,Reckitt ,Itch Guard Cream,HEALTHCARE
-India,Reckitt ,Moov Spray/Moov Cool,HEALTHCARE
-India,Red Bull,Red Bull Flugtag,DRINKS (NON-ALCOHOLIC)
-India,Red Bull,Red Bull Energy Drink,DRINKS (NON-ALCOHOLIC)
-India,Rolex,Rolex,CONSUMER ELECTRONICS
-India,Sarvocca Industries,So Klin Smart Det Powder,HOUSEHOLD ITEMS
-India,Shriram Life Insurance,Shriram Life Genius Assured Benefit Plan,FINANCE
-India,Shriram Life Insurance,Shriram Life Assured Income Plus Plan,FINANCE
-India,Shriram Life Insurance,Shriram Life Assured Advantage Plus,FINANCE
-India,Shriram Life Insurance,Shriram Life Super Income Plan,FINANCE
-India,Shriram Life Insurance,Shriram Life Golden Premier Saver Plan,FINANCE
-India,Sporta Technologies,Dream11.Com,GENERAL SERVICES
-India,Sporta Technologies,Revital H,HEALTHCARE
-India,Sporta Technologies,Sun Pharmaceutical,HEALTHCARE
-India,Sporta Technologies,Revital H Woman,HEALTHCARE
-India,Sporta Technologies,Volini Gel/Spary,HEALTHCARE
-India,Sporta Technologies,Volini Maxx,HEALTHCARE
-India,Tata Consumer Products,Tata Tea Chakra Gold Elaichi,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Tea,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Premium Ctc Leaf,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Tea Gold Care,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Tea Agni Leaf,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Agni Elaichi Chai,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Coffee Grand,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Tea Premium Desh Ka Garv Collection,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tetley Green Tea Immune,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Kanan Devan Strong,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Tea Gold,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Soulfull Ragi Bites No Maida Choco Sticks,FOOD
-India,Tata Consumer Products,Tata Soulfull Ragi Bites No Maida Choco,FOOD
-India,Tata Consumer Products,Tata Gemini,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Chakra Gold,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Soulfull No Maida Rusk,FOOD
-India,Tata Consumer Products,Tata Tea Chakra Gold Premium Leaf Tea,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Gluco Plus Jelly Energy Drink,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Gluco Plus,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Copper Plus Water,DRINKS (NON-ALCOHOLIC)
-India,Tata Consumer Products,Tata Salt,FOOD
-India,Tata Consumer Products,Tata Crystal Salt,FOOD
-India,Tata Consumer Products,Tata Salt Crystal,FOOD
-India,Tata Play,Tata Play Binge App,ENTERTAINMENT & MEDIA
-India,Tata Play,Tata Play,ENTERTAINMENT & MEDIA
-India,The South Indian Bank,South Indian Bank,FINANCE
-India,Unicharm,Sofy Antibacteria,PERSONAL CARE
-India,UNICEF,UNICEF,CHARITIES
-India,Vodafone Idea,Vi Cellular Phone Service,TELECOMS
-India,Vectus Industries,Vectus Pipes And Tanks,REAL ESTATE
-India,Zee Entertainment ,Zee Entertainment,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Gec,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Regional,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,News,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Movies,ENTERTAINMENT & MEDIA
-India,Zee Entertainment ,Others,ENTERTAINMENT & MEDIA
-India,Zydus Healthcare,Zydus Nasoclear,HEALTHCARE
-India,Zydus Wellness,Everyuth Naturals Walnut Scrub,PERSONAL CARE
-India,Zydus Wellness,Sugar Free Green,FOOD
-India,Zydus Wellness,Everyuth Golden Glow Peel Off ,PERSONAL CARE
-India,Zydus Wellness,Everyuth Nat Adv Walnut Apricot Scrub,PERSONAL CARE
-India,Zydus Wellness,Complan,DRINKS (NON-ALCOHOLIC)
-India,Zydus Wellness,Glucon D,DRINKS (NON-ALCOHOLIC)
-India,Zydus Wellness,Everyuth Naturals Body Lotion,PERSONAL CARE
-India,Zydus Wellness,Glucon D Mango Blast,DRINKS (NON-ALCOHOLIC)
-India,Zydus Wellness,Everyuth Naturals Tan Removal Chocolate And Cherry,PERSONAL CARE
-India,Zydus Wellness,Everyuth Naturals Anti Pollution Face Wash,PERSONAL CARE
-India,Zydus Wellness,Complan Immuno Gro,DRINKS (NON-ALCOHOLIC)
-India,Zydus Wellness,I M Lite Sugar,FOOD
-India,Zydus Wellness,Everyuth Naturals Anti Pollution Scrub,PERSONAL CARE
-India,Zydus Wellness,Nycil Ph Powder,PERSONAL CARE
-India,Zydus Wellness,Glucon D Activors,DRINKS (NON-ALCOHOLIC)
+austria,Action Service & Distribution BV,Action,Retail
+austria,ACTUAL Fenster Tueren Sonnenschutz,ACTUAL Fenster Tueren Sonnenschutz,Home Appliances
+austria,ADLER-Werk Lackfabrik,Adler,Household Items
+austria,Afro Coffee,Afro-Coffee,Drinks (non-alcoholic)
+austria,Air Up,air up,Drinks (non-alcoholic)
+austria,AkzoNobel,AkzoNobel Coating,Home Appliances
+austria,Amt der NOE Landesregierung,Amt der NOE LR,GOVERNMENT
+austria,Asset Management by froots,Asset Management,Finance
+austria,Be The Change Flexible Company,Be The Change Flexible Company,Entertainment & media
+austria,Beijing Sankuai Online Technology Co. Ltd,Beijing Sankuai Online Technology Co. Ltd,Technology
+austria,Bionorica,Bionorica Austria,Healthcare
+austria,Bolton Group,Bolton,Food
+austria,Bosch,Bosch,Home Appliances
+austria,Bosch,Siemens,Home Appliances
+austria,Bosch,Neff,Home Appliances
+austria,Bosch,Gaggenau,Home Appliances
+austria,Breuninger,Breuninger,Fashion
+austria,Campari,Aperol,Drinks (alcoholic)
+austria,Campari,Sarti,Drinks (alcoholic)
+austria,Campari,Crodino,Drinks (alcoholic)
+austria,Campari,Averna,Drinks (alcoholic)
+austria,Carglass,Carglass,Automotive
+austria,CC Real,CC Real,Real Estate
+austria,Continental,Continental Aftermarket & Services,Automotive
+austria,Continental,Continental Reifen Deutschland,Automotive
+austria,Continental,Continental,Automotive
+austria,CP GABA,Elmex,Oral Care
+austria,CP GABA,Meridol,Oral Care
+austria,CP GABA,Colgate,Oral Care
+austria,Die Presse VerlagsgesmbH. & CO KG,Die Presse VerlagsgesmbH. & CO KG,Entertainment & media
+austria,Die Tafel Oesterreich - der Verein fuer sozialen Transfer,Die Tafel,CHARITIES
+austria,Direct Parcel Distribution,Direct Parcel Distribution,General Services
+austria,dm drogerie markt ,dm,Retail
+austria,Dr Oetker,Conditorei Coppenrath & Wiese KG,Food
+austria,Dr Oetker,Dr Oetker,Food
+austria,Dr Oetker,Henkell,Drinks (alcoholic)
+austria,Dr. C. Soldan Vertriebs,em-eukal,Food
+austria,Duering AG,Duering,Home Appliances
+austria,EA Swiss Sarl,EA Swiss Sarl,Home Entertainment
+austria,Emmi ,Emmi ,Drinks (non-alcoholic)
+austria,Epamedia - Europaeische Plakat- und Aussenmedien,Epamedia - Europaeische Plakat- und Aussenmedien GmbH,Entertainment & media
+austria,Erste Group,Erste Bank,Finance
+austria,Euronics,Euronics,Home Appliances
+austria,Explora Journeys,Explora Journeys,Travel
+austria,FAIRTRADE Oesterreich,Fairtrade,Food
+austria,FAIRTRADE Oesterreich,Immobilien Scout Oesterreich,Real Estate
+austria,Felix Austria GesmbH,Felix Austria ,Food
+austria,Ferrero,Ferrero,Food
+austria,Filmladen ,Filmladen,Entertainment & media
+austria,Finanzgruppe,Teambank,Finance
+austria,Finanzgruppe,Union Investment,Finance
+austria,Fressnapf,Fressnapf Handels,Pet Care
+austria,Freytag-Berndt und Artaria KG,Freytag-Berndt und Artaria KG,Travel
+austria,Geberit,Geberit,Home Appliances
+austria,Gebro Pharma,Alpinamed,Healthcare
+austria,Grazer Wechselseitige Versicherung AG,Grazer Wechselseitige,Finance
+austria,Gruene Wirtschaft,Gruene Wirtschaft,General Services
+austria,H&M,H&M,Fashion
+austria,HAAI,HAAI,Consumer Electronics
+austria,Hachette,Hachette,Entertainment & media
+austria,Handl Tyrol,Handl Tyrol,Food
+austria,Haribo,Haribo,Food
+austria,Heimbau,Heimbau,Real Estate
+austria,Hofer,Hofer,Retail
+austria,Honor Technologies,Honor,Telecoms
+austria,Joh. Alex Niernsee AG,Joh. Alex Niernsee AG,Home Appliances
+austria,Kapsch TrafficCom AG,Kapsch TrafficCom AG,Automotive
+austria,Karriere.at,Karriere.at,Automotive
+austria,Katjes Fassin,Katjes Fassin,Food
+austria,KRONE-Verlag GmbH & Co,Krone,Entertainment & media
+austria,KSV1870 Holding AG,KSV1870 Holding AG,General Services
+austria,Kwizda Pharma ,Kwizda Pharma ,Healthcare
+austria,Lagerhaus Franchise,Lagerhaus,Retail
+austria,Lavazza,Lavazza,Drinks (non-alcoholic)
+austria,Lexus,Lexus,Automotive
+austria,Lufthansa,Austrian Airlines,Travel
+austria,M&D Restaurant Development,M&D Restaurant Development,Automotive
+austria,Markilux,Markilux,Household Items
+austria,Mautner Markhof,Mautner Markhof,Food
+austria,McArthurglen,McArthurGlen,Retail
+austria,mfi Immobilien Marketing,mfi Immobilien Marketing,Real Estate
+austria,Milford Tee Austria Gesellschaft m.b.H.,Milford,Drinks (non-alcoholic)
+austria,Mona Naturprodukte ,Mona,Food
+austria,MSC Cruises,MSC,Travel
+austria,Muenze Oesterreich AG,Muenze Oesterreich AG,Finance
+austria,Neuburger GmbH&Co OG,Neuburger GmbH&Co OG,Food
+austria,NOE Landesgesundheitsagentur,NOE Landesgesundheitsagentur,GOVERNMENT
+austria,Novo Nordisk,Novo Nordisk,Healthcare
+austria,NV Niederoesterreichische Versicherung AG,NV Niederoesterreichische Versicherung AG,Finance
+austria,oekostrom ,oekostrom,Utilities
+austria,Oesterreichische Bundesbahn,OEBB,Travel
+austria,Oesterreichische Bundesforste AG,Oesterr. Bundesforste,Organisations & associations
+austria,Oesterreichische Nationalbank,Oesterreichische Nationalbank,Finance
+austria,OMV Group,OMV Aktiengesellschaft,Utilities
+austria,OMV Group,OMV Downstream,Utilities
+austria,Otto group,Otto Austria Group,Fashion
+austria,Pappas Holding,Pappas,Automotive
+austria,Pearle ,Pearle,Retail
+austria,Peek & Cloppenburg,Peek & Cloppenburg,Fashion
+austria,Pelpharma Handels ,Pelpharma Handels GmbH,Healthcare
+austria,Perfetti Van Melle,Mentos,Food
+austria,Pfizer,Pfizer,Healthcare
+austria,Princes Foods,Princes,Food
+austria,Red Bull,Red Bull,Drinks (non-alcoholic)
+austria,Red Bull,Red Bull MOBILE,Telecoms
+austria,REWE,ADEG,Retail
+austria,REWE,BIPA,Retail
+austria,REWE,Oe-Bonus Club,Retail
+austria,REWE,REWE Eigenmarken,Food
+austria,REWE,Penny,Retail
+austria,REWE,BILLA Reisen,Travel
+austria,REWE,BILLA,Retail
+austria,Roche Diagnostics International,Roche,Healthcare
+austria,ROLEX,ROLEX,Jewellery
+austria,Rolf Benz AG & Co. KG,Rolf Benz,Home Appliances
+austria,Rupa Werbe GesmbH,Rupa Werbe GesmbH,General Services
+austria,Sanova,Oekopharm,Healthcare
+austria,Sanova,similasan,Healthcare
+austria,Savencia,Savencia Fromage & Dairy,Food
+austria,Selfstorage,SelfStorage Dein Lagerraum,Real Estate
+austria,Silhouette International,Silhouette,Fashion
+austria,Sketchers,Sketchers,Fashion
+austria,Smile Insurance & IT Solutions ,Smile Insurance & IT Solutions ,Finance
+austria,Smyths Toys,Smyths Toys,Retail
+austria,SONY,Sony Europe B.V.,Home Entertainment
+austria,SONY,Sony Interactive Entertainment ,Home Entertainment
+austria,SP United Vertriebs,SP Connect,Home Appliances
+austria,Spar,HERVIS,Sports
+austria,Spar,INTERSPAR,Retail
+austria,Spar,SPAR,Retail
+austria,Spar,SPAR Direkt,Retail
+austria,Sutterluety Handels ,Sutterluety Handels ,Retail
+austria,Technisches Museum Wien,Technisches Museum Wien,Entertainment & media
+austria,Teekane Holding GmbH,Teekanne,Drinks (non-alcoholic)
+austria,Tempur Sealy,Temper-Pedic/Sealy,Household Items
+austria,Thalia,Thalia,Retail
+austria,Therme Wien GmbH & Co KG,Therme Wien,Travel
+austria,TJX ,TK Maxx,Restaurants
+austria,T-Mobile ,Magenta,Telecoms
+austria,Toyota,Toyota,Automotive
+austria,TUI,TUI Cruises,Travel
+austria,Unibail Rodamco,Donauzentrum,Retail
+austria,Unibail Rodamco,Shopping City S d,Retail
+austria,Unibail Rodamco,Unibail-Rodamco-Westfield,Retail
+austria,Unicef,UNICEF,CHARITIES
+austria,UNIQA,UNIQA,Healthcare
+austria,UNIQA Insurance Group AG,Mavie,Healthcare
+austria,UNIQA Insurance Group AG,RUDI,General Services
+austria,Universal Pictures,UPI,Entertainment & media
+austria,VAV - Versicherungs-Aktiengesellschaft,VAV,Healthcare
+austria,Verein Fachhochschule Technikum Wien,Verein Fachhochschule Technikum Wien,EDUCATION
+austria,Vierpfoten,Vierpfoten,CHARITIES
+austria,VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften,VOEIG,Organisations & associations
+austria,voestalpine ,voestalpine ,General Services
+austria,WARNER BROS. Discovery,WARNER BROS. Discovery,Entertainment & media
+austria,Wiener Arbeitnehmerinnen Foerderungsfonds (waff),Wiener Arbeitnehmerinnen Foerderungsfonds (waff),General Services
+austria,Wiener St dtische Versicherung,Wr. Staedtische,Finance
+austria,Willhaben Internet Service ,Willhaben.at,General Services
+austria,Woerwag Pharma,Woerwag Pharma,Healthcare
+austria,WOJNAR Beteiligungs,WOJNAR Beteiligungs,Food
+austria,Wolfgang Denzel Auto AG,Wolfgang Denzel Auto AG,Automotive
+austria,Yakult,Yakult,Drinks (non-alcoholic)
+austria,ZEV - Nah&Frisch Marketingservice GmbH,Nah&Frisch,Retail

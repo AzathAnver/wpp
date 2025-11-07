@@ -1,27 +1,31 @@
-PERSONAL CARE
-FOOD
-TELECOMMUNICATIONS
-FINANCE
-TRAVEL
-RETAIL
-HOUSEHOLD ITEMS
-CONSUMER ELECTRONICS
-FASHION
-ORGANISATIONS & ASSOCIATIONS
-ORAL CARE
-AUTOMOTIVE
-REAL ESTATE
-DRINKS (NON-ALCOHOLIC)
-HOME APPLIANCES
-GENERAL SERVICES
-TOBACCO
-HEALTHCARE
-EDUCATION
-ENTERTAINMENT & MEDIA  
-TECHNOLOGY
-SPORTS
-RESTAURANTS
-JEWELLERY
-UTILITIES
-DRINKS (ALCOHOLIC)
-CHARITIES
+Retail
+Home Appliances
+Household Items
+Drinks (non-alcoholic)
+Governmen
+Finance
+Entertainment & media  
+Technology
+Healthcare & Pharmaceuticals
+Food
+Fashion
+Drinks (alcoholic)
+Automotive
+Real Estate  
+Oral Care
+Charities  
+General Services  
+Home Entertainment
+Financial Services & Insurance
+Travel
+Pet Care
+Consumer Electronics
+Telecoms
+Cars
+Utilities
+Organisations & associations  
+Jewellery
+Sports  
+Restaurants
+Healthcare
+Education  

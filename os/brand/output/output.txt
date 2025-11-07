@@ -3,664 +3,162 @@
    ✅ Matched brand exactly: 'Brand' (mdId=50be9df8-f922-40a7-af3e-810e2ca906b7)
 ⚠️ Error: Market 'Market' with client 'Client' not found.
 
-🚀 Processing: Market=India, Client=Honda Motorcycles, Brand=Honda Corporate, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Honda Corporate' (mdId=f3bec78a-1be1-4678-968d-24df123ec7b5)
-❌ Failed POST for Honda Corporate: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Corporate) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Corporate) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Corporate) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Honda Motorcycles, Brand=Honda Shine, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Honda Shine' (mdId=5c03a9dc-695f-44fa-aef6-b4a26c899e6b)
-❌ Failed POST for Honda Shine: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Shine) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Shine) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 551dc63e-035e-4b8c-8aa4-f75a640bab9d, 4, Honda Shine) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Super Vasmol 33, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Super Vasmol 33' (mdId=38cb7912-2773-4e6d-8913-cf97f6deca86)
-❌ Failed POST for Super Vasmol 33: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Streax Insta Shampoo Hair Colours, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Streax Insta Shampoo Hair Colours' (mdId=662d7669-931b-4cb3-b8e6-03ccd4c6d6f2)
-❌ Failed POST for Streax Insta Shampoo Hair Colours: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Insta Shampoo Hair Colours) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Insta Shampoo Hair Colours) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Insta Shampoo Hair Colours) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Super Vasmol 33 Kesh Kala Hair Colour, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Super Vasmol 33 Kesh Kala Hair Colour' (mdId=846339e0-9b02-4bf6-9dc2-ab3e638d3a97)
-❌ Failed POST for Super Vasmol 33 Kesh Kala Hair Colour: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Kesh Kala Hair Colour) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Kesh Kala Hair Colour) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Kesh Kala Hair Colour) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Streax Cream Hair Colour, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Streax Cream Hair Colour' (mdId=ee616e59-5cd5-47c0-99c9-12ccbca799cf)
-❌ Failed POST for Streax Cream Hair Colour: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Cream Hair Colour) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Cream Hair Colour) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Cream Hair Colour) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Streax Hair Serum, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Streax Hair Serum' (mdId=f1a9fe72-73b9-42be-b3aa-ac10c9b21993)
-❌ Failed POST for Streax Hair Serum: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Hair Serum) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Hair Serum) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Hair Serum) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Streax Gel Hair Colour, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Streax Gel Hair Colour' (mdId=c26215d5-dd45-41bb-b595-fc51595884df)
-❌ Failed POST for Streax Gel Hair Colour: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Gel Hair Colour) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Gel Hair Colour) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Streax Gel Hair Colour) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hygienic Research Institute, Brand=Super Vasmol 33 Coconut Oil Kesh Kala, Category=PERSONAL CARE
-   ✅ Matched brand exactly: 'Super Vasmol 33 Coconut Oil Kesh Kala' (mdId=6c43ad21-ebf7-46a2-8168-65c5e8f0a90d)
-❌ Failed POST for Super Vasmol 33 Coconut Oil Kesh Kala: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Coconut Oil Kesh Kala) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Coconut Oil Kesh Kala) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, bad7f8c9-f434-44bf-87a8-30f93c956b43, 4, Super Vasmol 33 Coconut Oil Kesh Kala) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=IIFL Finance, Brand=IIFL Finance Gold Loan, Category=FINANCE
-   ✅ Matched brand exactly: 'IIFL Finance Gold Loan' (mdId=10ec3bfd-dbce-477f-b984-88d10704bca3)
-❌ Failed POST for IIFL Finance Gold Loan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 37fe899f-2aed-41fc-ba42-751473be07dd, 4, IIFL Finance Gold Loan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 37fe899f-2aed-41fc-ba42-751473be07dd, 4, IIFL Finance Gold Loan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 37fe899f-2aed-41fc-ba42-751473be07dd, 4, IIFL Finance Gold Loan) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Indeed, Brand=Indeed, Category=TECHNOLOGY
-   ✅ Matched brand exactly: 'Indeed' (mdId=e73c798c-ef2e-4f84-8bb3-e2fd79a6b254)
-❌ Failed POST for Indeed: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0ade44f-a43b-4f1b-9557-d3d2d6d642e1, 4, Indeed) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0ade44f-a43b-4f1b-9557-d3d2d6d642e1, 4, Indeed) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d0ade44f-a43b-4f1b-9557-d3d2d6d642e1, 4, Indeed) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Makemytrip, Brand=Goibibo, Category=TRAVEL
-   ✅ Matched brand exactly: 'Goibibo' (mdId=dcaa2300-3fcd-46ce-ad18-2a3e8179865c)
-❌ Failed POST for Goibibo: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Goibibo) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Goibibo) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Goibibo) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Makemytrip, Brand=Makemytrip.Com, Category=TRAVEL
-   ✅ Matched brand exactly: 'Makemytrip.Com' (mdId=96988bd6-3e5b-4714-8e4b-d3314b0857b1)
-❌ Failed POST for Makemytrip.Com: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Makemytrip.Com) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Makemytrip.Com) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Makemytrip.Com) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=NPCI, Brand=Rupay Credit Card, Category=FINANCE
-   ✅ Matched brand exactly: 'Rupay Credit Card' (mdId=6df62465-9a35-4876-8db2-e15dcef267ba)
-❌ Failed POST for Rupay Credit Card: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Rupay Credit Card) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Rupay Credit Card) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Rupay Credit Card) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=NPCI, Brand=NPCI, Category=FINANCE
-⚠️ Error: No exact brand named 'NPCI' found (case-insensitive). Top results: National Payment Corporation of India
-
-🚀 Processing: Market=India, Client=NPCI, Brand=Upi Chalega, Category=FINANCE
-   ✅ Matched brand exactly: 'Upi Chalega' (mdId=51ac680a-5eea-4d4e-9a2a-646b063096c2)
-❌ Failed POST for Upi Chalega: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Upi Chalega) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Upi Chalega) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Upi Chalega) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=NPCI, Brand=Bhim App, Category=FINANCE
-   ✅ Matched brand exactly: 'Bhim App' (mdId=c92f74e4-d68a-4867-bd56-0af6671211e1)
-❌ Failed POST for Bhim App: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Bhim App) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Bhim App) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1697b973-6403-45a9-b3ae-23feeccd775e, 4, Bhim App) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Parle Products, Brand=Appy Fizz, Category=DRINKS (NON-ALCOHOLIC)
-   ✅ Matched brand exactly: 'Appy Fizz' (mdId=932d144b-6068-424d-a5bc-9a9b09b60e12)
-❌ Failed POST for Appy Fizz: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Appy Fizz) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Appy Fizz) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Appy Fizz) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Parle Products, Brand=Frooti, Category=DRINKS (NON-ALCOHOLIC)
-   ✅ Matched brand exactly: 'Frooti' (mdId=666531bb-edd6-46ff-8969-0809a63e7948)
-❌ Failed POST for Frooti: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Frooti) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Frooti) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Frooti) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Parle Products, Brand=Parle Smoodh Coffee Frappe, Category=DRINKS (NON-ALCOHOLIC)
-   ✅ Matched brand exactly: 'Parle Smoodh Coffee Frappe' (mdId=6f6eb99c-8232-4c25-84aa-21738266e8d8)
-❌ Failed POST for Parle Smoodh Coffee Frappe: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Coffee Frappe) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Coffee Frappe) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Coffee Frappe) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Parle Products, Brand=Parle Smoodh, Category=DRINKS (NON-ALCOHOLIC)
-   ✅ Matched brand exactly: 'Parle Smoodh' (mdId=dc61a8da-dfd4-4c4d-a2af-00562af0714e)
-❌ Failed POST for Parle Smoodh: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Parle Products, Brand=Parle Smoodh Lassi, Category=DRINKS (NON-ALCOHOLIC)
-   ✅ Matched brand exactly: 'Parle Smoodh Lassi' (mdId=6945628b-3936-4324-98e0-c91f8a196876)
-❌ Failed POST for Parle Smoodh Lassi: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Lassi) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Lassi) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d4428556-5095-4575-8ad9-e0589f688354, 4, Parle Smoodh Lassi) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Play Games 24X7, Brand=My11Circle, Category=GENERAL SERVICES
-   ✅ Matched brand exactly: 'My11Circle' (mdId=5303f752-d955-4751-8ff9-a121b96ba49a)
-❌ Failed POST for My11Circle: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, My11Circle) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, My11Circle) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, My11Circle) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Play Games 24X7, Brand=Rummycircle, Category=GENERAL SERVICES
-   ✅ Matched brand exactly: 'Rummycircle' (mdId=5d22f390-5798-4b4d-a8b2-1a0928f409a3)
-❌ Failed POST for Rummycircle: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, Rummycircle) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, Rummycircle) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c56a726d-aa83-4510-96e3-84fa63d7475b, 4, Rummycircle) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roche Diabetes Care, Brand=Accu-Chek Instant S, Category=HEALTHCARE
-   ✅ Matched brand exactly: 'Accu-Chek Instant S' (mdId=bfd8f5d7-cdcf-4177-b4ab-306d6fdceb36)
-❌ Failed POST for Accu-Chek Instant S: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant S) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant S) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant S) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roche Diabetes Care, Brand=Accu-Chek Instant, Category=HEALTHCARE
-   ✅ Matched brand exactly: 'Accu-Chek Instant' (mdId=efbf95e0-4eb4-4ab4-9189-e4526ae3bb19)
-❌ Failed POST for Accu-Chek Instant: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, cda58be1-182b-4ffc-afad-959918aedeaf, 4, Accu-Chek Instant) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roppen Transportation Services , Brand=Rapido Bike Taxi, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Rapido Bike Taxi' (mdId=1634a3f6-2df6-405c-a214-e7ec6be71b80)
-❌ Failed POST for Rapido Bike Taxi: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roppen Transportation Services , Brand=Rapido Auto, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Rapido Auto' (mdId=6b72d3f3-c096-4ec4-80f2-eecc4765e1dc)
-❌ Failed POST for Rapido Auto: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Auto) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Auto) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Auto) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roppen Transportation Services , Brand=Rapido Cabs, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Rapido Cabs' (mdId=4d10c32f-c431-4301-ae56-2f35ada2dcf0)
-❌ Failed POST for Rapido Cabs: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Cabs) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Cabs) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Cabs) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Roppen Transportation Services , Brand=Rapido Bike Taxi & Auto App, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Rapido Bike Taxi & Auto App' (mdId=565828d9-40f9-4e40-85ba-61816102d454)
-❌ Failed POST for Rapido Bike Taxi & Auto App: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi & Auto App) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi & Auto App) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c4361f1-03b1-46da-8324-9373d38f88a9, 4, Rapido Bike Taxi & Auto App) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Uber, Brand=Uber Auto, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Uber Auto' (mdId=e2c01340-492d-4cfb-9d4b-6fe3d993f38f)
-❌ Failed POST for Uber Auto: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 46614469-e1fb-4347-b47e-28a9da361fab, 4, Uber Auto) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 46614469-e1fb-4347-b47e-28a9da361fab, 4, Uber Auto) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 46614469-e1fb-4347-b47e-28a9da361fab, 4, Uber Auto) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Bloom Series Fans, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Bloom Series Fans' (mdId=6bd6d618-6d85-42e5-a081-4e664e15c08b)
-❌ Failed POST for Bloom Series Fans: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Bloom Series Fans) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Bloom Series Fans) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Bloom Series Fans) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Goodbye Dust Fan, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Goodbye Dust Fan' (mdId=b95a1636-e653-4b05-a5c3-6a66a49f774b)
-❌ Failed POST for Goodbye Dust Fan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Goodbye Dust Fan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Goodbye Dust Fan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Goodbye Dust Fan) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Racer Fans, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Racer Fans' (mdId=4a05425a-8231-43d7-b63a-a7edc957bcc2)
-❌ Failed POST for Racer Fans: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Fans) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Fans) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Fans) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Striker Air Cooler, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Striker Air Cooler' (mdId=47974fc8-0f32-48a0-8445-cca9a22df2e0)
-❌ Failed POST for Striker Air Cooler: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker Air Cooler) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker Air Cooler) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker Air Cooler) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Sewing Machine, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Sewing Machine' (mdId=c554a138-d68c-4388-b8ba-3595df1e909e)
-❌ Failed POST for Sewing Machine: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Sewing Machine) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Sewing Machine) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Sewing Machine) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Racer Chrome, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Racer Chrome' (mdId=50fd2a64-dd32-4392-90ed-26c276ba9f72)
-❌ Failed POST for Racer Chrome: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Chrome) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Chrome) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Racer Chrome) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Heleous, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Heleous' (mdId=16a9d05e-8875-40f7-876b-32ad8ecc0e5a)
-❌ Failed POST for Heleous: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Heleous) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Heleous) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Heleous) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Air Coolers ( Intl), Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Air Coolers ( Intl)' (mdId=a1be26b3-e193-4a49-bb9f-bb1b3c549c6d)
-❌ Failed POST for Air Coolers ( Intl): 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Air Coolers ( Intl)) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Air Coolers ( Intl)) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Air Coolers ( Intl)) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Onio Series, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Onio Series' (mdId=efde0922-4728-4076-9244-a8e620cfcca1)
-❌ Failed POST for Onio Series: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Onio Series) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Onio Series) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Onio Series) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Striker, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'Striker' (mdId=4493a25a-64b4-4015-bcaa-774f96a65d41)
-❌ Failed POST for Striker: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Striker) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=I Chef Smart Air Fryer, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'I Chef Smart Air Fryer' (mdId=fc93f7cd-6edd-451d-8dd8-5a5f3c05857b)
-❌ Failed POST for I Chef Smart Air Fryer: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Smart Air Fryer) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Smart Air Fryer) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Smart Air Fryer) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=Tisva Architectural Lights, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'Tisva Architectural Lights' (mdId=6eec1ce4-50d5-4424-a4c7-c7584d4db6dd)
-❌ Failed POST for Tisva Architectural Lights: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Tisva Architectural Lights) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Tisva Architectural Lights) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, Tisva Architectural Lights) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=I Chef Blender Heater, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'I Chef Blender Heater' (mdId=909d4c5e-eb47-43c6-9774-2e6d256cf02f)
-❌ Failed POST for I Chef Blender Heater: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Blender Heater) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Blender Heater) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Blender Heater) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Usha International, Brand=I Chef Steam Oven, Category=HOME APPLIANCES
-   ✅ Matched brand exactly: 'I Chef Steam Oven' (mdId=b6418c25-77a9-4576-8756-6be4ca188fdf)
-❌ Failed POST for I Chef Steam Oven: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Steam Oven) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Steam Oven) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 21911042-8ace-4c42-9007-23575655b999, 4, I Chef Steam Oven) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Vivo, Brand=Vivo Smart Phones, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'Vivo Smart Phones' (mdId=b565c5e6-704a-44d9-90d7-c6b5530d8d80)
-❌ Failed POST for Vivo Smart Phones: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo Smart Phones) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo Smart Phones) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo Smart Phones) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Vivo, Brand=Vivo X60, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'Vivo X60' (mdId=618c5293-6543-4477-b246-b714f379372e)
-❌ Failed POST for Vivo X60: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X60) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X60) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X60) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Vivo, Brand=Vivo V40 Series, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'Vivo V40 Series' (mdId=f86da973-69fb-48b7-9591-af68c7ee77cf)
-❌ Failed POST for Vivo V40 Series: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V40 Series) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V40 Series) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V40 Series) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Vivo, Brand=Vivo X200 Series, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'Vivo X200 Series' (mdId=83e2b63b-f806-471a-bd69-abe90b0e690d)
-❌ Failed POST for Vivo X200 Series: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X200 Series) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X200 Series) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo X200 Series) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Vivo, Brand=Vivo V50 Series, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'Vivo V50 Series' (mdId=70717e7d-c6f8-4338-858a-06ba438ef683)
-❌ Failed POST for Vivo V50 Series: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V50 Series) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V50 Series) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12, 4, Vivo V50 Series) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Way2News, Brand=Way2News App, Category=ENTERTAINMENT & MEDIA
-   ✅ Matched brand exactly: 'Way2News App' (mdId=c7af8b3d-a530-420c-94e8-88b5fc4108de)
-❌ Failed POST for Way2News App: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b0a6c02e-b3ad-4a08-baa6-eb796935851f, 4, Way2News App) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b0a6c02e-b3ad-4a08-baa6-eb796935851f, 4, Way2News App) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b0a6c02e-b3ad-4a08-baa6-eb796935851f, 4, Way2News App) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Zee Entertainment , Brand=Zee5, Category=ENTERTAINMENT & MEDIA
-   ✅ Matched brand exactly: 'Zee5' (mdId=1d2544d7-67db-4089-98c8-b82d31aa8d28)
-❌ Failed POST for Zee5: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Zee Entertainment , Brand=Zee5 Premium, Category=ENTERTAINMENT & MEDIA
-   ✅ Matched brand exactly: 'Zee5 Premium' (mdId=33c85586-4e73-4bdb-a338-417bff4950e1)
-❌ Failed POST for Zee5 Premium: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5 Premium) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5 Premium) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Zee5 Premium) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Zee Entertainment , Brand=Eduauraa, Category=EDUCATION
-   ✅ Matched brand exactly: 'Eduauraa' (mdId=bd22eb48-79d1-4e9f-bc47-6f79d8753799)
-❌ Failed POST for Eduauraa: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Eduauraa) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Eduauraa) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c3dafecd-9e82-4fdc-ac47-ff4909e38658, 4, Eduauraa) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hindware Limited, Brand=Hindware Italian Collection, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'Hindware Italian Collection' (mdId=65e95bdf-77a2-4edd-abe1-4c5cb880c772)
-❌ Failed POST for Hindware Italian Collection: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hindware Limited, Brand=Hindware Italian Collection Tiles, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Hindware Italian Collection Tiles' (mdId=1c932d1e-83fc-4f7c-9c1e-0e83807e506b)
-❌ Failed POST for Hindware Italian Collection Tiles: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection Tiles) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection Tiles) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Hindware Italian Collection Tiles) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Hindware Limited, Brand=Queo European Bath Lounges, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'Queo European Bath Lounges' (mdId=a26f6fc5-9f79-45ff-9237-04381620af40)
-❌ Failed POST for Queo European Bath Lounges: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Queo European Bath Lounges) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Queo European Bath Lounges) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 7e54d40d-0ea5-433e-b780-49d86f886417, 4, Queo European Bath Lounges) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICC, Brand=ICC, Category=SPORTS
-   ✅ Matched brand exactly: 'ICC' (mdId=7b536b1c-b43b-4bc5-92be-6c455f60b3b8)
-❌ Failed POST for ICC: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a540bf78-ac51-4335-967e-7569d5f20f7b, 4, ICC) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a540bf78-ac51-4335-967e-7569d5f20f7b, 4, ICC) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a540bf78-ac51-4335-967e-7569d5f20f7b, 4, ICC) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Imobile, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Imobile' (mdId=d89f9995-98dc-459d-88af-1e3c72057e23)
-❌ Failed POST for ICICI Bank Imobile: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICIBank Step Up Home Loans, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICIBank Step Up Home Loans' (mdId=ea93ec70-db03-4c7b-b14e-5cb7ea885c4f)
-❌ Failed POST for ICICIBank Step Up Home Loans: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIBank Step Up Home Loans) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIBank Step Up Home Loans) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIBank Step Up Home Loans) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Credit Cards, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Credit Cards' (mdId=281ff0ab-8681-45cb-b92d-1348e09c8f1e)
-❌ Failed POST for ICICI Bank Credit Cards: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Credit Cards) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Credit Cards) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Credit Cards) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Insta Biz, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Insta Biz' (mdId=830c9cbe-884c-4f75-8013-6a143b201667)
-❌ Failed POST for ICICI Bank Insta Biz: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Insta Biz) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Insta Biz) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Insta Biz) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank The One Savings A/C, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank The One Savings A/C' (mdId=baaba4a5-8c36-4c5b-a248-19f6a7cb8f21)
-❌ Failed POST for ICICI Bank The One Savings A/C: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank The One Savings A/C) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank The One Savings A/C) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank The One Savings A/C) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Digital Banking, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Digital Banking' (mdId=771b1f20-3ecf-4df5-beb4-a3f2c360d9be)
-❌ Failed POST for ICICI Bank Digital Banking: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Digital Banking) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Digital Banking) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Digital Banking) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Business Banking Digital Banking, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Business Banking Digital Banking' (mdId=2da4135b-9f9a-4d06-90ee-8cca39b2e0f1)
-❌ Failed POST for ICICI Bank Business Banking Digital Banking: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Business Banking Digital Banking) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Business Banking Digital Banking) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Business Banking Digital Banking) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Super Merchant Current Account, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Super Merchant Current Account' (mdId=7af8230d-bbb3-413d-86e3-70bb6855cad4)
-❌ Failed POST for ICICI Bank Super Merchant Current Account: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Super Merchant Current Account) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Super Merchant Current Account) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Super Merchant Current Account) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Imobile Pay, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Imobile Pay' (mdId=c020d136-a4aa-4e17-a52d-be13683e1981)
-❌ Failed POST for ICICI Bank Imobile Pay: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile Pay) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile Pay) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Imobile Pay) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank' (mdId=21011fbc-8dfa-4df0-a2bc-b80762e47fd9)
-❌ Failed POST for ICICI Bank: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Bank Loan Against Gold, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Bank Loan Against Gold' (mdId=6eac9850-a9c1-46db-b4d4-7b879bdd3815)
-❌ Failed POST for ICICI Bank Loan Against Gold: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Loan Against Gold) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Loan Against Gold) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Bank Loan Against Gold) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Lombard General Insurance, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Lombard General Insurance' (mdId=58a99575-f4ac-4db2-b58b-0deefa9111b4)
-❌ Failed POST for ICICI Lombard General Insurance: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard General Insurance) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard General Insurance) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard General Insurance) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Lombard Elevate, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Lombard Elevate' (mdId=281a01c7-2dcf-424d-8780-9cbb43218949)
-❌ Failed POST for ICICI Lombard Elevate: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard Elevate) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard Elevate) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Lombard Elevate) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Prudential Mutual Fund, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Prudential Mutual Fund' (mdId=557b49f1-7baa-4c8d-ac7d-a534fa746f93)
-❌ Failed POST for ICICI Prudential Mutual Fund: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Mutual Fund) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Mutual Fund) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Mutual Fund) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICI Prudential Life Insurance, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICI Prudential Life Insurance' (mdId=aba3f9a4-7e25-4f03-8cfe-a83ae9af548a)
-❌ Failed POST for ICICI Prudential Life Insurance: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Life Insurance) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Life Insurance) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICI Prudential Life Insurance) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=ICICI, Brand=ICICIdirect.Com, Category=FINANCE
-   ✅ Matched brand exactly: 'ICICIdirect.Com' (mdId=db4bd921-6768-4295-8577-9eb2195494c5)
-❌ Failed POST for ICICIdirect.Com: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIdirect.Com) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIdirect.Com) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, ae296bdb-c85c-4783-afe2-923d56f2d9d0, 4, ICICIdirect.Com) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Group, Category=ORGANIZATIONS & ASSOCIATIONS
-   ✅ Matched brand exactly: 'JSW Group' (mdId=1f5bc412-47ff-43be-bb6c-703976a2d5c6)
-❌ Failed POST for JSW Group: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Group) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Group) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Group) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Paints, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'JSW Paints' (mdId=750142cc-1d18-461f-b2fc-cd8732f6e886)
-❌ Failed POST for JSW Paints: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Halo Aquaglo, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'JSW Halo Aquaglo' (mdId=d6222efa-157c-453d-89ee-0545bed5afaf)
-❌ Failed POST for JSW Halo Aquaglo: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Halo Aquaglo) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Halo Aquaglo) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Halo Aquaglo) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Paints Pixa, Category=HOUSEHOLD ITEMS
-   ✅ Matched brand exactly: 'JSW Paints Pixa' (mdId=54ccfd63-4e7f-4ccb-9df3-f054041219bc)
-❌ Failed POST for JSW Paints Pixa: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints Pixa) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints Pixa) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Paints Pixa) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Colouron+, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'JSW Colouron+' (mdId=5be7efb3-a5e6-4aab-9e21-25b0acbf0c14)
-❌ Failed POST for JSW Colouron+: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Colouron+) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Colouron+) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Colouron+) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=JSW Group, Brand=JSW Neosteel, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'JSW Neosteel' (mdId=91d6078b-f32c-4582-99dd-c8b4d86b047b)
-❌ Failed POST for JSW Neosteel: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Neosteel) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Neosteel) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3aa9b309-5b2f-49de-abb1-702763b1fbbc, 4, JSW Neosteel) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Cheese Volcano, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Cheese Volcano' (mdId=be9ccda1-4346-4f73-840a-6d8be251a54e)
-❌ Failed POST for Dominos Cheese Volcano: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Volcano) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Volcano) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Volcano) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Cheesiken, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Cheesiken' (mdId=ca54eb8f-7f9e-4c71-9c55-550e79f8b59b)
-❌ Failed POST for Dominos Cheesiken: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheesiken) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheesiken) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheesiken) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Pizza, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Pizza' (mdId=68a0d887-69fb-49f8-804e-6d1e3da44389)
-❌ Failed POST for Dominos Pizza: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Pizza) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Pizza) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Pizza) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Cheese Burst Pizza, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Cheese Burst Pizza' (mdId=0dd4d426-39ab-4523-b923-f1c98f7c7b7b)
-❌ Failed POST for Dominos Cheese Burst Pizza: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Burst Pizza) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Burst Pizza) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Cheese Burst Pizza) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Chicken Feast, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Chicken Feast' (mdId=2bf28a81-04cc-40f0-a60c-85b7d4656260)
-❌ Failed POST for Dominos Chicken Feast: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Chicken Feast) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Chicken Feast) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Chicken Feast) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Jubilant Foodworks, Brand=Dominos Big Big 6 In 1 Pizza, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Dominos Big Big 6 In 1 Pizza' (mdId=4144a006-a956-4ae6-a305-c49293fe1f73)
-❌ Failed POST for Dominos Big Big 6 In 1 Pizza: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Big Big 6 In 1 Pizza) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Big Big 6 In 1 Pizza) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3fcbbf2e-73ac-49a6-a677-039a455dc95b, 4, Dominos Big Big 6 In 1 Pizza) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Corn Flakes Brownie Delite, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Corn Flakes Brownie Delite' (mdId=bc69e80f-e381-4b0c-a6a5-39815c76d00a)
-❌ Failed POST for Kelloggs Corn Flakes Brownie Delite: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes Brownie Delite) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes Brownie Delite) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes Brownie Delite) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Ragi Chocos          , Category=FOOD
-⚠️ Error: No exact brand named 'Kelloggs Ragi Chocos          ' found (case-insensitive). Top results: 
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Cf Real Almond & Honey, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Cf Real Almond & Honey' (mdId=49692e31-3229-41ae-9a17-097a1af9629e)
-❌ Failed POST for Kelloggs Cf Real Almond & Honey: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Cf Real Almond & Honey) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Cf Real Almond & Honey) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Cf Real Almond & Honey) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Muesli, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Muesli' (mdId=49c128ed-33ea-4227-8efc-acccf9c27e9d)
-❌ Failed POST for Kelloggs Muesli: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Chocos Fills, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Chocos Fills' (mdId=db9133eb-d0a6-4888-836b-ce771e03c48b)
-❌ Failed POST for Kelloggs Chocos Fills: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Fills) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Fills) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Fills) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Muesli Fruit And Nut, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Muesli Fruit And Nut' (mdId=3a41e72d-b4aa-4e2a-a974-b74dd57fc141)
-❌ Failed POST for Kelloggs Muesli Fruit And Nut: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit And Nut) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit And Nut) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit And Nut) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=CB-Kelloggs Corn Flakes-Gold The Dream That United, Category=FOOD
-   ✅ Matched brand exactly: 'CB-Kelloggs Corn Flakes-Gold The Dream That United' (mdId=f126a244-7215-465a-b415-a2d2bdbac9c2)
-❌ Failed POST for CB-Kelloggs Corn Flakes-Gold The Dream That United: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold The Dream That United) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold The Dream That United) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold The Dream That United) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=CB-Kelloggs Corn Flakes-Gold-The Dream That United, Category=FOOD
-   ✅ Matched brand exactly: 'CB-Kelloggs Corn Flakes-Gold-The Dream That United' (mdId=cae369ea-291d-4ff7-8c86-a7ccb5fcbbad)
-❌ Failed POST for CB-Kelloggs Corn Flakes-Gold-The Dream That United: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold-The Dream That United) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold-The Dream That United) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, CB-Kelloggs Corn Flakes-Gold-The Dream That United) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Chocos Chhota Laddoo, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Chocos Chhota Laddoo' (mdId=b0829214-da66-4281-9a4f-8114bce290c0)
-❌ Failed POST for Kelloggs Chocos Chhota Laddoo: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Chhota Laddoo) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Chhota Laddoo) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Chhota Laddoo) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Granola Almonds & Cranberries, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Granola Almonds & Cranberries' (mdId=a1a51c98-b686-47a1-8570-31e799a8a79d)
-❌ Failed POST for Kelloggs Granola Almonds & Cranberries: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Granola Almonds & Cranberries) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Granola Almonds & Cranberries) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Granola Almonds & Cranberries) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Chocos Webs, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Chocos Webs' (mdId=8beee287-f1ef-46b0-bf01-a9c4d03eaeac)
-❌ Failed POST for Kelloggs Chocos Webs: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Webs) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Webs) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Webs) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Chocos Magic Hearts, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Chocos Magic Hearts' (mdId=c84ca95a-3591-457e-9a63-f3fb767bd3f8)
-❌ Failed POST for Kelloggs Chocos Magic Hearts: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Magic Hearts) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Magic Hearts) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos Magic Hearts) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Muesli Fruit Nut And Seeds, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Muesli Fruit Nut And Seeds' (mdId=441daf26-6bf8-45d9-abd7-3738490108cf)
-❌ Failed POST for Kelloggs Muesli Fruit Nut And Seeds: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit Nut And Seeds) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit Nut And Seeds) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Muesli Fruit Nut And Seeds) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Chocos, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Chocos' (mdId=fc8847c6-07bb-41d1-a2b5-a279ebc0619e)
-❌ Failed POST for Kelloggs Chocos: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Chocos) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Corn Flakes, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Corn Flakes' (mdId=ebe669da-5630-41a7-93d6-9d252c3a667b)
-❌ Failed POST for Kelloggs Corn Flakes: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Corn Flakes/Chocos, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Corn Flakes/Chocos' (mdId=7e0f83fe-e029-4d2c-9988-251d0a2cdd01)
-❌ Failed POST for Kelloggs Corn Flakes/Chocos: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes/Chocos) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes/Chocos) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Corn Flakes/Chocos) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Kellogg's, Brand=Kelloggs Multigrain Chocos, Category=FOOD
-   ✅ Matched brand exactly: 'Kelloggs Multigrain Chocos' (mdId=5d85fdf3-0534-43cb-a143-2d52ec074f13)
-❌ Failed POST for Kelloggs Multigrain Chocos: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Multigrain Chocos) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Multigrain Chocos) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 3c1c5251-3b00-4f5b-b342-4944833d0403, 4, Kelloggs Multigrain Chocos) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=KFC, Brand=KFC, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'KFC' (mdId=d1cfbc8c-1b7b-4312-beb6-c43a9144f876)
-❌ Failed POST for KFC: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f9b400de-5e8b-40fd-ac6a-4b3630068d8f, 4, KFC) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f9b400de-5e8b-40fd-ac6a-4b3630068d8f, 4, KFC) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, f9b400de-5e8b-40fd-ac6a-4b3630068d8f, 4, KFC) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=KFC, Brand=KFC Chicken Burger, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'KFC Chicken Burger' (mdId=1f48b719-df87-438f-8a33-ba7eeb7cf842)
-✅ Created Org Unit for Brand 'KFC Chicken Burger' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: 97ed24ee-9666-4ea8-882e-49675ddac1cf
-
-🚀 Processing: Market=India, Client=KFC, Brand=KFC Popcorn Chicken, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'KFC Popcorn Chicken' (mdId=6cb8f63a-29f0-4927-a3ce-1e831d8ad042)
-✅ Created Org Unit for Brand 'KFC Popcorn Chicken' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: 5ba9c265-946c-4453-9b9f-3bd007b7a869
-
-🚀 Processing: Market=India, Client=KFC, Brand=KFC Boneless Range, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'KFC Boneless Range' (mdId=a0e0c325-a810-43c6-812d-5cbc5e6f638d)
-✅ Created Org Unit for Brand 'KFC Boneless Range' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: c007d0f9-1777-4544-ab85-fb7d50ae493c
-
-🚀 Processing: Market=India, Client=Lifestyle International, Brand=CB-Max Retail-Bolo Dugga Maiki, Category=RETAIL
-   ✅ Matched brand exactly: 'CB-Max Retail-Bolo Dugga Maiki' (mdId=c48142a3-e068-4a14-bae7-4371eb569b7f)
-❌ Failed POST for CB-Max Retail-Bolo Dugga Maiki: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, CB-Max Retail-Bolo Dugga Maiki) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, CB-Max Retail-Bolo Dugga Maiki) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, CB-Max Retail-Bolo Dugga Maiki) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Lifestyle International, Brand=Max Avengers Collection, Category=RETAIL
-   ✅ Matched brand exactly: 'Max Avengers Collection' (mdId=5b4adb3b-1cb7-4bd6-bb4c-ca06d9e8c551)
-❌ Failed POST for Max Avengers Collection: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Max Avengers Collection) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Max Avengers Collection) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Max Avengers Collection) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Lifestyle International, Brand=Max, Category=RETAIL
-⚠️ Error: Multiple brands named 'Max' found. Please disambiguate. Candidates: max (id=0cd61270-909d-46ba-9174-bf46d14376e0), MAX (id=50986c93-9dde-4bee-9a6c-094be0d662dc)
-
-🚀 Processing: Market=India, Client=Lifestyle International, Brand=Home Centre (Landmark Online India), Category=RETAIL
-   ✅ Matched brand exactly: 'Home Centre (Landmark Online India)' (mdId=a8223e57-55b3-408f-ac84-c1cbf446f88e)
-❌ Failed POST for Home Centre (Landmark Online India): 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Home Centre (Landmark Online India)) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Home Centre (Landmark Online India)) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 56137a66-b1a5-4e54-ad7d-2c0c0b6149dd, 4, Home Centre (Landmark Online India)) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Wagonr, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Wagonr' (mdId=8873efa5-285d-44e5-9513-67d3e4847830)
-❌ Failed POST for Maruti Suzuki Wagonr: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Wagonr) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Wagonr) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Wagonr) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Alto K10, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Alto K10' (mdId=a92a6f6e-b8b3-47e8-ac99-df1d6858b3a6)
-❌ Failed POST for Maruti Suzuki Alto K10: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Alto K10) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Alto K10) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Alto K10) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Brezza, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Brezza' (mdId=b2be8412-8df1-48bf-a86a-168f3f5bb123)
-❌ Failed POST for Maruti Suzuki Brezza: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Jimny, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Jimny' (mdId=66dc2530-9f3f-43e3-88db-3d079e89f725)
-❌ Failed POST for Maruti Suzuki Jimny: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Jimny) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Jimny) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Jimny) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Swift, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Swift' (mdId=16f119d3-4498-497f-af06-8464741b973a)
-❌ Failed POST for Maruti Suzuki Swift: 400 {"error":"Server error '502 Bad Gateway' for url 'https://alpha-zulu-prd-one.os.wpp.com/api/v20/accounts/query'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502"}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Brezza Black Edition, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Brezza Black Edition' (mdId=5481c230-3280-4dda-abb2-724b955a96c7)
-❌ Failed POST for Maruti Suzuki Brezza Black Edition: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza Black Edition) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza Black Edition) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Brezza Black Edition) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Hybrid Cars, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Hybrid Cars' (mdId=6c1fe161-39db-4db2-8cbd-a5e9b60a5f5c)
-❌ Failed POST for Maruti Suzuki Hybrid Cars: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Hybrid Cars) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Hybrid Cars) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Hybrid Cars) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Fronx, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Fronx' (mdId=267b4780-25a3-4e40-9dc2-ff4fccfe7a4c)
-❌ Failed POST for Maruti Suzuki Fronx: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Fronx) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Fronx) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Fronx) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki E Vitara, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki E Vitara' (mdId=ef82419f-dd66-42f9-9640-37847cb098e2)
-❌ Failed POST for Maruti Suzuki E Vitara: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki E Vitara) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki E Vitara) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki E Vitara) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Arena, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Arena' (mdId=26722433-e99a-4f13-91ab-62b36684f231)
-❌ Failed POST for Maruti Suzuki Arena: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Arena) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Arena) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Arena) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki True Value, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki True Value' (mdId=a67b6cc6-f1e7-44ce-8064-b878065da97f)
-❌ Failed POST for Maruti Suzuki True Value: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki True Value) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki True Value) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki True Value) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Super Carry, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Super Carry' (mdId=5d3f8d0b-2db5-429a-ab8c-99b45941c5d9)
-❌ Failed POST for Maruti Suzuki Super Carry: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Super Carry) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Super Carry) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Super Carry) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki Dzire, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki Dzire' (mdId=b4826a63-a0f1-4d27-9fef-9c7bf31c6b31)
-❌ Failed POST for Maruti Suzuki Dzire: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Dzire) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Dzire) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki Dzire) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Maruti Suzuki The Advanced Grand Vitara, Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Maruti Suzuki The Advanced Grand Vitara' (mdId=2eba35f7-8a60-4d8f-9783-f65a59f12047)
-❌ Failed POST for Maruti Suzuki The Advanced Grand Vitara: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki The Advanced Grand Vitara) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki The Advanced Grand Vitara) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Maruti Suzuki The Advanced Grand Vitara) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Maruti Suzuki India Limited, Brand=Nexa (Maruti Suzuki), Category=AUTOMOTIVE
-   ✅ Matched brand exactly: 'Nexa (Maruti Suzuki)' (mdId=bdfeb0c2-0d4e-4294-ba07-39a7215def5f)
-❌ Failed POST for Nexa (Maruti Suzuki): 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Nexa (Maruti Suzuki)) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Nexa (Maruti Suzuki)) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 66d39897-2d9d-4de9-a3df-c4b357acd067, 4, Nexa (Maruti Suzuki)) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Finance Interest Prepaid Loan, Category=FINANCE
-   ✅ Matched brand exactly: 'Muthoot Finance Interest Prepaid Loan' (mdId=9affa3ed-7ebe-46a9-99a4-22c162a07340)
-❌ Failed POST for Muthoot Finance Interest Prepaid Loan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Interest Prepaid Loan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Interest Prepaid Loan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Interest Prepaid Loan) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=TP Muthoot Finance, Category=FINANCE
-   ✅ Matched brand exactly: 'TP Muthoot Finance' (mdId=4226e905-ac9b-4d0b-9cba-42a2e331f458)
-❌ Failed POST for TP Muthoot Finance: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=TP Muthoot Finance Gold Loan, Category=FINANCE
-   ✅ Matched brand exactly: 'TP Muthoot Finance Gold Loan' (mdId=1a94ab14-9501-4ef2-8b86-7835ff109402)
-❌ Failed POST for TP Muthoot Finance Gold Loan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance Gold Loan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance Gold Loan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, TP Muthoot Finance Gold Loan) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Group-Corporate, Category=ORGANIZATIONS & ASSOCIATIONS
-   ✅ Matched brand exactly: 'Muthoot Group-Corporate' (mdId=37fc6825-74d2-41ab-84c6-1a8117c215f2)
-❌ Failed POST for Muthoot Group-Corporate: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Group-Corporate) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Group-Corporate) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Group-Corporate) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Financial Enterprises, Category=FINANCE
-   ✅ Matched brand exactly: 'Muthoot Financial Enterprises' (mdId=4636937c-740f-4f7a-b33b-d3fa08246a17)
-❌ Failed POST for Muthoot Financial Enterprises: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Financial Enterprises) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Financial Enterprises) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Financial Enterprises) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Fincorp Loan Against Gold, Category=FINANCE
-   ✅ Matched brand exactly: 'Muthoot Fincorp Loan Against Gold' (mdId=c1b5190d-0829-4795-a4e2-b1162d75f0e1)
-❌ Failed POST for Muthoot Fincorp Loan Against Gold: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fincorp Loan Against Gold) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fincorp Loan Against Gold) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fincorp Loan Against Gold) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Finance Gold Unlocker, Category=FINANCE
-   ✅ Matched brand exactly: 'Muthoot Finance Gold Unlocker' (mdId=765a25dc-96c7-4339-be31-504fb4e4e837)
-❌ Failed POST for Muthoot Finance Gold Unlocker: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Gold Unlocker) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Gold Unlocker) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Finance Gold Unlocker) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Muthoot Finance, Brand=Muthoot Fin Loan Against Gold, Category=FINANCE
-   ✅ Matched brand exactly: 'Muthoot Fin Loan Against Gold' (mdId=8e5752c1-d96f-4139-919c-677d2443ad1a)
-❌ Failed POST for Muthoot Fin Loan Against Gold: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fin Loan Against Gold) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fin Loan Against Gold) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 33eba8a3-3a67-41b7-8130-9f2f247dbd21, 4, Muthoot Fin Loan Against Gold) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Nykaa , Brand=NYKAA, Category=FASHION
-   ✅ Matched brand exactly: 'NYKAA' (mdId=0d7e25ed-a0b4-4d8c-af23-ab63317168b2)
-❌ Failed POST for NYKAA: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c5c8b911-9c2c-4984-a7a7-922b558a4b93, 4, NYKAA) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c5c8b911-9c2c-4984-a7a7-922b558a4b93, 4, NYKAA) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c5c8b911-9c2c-4984-a7a7-922b558a4b93, 4, NYKAA) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO Smartphone, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO Smartphone' (mdId=aabdb82f-cb85-418e-9572-3d5650f3ae0e)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO Reno7 Series 5G, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO Reno7 Series 5G' (mdId=11d1162b-5a8b-4af0-8810-48fb714f0959)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO Reno8 Series 5G, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO Reno8 Series 5G' (mdId=dd0003cb-3f0a-4598-94ba-2fa99bff7f80)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO A77, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO A77' (mdId=e586ca79-3d53-4398-9997-06f26f15672e)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO Find N2 Flip, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO Find N2 Flip' (mdId=86d5e161-8872-420c-a0e5-5deb5a73649d)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Oppo, Brand=OPPO Reno10 Series 5G, Category=CONSUMER ELECTRONICS
-   ✅ Matched brand exactly: 'OPPO Reno10 Series 5G' (mdId=77723f3f-c5e5-4387-b01e-f71382bb43fa)
-⚠️ Error: Market 'India' with client 'Oppo' not found.
-
-🚀 Processing: Market=India, Client=Pizza Hut, Brand=Pizza Hut Melts, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Pizza Hut Melts' (mdId=1eb4d2e4-8e20-43af-a361-b6cb8686ff88)
-✅ Created Org Unit for Brand 'Pizza Hut Melts' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: 33e22544-c916-4727-9399-4b9349659cbc
-
-🚀 Processing: Market=India, Client=Pizza Hut, Brand=Pizza Hut Momo Mia Pizza, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Pizza Hut Momo Mia Pizza' (mdId=a2dfd02d-60ab-4a6c-bcc3-06acc7371ed6)
-✅ Created Org Unit for Brand 'Pizza Hut Momo Mia Pizza' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: 4759958d-b66f-43cf-aa1b-5b19a02f9966
-
-🚀 Processing: Market=India, Client=Pizza Hut, Brand=Pizza Hut Juicylicious Pizzas, Category=RESTAURANTS
-   ✅ Matched brand exactly: 'Pizza Hut Juicylicious Pizzas' (mdId=dca9b41f-7427-49e8-a0d9-cff2e241e1c3)
-✅ Created Org Unit for Brand 'Pizza Hut Juicylicious Pizzas' under Market f9b400de-5e8b-40fd-ac6a-4b3630068d8f
-   ➡️ OrgUnit azId: d2588b58-4ffd-4df2-a84d-677109769cdf
-
-🚀 Processing: Market=India, Client=Prism Johnson, Brand=Johnson Maxgrip Anti-Skid Tiles, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Johnson Maxgrip Anti-Skid Tiles' (mdId=431b7a11-71ca-4055-b652-83db8736acf9)
-❌ Failed POST for Johnson Maxgrip Anti-Skid Tiles: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Maxgrip Anti-Skid Tiles) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Maxgrip Anti-Skid Tiles) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Maxgrip Anti-Skid Tiles) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Prism Johnson, Brand=Johnson Cool Roof Tiles, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Johnson Cool Roof Tiles' (mdId=b47c2d77-fc08-4ea8-b4e4-48e2eb0483d0)
-❌ Failed POST for Johnson Cool Roof Tiles: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Cool Roof Tiles) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Cool Roof Tiles) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9321067c-1f35-408c-b0f9-4b2e380d3cff, 4, Johnson Cool Roof Tiles) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Pulkit Metals, Brand=Pulkit Tmt Bars, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Pulkit Tmt Bars' (mdId=e68fdfef-efb5-4337-89b7-7f549de856e8)
-❌ Failed POST for Pulkit Tmt Bars: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4615386a-2cd6-4451-b8db-a13951e3396e, 4, Pulkit Tmt Bars) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4615386a-2cd6-4451-b8db-a13951e3396e, 4, Pulkit Tmt Bars) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4615386a-2cd6-4451-b8db-a13951e3396e, 4, Pulkit Tmt Bars) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Makemytrip, Brand=Redbus.In, Category=TRAVEL
-   ✅ Matched brand exactly: 'Redbus.In' (mdId=20cf1373-43bf-4a77-95d0-a3b2acdaab14)
-❌ Failed POST for Redbus.In: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Redbus.In) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Redbus.In) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 09294131-de64-46c5-95b8-fbbc8fd62fba, 4, Redbus.In) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=RKSV Securities , Brand=Upstox, Category=FINANCE
-   ✅ Matched brand exactly: 'Upstox' (mdId=4b81716a-0dba-4124-a1d1-78c24685ed6a)
-❌ Failed POST for Upstox: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1b11fa6d-fd8d-4299-960f-b6bcdd870f16, 4, Upstox) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1b11fa6d-fd8d-4299-960f-b6bcdd870f16, 4, Upstox) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1b11fa6d-fd8d-4299-960f-b6bcdd870f16, 4, Upstox) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Saint Gobain, Brand=Saint Gobain Gyproc, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Saint Gobain Gyproc' (mdId=c5e4f2e0-1660-41ef-9f81-5aed5dfeee44)
-❌ Failed POST for Saint Gobain Gyproc: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 39495928-38eb-4564-a750-ee63b7e334dd, 4, Saint Gobain Gyproc) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 39495928-38eb-4564-a750-ee63b7e334dd, 4, Saint Gobain Gyproc) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 39495928-38eb-4564-a750-ee63b7e334dd, 4, Saint Gobain Gyproc) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life' (mdId=a2ca0708-9d05-4238-8ea7-5090ae854a76)
-❌ Failed POST for SBI Life: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life Poorna Suraksha, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life Poorna Suraksha' (mdId=77e4b144-5633-4bcc-b889-87a9e9f99dbf)
-❌ Failed POST for SBI Life Poorna Suraksha: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Poorna Suraksha) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Poorna Suraksha) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Poorna Suraksha) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SP N18I Sbi Life Insurance Budget Highli, Category=ENTERTAINMENT & MEDIA
-   ✅ Matched brand exactly: 'SP N18I Sbi Life Insurance Budget Highli' (mdId=e3de7f62-275e-48bb-9749-1435be49b01d)
-❌ Failed POST for SP N18I Sbi Life Insurance Budget Highli: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SP N18I Sbi Life Insurance Budget Highli) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SP N18I Sbi Life Insurance Budget Highli) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SP N18I Sbi Life Insurance Budget Highli) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life Term Plan, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life Term Plan' (mdId=9ae5e937-7e1c-45c3-81d0-6d0b9472b0d6)
-❌ Failed POST for SBI Life Term Plan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Term Plan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Term Plan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Term Plan) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life Insurance Protection Plans, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life Insurance Protection Plans' (mdId=69bfe3cd-be26-416a-bd12-b4e3ea7ad988)
-❌ Failed POST for SBI Life Insurance Protection Plans: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Insurance Protection Plans) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Insurance Protection Plans) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Insurance Protection Plans) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life Eshield Next, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life Eshield Next' (mdId=b1340535-1677-4113-8581-03a9c31a8dac)
-❌ Failed POST for SBI Life Eshield Next: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Eshield Next) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Eshield Next) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Eshield Next) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SBI Life Insurance, Brand=SBI Life Smart Platina Supreme, Category=FINANCE
-   ✅ Matched brand exactly: 'SBI Life Smart Platina Supreme' (mdId=71e73c23-c5b0-40fe-ac23-4ea7c8f2cc9e)
-❌ Failed POST for SBI Life Smart Platina Supreme: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Smart Platina Supreme) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Smart Platina Supreme) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 1535687e-6a0c-4823-8c23-09ada03b14ca, 4, SBI Life Smart Platina Supreme) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Schneider Electric, Brand=Lauritz Knudsen Electrical & Automation, Category=ORGANIZATIONS & ASSOCIATIONS
-   ✅ Matched brand exactly: 'Lauritz Knudsen Electrical & Automation' (mdId=ad1f5152-dbe3-49e9-a3b1-d2e4838b1c15)
-❌ Failed POST for Lauritz Knudsen Electrical & Automation: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a1a8f859-aea0-4ec2-a75b-977c71e81ebb, 4, Lauritz Knudsen Electrical & Automation) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a1a8f859-aea0-4ec2-a75b-977c71e81ebb, 4, Lauritz Knudsen Electrical & Automation) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, a1a8f859-aea0-4ec2-a75b-977c71e81ebb, 4, Lauritz Knudsen Electrical & Automation) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Senco Gold, Brand=Senco Gold & Diamonds, Category=RETAIL
-   ✅ Matched brand exactly: 'Senco Gold & Diamonds' (mdId=377d1b98-d844-4d9a-9029-0f53e192fb61)
-❌ Failed POST for Senco Gold & Diamonds: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Senco Gold, Brand=Senco Gold & Diamonds Vivaha Collection, Category=RETAIL
-   ✅ Matched brand exactly: 'Senco Gold & Diamonds Vivaha Collection' (mdId=7bcff9fa-fba4-424b-8a57-12a8a0a77d41)
-❌ Failed POST for Senco Gold & Diamonds Vivaha Collection: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds Vivaha Collection) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds Vivaha Collection) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold & Diamonds Vivaha Collection) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Senco Gold, Brand=Senco Gold Aham Collection, Category=RETAIL
-   ✅ Matched brand exactly: 'Senco Gold Aham Collection' (mdId=527b5717-a972-454a-a9d2-f7e17404b471)
-❌ Failed POST for Senco Gold Aham Collection: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold Aham Collection) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold Aham Collection) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4c3321f5-0e1e-4182-8899-701bad29be89, 4, Senco Gold Aham Collection) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=SG Mart, Brand=APL Apollo Sg Tmt, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'APL Apollo Sg Tmt' (mdId=58b29d55-dbd4-4c3e-a02e-618819f2a2d3)
-❌ Failed POST for APL Apollo Sg Tmt: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6798190d-b9fb-4c36-a312-d4504bbfbb35, 4, APL Apollo Sg Tmt) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6798190d-b9fb-4c36-a312-d4504bbfbb35, 4, APL Apollo Sg Tmt) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 6798190d-b9fb-4c36-a312-d4504bbfbb35, 4, APL Apollo Sg Tmt) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Shree Cement, Brand=Bangur Power Cement, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Bangur Power Cement' (mdId=9cfb8f73-b998-4673-8434-c4f80f112942)
-❌ Failed POST for Bangur Power Cement: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Power Cement) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Power Cement) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Power Cement) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Shree Cement, Brand=Bangur Cement, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Bangur Cement' (mdId=bd0c7961-d80a-4dbb-83c3-85982a61d6fb)
-❌ Failed POST for Bangur Cement: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Cement) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Cement) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 53c79096-9342-4f58-b8cd-83a3689f1b79, 4, Bangur Cement) already exists","object_id":null}
-
-🚀 Processing: Market=India, Client=Skipper, Brand=Skipper Pipes, Category=REAL ESTATE
-   ✅ Matched brand exactly: 'Skipper Pipes' (mdId=b31f676d-1674-4abb-a75c-20ef349f2e70)
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Accmart, Category=Automotive
+   ✅ Matched brand exactly: 'Accmart' (mdId=f60474b0-5303-48a5-b64d-e7b7cd5dd8a6)
+✅ Created Org Unit for Brand 'Accmart' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: c9426230-f38d-4683-a7fa-dc112c8f97be
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Auto Hub, Category=Automotive
+   ✅ Matched brand exactly: 'Auto Hub' (mdId=c1bbdb26-52d4-4764-8252-09f301cbaca0)
+✅ Created Org Unit for Brand 'Auto Hub' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: e3aa532d-c597-45fb-b97b-a6c3716bc62d
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Claas, Category=Automotive
+   ✅ Matched brand exactly: 'Claas' (mdId=199775aa-2a8c-4ee0-848e-60e461d3dac2)
+✅ Created Org Unit for Brand 'Claas' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: fccf05f1-25cd-4058-86ae-0bbc8d36a254
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Datz, Category=Automotive
+   ✅ Matched brand exactly: 'Datz' (mdId=7a692a1a-22b4-44bf-bbe6-ca0984813c75)
+✅ Created Org Unit for Brand 'Datz' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 1373bd8d-8797-4eaf-bb14-955158239fdc
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Agri, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Agri' (mdId=74975928-47d3-4191-befe-078168a8b556)
+✅ Created Org Unit for Brand 'Dimo Agri' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 1658b786-be98-4e62-a998-71904391ebee
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Auto Parts, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Auto Parts' (mdId=e9d5db1d-16c7-4efc-af3e-7745c2972f9a)
+✅ Created Org Unit for Brand 'Dimo Auto Parts' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: b4d536fe-f3ea-41b1-8a76-fff78d13dbb2
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Autolab, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Autolab' (mdId=3962328f-7bf9-4add-a6f9-b256305955c4)
+✅ Created Org Unit for Brand 'Dimo Autolab' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 763a4f28-3141-42e1-a401-65715dc841f9
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Automotive, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Automotive' (mdId=d2be8ca9-619f-45b6-b6f8-d4735c75d331)
+✅ Created Org Unit for Brand 'Dimo Automotive' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 729bdf82-1380-4289-97d7-ff093b38f303
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Black & Deker Hm Applicances, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Black & Deker Hm Applicances' (mdId=7f387c47-7ec7-460f-a719-134f6e5a9013)
+✅ Created Org Unit for Brand 'Dimo Black & Deker Hm Applicances' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 7bc22e31-acf1-49de-baa7-395f1a253a63
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Harvesters, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Harvesters' (mdId=52faa858-8f31-4bfd-84da-40d239aaf75c)
+✅ Created Org Unit for Brand 'Dimo Harvesters' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 76fb66de-ce73-41ba-a3f3-f0f7fee7c09b
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Lubricant, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Lubricant' (mdId=e00d5793-8f18-44b0-bc5d-c691d0e44e0b)
+✅ Created Org Unit for Brand 'Dimo Lubricant' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 9ed9ba30-853c-4e3d-ae3e-a8aa82ad34ee
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Lumin Bulb, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Lumin Bulb' (mdId=9e1b2b68-6679-499f-a413-1abef288b6ed)
+✅ Created Org Unit for Brand 'Dimo Lumin Bulb' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: ed8951b6-ee93-4981-98d4-13d67ca694cf
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Rane Break Pad, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Rane Break Pad' (mdId=a2fee70e-9b24-4693-911e-b080600b09b6)
+✅ Created Org Unit for Brand 'Dimo Rane Break Pad' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 049226e5-9b34-466b-816b-4e56be6b4a48
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Retailer, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Retailer' (mdId=f1af7603-0d9b-4b03-801e-da14cc71e520)
+✅ Created Org Unit for Brand 'Dimo Retailer' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: df49cd08-b951-4eeb-b642-79813e450b27
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Seeds, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo Seeds' (mdId=76afaf79-4cdc-47aa-af9e-7aa138c6fe39)
+✅ Created Org Unit for Brand 'Dimo Seeds' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: b8f07952-e197-4d10-8409-8e73ac077525
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo WD 40, Category=Automotive
+   ✅ Matched brand exactly: 'Dimo WD 40' (mdId=bba88b17-ac0f-459f-bbee-d74a351ff2d0)
+✅ Created Org Unit for Brand 'Dimo WD 40' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 0c51274d-e1f2-42d9-80ef-57df764c95b2
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=DME Bata, Category=Automotive
+   ✅ Matched brand exactly: 'DME Bata' (mdId=b2fade58-21d8-430f-91e0-8c4484f04b65)
+✅ Created Org Unit for Brand 'DME Bata' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: baaef3bf-9d58-49f9-b049-ab0e40381401
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dmecorp, Category=Automotive
+   ✅ Matched brand exactly: 'Dmecorp' (mdId=9d478775-8834-4469-be8a-04f85f3d299a)
+✅ Created Org Unit for Brand 'Dmecorp' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 7880a9fe-8ceb-472f-b23b-a9c3f667d57b
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Ferri Car Care, Category=Automotive
+   ✅ Matched brand exactly: 'Ferri Car Care' (mdId=feb88536-c44f-4310-ba21-a8d439ea8972)
+✅ Created Org Unit for Brand 'Ferri Car Care' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 4dd72ad9-2dde-46f0-9c13-c5175e5029c9
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Graphenstone, Category=Automotive
+   ✅ Matched brand exactly: 'Graphenstone' (mdId=23444f96-ca40-4ad7-ae43-af485a6211ec)
+✅ Created Org Unit for Brand 'Graphenstone' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 02244781-d680-45a4-aa6f-a58b3fabac26
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Jeep, Category=Automotive
+   ✅ Matched brand exactly: 'Jeep' (mdId=9e6cc13d-2996-43b0-9bdf-11db10db2626)
+✅ Created Org Unit for Brand 'Jeep' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: f616cabb-37c7-4de6-b65c-38766037d463
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Kumho, Category=Automotive
+   ✅ Matched brand exactly: 'Kumho' (mdId=329739d5-ba16-48f1-a950-98f23f8122d9)
+✅ Created Org Unit for Brand 'Kumho' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 70d63a7f-39fa-4496-9575-a5d8046258fd
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Lovol, Category=Automotive
+   ✅ Matched brand exactly: 'Lovol' (mdId=dd6605d8-ac6f-4334-9efb-39b0eaadf3f6)
+✅ Created Org Unit for Brand 'Lovol' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: f53f6cd1-3f5d-4aff-afae-fad986bab1b3
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Mahindra Yuvo Tractor, Category=Automotive
+   ✅ Matched brand exactly: 'Mahindra Yuvo Tractor' (mdId=7f8740ce-e43b-4520-84ad-2c7166a6b66a)
+✅ Created Org Unit for Brand 'Mahindra Yuvo Tractor' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 2b7da048-c0b5-404c-806d-122e01c6b30e
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Mercedes Benz, Category=Automotive
+   ✅ Matched brand exactly: 'Mercedes Benz' (mdId=6de51b60-7186-4993-86c5-4a1c8eca5fb3)
+✅ Created Org Unit for Brand 'Mercedes Benz' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 8145bb8b-6802-47bf-96f8-d587f343a597
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Michelin, Category=Automotive
+   ✅ Matched brand exactly: 'Michelin' (mdId=d9a5c714-34e2-4198-a60e-44527909c1b2)
+✅ Created Org Unit for Brand 'Michelin' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 63ac7057-7b18-42c4-b856-d175f858d7d8
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Pick My Load, Category=Automotive
+   ✅ Matched brand exactly: 'Pick My Load' (mdId=ed58df6d-e2e3-494b-ba7e-da7f17d79d93)
+✅ Created Org Unit for Brand 'Pick My Load' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 8f467d35-9bd9-46da-a826-6d4df2da9d05
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Rane, Category=Automotive
+   ✅ Matched brand exactly: 'Rane' (mdId=a0a46e5b-68f6-4567-b2d6-1568d30eaa91)
+✅ Created Org Unit for Brand 'Rane' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 040b3c12-9d78-4c3f-8ca5-7e6b06d62836
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Sprinter, Category=Automotive
+   ✅ Matched brand exactly: 'Sprinter' (mdId=061a5230-762c-4c26-ae2f-6067c4a197c9)
+✅ Created Org Unit for Brand 'Sprinter' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: e21625d1-64a4-48a8-971d-039dcaf5d79c
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Swaraj Tractors, Category=Automotive
+   ✅ Matched brand exactly: 'Swaraj Tractors' (mdId=a65104a7-61ba-490d-bc15-00b56b5149e1)
+✅ Created Org Unit for Brand 'Swaraj Tractors' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: be2eefa7-9676-4410-b50f-39540ab04dd0
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Tata, Category=Automotive
+   ✅ Matched brand exactly: 'Tata' (mdId=76129c38-05f2-47c9-abc4-ea5ebbab474b)
+✅ Created Org Unit for Brand 'Tata' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 645fdc7c-3b17-41a8-83a3-e41b74b1a534
+
+🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Tata Yodha, Category=Automotive
+   ✅ Matched brand exactly: 'Tata Yodha' (mdId=343d5fcb-a04c-4ec6-851b-664de43dffd6)
+✅ Created Org Unit for Brand 'Tata Yodha' under Market fa9cea99-f523-4913-b75e-283c3ef58828
+   ➡️ OrgUnit azId: 79e2d7ca-88df-4aa2-960a-ed06e85c7052

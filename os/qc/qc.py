@@ -167,7 +167,7 @@ def main():
         try:
             azid = resolve_brand_azid(nodes, market, client, brand, category)
             # Print input along with the brand azId
-            print(f"({market},{client},{brand},{category}): {azid}")
+            print(f"Found row({market},{client},{brand},{category}): {azid}")
         except Exception as e:
             # Keep stdout clean; errors go to stderr
             print(f"Error ({market},{client},{brand},{category}): {e}", file=sys.stderr)

@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 TENANT_ID = "4c039217-7d17-4207-8314-98348983718a"
 HIERARCHY_URL = f"https://media.os.wpp.com/api/v2/tenants/{TENANT_ID}/hierarchy-tree"
 
-INPUT_CSV = r"C:\Users\Azath.A\downloads\clients.csv"  # Must have header: Market,Client,Brand,Category
+INPUT_CSV = r"C:\Users\Azath.A\os\brand\input.csv"  # Must have header: Market,Client,Brand,Category
 ENV_PATH = r"C:\Users\Azath.A\os\auth.env"
 TIMEOUT = 30
 # ===================

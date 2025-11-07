@@ -66,7 +66,7 @@ resp.raise_for_status()
 hierarchy = resp.json().get("mapping", {})
 
 # --- 2. Fixed Market mdId
-market_md_id = "9a201dd4-fb11-4bd6-bca3-ef170652ce2b"
+market_md_id = "da260319-3381-4649-b568-f04b9692d005"
 
 # --- 3. Loop clients ---
 for client_name in client_names:

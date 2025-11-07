@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 # Config
 # --------------------
 TENANT_ID = "4c039217-7d17-4207-8314-98348983718a"
-TEMPLATE_ID = "271dc22b-ab65-4461-82fb-2dd923dc5ab0"
+TEMPLATE_ID = "271dc22b-ab65-4461-82fb-2dd923dc5ab0" #CG
 APPLY_URL = f"https://media.os.wpp.com/api/app-instances/templates/{TEMPLATE_ID}/apply/bulk"
 
 # App instances (unchanged)

@@ -1,34 +1,62 @@
 market,client,brand,category,error_message
-India,Daily Thanti,Daily Thanti,ENTERTAINMENT & MEDIA,Brand 'Daily Thanti' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Daily Thanti')
-India,Kellogg's,Kelloggs Ragi Chocos,FOOD,Brand 'Kelloggs Ragi Chocos' with category 'FOOD' not found under market 'India' (client 'Kellogg's')
-India,Kotak Mahindra,Kotak Mahindra 811 Ac,FINANCE,Brand 'Kotak Mahindra 811 Ac' with category 'FINANCE' not found under market 'India' (client 'Kotak Mahindra')
-India,Linkedin,Linkedin,ENTERTAINMENT & MEDIA,Brand 'Linkedin' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Linkedin')
-India,Mondel?z International,Cadburys 5 Star,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Celebrations,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Chocobakes Cakes,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Chocobakes Cookies,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Chocolate,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Crispello,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Lickables,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Silk,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Silk Desserts Brownie,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Dairy Milk Silk Heart Blush,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Fuse,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Gems,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Oreo,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Oreo Pokemon,FOOD,Client not found: Mondel?z International
-India,Mondel?z International,Cadburys Perk,FOOD,Client not found: Mondel?z International
-India,Mother Dairy,Mother Dairy,ORGANIZATIONS & ASSOCIATIONS,Brand 'Mother Dairy' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'Mother Dairy')
-India,Myntra,Myntra,FASHION,Brand 'Myntra' with category 'FASHION' not found under market 'India' (client 'Myntra')
-India,NPCI,NPCI,FINANCE,Brand 'NPCI' with category 'FINANCE' not found under market 'India' (client 'NPCI')
-India,Netflix,Netflix,ENTERTAINMENT & MEDIA,Brand 'Netflix' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Netflix')
-India,Nippon Paint,Nippon Paint,HOUSEHOLD ITEMS,Brand 'Nippon Paint' with category 'HOUSEHOLD ITEMS' not found under market 'India' (client 'Nippon Paint')
-India,Oppo,OPPO A77,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Oppo,OPPO Find N2 Flip,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Oppo,OPPO Reno10 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Oppo,OPPO Reno7 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Oppo,OPPO Reno8 Series 5G,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Oppo,OPPO Smartphone,CONSUMER ELECTRONICS,Client not found: Oppo
-India,Tata Play,Tata Play,ENTERTAINMENT & MEDIA,Brand 'Tata Play' with category 'ENTERTAINMENT & MEDIA' not found under market 'India' (client 'Tata Play')
-India,World Gold Council,World Gold Council,ORGANIZATIONS & ASSOCIATIONS,Brand 'World Gold Council' with category 'ORGANIZATIONS & ASSOCIATIONS' not found under market 'India' (client 'World Gold Council')
-India,Zydus Wellness,Everyuth Golden Glow Peel Off,PERSONAL CARE,Brand 'Everyuth Golden Glow Peel Off' with category 'PERSONAL CARE' not found under market 'India' (client 'Zydus Wellness')
+austria,Afro Coffee,Afro-Coffee,Drinks (non-alcoholic),Brand 'Afro-Coffee' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Afro Coffee')
+austria,Beijing Sankuai Online Technology Co. Ltd,Beijing Sankuai Online Technology Co. Ltd,Technology,Client not found: Beijing Sankuai Online Technology Co. Ltd
+austria,Bolton Group,Bolton,Food,Market 'austria' not found under client 'Bolton Group'
+austria,Bosch,Bosch,Home Appliances,Client not found: Bosch
+austria,Bosch,Gaggenau,Home Appliances,Client not found: Bosch
+austria,Bosch,Neff,Home Appliances,Client not found: Bosch
+austria,Bosch,Siemens,Home Appliances,Client not found: Bosch
+austria,Campari,Aperol,Drinks (alcoholic),Brand 'Aperol' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+austria,Campari,Averna,Drinks (alcoholic),Brand 'Averna' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+austria,Campari,Crodino,Drinks (alcoholic),Brand 'Crodino' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
+austria,Dr Oetker,Conditorei Coppenrath & Wiese KG,Food,Market 'austria' not found under client 'Dr Oetker'
+austria,Dr Oetker,Dr Oetker,Food,Market 'austria' not found under client 'Dr Oetker'
+austria,Dr Oetker,Henkell,Drinks (alcoholic),Market 'austria' not found under client 'Dr Oetker'
+austria,Duering AG,Duering,Home Appliances,Brand 'Duering' with category 'Home Appliances' not found under market 'austria' (client 'Duering AG')
+austria,Emmi,Emmi,Drinks (non-alcoholic),Brand 'Emmi' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Emmi')
+austria,FAIRTRADE Oesterreich,Immobilien Scout Oesterreich,Real Estate,Brand 'Immobilien Scout Oesterreich' with category 'Real Estate' not found under market 'austria' (client 'FAIRTRADE Oesterreich')
+austria,Ferrero,Ferrero,Food,Market 'austria' not found under client 'Ferrero'
+austria,Fressnapf,Fressnapf Handels,Pet Care,Market 'austria' not found under client 'Fressnapf'
+austria,H&M,H&M,Fashion,Market 'austria' not found under client 'H&M'
+austria,Hachette,Hachette,Entertainment & media,Market 'austria' not found under client 'Hachette'
+austria,Haribo,Haribo,Food,Market 'austria' not found under client 'Haribo'
+austria,Hofer,Hofer,Retail,Client not found: Hofer
+austria,Karriere.at,Karriere.at,Automotive,Client not found: Karriere.at
+austria,MSC Cruises,MSC,Travel,Brand 'MSC' with category 'Travel' not found under market 'austria' (client 'MSC Cruises')
+austria,Novo Nordisk,Novo Nordisk,Healthcare,Market 'austria' not found under client 'Novo Nordisk'
+austria,Oesterreichische Bundesbahn,OEBB,Travel,Brand 'OEBB' with category 'Travel' not found under market 'austria' (client 'Oesterreichische Bundesbahn')
+austria,Oesterreichische Bundesforste AG,Oesterr. Bundesforste,Organisations & associations,Brand 'Oesterr. Bundesforste' with category 'Organisations & associations' not found under market 'austria' (client 'Oesterreichische Bundesforste AG')
+austria,Peek & Cloppenburg,Peek & Cloppenburg,Fashion,Market 'austria' not found under client 'Peek & Cloppenburg'
+austria,REWE,ADEG,Retail,Market 'austria' not found under client 'REWE'
+austria,REWE,BILLA,Retail,Market 'austria' not found under client 'REWE'
+austria,REWE,BILLA Reisen,Travel,Market 'austria' not found under client 'REWE'
+austria,REWE,BIPA,Retail,Market 'austria' not found under client 'REWE'
+austria,REWE,Oe-Bonus Club,Retail,Market 'austria' not found under client 'REWE'
+austria,REWE,Penny,Retail,Market 'austria' not found under client 'REWE'
+austria,REWE,REWE Eigenmarken,Food,Market 'austria' not found under client 'REWE'
+austria,ROLEX,ROLEX,Jewellery,Market 'austria' not found under client 'ROLEX'
+austria,Red Bull,Red Bull,Drinks (non-alcoholic),Brand 'Red Bull' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Red Bull')
+austria,Sanova,Oekopharm,Healthcare,Brand 'Oekopharm' with category 'Healthcare' not found under market 'austria' (client 'Sanova')
+austria,Savencia,Savencia Fromage & Dairy,Food,Market 'austria' not found under client 'Savencia'
+austria,Sketchers,Sketchers,Fashion,Client not found: Sketchers
+austria,Spar,SPAR,Retail,Brand 'SPAR' with category 'Retail' not found under market 'austria' (client 'Spar')
+austria,TJX,TK Maxx,Restaurants,Market 'austria' not found under client 'TJX'
+austria,TUI,TUI Cruises,Travel,Market 'austria' not found under client 'TUI'
+austria,Technisches Museum Wien,Technisches Museum Wien,Entertainment & media,Client not found: Technisches Museum Wien
+austria,Teekane Holding GmbH,Teekanne,Drinks (non-alcoholic),Client not found: Teekane Holding GmbH
+austria,Tempur Sealy,Temper-Pedic/Sealy,Household Items,Client not found: Tempur Sealy
+austria,Thalia,Thalia,Retail,Market 'austria' not found under client 'Thalia'
+austria,Toyota,Toyota,Automotive,Market 'austria' not found under client 'Toyota'
+austria,UNIQA,UNIQA,Healthcare,Client not found: UNIQA
+austria,Unibail Rodamco,Donauzentrum,Retail,Client not found: Unibail Rodamco
+austria,Unibail Rodamco,Shopping City S d,Retail,Client not found: Unibail Rodamco
+austria,Unibail Rodamco,Unibail-Rodamco-Westfield,Retail,Client not found: Unibail Rodamco
+austria,Unicef,UNICEF,CHARITIES,Market 'austria' not found under client 'Unicef'
+austria,VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften,VOEIG,Organisations & associations,Brand 'VOEIG' with category 'Organisations & associations' not found under market 'austria' (client 'VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften')
+austria,Vierpfoten,Vierpfoten,CHARITIES,Client not found: Vierpfoten
+austria,WARNER BROS. Discovery,WARNER BROS. Discovery,Entertainment & media,Market 'austria' not found under client 'WARNER BROS. Discovery'
+austria,Wiener St dtische Versicherung,Wr. Staedtische,Finance,Client not found: Wiener St dtische Versicherung
+austria,Yakult,Yakult,Drinks (non-alcoholic),Brand 'Yakult' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Yakult')
+austria,ZEV - Nah&Frisch Marketingservice GmbH,Nah&Frisch,Retail,Client not found: ZEV - Nah&Frisch Marketingservice GmbH
+austria,dm drogerie markt,dm,Retail,Client not found: dm drogerie markt
+austria,oekostrom,oekostrom,Utilities,Client not found: oekostrom

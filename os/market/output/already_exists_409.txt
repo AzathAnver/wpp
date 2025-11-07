@@ -1,17 +1,4 @@
-Adyen
-American Airlines
-AXA
-Edrington
-Haribo
-Harley Davidson
-IBM
-Kyndryl
-Leo Palace
-Mondelēz International
-MSC Cruises
-New Zealand Government - Tourism NZ
-Novo Nordisk
-Royal Swinkels
-SK-II
-Volkswagen AG
-Xiaomi
+AIA
+Amante
+Associated Laboratories
+Associated Motor
