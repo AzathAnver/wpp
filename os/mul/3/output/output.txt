@@ -1,0 +1,128 @@
+🔧 Will process 52 row(s) from CSV: C:\Users\Azath.A\os\mul\3\clients.csv
+
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: Komplett (markets: Denmark, Norway, Sweden)
+   ✅ First assignmentId (client/brand): 59a95472-7465-4e23-95a5-de8778bf0189
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Denmark': 598a28df-356e-4e14-a0a6-867e9be1a9a8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Norway': c82a0e30-d77b-4312-876c-3857480a44b4
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Sweden': aec3581c-0989-49fb-8ab4-ee60eab8e673
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Koninklijke Gazelle (markets: Belgium)
+   ✅ First assignmentId (client/brand): 641044f2-b1da-447a-bfaf-5e03f9763fd8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 21a19564-3a34-4dba-9750-02b5e40eb7f0
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Korean Air (markets: Singapore)
+   ✅ First assignmentId (client/brand): e0b07146-e941-43c9-923a-2834b949b642
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Singapore': 46205ad8-96b9-459b-9026-eb6b4aec48ab
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kosmocar (markets: Greece)
+   ✅ First assignmentId (client/brand): 8c67b505-7d47-46ea-9644-92125c14b457
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Greece': 83fdbf79-fff5-4f72-9730-056fa5839488
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kotryna Group (markets: Lithuania)
+   ✅ First assignmentId (client/brand): 96869a05-361d-408f-8909-f73ae4bfc0ea
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Lithuania': 290c92fa-4401-4fe6-a80e-6fa02d62a7e7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: KPMG (markets: India)
+   ✅ First assignmentId (client/brand): c9232540-a8a9-46ba-9c00-f76bc9109af3
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 21fd0d74-be62-4415-b469-6abd00522253
+   ⚠️ Could not resolve market 'India' for 'KPMG': ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+— Processing client: Krafton Inc (markets: India)
+   ✅ First assignmentId (client/brand): 0a06a4fd-972d-469a-bfa1-7015a5f888e3
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 70b317ab-13f0-432b-81da-55c554250ba7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: KRBL (markets: India)
+   ✅ First assignmentId (client/brand): 18ac5dc0-a6aa-4815-b896-a63ccadfef2d
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': bd14fcee-5c51-4e6d-bba5-c3186fb4f4e2
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kreftforeningen (markets: Norway)
+   ✅ First assignmentId (client/brand): b690835b-8831-4062-aa59-4e104e8372ea
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Norway': 072ca7ae-35fe-4375-b787-5e1aa16865ea
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Krka (markets: Hungary, Slovakia)
+   ✅ First assignmentId (client/brand): b8b7b909-4434-45db-ab9f-02bbd2a4248e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hungary': 9a577bc8-bd06-45bf-a7c7-a1697ecf950a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Slovakia': 826d5c20-124b-4b49-8de1-da284d5864a8
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kronen Zeitung (markets: Austria)
+   ✅ First assignmentId (client/brand): 0a25497c-8f6c-46c8-8f28-8945d57572b1
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Austria': 55e4c1fd-d2a3-469b-992a-c62b27c972e3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kr ger (markets: Canada)
+   ⚠️ Client/Brand node not found for 'Kr ger'. Skipping.
+— Processing client: Kuber Mart Industries (markets: India)
+   ✅ First assignmentId (client/brand): d87272ac-5410-44e3-9420-80e31152ab2b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 970aedc8-29b2-4b9e-9f75-d77ea5150099
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Kumbara Dergisi (markets: Turkey)
+   ✅ First assignmentId (client/brand): 31254a47-3db5-4cf9-b5a6-68ebd7c1790e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Turkey': f3986151-8a88-4311-b941-791aa35d4aaa
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kushal'S Retail (markets: India)
+   ✅ First assignmentId (client/brand): edcbd729-20c8-43d9-9a8d-c487141c24f6
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': c2598e36-6440-4ef6-82d8-680c6f28b17c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kusmi Tea (markets: France)
+   ✅ First assignmentId (client/brand): 3a3d528b-552a-438b-84a6-e5a253aec6d9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': 4652fbbc-03ad-4560-aad4-8270ea410259
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kutchina Home Makers (markets: India)
+   ✅ First assignmentId (client/brand): 3081eb0a-28a4-455c-9735-86ed11af6834
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 81edf732-3cb7-489c-aeb0-63549750b246
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kuwait Finance House (markets: India)
+   ✅ First assignmentId (client/brand): 0e7d0d0a-d804-4c29-b2bd-36476b5d54c9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 4ca35d0c-7b93-4c3b-b01d-64ac202daea2
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kwai (markets: Colombia, Mexico)
+   ✅ First assignmentId (client/brand): 6790fce0-6d03-4d10-b85a-b80dd7231b25
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Colombia': f81092e9-f090-46e7-a640-3c91b24e0093
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Mexico': a1b6f5b4-5dbf-488e-a5ed-bbbd450d907b
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kwick Living (markets: India)
+   ✅ First assignmentId (client/brand): 4a479acb-104a-4c29-a4f8-fb36b505307a
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': beaf8f0d-6df7-48a5-800f-78d7a24ba742
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Kyndryl (markets: India)
+   ✅ First assignmentId (client/brand): 0b8600ff-047e-40b6-a51f-a3248db95dc6
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': aaa34129-733a-4e0b-b460-b9e2c05d1f72
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: L'Occitane (markets: France)
+   ✅ First assignmentId (client/brand): 011ebfe1-4f7b-4ee6-874b-1c3ef2d3b14b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': f5274a39-da3c-4a4c-8e68-9e4a7244e0be
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: L'Or al (markets: Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, China, Colombia, Croatia, Denmark, Ecuador, Estonia, France, Germany, Hungary, India, Indonesia, Italy, Kenya, Latvia, Lithuania, Malaysia, Mexico, Netherlands)
+   ⚠️ Client/Brand node not found for 'L'Or al'. Skipping.
+
+📊 Summary:
+   - Unique clients processed: 21
+   - Unique markets processed: 24
+   - Total rows in CSV: 52
+
+🏁 Done.

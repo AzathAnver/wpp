@@ -1,163 +1,109 @@
-Found row(austria,Action Service & Distribution BV,Action,Retail): 09c1edf5-8a34-43f6-9ade-08ab4b7b6cab
-Found row(austria,ACTUAL Fenster Tueren Sonnenschutz,ACTUAL Fenster Tueren Sonnenschutz,Home Appliances): bacb4e6c-ddf6-4fec-ad89-58e7c4fe3f88
-Found row(austria,ADLER-Werk Lackfabrik,Adler,Household Items): d92ccd2f-ee2a-42b0-b6c3-d4345b78f47a
-Error (austria,Afro Coffee,Afro-Coffee,Drinks (non-alcoholic)): Brand 'Afro-Coffee' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Afro Coffee')
-Found row(austria,Air Up,air up,Drinks (non-alcoholic)): 335ccd36-a59c-4a3c-91df-9d4bbba86f76
-Found row(austria,AkzoNobel,AkzoNobel Coating,Home Appliances): 5d619f05-8f67-434b-a2dd-0ebd151c7031
-Found row(austria,Amt der NOE Landesregierung,Amt der NOE LR,GOVERNMENT): 9ee1a503-90cf-4ab7-9111-dd9c6eef2630
-Found row(austria,Asset Management by froots,Asset Management,Finance): a944ded9-afa9-4018-9689-4446a0831e37
-Found row(austria,Be The Change Flexible Company,Be The Change Flexible Company,Entertainment & media): b20f6ba1-74d7-4b2a-a0ac-9a762ad1b97e
-Error (austria,Beijing Sankuai Online Technology Co. Ltd,Beijing Sankuai Online Technology Co. Ltd,Technology): Client not found: Beijing Sankuai Online Technology Co. Ltd
-Found row(austria,Bionorica,Bionorica Austria,Healthcare): f383b245-2667-49b8-b2e6-49e44d12284e
-Error (austria,Bolton Group,Bolton,Food): Market 'austria' not found under client 'Bolton Group'
-Error (austria,Bosch,Bosch,Home Appliances): Client not found: Bosch
-Error (austria,Bosch,Siemens,Home Appliances): Client not found: Bosch
-Error (austria,Bosch,Neff,Home Appliances): Client not found: Bosch
-Error (austria,Bosch,Gaggenau,Home Appliances): Client not found: Bosch
-Found row(austria,Breuninger,Breuninger,Fashion): 0a603060-ebb9-44a2-b36f-d195b3b8c5c5
-Error (austria,Campari,Aperol,Drinks (alcoholic)): Brand 'Aperol' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
-Found row(austria,Campari,Sarti,Drinks (alcoholic)): e14b09e1-3587-475e-bc76-5a25bdef1d11
-Error (austria,Campari,Crodino,Drinks (alcoholic)): Brand 'Crodino' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
-Error (austria,Campari,Averna,Drinks (alcoholic)): Brand 'Averna' with category 'Drinks (alcoholic)' not found under market 'austria' (client 'Campari')
-Found row(austria,Carglass,Carglass,Automotive): 711dba9f-4a4b-434e-a6e0-6a0b1ab472de
-Found row(austria,CC Real,CC Real,Real Estate): 2f68238f-0111-4141-a31a-9f2d88b820d2
-Found row(austria,Continental,Continental Aftermarket & Services,Automotive): ca8b4014-c854-41b4-9681-a4fdda45487f
-Found row(austria,Continental,Continental Reifen Deutschland,Automotive): d14b133a-23e9-4861-a0d9-8a5eee676319
-Found row(austria,Continental,Continental,Automotive): 85ae74b9-ced7-458a-89e8-90a421dea742
-Found row(austria,CP GABA,Elmex,Oral Care): 799c2757-32e7-4cdd-b345-73dae97a638e
-Found row(austria,CP GABA,Meridol,Oral Care): 469902f6-194b-4091-a2f3-57d11fa1a8c5
-Found row(austria,CP GABA,Colgate,Oral Care): ec964530-613e-46f9-b90e-16c0a82e1df5
-Found row(austria,Die Presse VerlagsgesmbH. & CO KG,Die Presse VerlagsgesmbH. & CO KG,Entertainment & media): f0232eec-b816-4ee3-85c8-ac21b93b3cdf
-Found row(austria,Die Tafel Oesterreich - der Verein fuer sozialen Transfer,Die Tafel,CHARITIES): 1202dae3-6b1e-4148-b254-33d0d1e6b9dc
-Found row(austria,Direct Parcel Distribution,Direct Parcel Distribution,General Services): 92612c46-39c5-4476-aa59-7235e4413cb5
-Error (austria,dm drogerie markt,dm,Retail): Client not found: dm drogerie markt
-Error (austria,Dr Oetker,Conditorei Coppenrath & Wiese KG,Food): Market 'austria' not found under client 'Dr Oetker'
-Error (austria,Dr Oetker,Dr Oetker,Food): Market 'austria' not found under client 'Dr Oetker'
-Error (austria,Dr Oetker,Henkell,Drinks (alcoholic)): Market 'austria' not found under client 'Dr Oetker'
-Found row(austria,Dr. C. Soldan Vertriebs,em-eukal,Food): 2a101f16-2884-43ae-844f-f8daf80873ab
-Error (austria,Duering AG,Duering,Home Appliances): Brand 'Duering' with category 'Home Appliances' not found under market 'austria' (client 'Duering AG')
-Found row(austria,EA Swiss Sarl,EA Swiss Sarl,Home Entertainment): b25b7315-657f-4b65-bdbe-36bb40392174
-Error (austria,Emmi,Emmi,Drinks (non-alcoholic)): Brand 'Emmi' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Emmi')
-Found row(austria,Epamedia - Europaeische Plakat- und Aussenmedien,Epamedia - Europaeische Plakat- und Aussenmedien GmbH,Entertainment & media): e121a16c-e87c-4f57-9bc6-18f06a0d044f
-Found row(austria,Erste Group,Erste Bank,Finance): 8e33967e-52ee-4436-9f77-09fb8dcec456
-Found row(austria,Euronics,Euronics,Home Appliances): f188acb1-a6fe-491b-b1a4-dc9ba2493bb8
-Found row(austria,Explora Journeys,Explora Journeys,Travel): ebce65bd-0e14-48c6-b706-4d3340385683
-Found row(austria,FAIRTRADE Oesterreich,Fairtrade,Food): c4e67375-6fa8-44e0-bcfa-370018f2a9cd
-Error (austria,FAIRTRADE Oesterreich,Immobilien Scout Oesterreich,Real Estate): Brand 'Immobilien Scout Oesterreich' with category 'Real Estate' not found under market 'austria' (client 'FAIRTRADE Oesterreich')
-Found row(austria,Felix Austria GesmbH,Felix Austria,Food): 1aa1bae2-f35b-4d3c-aa03-78dfed5f7422
-Error (austria,Ferrero,Ferrero,Food): Market 'austria' not found under client 'Ferrero'
-Found row(austria,Filmladen,Filmladen,Entertainment & media): e888d849-191c-48ad-9e7d-c6e08abe5618
-Found row(austria,Finanzgruppe,Teambank,Finance): b4bc7af0-5fb0-4eaa-874c-e657fb884b16
-Found row(austria,Finanzgruppe,Union Investment,Finance): e37d5dcd-4de1-4d22-b78f-c7531d0318f7
-Error (austria,Fressnapf,Fressnapf Handels,Pet Care): Market 'austria' not found under client 'Fressnapf'
-Found row(austria,Freytag-Berndt und Artaria KG,Freytag-Berndt und Artaria KG,Travel): e47c7874-68ab-492b-9485-7845849fe3e6
-Found row(austria,Geberit,Geberit,Home Appliances): 0d9e836a-f6a2-4f3c-8666-156457a5ad54
-Found row(austria,Gebro Pharma,Alpinamed,Healthcare): b09dd56f-94ac-4a6f-a78b-3c6af082b6ea
-Found row(austria,Grazer Wechselseitige Versicherung AG,Grazer Wechselseitige,Finance): d57ee1b8-94eb-40ba-80a0-a59f928ecb85
-Found row(austria,Gruene Wirtschaft,Gruene Wirtschaft,General Services): 4b0c72d2-d7b8-4be0-be84-068c6f7258f1
-Error (austria,H&M,H&M,Fashion): Market 'austria' not found under client 'H&M'
-Found row(austria,HAAI,HAAI,Consumer Electronics): c2091cf7-b04e-44bf-8205-977c14d5b528
-Error (austria,Hachette,Hachette,Entertainment & media): Market 'austria' not found under client 'Hachette'
-Found row(austria,Handl Tyrol,Handl Tyrol,Food): 469a7836-76a6-45c1-ba69-c0952b01223f
-Error (austria,Haribo,Haribo,Food): Market 'austria' not found under client 'Haribo'
-Found row(austria,Heimbau,Heimbau,Real Estate): 84b47a73-c08d-4b4f-bc77-9bfcef9eabb1
-Error (austria,Hofer,Hofer,Retail): Client not found: Hofer
-Found row(austria,Honor Technologies,Honor,Telecoms): f55c157d-d16d-4f1d-aabd-e5eb819c2fe6
-Found row(austria,Joh. Alex Niernsee AG,Joh. Alex Niernsee AG,Home Appliances): ef30e2b3-2429-439d-b534-b7cb49778349
-Found row(austria,Kapsch TrafficCom AG,Kapsch TrafficCom AG,Automotive): b6b7a1b5-1d5b-49c1-b2f9-f2bea8e24ef4
-Error (austria,Karriere.at,Karriere.at,Automotive): Client not found: Karriere.at
-Found row(austria,Katjes Fassin,Katjes Fassin,Food): 279be043-f300-4349-924d-db64ab5594c6
-Found row(austria,KRONE-Verlag GmbH & Co,Krone,Entertainment & media): d5e696ee-1524-4ffd-86b7-cf6a8193025e
-Found row(austria,KSV1870 Holding AG,KSV1870 Holding AG,General Services): d7832e8b-746c-4d8c-ac98-9cc7be66ade2
-Found row(austria,Kwizda Pharma,Kwizda Pharma,Healthcare): 7d19ccc3-25d5-4bd0-b371-171b8c39e556
-Found row(austria,Lagerhaus Franchise,Lagerhaus,Retail): 2cf23571-1bb3-4b77-916e-e92af42794cc
-Found row(austria,Lavazza,Lavazza,Drinks (non-alcoholic)): b8cefd0c-6051-48ca-a890-ea36155bd35b
-Found row(austria,Lexus,Lexus,Automotive): ccafc701-0025-444e-ba5e-d49b75246abd
-Found row(austria,Lufthansa,Austrian Airlines,Travel): 4550210c-d400-44ce-80c1-20cb58b20e57
-Found row(austria,M&D Restaurant Development,M&D Restaurant Development,Automotive): f2790871-20ca-46df-942c-db8a600c49a2
-Found row(austria,Markilux,Markilux,Household Items): 3ac2ea5b-bcc8-4cea-bffa-24697ffc0009
-Found row(austria,Mautner Markhof,Mautner Markhof,Food): 3d6e57ef-9532-4690-9254-22347a56347c
-Found row(austria,McArthurglen,McArthurGlen,Retail): 665f8069-3e7a-400b-bf1c-dd5c84cf1efe
-Found row(austria,mfi Immobilien Marketing,mfi Immobilien Marketing,Real Estate): b9d888c2-4699-4086-ad95-83e31edf401e
-Found row(austria,Milford Tee Austria Gesellschaft m.b.H.,Milford,Drinks (non-alcoholic)): dc50a16f-758e-4bf8-b48d-059abf7f4801
-Found row(austria,Mona Naturprodukte,Mona,Food): 6df976df-59ad-45dc-ae8b-bddbc238d44d
-Error (austria,MSC Cruises,MSC,Travel): Brand 'MSC' with category 'Travel' not found under market 'austria' (client 'MSC Cruises')
-Found row(austria,Muenze Oesterreich AG,Muenze Oesterreich AG,Finance): 071498c0-547c-4084-9e1e-7aecff79f8d7
-Found row(austria,Neuburger GmbH&Co OG,Neuburger GmbH&Co OG,Food): e54bbe46-b089-4338-9a6b-e20b09e8bc03
-Found row(austria,NOE Landesgesundheitsagentur,NOE Landesgesundheitsagentur,GOVERNMENT): 9932db1e-bd09-45eb-bd78-d0900d31cd20
-Error (austria,Novo Nordisk,Novo Nordisk,Healthcare): Market 'austria' not found under client 'Novo Nordisk'
-Found row(austria,NV Niederoesterreichische Versicherung AG,NV Niederoesterreichische Versicherung AG,Finance): bb393273-ef6d-4ecd-a7eb-9f68b5dc2177
-Error (austria,oekostrom,oekostrom,Utilities): Client not found: oekostrom
-Error (austria,Oesterreichische Bundesbahn,OEBB,Travel): Brand 'OEBB' with category 'Travel' not found under market 'austria' (client 'Oesterreichische Bundesbahn')
-Error (austria,Oesterreichische Bundesforste AG,Oesterr. Bundesforste,Organisations & associations): Brand 'Oesterr. Bundesforste' with category 'Organisations & associations' not found under market 'austria' (client 'Oesterreichische Bundesforste AG')
-Found row(austria,Oesterreichische Nationalbank,Oesterreichische Nationalbank,Finance): 34021bf0-b71c-4957-9482-b1bc7a91f262
-Found row(austria,OMV Group,OMV Aktiengesellschaft,Utilities): c96b92a8-a3b9-4478-9e7d-c9315d232977
-Found row(austria,OMV Group,OMV Downstream,Utilities): 5ea947ad-ac5b-4a4c-9762-14d1370ecb2d
-Found row(austria,Otto group,Otto Austria Group,Fashion): 67bc24ad-d995-4245-9789-fd03ae8ff061
-Found row(austria,Pappas Holding,Pappas,Automotive): 8abbca9d-69d8-489b-bc62-5f2e6e689010
-Found row(austria,Pearle,Pearle,Retail): bdcf7690-3b20-4f6a-8441-e98239b6eba1
-Error (austria,Peek & Cloppenburg,Peek & Cloppenburg,Fashion): Market 'austria' not found under client 'Peek & Cloppenburg'
-Found row(austria,Pelpharma Handels,Pelpharma Handels GmbH,Healthcare): 08e56112-5409-4da3-aa84-0510ae4e76e7
-Found row(austria,Perfetti Van Melle,Mentos,Food): ae570db4-7ec4-4bbe-9c7a-ef03e29592c1
-Found row(austria,Pfizer,Pfizer,Healthcare): 0e4543db-a67b-48dd-bb78-520da5eda88f
-Found row(austria,Princes Foods,Princes,Food): 57a785b2-f446-4cd4-b0e0-82ca067d222f
-Error (austria,Red Bull,Red Bull,Drinks (non-alcoholic)): Brand 'Red Bull' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Red Bull')
-Found row(austria,Red Bull,Red Bull MOBILE,Telecoms): 5b3eecf4-2e0d-4525-affe-42c7980167af
-Error (austria,REWE,ADEG,Retail): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,BIPA,Retail): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,Oe-Bonus Club,Retail): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,REWE Eigenmarken,Food): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,Penny,Retail): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,BILLA Reisen,Travel): Market 'austria' not found under client 'REWE'
-Error (austria,REWE,BILLA,Retail): Market 'austria' not found under client 'REWE'
-Found row(austria,Roche Diagnostics International,Roche,Healthcare): 9f868849-8b8b-435d-9936-b9485ca506fb
-Error (austria,ROLEX,ROLEX,Jewellery): Market 'austria' not found under client 'ROLEX'
-Found row(austria,Rolf Benz AG & Co. KG,Rolf Benz,Home Appliances): 08174089-b494-41ed-a805-fbb97ee89812
-Found row(austria,Rupa Werbe GesmbH,Rupa Werbe GesmbH,General Services): 4fa822de-7aab-4ce6-a575-9cc2671b25e6
-Error (austria,Sanova,Oekopharm,Healthcare): Brand 'Oekopharm' with category 'Healthcare' not found under market 'austria' (client 'Sanova')
-Found row(austria,Sanova,similasan,Healthcare): 7d71f181-7aa3-4757-8104-ab354c7b55eb
-Error (austria,Savencia,Savencia Fromage & Dairy,Food): Market 'austria' not found under client 'Savencia'
-Found row(austria,Selfstorage,SelfStorage Dein Lagerraum,Real Estate): e06dcd35-78cd-4381-8529-9a84e5674dae
-Found row(austria,Silhouette International,Silhouette,Fashion): 0e32418f-12d2-4ff4-9185-998fa20a5772
-Error (austria,Sketchers,Sketchers,Fashion): Client not found: Sketchers
-Found row(austria,Smile Insurance & IT Solutions,Smile Insurance & IT Solutions,Finance): 043b8bc4-871a-42fd-8677-4636902c0e8b
-Found row(austria,Smyths Toys,Smyths Toys,Retail): 26ca836c-cab4-4970-acf4-b162a5fab093
-Found row(austria,SONY,Sony Europe B.V.,Home Entertainment): 41289fdf-b18f-46b7-b1e5-c67c12d5e046
-Found row(austria,SONY,Sony Interactive Entertainment,Home Entertainment): 03fde42f-40e8-4ee7-a991-c0e3f63e86ad
-Found row(austria,SP United Vertriebs,SP Connect,Home Appliances): caab8100-e9dd-43c2-9650-c2bd7696b7fc
-Found row(austria,Spar,HERVIS,Sports): 8928dda9-a9c7-4aa5-978e-021757617fad
-Found row(austria,Spar,INTERSPAR,Retail): 68072244-0ca1-4349-bc13-ef1d14f52e22
-Error (austria,Spar,SPAR,Retail): Brand 'SPAR' with category 'Retail' not found under market 'austria' (client 'Spar')
-Found row(austria,Spar,SPAR Direkt,Retail): 533f71de-096f-46b7-befc-730d77194a3d
-Found row(austria,Sutterluety Handels,Sutterluety Handels,Retail): 0aa19ac6-d14a-40ea-a89b-81cfd895eaf5
-Error (austria,Technisches Museum Wien,Technisches Museum Wien,Entertainment & media): Client not found: Technisches Museum Wien
-Error (austria,Teekane Holding GmbH,Teekanne,Drinks (non-alcoholic)): Client not found: Teekane Holding GmbH
-Error (austria,Tempur Sealy,Temper-Pedic/Sealy,Household Items): Client not found: Tempur Sealy
-Error (austria,Thalia,Thalia,Retail): Market 'austria' not found under client 'Thalia'
-Found row(austria,Therme Wien GmbH & Co KG,Therme Wien,Travel): 30f13d0b-c71b-4e36-9b54-a17039acd289
-Error (austria,TJX,TK Maxx,Restaurants): Market 'austria' not found under client 'TJX'
-Found row(austria,T-Mobile,Magenta,Telecoms): ee7d62d4-1482-4882-943e-3e43985e8472
-Error (austria,Toyota,Toyota,Automotive): Market 'austria' not found under client 'Toyota'
-Error (austria,TUI,TUI Cruises,Travel): Market 'austria' not found under client 'TUI'
-Error (austria,Unibail Rodamco,Donauzentrum,Retail): Client not found: Unibail Rodamco
-Error (austria,Unibail Rodamco,Shopping City S d,Retail): Client not found: Unibail Rodamco
-Error (austria,Unibail Rodamco,Unibail-Rodamco-Westfield,Retail): Client not found: Unibail Rodamco
-Error (austria,Unicef,UNICEF,CHARITIES): Market 'austria' not found under client 'Unicef'
-Error (austria,UNIQA,UNIQA,Healthcare): Client not found: UNIQA
-Found row(austria,UNIQA Insurance Group AG,Mavie,Healthcare): b15ef99c-46e7-4cad-9753-56788819a735
-Found row(austria,UNIQA Insurance Group AG,RUDI,General Services): d1d39e77-ce91-4837-afaf-31e700cf5f0b
-Found row(austria,Universal Pictures,UPI,Entertainment & media): 5bef1178-dc43-418d-a323-2d8610188f5b
-Found row(austria,VAV - Versicherungs-Aktiengesellschaft,VAV,Healthcare): 8053034a-9e38-4d85-9bcd-f738fa96b1e8
-Found row(austria,Verein Fachhochschule Technikum Wien,Verein Fachhochschule Technikum Wien,EDUCATION): f468cf13-3a89-4542-b3e5-cc62fce72e50
-Error (austria,Vierpfoten,Vierpfoten,CHARITIES): Client not found: Vierpfoten
-Error (austria,VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften,VOEIG,Organisations & associations): Brand 'VOEIG' with category 'Organisations & associations' not found under market 'austria' (client 'VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften')
-Found row(austria,voestalpine,voestalpine,General Services): 454aa0ad-4864-4ec6-9960-6622703981c0
-Error (austria,WARNER BROS. Discovery,WARNER BROS. Discovery,Entertainment & media): Market 'austria' not found under client 'WARNER BROS. Discovery'
-Found row(austria,Wiener Arbeitnehmerinnen Foerderungsfonds (waff),Wiener Arbeitnehmerinnen Foerderungsfonds (waff),General Services): 72a464ff-1e17-4c92-bb4f-ef74d81f737e
-Error (austria,Wiener St dtische Versicherung,Wr. Staedtische,Finance): Client not found: Wiener St dtische Versicherung
-Found row(austria,Willhaben Internet Service,Willhaben.at,General Services): 865a6f0e-58fd-472d-bf4c-4b2491854b86
-Found row(austria,Woerwag Pharma,Woerwag Pharma,Healthcare): efa965f6-ee5d-4026-ae40-2f7d484b6e66
-Found row(austria,WOJNAR Beteiligungs,WOJNAR Beteiligungs,Food): c259bd9c-d2b1-4d89-85be-450fe83db61a
-Found row(austria,Wolfgang Denzel Auto AG,Wolfgang Denzel Auto AG,Automotive): 304d4979-3baf-4f4d-95d6-b3243496410d
-Error (austria,Yakult,Yakult,Drinks (non-alcoholic)): Brand 'Yakult' with category 'Drinks (non-alcoholic)' not found under market 'austria' (client 'Yakult')
-Error (austria,ZEV - Nah&Frisch Marketingservice GmbH,Nah&Frisch,Retail): Client not found: ZEV - Nah&Frisch Marketingservice GmbH
+Found row(Slovakia,New Originals,Lunter,Food): 2709c107-5337-401c-95b8-c105c86d8302
+Found row(Slovakia,Vaclav Cizek,Pilot Frixion,Household Items): 447b0172-21ce-4673-9e4c-ce12294b4495
+Found row(Slovakia,Hubert J.E.,Hubert,Drinks (alcoholic)): 3f69677d-2cee-4b7d-be56-dc2df1aa544b
+Found row(Slovakia,Hubert J.E.,KBS,Drinks (alcoholic)): bbb0b87d-83cf-406f-8fdf-65e170ba2b4e
+Found row(Slovakia,Hubert J.E.,Mionetto,Drinks (alcoholic)): f68e1bd2-11b9-409d-8d54-1fa31091131d
+Found row(Slovakia,Hubert J.E.,Vitis,Drinks (alcoholic)): 205202f2-2b35-433d-9ac0-5a04554c6e03
+Found row(Slovakia,Douglas,Douglas parfumery,Retail): 598e74ce-5291-4a43-9975-5225c97885f9
+Found row(Slovakia,Continental,Continental,Automotive): 7bf90586-a9eb-4b30-bd3e-873f997bb760
+Found row(Slovakia,Continental,Matador,Automotive): fa3e915b-4e58-4091-a6d7-f70f9ea1632a
+Found row(Slovakia,Elanco,Elanco/ Foresto & Advantix,Pet Care): 6caa1b08-a8b9-40cf-af3b-d265e95124a9
+Found row(Slovakia,Madeta,Lipanek,Food): cba30e60-4973-444a-aaf6-a19621511bcf
+Found row(Slovakia,Madeta,Syr na panev,Food): 6c384ff8-492a-4260-a588-0c330436fbe6
+Found row(Slovakia,PPG Industries,Primalex,Household Items): acb8e65b-22b1-40f8-84cf-8fca01969c9d
+Found row(Slovakia,PPG Industries,Balakryl,Household Items): d6aba15c-2080-40c5-8b97-f3b05c317071
+Found row(Slovakia,PPG Industries,Dum barev,Household Items): 6dae6a28-9b0b-4fe8-bcbf-f980b734ee5b
+Found row(Slovakia,UNIQA Insurance Group AG,Uniqa,Finance): c6055088-8149-420c-b1a7-d8adbc05af18
+Found row(Slovakia,Dr Oetker,Bistro,Food): fe86c747-5d6a-49d3-8ebe-e161b1735b13
+Found row(Slovakia,Dr Oetker,Drozdie,Food): c5b440ce-c7fe-4bf8-8fe4-a0d7dd542f2c
+Found row(Slovakia,Dr Oetker,Kase,Food): cee127d5-bb8d-480a-ac8d-1e4e89dd08f2
+Found row(Slovakia,Dr Oetker,Pizza,Food): f4ab6b15-872a-4c83-a62e-4d2eceecb3fd
+Found row(Slovakia,Dr Oetker,Vanilka,Food): 8897dd94-ec01-4ce8-a6da-7033a5c6414d
+Found row(Slovakia,Dr Oetker,Kakao,Food): 52b9477b-3ca0-46ab-8538-895ee0a9bc30
+Found row(Slovakia,Slovak Telekom,Pausal,Telecoms): f65e472d-ff72-433f-94ae-8afe252b2603
+Found row(Slovakia,Slovak Telekom,Magio TV,Telecoms): 1a67160e-8cb4-43f7-8aba-47f7990207e4
+Found row(Slovakia,Slovak Telekom,Magio Internet,Telecoms): 24dd4506-41f8-4a62-818a-ef006068f6ab
+Found row(Slovakia,Slovak Telekom,Magenta Moments,Telecoms): 88c5500d-61f7-4a33-8ba5-5993e99f62c5
+Found row(Slovakia,Slovak Telekom,B2B,Telecoms): a626ed05-b336-4097-add5-36531e43918f
+Found row(Slovakia,Slovak Telekom,Magenta 1,Telecoms): e8cfe18b-3797-4651-96fc-9e3993cbec8e
+Found row(Slovakia,Slovak Telekom,Image,Telecoms): 013efbb2-dd6b-4986-9576-e37b52dfeaaf
+Found row(Slovakia,Slovak Telekom,CSR,Telecoms): d0a8bbde-0cd9-4e3c-8b55-d8f319c5cbb9
+Found row(Slovakia,Slovak Telekom,Easy,Telecoms): ff5dd1e7-c4ea-40c5-96b8-95f7b11eb7cb
+Found row(Slovakia,Slovak Telekom,ESG,Telecoms): db5c8a4a-91fe-42b2-b7f3-e829094ff225
+Found row(Slovakia,Slovak Telekom,Disney+,Telecoms): 94c51891-b2dd-49b9-b9e0-ac4114bd7b35
+Found row(Slovakia,Slovak Telekom,Click Security,Telecoms): 261d9498-73a6-4f19-9b58-20b53b455be7
+Found row(Slovakia,Slovak Telekom,Netflix,Telecoms): e0f1fe81-a6bd-4f37-863e-ea56add71328
+Found row(Slovakia,Slovak Telekom,HW Samsung,Telecoms): cb4ffd86-5ff8-4486-bd20-759b07edef65
+Found row(Slovakia,Slovak Telekom,HW Xiaomi,Telecoms): cde368ce-44cc-4a7f-9659-5b6987975982
+Found row(Slovakia,Slovak Telekom,HW Motorola,Telecoms): 572412e7-42bc-4bb0-9c21-bdd8564b485f
+Found row(Slovakia,Slovak Telekom,5G,Telecoms): 970bc276-e4b5-484c-8aea-896460d2bee4
+Found row(Slovakia,Slovak Telekom,DIGI,Telecoms): 6fd5c547-a393-43c8-ae62-20b5a6efbdc2
+Found row(Slovakia,Slovak Telekom,CX,Telecoms): d0be28be-a4e1-4b2c-9f76-2776e515a56b
+Found row(Slovakia,Slovak Telekom,Wi-fi,Telecoms): dfb4135f-cca3-44b2-bbbf-8bb58b10db67
+Found row(Slovakia,Slovak Telekom,Mobile Network,Telecoms): 214098a5-fc07-4513-a67e-934024a99cf2
+Found row(Slovakia,Slovak Telekom,SWIPE,Telecoms): 5b380cdf-a0e2-4e66-be6f-0331c1c552dc
+Found row(Slovakia,Slovak Telekom,Roaming,Telecoms): e5f5f807-bba7-49b7-a7c3-a8d0b4f72759
+Found row(Slovakia,Slovak Telekom,T-phone,Telecoms): 36eb9632-ad95-47f2-bfb2-355c7b87d418
+Found row(Slovakia,Slovak Telekom,Telekom Night Run,Telecoms): 391befce-79dc-4328-972a-ce92fd719ccf
+Found row(Slovakia,Teekanne,Image,Food): 856a626b-2db1-4694-8fc3-40a8afef7f51
+Found row(Slovakia,AMC,AMC,Entertainment & media): 9dd3b4ae-2aa2-41c3-bd4d-29061790c14c
+Found row(Slovakia,AMC,TV Spektrum,Entertainment & media): 81fc49b7-b583-4085-ab84-a9dfe2e38c64
+Found row(Slovakia,AMC,Sport1, Sport2,Entertainment & media): 023d0618-89c9-45d2-b030-fc4e336e8ae8
+Found row(Slovakia,Bonduelle Group,Bonduelle,Food): 7f8e9faf-1b25-4bfa-9954-e686d06b1288
+Found row(Slovakia,Campari,Aperol,Drinks (alcoholic)): 8fff9f39-4063-4081-9934-19704b7a2a99
+Found row(Slovakia,F&F,F&F,Fashion): 499adb9b-bf34-45eb-9a89-bf401910a389
+Found row(Slovakia,Glenmark,Ataralgin,Healthcare): f23d83e6-f4c9-4478-aa4e-9332bda0463f
+Found row(Slovakia,Glenmark,Revitanerv,Healthcare): d188d087-780c-4e20-8cdc-c60e85db4d9b
+Found row(Slovakia,Glenmark,Cetalgen,Healthcare): 3f2eccdb-ebc9-4231-ac33-717d7d8cd8bf
+Found row(Slovakia,Glenmark,Alfasilver,Healthcare): 5f9429c6-fe2b-4b2e-9395-f7013fbabe9b
+Found row(Slovakia,Gyn-Fiv,Gyn-Fiv,Healthcare): ed71177f-f008-4bcf-8e48-ede09546e6d5
+Found row(Slovakia,Gyn-Fiv,Nadejna rodina,Healthcare): 6d6d1018-e07d-4839-a2ea-2ef44ed758e8
+Found row(Slovakia,I.D.C. Holding,Lina,Food): f7639933-a9bd-409b-ab67-8a7d2432d186
+Found row(Slovakia,I.D.C. Holding,Mila,Food): 6fba23b8-0cd1-4d64-b9e9-25cc41f5dab5
+Found row(Slovakia,I.D.C. Holding,Horalky,Food): 5205cfad-8486-47a1-a607-88942c56356f
+Found row(Slovakia,I.D.C. Holding,Rodinne,Food): bb1526da-23bc-4759-9961-8a9b013b9ecf
+Found row(Slovakia,I.D.C. Holding,Kavenky, Kakaove rezy, Vesna,Food): 5e39e427-d6a2-4b8f-8199-1cb0190b7082
+Found row(Slovakia,I.D.C. Holding,Verbena,Food): 0e2f287e-72e6-4dd9-b139-dbc564ea45ed
+Found row(Slovakia,I.D.C. Holding,Pedro,Food): a9a17efc-e2f9-4ded-aa35-8e4bc4bbdbf9
+Found row(Slovakia,Kondela,Kondela,Household Items): 3677f2cd-7435-4c17-9b60-b482ef3e5e92
+Found row(Slovakia,NAOS,NAOS,Personal Care): e88a8dc0-fa55-4878-b8b1-8027726c656f
+Found row(Slovakia,Sarantis,Fino,Household Items): cf5def8c-4abf-4118-a79c-fd9d28a45da5
+Found row(Slovakia,Sarantis,Indulona,Household Items): 0fc9865c-7bc3-4686-b17f-431aa5df38f6
+Found row(Slovakia,Provida,Program Buddy,Charities): 82b17d0d-e492-4c1b-a92e-b9d505ce6bd6
+Found row(Slovakia,Slovenska sporitelna,Image,Finance): 8f029f54-1bb3-4c6b-bd67-6ef79c87e5cc
+Found row(Slovakia,Slovenska sporitelna,B2B,Finance): 3a91ad8a-98e7-468a-85fd-d313710dddaa
+Found row(Slovakia,Decathlon,Decathlon,Retail): 6bfdeb2e-d043-4b10-922b-9695b0fe171f
+Found row(Slovakia,Kuehne+Nagel,Kuehne+Nagel,Automotive): e7e2c52f-11c7-4a21-bbff-07b9336d612b
+Found row(Slovakia,Honor,Honor,Consumer Electronics): a5d39be1-0d0d-441c-9eb8-17c559469a59
+Found row(Slovakia,Dm Drogerie Markt,Dm Drogerie Markt,Retail): b272dde0-1806-4316-9389-9c0c69a867d3
+Found row(Slovakia,Jeronimo Martins,Jeronimo Martins,Retail): ee6534be-bfe6-4c99-889c-cf20f3969332
+Found row(Slovakia,Orange Group,Orange Slovensko,Telecoms): 43afe8be-d5d9-4ad0-a5f8-b98a69f4e0ce
+Found row(Slovakia,Plzensky prazdroj,Pilsner Urquell,Drinks (alcoholic)): d7713fb3-aaea-4d16-9244-79a7af357d94
+Found row(Slovakia,Plzensky prazdroj,Birell,Drinks (non-alcoholic)): 56603f7a-72ad-4171-aabb-d122f09a4eab
+Found row(Slovakia,Plzensky prazdroj,Radegast,Drinks (alcoholic)): bad18211-abaa-4cb4-b337-3f282810a049
+Found row(Slovakia,Plzensky prazdroj,Saris,Drinks (alcoholic)): a42607ba-07df-43ce-87c3-288aa7a7af36
+Found row(Slovakia,Plzensky prazdroj,Peroni,Drinks (alcoholic)): ce78fe20-3a34-40a2-969f-1eb3b7d3c066
+Found row(Slovakia,Plzensky prazdroj,Captain Jack,Drinks (alcoholic)): a2e4d3f6-fba8-4c9f-9d1c-fc8130a9f60b
+Found row(Slovakia,SkyShowtime,SkyShowtime,Home Entertainment): 66d48146-2469-453c-9cf0-89ac42326c3c
+Found row(Slovakia,PKN Orlen,Orlen,Automotive): 71d911d1-614b-4214-bdff-d14e76e46ab2
+Found row(Slovakia,PKN Orlen,Stop Cafe,Restaurants): 7c2c3d7d-edea-4441-a83f-991bf9256e7c
+Found row(Slovakia,Deichmann,Deichmann,Fashion): 0f64b0af-7908-4f23-a1a0-44e05f9c602a
+Found row(Slovakia,Viva,Viva,Household Items): a0734453-a537-457a-860d-beee4596d435
+Found row(Slovakia,VSZP,VsZP,Finance): 51f076ff-da46-41bc-ae10-c52da1dbf0a7
+Found row(Slovakia,Bestdrive,Bestdrive,Automotive): 1286243a-07f1-40ce-bd49-784f77509309
+Found row(Slovakia,Nivy,Stanica Nivy,Retail): efa74a98-75ae-414c-b077-b915fe4cc551
+Found row(Slovakia,Haribo,Goldenbaren,Food): 4b38c9fa-d58b-4140-8cb6-63f83a2b3ba3
+Found row(Slovakia,St. Nicolaus,Nicolaus vodka,Drinks (alcoholic)): d66f6acf-2437-410b-a633-3557d55bf8d9
+Found row(Slovakia,St. Nicolaus,Zbojnicka,Drinks (alcoholic)): 2bb533a6-b1b6-4031-acc6-e4187e36d4b1
+Found row(Slovakia,St. Nicolaus,Professorado,Drinks (alcoholic)): c506cee5-efd1-46a0-ab63-7bf6116efa07
+Found row(Slovakia,St. Nicolaus,Budis,Drinks (non-alcoholic)): a350c1a4-5cb9-4df8-93dd-b13c69caf28d
+Found row(Slovakia,St. Nicolaus,Gemerka,Drinks (non-alcoholic)): 3e36b349-0cdd-46da-9747-25cbc3e7e557
+Found row(Slovakia,UNION poistovna,UNION Zdravotna poistovna,Finance): 74f3ffc4-ac11-4a21-b7e0-ff0daa862bb4
+Found row(Slovakia,UNION poistovna,UNION poistovna,Finance): 7aff9a84-3673-40bb-a2a7-c82cdb1db1e1
+Found row(Slovakia,Prosight,Prosight,Finance): 72c9ef55-06ec-4a78-90f4-647813985972
+Found row(Slovakia,AAA Auto,AAA Auto Service,Automotive): 01a9ee3f-fa18-416d-8505-fb5edcb7aeb6
+Found row(Slovakia,Vesely,Vesely Eye Clinic,Healthcare): 57c42b1f-9a46-420b-9156-8e857bbac402
+Found row(Slovakia,Gymbeam,Gymbeam,Retail): ec3cf30b-5c1e-47b7-88fa-00829b662e5d
+Found row(Slovakia,Lentiamo,Lentiamo,Retail): d27c22f2-61b0-4583-8996-4d259203aae9
+Found row(Slovakia,Outlet Center Parndorf,Parndorf,Retail): db0eda6f-e3fe-45a7-8ad8-ea8b10f56a8a
+Found row(Slovakia,Action Service & Distribution B.V.,Action,Retail): 8128ed50-fcc6-4841-8bd9-561f80a7bfd0

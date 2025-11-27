@@ -1,164 +1,85 @@
+🆕 No brand cache found, starting fresh.
+📡 Fetching hierarchy-tree from API (one-time)...
+   ✅ Hierarchy cached to C:\Users\Azath.A\os\brand\cache\hierarchy_cache.json (entries: 24061)
 
-🚀 Processing: Market=Market, Client=Client, Brand=Brand, Category=Category
-   ✅ Matched brand exactly: 'Brand' (mdId=50be9df8-f922-40a7-af3e-810e2ca906b7)
-⚠️ Error: Market 'Market' with client 'Client' not found.
+🚀 Processing row 1: Market=Market, Client=Client, Brand=Brand, Category=Category
+   🔎 Searching remote brands API for exact match: 'Brand'
+   ✅ Matched brand exactly: 'Brand' (mdId=50be9df8-f922-40a7-af3e-810e2ca906b7)  — cached.
+⚠️ Error for row 1: Market 'Market' with client 'Client' not found.
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Accmart, Category=Automotive
-   ✅ Matched brand exactly: 'Accmart' (mdId=f60474b0-5303-48a5-b64d-e7b7cd5dd8a6)
-✅ Created Org Unit for Brand 'Accmart' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: c9426230-f38d-4683-a7fa-dc112c8f97be
+🚀 Processing row 2: Market=Croatia, Client=BERLIN-CHEMIE, Brand=Anaftin, Category=Healthcare
+   🔎 Searching remote brands API for exact match: 'Anaftin'
+   ✅ Matched brand exactly: 'Anaftin' (mdId=f063248e-ac17-4b41-9787-296300d0a676)  — cached.
+❌ Failed POST for Anaftin: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Anaftin) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Anaftin) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Anaftin) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Auto Hub, Category=Automotive
-   ✅ Matched brand exactly: 'Auto Hub' (mdId=c1bbdb26-52d4-4764-8252-09f301cbaca0)
-✅ Created Org Unit for Brand 'Auto Hub' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: e3aa532d-c597-45fb-b97b-a6c3716bc62d
+🚀 Processing row 3: Market=Croatia, Client=BERLIN-CHEMIE, Brand=Espumisan, Category=Healthcare
+   🔎 Searching remote brands API for exact match: 'Espumisan'
+   ✅ Matched brand exactly: 'Espumisan' (mdId=16b3b0a3-8d14-4b84-a9c9-864dd81b256a)  — cached.
+❌ Failed POST for Espumisan: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Espumisan) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Espumisan) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Espumisan) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Claas, Category=Automotive
-   ✅ Matched brand exactly: 'Claas' (mdId=199775aa-2a8c-4ee0-848e-60e461d3dac2)
-✅ Created Org Unit for Brand 'Claas' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: fccf05f1-25cd-4058-86ae-0bbc8d36a254
+🚀 Processing row 4: Market=Croatia, Client=BERLIN-CHEMIE, Brand=Flavamed, Category=Healthcare
+   🔎 Searching remote brands API for exact match: 'Flavamed'
+   ✅ Matched brand exactly: 'Flavamed' (mdId=98bb388f-c106-4693-b623-deaa097ec8b0)  — cached.
+❌ Failed POST for Flavamed: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Flavamed) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Flavamed) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Flavamed) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Datz, Category=Automotive
-   ✅ Matched brand exactly: 'Datz' (mdId=7a692a1a-22b4-44bf-bbe6-ca0984813c75)
-✅ Created Org Unit for Brand 'Datz' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 1373bd8d-8797-4eaf-bb14-955158239fdc
+🚀 Processing row 5: Market=Croatia, Client=BERLIN-CHEMIE, Brand=Lioton, Category=Healthcare
+   🔎 Searching remote brands API for exact match: 'Lioton'
+   ✅ Matched brand exactly: 'Lioton' (mdId=43332ae7-5792-4767-8080-eb3955da6747)  — cached.
+❌ Failed POST for Lioton: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Lioton) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Lioton) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Lioton) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Agri, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Agri' (mdId=74975928-47d3-4191-befe-078168a8b556)
-✅ Created Org Unit for Brand 'Dimo Agri' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 1658b786-be98-4e62-a998-71904391ebee
+🚀 Processing row 6: Market=Croatia, Client=BERLIN-CHEMIE, Brand=Prostamol, Category=Healthcare
+   🔎 Searching remote brands API for exact match: 'Prostamol'
+   ✅ Matched brand exactly: 'Prostamol' (mdId=2f5a0532-f43a-4c37-a4e4-a2b8e8debbd4)  — cached.
+❌ Failed POST for Prostamol: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Prostamol) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Prostamol) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 45af4a39-ea96-4439-bf09-b88acb0ba7af, 4, Prostamol) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Auto Parts, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Auto Parts' (mdId=e9d5db1d-16c7-4efc-af3e-7745c2972f9a)
-✅ Created Org Unit for Brand 'Dimo Auto Parts' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: b4d536fe-f3ea-41b1-8a76-fff78d13dbb2
+🚀 Processing row 7: Market=Croatia, Client=Elanco, Brand=AdTab, Category=Pet Care
+   🔎 Searching remote brands API for exact match: 'AdTab'
+   ✅ Matched brand exactly: 'AdTab' (mdId=c5de29cc-0ddb-4b1e-8cf5-513e60cad189)  — cached.
+❌ Failed POST for AdTab: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, AdTab) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, AdTab) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, AdTab) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Autolab, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Autolab' (mdId=3962328f-7bf9-4add-a6f9-b256305955c4)
-✅ Created Org Unit for Brand 'Dimo Autolab' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 763a4f28-3141-42e1-a401-65715dc841f9
+🚀 Processing row 8: Market=Croatia, Client=Elanco, Brand=Advantix, Category=Pet Care
+   🔎 Searching remote brands API for exact match: 'Advantix'
+   ✅ Matched brand exactly: 'ADVANTIX' (mdId=96a23026-ab91-4cad-b83a-10ef7b915a94)  — cached.
+❌ Failed POST for Advantix: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, ADVANTIX) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, ADVANTIX) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, ADVANTIX) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Automotive, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Automotive' (mdId=d2be8ca9-619f-45b6-b6f8-d4735c75d331)
-✅ Created Org Unit for Brand 'Dimo Automotive' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 729bdf82-1380-4289-97d7-ff093b38f303
+🚀 Processing row 9: Market=Croatia, Client=Elanco, Brand=Foresto, Category=Pet Care
+   🔎 Searching remote brands API for exact match: 'Foresto'
+   ✅ Matched brand exactly: 'Foresto' (mdId=be472bc1-7dd7-4a71-92f5-bd0bfca257f0)  — cached.
+❌ Failed POST for Foresto: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, Foresto) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, Foresto) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, e10e443b-9235-4dbf-8d38-182ee5389e71, 4, Foresto) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Black & Deker Hm Applicances, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Black & Deker Hm Applicances' (mdId=7f387c47-7ec7-460f-a719-134f6e5a9013)
-✅ Created Org Unit for Brand 'Dimo Black & Deker Hm Applicances' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 7bc22e31-acf1-49de-baa7-395f1a253a63
+🚀 Processing row 10: Market=Croatia, Client=Erste & Steiermarkische Bank, Brand=Erste Bank, Category=Finance
+   🔎 Searching remote brands API for exact match: 'Erste Bank'
+   ✅ Matched brand exactly: 'Erste Bank' (mdId=90449a01-780a-4713-8ab1-ee917fa6c3f2)  — cached.
+❌ Failed POST for Erste Bank: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Erste Bank) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Erste Bank) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Erste Bank) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Harvesters, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Harvesters' (mdId=52faa858-8f31-4bfd-84da-40d239aaf75c)
-✅ Created Org Unit for Brand 'Dimo Harvesters' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 76fb66de-ce73-41ba-a3f3-f0f7fee7c09b
+🚀 Processing row 11: Market=Croatia, Client=Erste & Steiermarkische Bank, Brand=Diners, Category=Finance
+   🔎 Searching remote brands API for exact match: 'Diners'
+   ✅ Matched brand exactly: 'Diners' (mdId=62d34a02-7415-4ba6-9e1d-3a6b9c6a61a3)  — cached.
+❌ Failed POST for Diners: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Diners) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Diners) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Diners) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Lubricant, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Lubricant' (mdId=e00d5793-8f18-44b0-bc5d-c691d0e44e0b)
-✅ Created Org Unit for Brand 'Dimo Lubricant' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 9ed9ba30-853c-4e3d-ae3e-a8aa82ad34ee
+🚀 Processing row 12: Market=Croatia, Client=Erste & Steiermarkische Bank, Brand=Keks Pay, Category=Finance
+   🔎 Searching remote brands API for exact match: 'Keks Pay'
+   ✅ Matched brand exactly: 'Keks Pay' (mdId=8ae8f068-92ff-42a2-a1da-34d3c37d651c)  — cached.
+❌ Failed POST for Keks Pay: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Keks Pay) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Keks Pay) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, dc09b850-32a6-47f5-bede-d7b4ed0a860d, 4, Keks Pay) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Lumin Bulb, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Lumin Bulb' (mdId=9e1b2b68-6679-499f-a413-1abef288b6ed)
-✅ Created Org Unit for Brand 'Dimo Lumin Bulb' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: ed8951b6-ee93-4981-98d4-13d67ca694cf
+🚀 Processing row 13: Market=Croatia, Client=Luckia Gaming Group, Brand=Luckia, Category=GAMBLING & LOTTERIES
+   🔎 Searching remote brands API for exact match: 'Luckia'
+   ✅ Matched brand exactly: 'Luckia' (mdId=f743fb61-66db-4713-ab7f-4137ccc69a97)  — cached.
+❌ Failed POST for Luckia: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b5570e5f-d915-4d0d-9632-bcf85e3a9523, 4, Luckia) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b5570e5f-d915-4d0d-9632-bcf85e3a9523, 4, Luckia) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, b5570e5f-d915-4d0d-9632-bcf85e3a9523, 4, Luckia) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Rane Break Pad, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Rane Break Pad' (mdId=a2fee70e-9b24-4693-911e-b080600b09b6)
-✅ Created Org Unit for Brand 'Dimo Rane Break Pad' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 049226e5-9b34-466b-816b-4e56be6b4a48
+🚀 Processing row 14: Market=Croatia, Client=MAG Noventa di Piave, Brand=Noventa di Piave, Category=Retail
+   🔎 Searching remote brands API for exact match: 'Noventa di Piave'
+   ✅ Matched brand exactly: 'Noventa di Piave' (mdId=35561b81-4c4b-4625-833c-0cd85a9f87aa)  — cached.
+❌ Failed POST for Noventa di Piave: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c0b2a513-a624-4ae8-86b9-6a924dbd8f4d, 4, Noventa di Piave) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c0b2a513-a624-4ae8-86b9-6a924dbd8f4d, 4, Noventa di Piave) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, c0b2a513-a624-4ae8-86b9-6a924dbd8f4d, 4, Noventa di Piave) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Retailer, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Retailer' (mdId=f1af7603-0d9b-4b03-801e-da14cc71e520)
-✅ Created Org Unit for Brand 'Dimo Retailer' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: df49cd08-b951-4eeb-b642-79813e450b27
+🚀 Processing row 15: Market=Croatia, Client=Stock Spirits, Brand=Stock, Category=Drinks (alcoholic)
+   🔎 Searching remote brands API for exact match: 'Stock'
+   ✅ Matched brand exactly: 'Stock' (mdId=1c864946-572e-426b-a51c-cdf26dd904b9)  — cached.
+❌ Failed POST for Stock: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7824fab-8dce-428e-bdea-276202d86b77, 4, Stock) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7824fab-8dce-428e-bdea-276202d86b77, 4, Stock) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, d7824fab-8dce-428e-bdea-276202d86b77, 4, Stock) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo Seeds, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo Seeds' (mdId=76afaf79-4cdc-47aa-af9e-7aa138c6fe39)
-✅ Created Org Unit for Brand 'Dimo Seeds' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: b8f07952-e197-4d10-8409-8e73ac077525
+🚀 Processing row 16: Market=Croatia, Client=TOTAL, Brand=TOTAL, Category=Utilities
+   🔎 Searching remote brands API for exact match: 'TOTAL'
+   ✅ Matched brand exactly: 'Total' (mdId=d7a320c4-e3b9-4be7-8dd0-741cf49558cb)  — cached.
+❌ Failed POST for TOTAL: 409 {"status":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4bbdf3d7-b445-4ef4-9a1d-ee4f54c25349, 4, Total) already exists","title":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4bbdf3d7-b445-4ef4-9a1d-ee4f54c25349, 4, Total) already exists","detail":"Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 4bbdf3d7-b445-4ef4-9a1d-ee4f54c25349, 4, Total) already exists","object_id":null}
 
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dimo WD 40, Category=Automotive
-   ✅ Matched brand exactly: 'Dimo WD 40' (mdId=bba88b17-ac0f-459f-bbee-d74a351ff2d0)
-✅ Created Org Unit for Brand 'Dimo WD 40' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 0c51274d-e1f2-42d9-80ef-57df764c95b2
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=DME Bata, Category=Automotive
-   ✅ Matched brand exactly: 'DME Bata' (mdId=b2fade58-21d8-430f-91e0-8c4484f04b65)
-✅ Created Org Unit for Brand 'DME Bata' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: baaef3bf-9d58-49f9-b049-ab0e40381401
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Dmecorp, Category=Automotive
-   ✅ Matched brand exactly: 'Dmecorp' (mdId=9d478775-8834-4469-be8a-04f85f3d299a)
-✅ Created Org Unit for Brand 'Dmecorp' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 7880a9fe-8ceb-472f-b23b-a9c3f667d57b
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Ferri Car Care, Category=Automotive
-   ✅ Matched brand exactly: 'Ferri Car Care' (mdId=feb88536-c44f-4310-ba21-a8d439ea8972)
-✅ Created Org Unit for Brand 'Ferri Car Care' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 4dd72ad9-2dde-46f0-9c13-c5175e5029c9
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Graphenstone, Category=Automotive
-   ✅ Matched brand exactly: 'Graphenstone' (mdId=23444f96-ca40-4ad7-ae43-af485a6211ec)
-✅ Created Org Unit for Brand 'Graphenstone' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 02244781-d680-45a4-aa6f-a58b3fabac26
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Jeep, Category=Automotive
-   ✅ Matched brand exactly: 'Jeep' (mdId=9e6cc13d-2996-43b0-9bdf-11db10db2626)
-✅ Created Org Unit for Brand 'Jeep' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: f616cabb-37c7-4de6-b65c-38766037d463
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Kumho, Category=Automotive
-   ✅ Matched brand exactly: 'Kumho' (mdId=329739d5-ba16-48f1-a950-98f23f8122d9)
-✅ Created Org Unit for Brand 'Kumho' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 70d63a7f-39fa-4496-9575-a5d8046258fd
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Lovol, Category=Automotive
-   ✅ Matched brand exactly: 'Lovol' (mdId=dd6605d8-ac6f-4334-9efb-39b0eaadf3f6)
-✅ Created Org Unit for Brand 'Lovol' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: f53f6cd1-3f5d-4aff-afae-fad986bab1b3
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Mahindra Yuvo Tractor, Category=Automotive
-   ✅ Matched brand exactly: 'Mahindra Yuvo Tractor' (mdId=7f8740ce-e43b-4520-84ad-2c7166a6b66a)
-✅ Created Org Unit for Brand 'Mahindra Yuvo Tractor' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 2b7da048-c0b5-404c-806d-122e01c6b30e
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Mercedes Benz, Category=Automotive
-   ✅ Matched brand exactly: 'Mercedes Benz' (mdId=6de51b60-7186-4993-86c5-4a1c8eca5fb3)
-✅ Created Org Unit for Brand 'Mercedes Benz' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 8145bb8b-6802-47bf-96f8-d587f343a597
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Michelin, Category=Automotive
-   ✅ Matched brand exactly: 'Michelin' (mdId=d9a5c714-34e2-4198-a60e-44527909c1b2)
-✅ Created Org Unit for Brand 'Michelin' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 63ac7057-7b18-42c4-b856-d175f858d7d8
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Pick My Load, Category=Automotive
-   ✅ Matched brand exactly: 'Pick My Load' (mdId=ed58df6d-e2e3-494b-ba7e-da7f17d79d93)
-✅ Created Org Unit for Brand 'Pick My Load' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 8f467d35-9bd9-46da-a826-6d4df2da9d05
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Rane, Category=Automotive
-   ✅ Matched brand exactly: 'Rane' (mdId=a0a46e5b-68f6-4567-b2d6-1568d30eaa91)
-✅ Created Org Unit for Brand 'Rane' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 040b3c12-9d78-4c3f-8ca5-7e6b06d62836
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Sprinter, Category=Automotive
-   ✅ Matched brand exactly: 'Sprinter' (mdId=061a5230-762c-4c26-ae2f-6067c4a197c9)
-✅ Created Org Unit for Brand 'Sprinter' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: e21625d1-64a4-48a8-971d-039dcaf5d79c
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Swaraj Tractors, Category=Automotive
-   ✅ Matched brand exactly: 'Swaraj Tractors' (mdId=a65104a7-61ba-490d-bc15-00b56b5149e1)
-✅ Created Org Unit for Brand 'Swaraj Tractors' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: be2eefa7-9676-4410-b50f-39540ab04dd0
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Tata, Category=Automotive
-   ✅ Matched brand exactly: 'Tata' (mdId=76129c38-05f2-47c9-abc4-ea5ebbab474b)
-✅ Created Org Unit for Brand 'Tata' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 645fdc7c-3b17-41a8-83a3-e41b74b1a534
-
-🚀 Processing: Market=Sri Lanka, Client=Diesel & Motor Engineering, Brand=Tata Yodha, Category=Automotive
-   ✅ Matched brand exactly: 'Tata Yodha' (mdId=343d5fcb-a04c-4ec6-851b-664de43dffd6)
-✅ Created Org Unit for Brand 'Tata Yodha' under Market fa9cea99-f523-4913-b75e-283c3ef58828
-   ➡️ OrgUnit azId: 79e2d7ca-88df-4aa2-960a-ed06e85c7052
+🎉 Done.

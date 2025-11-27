@@ -1,130 +1,24 @@
 ========================================
-🔍 Processing client: Adidas | market: Hong Kong
-🌍 Market 'Hong Kong' -> Hong Kong (mdId=20c37b20-bbfd-48bc-a3d7-34eaf72e9a9e)
-❌ Failed for Adidas -> Hong Kong: 400
-{'error': "Organization unit (id=b97f1bc3-b329-4652-aa9c-6d582a21c00d) with Type: BRAND can't have children."}
+🔍 Processing client: BERLIN-CHEMIE | market: Croatia
+🌍 Market 'Croatia' -> Croatia (mdId=9ac4c9c1-eb79-42ba-abd7-d400ee5cc880)
+❌ Failed for BERLIN-CHEMIE -> Croatia: 400
+{'error': "Organization unit (id=b4531a29-3d46-4ba1-a3f9-ad8511917db0) with Type: BRAND can't have children."}
 ========================================
-🔍 Processing client: Allianz | market: Hong Kong
-❌ Failed for Allianz -> Hong Kong: 400
-{'error': "Organization unit (id=8df92c16-c959-4ffd-8e9a-a8bfba922260) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Anker | market: Hong Kong
-❌ Failed for Anker -> Hong Kong: 400
-{'error': "Organization unit (id=fcfa46dd-1f66-44b9-831a-b0fdb9ae54c4) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: AXA | market: Hong Kong
-❌ Failed for AXA -> Hong Kong: 400
-{'error': "Organization unit (id=4c4512c2-6ed1-488f-b6c7-0619c11b381e) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Swisse | market: Hong Kong
-❌ Failed for Swisse -> Hong Kong: 400
-{'error': "Organization unit (id=f1059153-e0ac-4d63-b597-a65bbea918fb) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: DBS | market: Hong Kong
-❌ Failed for DBS -> Hong Kong: 400
-{'error': "Organization unit (id=1c46642d-fe8c-4c86-babc-b5c93e60fcc8) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Deloitte | market: Hong Kong
-❌ Failed for Deloitte -> Hong Kong: 400
-{'error': "Organization unit (id=d8b43586-1035-4d1a-a18c-2f1cc049eabc) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Huawei | market: Hong Kong
-❌ Failed for Huawei -> Hong Kong: 400
-{'error': "Organization unit (id=ccce0a15-ea46-44ed-8290-fb49ad25dda2) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Australia
-🌍 Market 'Australia' -> Australia (mdId=ee8d1aca-3101-4084-a30f-c09716bf6561)
-❌ Failed for Lululemon -> Australia: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Canada
-🌍 Market 'Canada' -> Canada (mdId=0e03a67e-792f-44c4-93f8-2788763bbf22)
-❌ Failed for Lululemon -> Canada: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: China
-🌍 Market 'China' -> China (mdId=4132d006-e445-4194-87ab-beb414fac7fa)
-❌ Failed for Lululemon -> China: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Hong Kong
-❌ Failed for Lululemon -> Hong Kong: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: India
-🌍 Market 'India' -> India (mdId=bcec3dbc-7d0b-486c-9dd8-eff1b2e64e03)
-❌ Failed for Lululemon -> India: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Indonesia
-🌍 Market 'Indonesia' -> Indonesia (mdId=4f78c417-5aa2-4f3e-8556-59c993a933a0)
-❌ Failed for Lululemon -> Indonesia: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Japan
-🌍 Market 'Japan' -> Japan (mdId=9a201dd4-fb11-4bd6-bca3-ef170652ce2b)
-❌ Failed for Lululemon -> Japan: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Malaysia
-🌍 Market 'Malaysia' -> Malaysia (mdId=5c1821b8-da6a-4a97-9a30-8c27eeb0e108)
-❌ Failed for Lululemon -> Malaysia: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: New Zealand
-🌍 Market 'New Zealand' -> New Zealand (mdId=a3bc8a56-c60e-4c14-b972-a6d0f38e1ec1)
-❌ Failed for Lululemon -> New Zealand: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Singapore
-🌍 Market 'Singapore' -> Singapore (mdId=d99ad4a7-5178-473c-a9ec-035300a9856a)
-❌ Failed for Lululemon -> Singapore: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: South Korea
-🌍 Market 'South Korea' -> South Korea (mdId=869e38bf-2cf0-49a6-b520-f8fbe9505d20)
-❌ Failed for Lululemon -> South Korea: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Taiwan
-🌍 Market 'Taiwan' -> Taiwan (mdId=6e728725-4414-4079-a7ec-6540c14bc3f8)
-❌ Failed for Lululemon -> Taiwan: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: Thailand
-🌍 Market 'Thailand' -> Thailand (mdId=15050f40-d2fe-4a73-a937-b8fb6d78432f)
-❌ Failed for Lululemon -> Thailand: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Lululemon | market: United States of America
-🌍 Market 'United States of America' -> United States of America (mdId=a795a2cb-ce34-48da-b9e7-52faf81307ca)
-❌ Failed for Lululemon -> United States of America: 400
-{'error': "Organization unit (id=5a2b2aac-2854-49ef-b19d-36985735d625) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: LVMH | market: Hong Kong
-❌ Failed for LVMH -> Hong Kong: 400
-{'error': "Organization unit (id=e05053ab-9e8e-4a6e-a866-579f4d505fba) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: LVMH | market: Hong Kong
-❌ Failed for LVMH -> Hong Kong: 400
-{'error': "Organization unit (id=e05053ab-9e8e-4a6e-a866-579f4d505fba) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: NinJiom | market: Hong Kong
-❌ Failed for NinJiom -> Hong Kong: 400
-{'error': "Organization unit (id=42e68068-4290-427c-8de7-46fa7385188b) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Rolex | market: Hong Kong
-❌ Failed for Rolex -> Hong Kong: 400
-{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Rolex | market: Hong Kong
-❌ Failed for Rolex -> Hong Kong: 400
-{'error': "Organization unit (id=57e2d612-04ae-4a64-a4e7-c1e0c2a77804) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Swisse | market: Hong Kong
-❌ Failed for Swisse -> Hong Kong: 400
-{'error': "Organization unit (id=f1059153-e0ac-4d63-b597-a65bbea918fb) with Type: BRAND can't have children."}
-========================================
-🔍 Processing client: Zespri | market: Hong Kong
-❌ Failed for Zespri -> Hong Kong: 400
-{'error': "Organization unit (id=8fdc157d-0976-468a-89da-cf0d14964592) with Type: BRAND can't have children."}
+🔍 Processing client: Elanco | market: Croatia
+❌ Failed for Elanco -> Croatia: 400
+{'error': "Organization unit (id=f7edb0a4-72f9-44d3-990d-c1a7c3e2d033) with Type: BRAND can't have children."}
+====================================ℹ️  Org-unit already exists for Erste & Steiermarkische Bank -> Croatia
+{ℹ️  Org-unit already exists for Erste & Steiermarkische Bank -> Croatia
+{'status': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c821812-32d0-4ab0-8614-bb683ccefde4, 3, Croatia) already exists', 'title': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c821812-32d0-4ab0-8614-bb683ccefde4, 3, Croatia) already exists', 'detail': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 0c821812-32d0-4ab0-8614-bb683ccefde4, 3, Croatia) already exists', 'object_id': None}
+===========================ℹ️  Org-unit already exists for Luckia Gaming Group -> Croatia
+{'status':ℹ️  Org-unit already exists for Luckia Gaming Group -> Croatia
+{'status': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9c480dd9-d4ab-41b7-bd0c-c1832a12c3c6, 3, Croatia) already exists', 'title': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9c480dd9-d4ab-41b7-bd0c-c1832a12c3c6, 3, Croatia) already exists', 'detail': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, 9c480dd9-d4ab-41b7-bd0c-c1832a12c3c6, 3, Croatia) already exists', 'object_id': None}
+============================ℹ️  Org-unit already exists for MAG Noventa di Piave -> Croatia
+{'status'ℹ️  Org-unit already exists for MAG Noventa di Piave -> Croatia
+{'status': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, df80edc5-a5dd-4e1a-b16d-9c2c2338b44b, 3, Croatia) already exists', 'title': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, df80edc5-a5dd-4e1a-b16d-9c2c2338b44b, 3, Croatia) already exists', 'detail': 'Workspace with (tenant_id, parent_id, type, name)=(4c039217-7d17-4207-8314-98348983718a, df80edc5-a5dd-4e1a-b16d-9c2c2338b44b, 3, Croatia) already exists', 'object_id': None}
+=============❌ Failed for Stock -> Croatia: 400
+{'error': "Organization unit (id=48ddfa2❌ Failed for Stock -> Croatia: 400
+{'error': "Organization unit (id=48ddfa22-cb2f-4f80-9d39-c885859cafcf) with Type: BRAND can't have children."}
+=============❌ Failed for TOTAL -> Croatia: 400
+{'error': "Organization unit (id=af6de7c0-799f-4af4-b5a9-d97580274019) with Type: BRAND can't have children."}
+f6de7c0-799f-4af4-b5a9-d97580274019) with Type: BRAND can't have children."}

@@ -1,3 +1,4 @@
 
-🔎 Processing brand: Diesel & Motor Engineering
-📂 Group already exists → id: 3987b5b9-60bd-4a7a-a81a-8841da8bf7f0 | name: Diesel & Motor Engineering
+🔎 Processing brand: Aster DM Healthcare
+📂 Found existing group → uid: 00eebb62-0c52-4f6d-8ce1-e05b9f7abc2a | name: Aster DM Healthcare
+🔑 Roles patched for existing group 00eebb62-0c52-4f6d-8ce1-e05b9f7abc2a. Response: [{'uid': '70b92a85-1901-4b48-9131-666c86921d7d', 'group_uid': '00eebb62-0c52-4f6d-8ce1-e05b9f7abc2a', 'role_uid': '1544916c-0ce0-4042-a8e5-6e18042c73b7', 'account_uid': 'e4146d49-0272-47ae-820f-54c72f7ef2c4'}, {'uid': '279617f0-73bd-4974-83fa-2e832b081d6f', 'group_uid': '00eebb62-0c52-4f6d-8ce1-e05b9f7abc2a', 'role_uid': '9e7c812c-c063-4613-9776-31f635bd1c03', 'account_uid': 'e4146d49-0272-47ae-820f-54c72f7ef2c4'}, {'uid': '4b52d457-c837-439d-a0bc-630b716551d2', 'group_uid': '00eebb62-0c52-4f6d-8ce1-e05b9f7abc2a', 'role_uid': '6948d8e6-eca6-4c12-9241-a47db34db467', 'account_uid': 'e4146d49-0272-47ae-820f-54c72f7ef2c4'}]

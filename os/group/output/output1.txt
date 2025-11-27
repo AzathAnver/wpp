@@ -1,0 +1,90 @@
+🚀 Starting processing of 10 brands using up to 10 workers...
+
+🔎 Processing brand: Cash Discount  Msix
+
+🔎 Processing brand: Brakes
+
+🔎 Processing brand: Brilloca
+
+🔎 Processing brand: Brigade
+
+🔎 Processing brand: Casio
+
+🔎 Processing brand: Care Health Insurance
+
+🔎 Processing brand: Century Textiles & Industries
+
+🔎 Processing brand: Cars24 Services
+
+🔎 Processing brand: Cash Discount
+
+🔎 Processing brand: CG Power And Industrial Solutions
+📂 Found existing group → uid: 937e3c49-c207-4d41-93f7-341c0dece1fb | name: CG Power And Industrial Solutions
+⚠️ Request failed (HTTPSConnectionPool(host='media.os.wpp.com', port=443): Read timed out. (read timeout=20)) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (HTTPSConnectionPool(host='media.os.wpp.com', port=443): Read timed out. (read timeout=20)) — attempt 1/3 — retrying in 1.0s
+📂 Found existing group → uid: 50d20249-84c4-4920-8eed-c22ca38106ad | name: Cash Discount  Msix
+📂 Found existing group → uid: 96dcc18a-bf3f-449e-9e2c-4b6717a3e67f | name: Casio
+📂 Found existing group → uid: 0942588b-b037-42f5-badc-7e30e604e64d | name: Cars24 Services
+📂 Found existing group → uid: d372638e-8edf-4bd4-ba06-bca111732ee0 | name: Brilloca
+📂 Found existing group → uid: 22b1d4da-4487-4b3b-9483-f7336cdefa7b | name: Care Health Insurance
+📂 Found existing group → uid: 0b51e238-fa55-4a77-b43d-7735e46048d1 | name: Cash Discount
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(937e3c49-c207-4d41-93f7-341c0dece1fb, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 6acd1923-c066-49c7-901d-b2a9c87bc49d) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(50d20249-84c4-4920-8eed-c22ca38106ad, 1544916c-0ce0-4042-a8e5-6e18042c73b7, e032a2e7-4217-4e13-afa3-73553ae248bd) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(96dcc18a-bf3f-449e-9e2c-4b6717a3e67f, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 55f0cd86-fd59-4873-8b1c-3eb747bbb54b) already exists"}) — attempt 1/3 — retrying in 1.0s
+📂 Found existing group → uid: eeb22a76-e7e6-462c-bded-ca4c611b5138 | name: Brigade
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0942588b-b037-42f5-badc-7e30e604e64d, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 0cfae774-3aa4-4083-99e4-44f84e9ea29e) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(d372638e-8edf-4bd4-ba06-bca111732ee0, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4f8f9224-4129-4850-bf25-11c97b497e89) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(22b1d4da-4487-4b3b-9483-f7336cdefa7b, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 390fc052-e2b4-40c3-9771-65ae64651049) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0b51e238-fa55-4a77-b43d-7735e46048d1, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 9eb519c7-8759-4896-a0b1-1ca757cc4d7f) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(937e3c49-c207-4d41-93f7-341c0dece1fb, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 6acd1923-c066-49c7-901d-b2a9c87bc49d) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(50d20249-84c4-4920-8eed-c22ca38106ad, 1544916c-0ce0-4042-a8e5-6e18042c73b7, e032a2e7-4217-4e13-afa3-73553ae248bd) already exists"}) — attempt 2/3 — retrying in 2.0s
+📂 Found existing group → uid: ac15d74a-2464-4e56-800d-1dde19c240a9 | name: Century Textiles & Industries
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(96dcc18a-bf3f-449e-9e2c-4b6717a3e67f, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 55f0cd86-fd59-4873-8b1c-3eb747bbb54b) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(eeb22a76-e7e6-462c-bded-ca4c611b5138, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4eaeec82-77a5-42fb-a6fd-188b918c6f30) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0942588b-b037-42f5-badc-7e30e604e64d, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 0cfae774-3aa4-4083-99e4-44f84e9ea29e) already exists"}) — attempt 2/3 — retrying in 2.0s
+📂 Found existing group → uid: 635a6e5b-c6e9-48a2-bb79-013b20a38712 | name: Brakes
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(22b1d4da-4487-4b3b-9483-f7336cdefa7b, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 390fc052-e2b4-40c3-9771-65ae64651049) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(d372638e-8edf-4bd4-ba06-bca111732ee0, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4f8f9224-4129-4850-bf25-11c97b497e89) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0b51e238-fa55-4a77-b43d-7735e46048d1, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 9eb519c7-8759-4896-a0b1-1ca757cc4d7f) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(937e3c49-c207-4d41-93f7-341c0dece1fb, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 6acd1923-c066-49c7-901d-b2a9c87bc49d) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 937e3c49-c207-4d41-93f7-341c0dece1fb: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(937e3c49-c207-4d41-93f7-341c0dece1fb, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 6acd1923-c066-49c7-901d-b2a9c87bc49d) already exists"}
+📊 Progress: 1/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(ac15d74a-2464-4e56-800d-1dde19c240a9, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 365d60de-036e-41ea-9a0b-4fe44ce87fcd) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(635a6e5b-c6e9-48a2-bb79-013b20a38712, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 29383bd0-2517-4749-bb2b-f80dd00241bc) already exists"}) — attempt 1/3 — retrying in 1.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(50d20249-84c4-4920-8eed-c22ca38106ad, 1544916c-0ce0-4042-a8e5-6e18042c73b7, e032a2e7-4217-4e13-afa3-73553ae248bd) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 50d20249-84c4-4920-8eed-c22ca38106ad: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(50d20249-84c4-4920-8eed-c22ca38106ad, 1544916c-0ce0-4042-a8e5-6e18042c73b7, e032a2e7-4217-4e13-afa3-73553ae248bd) already exists"}
+📊 Progress: 2/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(eeb22a76-e7e6-462c-bded-ca4c611b5138, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4eaeec82-77a5-42fb-a6fd-188b918c6f30) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0942588b-b037-42f5-badc-7e30e604e64d, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 0cfae774-3aa4-4083-99e4-44f84e9ea29e) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 0942588b-b037-42f5-badc-7e30e604e64d: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0942588b-b037-42f5-badc-7e30e604e64d, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 0cfae774-3aa4-4083-99e4-44f84e9ea29e) already exists"}
+📊 Progress: 3/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(96dcc18a-bf3f-449e-9e2c-4b6717a3e67f, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 55f0cd86-fd59-4873-8b1c-3eb747bbb54b) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 96dcc18a-bf3f-449e-9e2c-4b6717a3e67f: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(96dcc18a-bf3f-449e-9e2c-4b6717a3e67f, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 55f0cd86-fd59-4873-8b1c-3eb747bbb54b) already exists"}
+📊 Progress: 4/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(22b1d4da-4487-4b3b-9483-f7336cdefa7b, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 390fc052-e2b4-40c3-9771-65ae64651049) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 22b1d4da-4487-4b3b-9483-f7336cdefa7b: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(22b1d4da-4487-4b3b-9483-f7336cdefa7b, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 390fc052-e2b4-40c3-9771-65ae64651049) already exists"}
+📊 Progress: 5/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(d372638e-8edf-4bd4-ba06-bca111732ee0, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4f8f9224-4129-4850-bf25-11c97b497e89) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group d372638e-8edf-4bd4-ba06-bca111732ee0: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(d372638e-8edf-4bd4-ba06-bca111732ee0, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4f8f9224-4129-4850-bf25-11c97b497e89) already exists"}
+📊 Progress: 6/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0b51e238-fa55-4a77-b43d-7735e46048d1, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 9eb519c7-8759-4896-a0b1-1ca757cc4d7f) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 0b51e238-fa55-4a77-b43d-7735e46048d1: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(0b51e238-fa55-4a77-b43d-7735e46048d1, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 9eb519c7-8759-4896-a0b1-1ca757cc4d7f) already exists"}
+📊 Progress: 7/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(ac15d74a-2464-4e56-800d-1dde19c240a9, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 365d60de-036e-41ea-9a0b-4fe44ce87fcd) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(635a6e5b-c6e9-48a2-bb79-013b20a38712, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 29383bd0-2517-4749-bb2b-f80dd00241bc) already exists"}) — attempt 2/3 — retrying in 2.0s
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(eeb22a76-e7e6-462c-bded-ca4c611b5138, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4eaeec82-77a5-42fb-a6fd-188b918c6f30) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group eeb22a76-e7e6-462c-bded-ca4c611b5138: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(eeb22a76-e7e6-462c-bded-ca4c611b5138, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 4eaeec82-77a5-42fb-a6fd-188b918c6f30) already exists"}
+📊 Progress: 8/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(ac15d74a-2464-4e56-800d-1dde19c240a9, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 365d60de-036e-41ea-9a0b-4fe44ce87fcd) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group ac15d74a-2464-4e56-800d-1dde19c240a9: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(ac15d74a-2464-4e56-800d-1dde19c240a9, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 365d60de-036e-41ea-9a0b-4fe44ce87fcd) already exists"}
+📊 Progress: 9/10 completed.
+⚠️ Request failed (Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(635a6e5b-c6e9-48a2-bb79-013b20a38712, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 29383bd0-2517-4749-bb2b-f80dd00241bc) already exists"}) — attempt 3/3 — giving up
+❌ Failed to patch roles for existing group 635a6e5b-c6e9-48a2-bb79-013b20a38712: Patch roles failed: 422 - {"code":422,"message":"Item with (group_id, role_id, account_id)=(635a6e5b-c6e9-48a2-bb79-013b20a38712, 1544916c-0ce0-4042-a8e5-6e18042c73b7, 29383bd0-2517-4749-bb2b-f80dd00241bc) already exists"}
+📊 Progress: 10/10 completed.
+
+✅ All done.
+Total brands: 10
+Created & roles assigned: 0
+Existing groups updated (roles assigned): 10
+Skipped (no azId): 0
+Failed: 0

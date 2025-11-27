@@ -1,0 +1,184 @@
+🔧 Will process 62 row(s) from CSV: C:\Users\Azath.A\os\mul\2\clients.csv
+
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: Heathrow Airport (markets: United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): 4ae4dd4f-8c18-45e5-9e0d-3672319f9d02
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': cd038974-da85-417a-9ab7-112a78ded3ac
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Helen (markets: Belgium)
+   ✅ First assignmentId (client/brand): d4d95470-6a78-42b7-872d-19cda8ac0ff0
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'Belgium': 9aeb12a7-18ad-4302-9c68-b697ff8d3fbe
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Helkama Velox (markets: Finland)
+   ✅ First assignmentId (client/brand): becab5b8-d5b0-4985-8c63-f5af0d178fbf
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Finland': acf64486-6987-4fdf-ae58-f18345ea3745
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Helly Hansen (markets: Norway, United States of America)
+   ✅ First assignmentId (client/brand): 44fd1cd4-11e9-4d44-a1ba-feebe08ec567
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Norway': a98d8fa0-2559-496c-808c-1629b7c4aab5
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': fd0743d3-12cb-4f20-a04d-de1c8f63a79f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Helpage (markets: India)
+   ✅ First assignmentId (client/brand): d9a3ebfa-2a13-4f2c-ab4e-19a9e5f87c21
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': e20f86f7-d470-4850-ab10-67107df94491
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hemk p (markets: Sweden)
+   ⚠️ Client/Brand node not found for 'Hemk p'. Skipping.
+— Processing client: Henkel (markets: Australia, Belgium, Czech Republic, France, Italy, Lithuania, Netherlands, New Zealand, Portugal, Spain, Switzerland, United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): 6b337e6e-76d6-4f88-83d6-95ad52cd98c0
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 7eb5f3b1-8a37-458c-8908-52474feb89fa
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Belgium': fb49a1f3-2332-45e1-a06f-a8537939ab3e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Czech Republic': ef69ec83-b0af-4084-9bea-4d01092308e3
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': 8f51270b-a21c-43e2-aeec-469b6efab0a4
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Italy': 34b00aeb-f424-4283-89f5-c0e9d8dafd72
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Lithuania': ceff3ce7-fe5b-460f-aac7-60b375ffc421
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 5befa9eb-11a0-4c63-b42f-01c5637059b5
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'New Zealand': f4e5a2cd-9a2b-426a-8fda-772e3d8fe055
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Portugal': 40267507-04c3-4320-b533-225503a70313
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Spain': 0318555a-690e-4e5f-9b89-b6b804dd27b1
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Switzerland': d4dceebf-9b5a-4861-87c1-e2410ef4243d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': bf0af6c6-e50a-407c-bdc6-1301847f3610
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Herbalife Nutrition (markets: India)
+   ✅ First assignmentId (client/brand): bc289e4e-a22a-4e11-8eda-94ae88a7ad5c
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 235e1e45-a270-4a40-9ea7-20cc307b9525
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hermes (markets: France)
+   ✅ First assignmentId (client/brand): 6d14ce1e-f177-4ce4-bedb-c7b79da0e374
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': b9b27547-a965-4cad-985b-ca1d8cfbf053
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Herm s (markets: Taiwan)
+   ⚠️ Client/Brand node not found for 'Herm s'. Skipping.
+— Processing client: Hero (markets: Portugal)
+   ✅ First assignmentId (client/brand): 822c8dbf-9514-4312-8b91-0d900051935a
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 243777ea-0a74-44bb-8076-07d4debc87d7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hero Baby (markets: Turkey)
+   ✅ First assignmentId (client/brand): 80bed807-ff2b-461d-8b20-2ff91ba0d6b8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Turkey': c506dbfb-fe8a-489d-b9fb-017ef36a268c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hero Cycles (markets: India)
+   ✅ First assignmentId (client/brand): d9b02b69-4e3c-4060-8b21-2643d37eb5a7
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 2aadf1f6-76ee-4198-8353-a373bced0b1b
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hero Fincorp (markets: India)
+   ✅ First assignmentId (client/brand): a1edd747-6632-46c2-a919-309d00b85973
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 92b38545-5437-4962-846b-c51e73ea0ae9
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hero G?da (markets: Turkey)
+   ⚠️ Client/Brand node not found for 'Hero G?da'. Skipping.
+— Processing client: Hero MotoCorp (markets: India)
+   ✅ First assignmentId (client/brand): b7a41bfb-9b21-4681-97e2-b60f00809582
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 2035000a-64a4-40ae-98e4-7e43682bad2a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Heron (markets: Greece)
+   ✅ First assignmentId (client/brand): 04cd2354-6521-4b2e-b8b4-41d2ec628af9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Greece': c8b16873-34e2-4ecf-aadc-e0e0bb03c7e7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hey, Banco (markets: United States of America)
+   ✅ First assignmentId (client/brand): 9dfeadd8-88ec-464e-9807-d70ca108f3fa
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United States of America': 163f13bc-2ee8-4c9e-9f32-e5e369c6ff24
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: HeyCar (markets: France)
+   ✅ First assignmentId (client/brand): 01b75785-8cf6-4469-8b8e-0891622ea80e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': ee5f8d5c-4076-41a6-bc13-83684a8b2f81
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Hill's Pet Nutrition (markets: Australia, Belgium, Bulgaria, Canada, Chile, Colombia, Czech Republic, Denmark, France, Germany, Greece, Hong Kong, Hungary, Israel, Italy, Japan, Netherlands, Norway, Peru, Poland, Romania, Russian Federation, Saudi Arabia, South Korea, Sweden, Taiwan, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America)
+   ✅ First assignmentId (client/brand): 545111e3-791b-4b45-92e1-0711d9121cb8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 8d6ac540-061e-459e-8433-c19ce54abe8c
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Belgium': 1e8956e5-b3dc-4881-82be-83ff40b51259
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Bulgaria': ef3da537-c05c-49e5-8870-52311fc454e2
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Canada': 9f6a76c1-690a-4b28-9d05-a33a017e0165
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Chile': 1fe73ff5-1f42-4a9b-9e47-dd75362ad683
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Colombia': a94c14f9-325e-45f7-aaa9-0a600d663493
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Czech Republic': 3ed48e16-bd33-4944-8cb1-ecf07fe3f1cc
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Denmark': ccb25eb4-9fe9-4679-9efa-cdc5f07fd318
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': f99703be-bb92-4b3b-a648-bf3b7e2e8029
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': cad310ba-9bf1-4de6-9f8f-3510c9f7f0af
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Greece': 793ea5af-32c9-4583-be8d-ba43d998993f
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hong Kong': 225c51a7-d449-495b-855e-06438f217063
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hungary': 7684dc4f-1b22-4e18-9074-8c9b7d9e6cb2
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Israel': e5425f98-f277-40fb-b680-718a04d661a6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 34d395c8-22e8-4707-a583-5c8c04f05482
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Japan': 49638c30-2df2-4155-b2d1-ff9a66a0b728
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': b36aa9a8-65f7-4277-9295-cc1a18e114c6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Norway': e13384ed-62d9-4d58-880a-06a98c844aa6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Peru': b2e32357-131f-4bb7-b34a-f9a15845b98b
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Poland': 76393497-b701-4955-a613-0e40ad1a5f2e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Romania': 03cf6a77-f07d-4242-8d87-a292a4ae9bba
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Russian Federation': ac532a3f-8912-4a18-bb06-7ae3280d6c16
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Saudi Arabia': a681f313-3332-4da4-a760-21787c37d3f7
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'South Korea': eaa325d8-d4da-4072-8017-645cebe59c9c
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Sweden': 30480638-18a3-4eaa-ae2e-6716af1bb9b8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Taiwan': 1fdd358b-086f-4a0d-84bb-1a7291108cea
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Turkey': 26e0304b-112f-4e16-894c-a840e0019818
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Arab Emirates': ca649fac-c5fe-495e-94ba-0d6e62652961
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': 23361d96-e813-4423-9587-f1dc0af10c9e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': 81652874-26e5-4052-9074-5e95c6187e76
+   → POST #2 status: 200 ✅ (Template applied to market)
+
+📊 Summary:
+   - Unique clients processed: 17
+   - Unique markets processed: 58
+   - Total rows in CSV: 62
+
+🏁 Done.

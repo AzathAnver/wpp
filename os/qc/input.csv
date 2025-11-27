@@ -1,164 +1,110 @@
-Market,Client,Brand,Category
-austria,Action Service & Distribution BV,Action,Retail
-austria,ACTUAL Fenster Tueren Sonnenschutz,ACTUAL Fenster Tueren Sonnenschutz,Home Appliances
-austria,ADLER-Werk Lackfabrik,Adler,Household Items
-austria,Afro Coffee,Afro-Coffee,Drinks (non-alcoholic)
-austria,Air Up,air up,Drinks (non-alcoholic)
-austria,AkzoNobel,AkzoNobel Coating,Home Appliances
-austria,Amt der NOE Landesregierung,Amt der NOE LR,GOVERNMENT
-austria,Asset Management by froots,Asset Management,Finance
-austria,Be The Change Flexible Company,Be The Change Flexible Company,Entertainment & media
-austria,Beijing Sankuai Online Technology Co. Ltd,Beijing Sankuai Online Technology Co. Ltd,Technology
-austria,Bionorica,Bionorica Austria,Healthcare
-austria,Bolton Group,Bolton,Food
-austria,Bosch,Bosch,Home Appliances
-austria,Bosch,Siemens,Home Appliances
-austria,Bosch,Neff,Home Appliances
-austria,Bosch,Gaggenau,Home Appliances
-austria,Breuninger,Breuninger,Fashion
-austria,Campari,Aperol,Drinks (alcoholic)
-austria,Campari,Sarti,Drinks (alcoholic)
-austria,Campari,Crodino,Drinks (alcoholic)
-austria,Campari,Averna,Drinks (alcoholic)
-austria,Carglass,Carglass,Automotive
-austria,CC Real,CC Real,Real Estate
-austria,Continental,Continental Aftermarket & Services,Automotive
-austria,Continental,Continental Reifen Deutschland,Automotive
-austria,Continental,Continental,Automotive
-austria,CP GABA,Elmex,Oral Care
-austria,CP GABA,Meridol,Oral Care
-austria,CP GABA,Colgate,Oral Care
-austria,Die Presse VerlagsgesmbH. & CO KG,Die Presse VerlagsgesmbH. & CO KG,Entertainment & media
-austria,Die Tafel Oesterreich - der Verein fuer sozialen Transfer,Die Tafel,CHARITIES
-austria,Direct Parcel Distribution,Direct Parcel Distribution,General Services
-austria,dm drogerie markt ,dm,Retail
-austria,Dr Oetker,Conditorei Coppenrath & Wiese KG,Food
-austria,Dr Oetker,Dr Oetker,Food
-austria,Dr Oetker,Henkell,Drinks (alcoholic)
-austria,Dr. C. Soldan Vertriebs,em-eukal,Food
-austria,Duering AG,Duering,Home Appliances
-austria,EA Swiss Sarl,EA Swiss Sarl,Home Entertainment
-austria,Emmi ,Emmi ,Drinks (non-alcoholic)
-austria,Epamedia - Europaeische Plakat- und Aussenmedien,Epamedia - Europaeische Plakat- und Aussenmedien GmbH,Entertainment & media
-austria,Erste Group,Erste Bank,Finance
-austria,Euronics,Euronics,Home Appliances
-austria,Explora Journeys,Explora Journeys,Travel
-austria,FAIRTRADE Oesterreich,Fairtrade,Food
-austria,FAIRTRADE Oesterreich,Immobilien Scout Oesterreich,Real Estate
-austria,Felix Austria GesmbH,Felix Austria ,Food
-austria,Ferrero,Ferrero,Food
-austria,Filmladen ,Filmladen,Entertainment & media
-austria,Finanzgruppe,Teambank,Finance
-austria,Finanzgruppe,Union Investment,Finance
-austria,Fressnapf,Fressnapf Handels,Pet Care
-austria,Freytag-Berndt und Artaria KG,Freytag-Berndt und Artaria KG,Travel
-austria,Geberit,Geberit,Home Appliances
-austria,Gebro Pharma,Alpinamed,Healthcare
-austria,Grazer Wechselseitige Versicherung AG,Grazer Wechselseitige,Finance
-austria,Gruene Wirtschaft,Gruene Wirtschaft,General Services
-austria,H&M,H&M,Fashion
-austria,HAAI,HAAI,Consumer Electronics
-austria,Hachette,Hachette,Entertainment & media
-austria,Handl Tyrol,Handl Tyrol,Food
-austria,Haribo,Haribo,Food
-austria,Heimbau,Heimbau,Real Estate
-austria,Hofer,Hofer,Retail
-austria,Honor Technologies,Honor,Telecoms
-austria,Joh. Alex Niernsee AG,Joh. Alex Niernsee AG,Home Appliances
-austria,Kapsch TrafficCom AG,Kapsch TrafficCom AG,Automotive
-austria,Karriere.at,Karriere.at,Automotive
-austria,Katjes Fassin,Katjes Fassin,Food
-austria,KRONE-Verlag GmbH & Co,Krone,Entertainment & media
-austria,KSV1870 Holding AG,KSV1870 Holding AG,General Services
-austria,Kwizda Pharma ,Kwizda Pharma ,Healthcare
-austria,Lagerhaus Franchise,Lagerhaus,Retail
-austria,Lavazza,Lavazza,Drinks (non-alcoholic)
-austria,Lexus,Lexus,Automotive
-austria,Lufthansa,Austrian Airlines,Travel
-austria,M&D Restaurant Development,M&D Restaurant Development,Automotive
-austria,Markilux,Markilux,Household Items
-austria,Mautner Markhof,Mautner Markhof,Food
-austria,McArthurglen,McArthurGlen,Retail
-austria,mfi Immobilien Marketing,mfi Immobilien Marketing,Real Estate
-austria,Milford Tee Austria Gesellschaft m.b.H.,Milford,Drinks (non-alcoholic)
-austria,Mona Naturprodukte ,Mona,Food
-austria,MSC Cruises,MSC,Travel
-austria,Muenze Oesterreich AG,Muenze Oesterreich AG,Finance
-austria,Neuburger GmbH&Co OG,Neuburger GmbH&Co OG,Food
-austria,NOE Landesgesundheitsagentur,NOE Landesgesundheitsagentur,GOVERNMENT
-austria,Novo Nordisk,Novo Nordisk,Healthcare
-austria,NV Niederoesterreichische Versicherung AG,NV Niederoesterreichische Versicherung AG,Finance
-austria,oekostrom ,oekostrom,Utilities
-austria,Oesterreichische Bundesbahn,OEBB,Travel
-austria,Oesterreichische Bundesforste AG,Oesterr. Bundesforste,Organisations & associations
-austria,Oesterreichische Nationalbank,Oesterreichische Nationalbank,Finance
-austria,OMV Group,OMV Aktiengesellschaft,Utilities
-austria,OMV Group,OMV Downstream,Utilities
-austria,Otto group,Otto Austria Group,Fashion
-austria,Pappas Holding,Pappas,Automotive
-austria,Pearle ,Pearle,Retail
-austria,Peek & Cloppenburg,Peek & Cloppenburg,Fashion
-austria,Pelpharma Handels ,Pelpharma Handels GmbH,Healthcare
-austria,Perfetti Van Melle,Mentos,Food
-austria,Pfizer,Pfizer,Healthcare
-austria,Princes Foods,Princes,Food
-austria,Red Bull,Red Bull,Drinks (non-alcoholic)
-austria,Red Bull,Red Bull MOBILE,Telecoms
-austria,REWE,ADEG,Retail
-austria,REWE,BIPA,Retail
-austria,REWE,Oe-Bonus Club,Retail
-austria,REWE,REWE Eigenmarken,Food
-austria,REWE,Penny,Retail
-austria,REWE,BILLA Reisen,Travel
-austria,REWE,BILLA,Retail
-austria,Roche Diagnostics International,Roche,Healthcare
-austria,ROLEX,ROLEX,Jewellery
-austria,Rolf Benz AG & Co. KG,Rolf Benz,Home Appliances
-austria,Rupa Werbe GesmbH,Rupa Werbe GesmbH,General Services
-austria,Sanova,Oekopharm,Healthcare
-austria,Sanova,similasan,Healthcare
-austria,Savencia,Savencia Fromage & Dairy,Food
-austria,Selfstorage,SelfStorage Dein Lagerraum,Real Estate
-austria,Silhouette International,Silhouette,Fashion
-austria,Sketchers,Sketchers,Fashion
-austria,Smile Insurance & IT Solutions ,Smile Insurance & IT Solutions ,Finance
-austria,Smyths Toys,Smyths Toys,Retail
-austria,SONY,Sony Europe B.V.,Home Entertainment
-austria,SONY,Sony Interactive Entertainment ,Home Entertainment
-austria,SP United Vertriebs,SP Connect,Home Appliances
-austria,Spar,HERVIS,Sports
-austria,Spar,INTERSPAR,Retail
-austria,Spar,SPAR,Retail
-austria,Spar,SPAR Direkt,Retail
-austria,Sutterluety Handels ,Sutterluety Handels ,Retail
-austria,Technisches Museum Wien,Technisches Museum Wien,Entertainment & media
-austria,Teekane Holding GmbH,Teekanne,Drinks (non-alcoholic)
-austria,Tempur Sealy,Temper-Pedic/Sealy,Household Items
-austria,Thalia,Thalia,Retail
-austria,Therme Wien GmbH & Co KG,Therme Wien,Travel
-austria,TJX ,TK Maxx,Restaurants
-austria,T-Mobile ,Magenta,Telecoms
-austria,Toyota,Toyota,Automotive
-austria,TUI,TUI Cruises,Travel
-austria,Unibail Rodamco,Donauzentrum,Retail
-austria,Unibail Rodamco,Shopping City S d,Retail
-austria,Unibail Rodamco,Unibail-Rodamco-Westfield,Retail
-austria,Unicef,UNICEF,CHARITIES
-austria,UNIQA,UNIQA,Healthcare
-austria,UNIQA Insurance Group AG,Mavie,Healthcare
-austria,UNIQA Insurance Group AG,RUDI,General Services
-austria,Universal Pictures,UPI,Entertainment & media
-austria,VAV - Versicherungs-Aktiengesellschaft,VAV,Healthcare
-austria,Verein Fachhochschule Technikum Wien,Verein Fachhochschule Technikum Wien,EDUCATION
-austria,Vierpfoten,Vierpfoten,CHARITIES
-austria,VOEIG - Vereinigung Oesterreichischer Investmentgesellschaften,VOEIG,Organisations & associations
-austria,voestalpine ,voestalpine ,General Services
-austria,WARNER BROS. Discovery,WARNER BROS. Discovery,Entertainment & media
-austria,Wiener Arbeitnehmerinnen Foerderungsfonds (waff),Wiener Arbeitnehmerinnen Foerderungsfonds (waff),General Services
-austria,Wiener St dtische Versicherung,Wr. Staedtische,Finance
-austria,Willhaben Internet Service ,Willhaben.at,General Services
-austria,Woerwag Pharma,Woerwag Pharma,Healthcare
-austria,WOJNAR Beteiligungs,WOJNAR Beteiligungs,Food
-austria,Wolfgang Denzel Auto AG,Wolfgang Denzel Auto AG,Automotive
-austria,Yakult,Yakult,Drinks (non-alcoholic)
-austria,ZEV - Nah&Frisch Marketingservice GmbH,Nah&Frisch,Retail
+Client,Market,Brand,Category
+New Originals,Slovakia,Lunter,Food
+Vaclav Cizek,Slovakia,Pilot Frixion,Household Items
+Hubert J.E.,Slovakia,Hubert ,Drinks (alcoholic)
+Hubert J.E.,Slovakia,KBS,Drinks (alcoholic)
+Hubert J.E.,Slovakia,Mionetto,Drinks (alcoholic)
+Hubert J.E.,Slovakia,Vitis,Drinks (alcoholic)
+Douglas,Slovakia,Douglas parfumery,Retail
+Continental,Slovakia,Continental ,Automotive
+Continental,Slovakia,Matador,Automotive
+Elanco,Slovakia,Elanco/ Foresto & Advantix,Pet Care
+Madeta,Slovakia,Lipanek,Food
+Madeta,Slovakia,Syr na panev,Food
+PPG Industries,Slovakia,Primalex,Household Items
+PPG Industries,Slovakia,Balakryl,Household Items
+PPG Industries,Slovakia,Dum barev,Household Items
+UNIQA Insurance Group AG,Slovakia,Uniqa,Finance
+Dr Oetker,Slovakia,Bistro,Food
+Dr Oetker,Slovakia,Drozdie,Food
+Dr Oetker,Slovakia,Kase,Food
+Dr Oetker,Slovakia,Pizza,Food
+Dr Oetker,Slovakia,Vanilka,Food
+Dr Oetker,Slovakia,Kakao,Food
+Slovak Telekom,Slovakia,Pausal,Telecoms
+Slovak Telekom,Slovakia,Magio TV,Telecoms
+Slovak Telekom,Slovakia,Magio Internet,Telecoms
+Slovak Telekom,Slovakia,Magenta Moments,Telecoms
+Slovak Telekom,Slovakia,B2B,Telecoms
+Slovak Telekom,Slovakia,Magenta 1,Telecoms
+Slovak Telekom,Slovakia,Image,Telecoms
+Slovak Telekom,Slovakia,CSR,Telecoms
+Slovak Telekom,Slovakia,Easy,Telecoms
+Slovak Telekom,Slovakia,ESG,Telecoms
+Slovak Telekom,Slovakia,Disney+,Telecoms
+Slovak Telekom,Slovakia,Click Security,Telecoms
+Slovak Telekom,Slovakia,Netflix,Telecoms
+Slovak Telekom,Slovakia,HW Samsung,Telecoms
+Slovak Telekom,Slovakia,HW Xiaomi,Telecoms
+Slovak Telekom,Slovakia,HW Motorola,Telecoms
+Slovak Telekom,Slovakia,5G,Telecoms
+Slovak Telekom,Slovakia,DIGI,Telecoms
+Slovak Telekom,Slovakia,CX,Telecoms
+Slovak Telekom,Slovakia,Wi-fi,Telecoms
+Slovak Telekom,Slovakia,Mobile Network,Telecoms
+Slovak Telekom,Slovakia,SWIPE,Telecoms
+Slovak Telekom,Slovakia,Roaming,Telecoms
+Slovak Telekom,Slovakia,T-phone,Telecoms
+Slovak Telekom,Slovakia,Telekom Night Run,Telecoms
+Teekanne,Slovakia,Image,Food
+AMC,Slovakia,AMC,Entertainment & media
+AMC,Slovakia,TV Spektrum,Entertainment & media
+AMC,Slovakia,"Sport1, Sport2",Entertainment & media
+Bonduelle Group,Slovakia,Bonduelle ,Food
+Campari,Slovakia,Aperol,Drinks (alcoholic)
+F&F,Slovakia,F&F,Fashion
+Glenmark,Slovakia,Ataralgin,Healthcare
+Glenmark,Slovakia,Revitanerv,Healthcare
+Glenmark,Slovakia,Cetalgen,Healthcare
+Glenmark,Slovakia,Alfasilver,Healthcare
+Gyn-Fiv,Slovakia,Gyn-Fiv,Healthcare
+Gyn-Fiv,Slovakia,Nadejna rodina,Healthcare
+I.D.C. Holding,Slovakia,Lina,Food
+I.D.C. Holding,Slovakia,Mila,Food
+I.D.C. Holding,Slovakia,Horalky,Food
+I.D.C. Holding,Slovakia,Rodinne,Food
+I.D.C. Holding,Slovakia,"Kavenky, Kakaove rezy, Vesna",Food
+I.D.C. Holding,Slovakia,Verbena,Food
+I.D.C. Holding,Slovakia,Pedro,Food
+Kondela,Slovakia,Kondela,Household Items
+NAOS,Slovakia,NAOS,Personal Care
+Sarantis,Slovakia,Fino,Household Items
+Sarantis,Slovakia,Indulona,Household Items
+Provida,Slovakia,Program Buddy,Charities
+Slovenska sporitelna,Slovakia,Image,Finance
+Slovenska sporitelna,Slovakia,B2B,Finance
+Decathlon,Slovakia,Decathlon,Retail
+Kuehne+Nagel,Slovakia,Kuehne+Nagel,Automotive
+Honor,Slovakia,Honor,Consumer Electronics
+Dm Drogerie Markt,Slovakia,Dm Drogerie Markt,Retail
+Jeronimo Martins,Slovakia,Jeronimo Martins,Retail
+Orange Group,Slovakia,Orange Slovensko,Telecoms
+Plzensky prazdroj,Slovakia,Pilsner Urquell,Drinks (alcoholic)
+Plzensky prazdroj,Slovakia,Birell,Drinks (non-alcoholic)
+Plzensky prazdroj,Slovakia,Radegast,Drinks (alcoholic)
+Plzensky prazdroj,Slovakia,Saris,Drinks (alcoholic)
+Plzensky prazdroj,Slovakia,Peroni,Drinks (alcoholic)
+Plzensky prazdroj,Slovakia,Captain Jack,Drinks (alcoholic)
+SkyShowtime,Slovakia,SkyShowtime,Home Entertainment
+PKN Orlen,Slovakia,Orlen,Automotive
+PKN Orlen,Slovakia,Stop Cafe,Restaurants
+Deichmann,Slovakia,Deichmann,Fashion
+Viva,Slovakia,Viva,Household Items
+VSZP,Slovakia,VsZP,Finance
+Bestdrive,Slovakia,Bestdrive,Automotive
+Nivy,Slovakia,Stanica Nivy,Retail
+Haribo,Slovakia,Goldenbaren,Food
+St. Nicolaus,Slovakia,Nicolaus vodka,Drinks (alcoholic)
+St. Nicolaus,Slovakia,Zbojnicka,Drinks (alcoholic)
+St. Nicolaus,Slovakia,Professorado,Drinks (alcoholic)
+St. Nicolaus,Slovakia,Budis,Drinks (non-alcoholic)
+St. Nicolaus,Slovakia,Gemerka,Drinks (non-alcoholic)
+UNION poistovna,Slovakia,UNION Zdravotna poistovna,Finance
+UNION poistovna,Slovakia,UNION poistovna,Finance
+Prosight,Slovakia,Prosight,Finance
+AAA Auto,Slovakia,AAA Auto Service,Automotive
+Vesely,Slovakia,Vesely Eye Clinic,Healthcare
+Gymbeam,Slovakia,Gymbeam,Retail
+Lentiamo,Slovakia,Lentiamo,Retail
+Outlet Center Parndorf,Slovakia,Parndorf,Retail
+Action Service & Distribution B.V.,Slovakia,Action,Retail

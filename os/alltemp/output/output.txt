@@ -1,16 +1,21 @@
-🔧 Will process 1 row(s) from CSV: C:\Users\Azath.A\os\alltemp\clients.csv
+🔧 Will process 10 row(s) from CSV: C:\Users\Azath.A\os\alltemp\clients.csv
 
-— Processing client: AIA (markets: Sri Lanka)
-   ✅ First assignmentId (client/brand): af2daf50-d6a1-4455-8047-1e3e0e92a061
-   → POST #1 status: 404 ❌
-     Response: {'detail': "Item not found by id=UUID('5b70c042-3d19-4fbe-ba89-d7c873ea4b58')"}
-   ✅ Processing market 'Sri Lanka': 2e1e21d0-2a83-4bf0-9fcc-67817fd55556
-   → POST #2 status: 404 ❌
-     Response: {'detail': "Item not found by id=UUID('5b70c042-3d19-4fbe-ba89-d7c873ea4b58')"}
-
-📊 Summary:
-   - Unique clients processed: 0
-   - Unique markets processed: 0
-   - Total rows in CSV: 1
-
-🏁 Done.
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: CIB Bank (markets: Hungary)
+   ✅ First assignmentId (client/brand): 30a6d74d-4ff7-4eef-b274-f68557559e6f
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hungary': 6806acd9-2b2a-4bdf-bef1-a34a32b4c1f6
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Cin Sa (markets: Portugal)
+   ✅ First assignmentId (client/brand): b5c265df-3515-4feb-add2-6e69a2cd49b8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 81afba54-9c97-42ac-bab9-0cd8b51bff52
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Cinch (markets: United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): f29894b5-88df-45bb-bf11-3af47a66ed5b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': 65e856f1-780b-425e-90e3-d4d9ed078fda
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Cinema First (markets: United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): e4fa9a86-52c6-4dcf-8256-9c942cc7315b

@@ -1,10 +1,347 @@
-🔧 Will process 1 client(s). Market: Sri Lanka
+🔧 Will process 58 client(s). Market: Spain
 
-— Processing client: Diesel & Motor Engineering
-   ✅ First assignmentId (client/brand): 5e11ff64-4752-4c43-8755-7eebc6a1ba46
-   ✅ Second assignmentId (market=Sri Lanka): fa9cea99-f523-4913-b75e-283c3ef58828
+— Processing client: Cinfa
+   ✅ First assignmentId (client/brand): b7fc1c95-7fe5-4aee-ab93-b0788238b5bc
+   ✅ Second assignmentId (market=Spain): 10266309-a183-443f-b3f6-f26a95b9907b
    → POST #1 status: 400 ❌
      Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
    → POST #2 status: 200 ✅
+— Processing client: Clave 2 - A Contracorriente
+   ✅ First assignmentId (client/brand): 71eef39d-1b19-4ab9-a032-588ebd39ff3c
+   ✅ Second assignmentId (market=Spain): 1737c986-01f3-433f-a537-81948645f848
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Clave 2 - Flins & Piniculas
+   ✅ First assignmentId (client/brand): 34f35880-9f1d-48cb-a1c2-03b0ee988ec6
+   ✅ Second assignmentId (market=Spain): f5bb2603-988c-46d9-90db-ad6604c026ab
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Cofidis
+   ✅ First assignmentId (client/brand): 639b7c68-77d4-4425-8b41-bb001b43f282
+   ✅ Second assignmentId (market=Spain): a802eb28-12a6-4e33-8357-65905086c8d2
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Continental
+   ✅ First assignmentId (client/brand): 0911d76c-9bcb-43ec-a08b-dedc2d9385b7
+   ✅ Second assignmentId (market=Spain): a90d7172-2c42-4288-87f3-28176b5e68d3
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Conxemar
+   ✅ First assignmentId (client/brand): a8e12f2b-ed89-45da-93de-86888051d80c
+   ✅ Second assignmentId (market=Spain): a2249b94-3b1b-4b9e-88d2-e14b197069cf
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Costa Crociere
+   ✅ First assignmentId (client/brand): 44acf3fa-ad80-4ec1-a0e8-3ac20374b84e
+   ✅ Second assignmentId (market=Spain): b5e51604-01f0-41d8-93b7-955768c48562
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Dacsa
+   ✅ First assignmentId (client/brand): b2fdaaea-186e-4b37-b464-7842b67a37fe
+   ✅ Second assignmentId (market=Spain): dbd446bf-c4ca-429b-8972-cf8c72be243f
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Dia
+   ✅ First assignmentId (client/brand): c9320ed7-d797-4cd4-9a98-cd78ce7d382b
+   ✅ Second assignmentId (market=Spain): cd871fb9-e680-4781-aa91-a11725912dbb
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Diputacio de Barcelona
+   ✅ First assignmentId (client/brand): a7948388-f760-4e60-bd2f-b7adece4e870
+   ✅ Second assignmentId (market=Spain): 48971dd0-f0bd-48a7-be61-4fdaf3ea9bf3
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: DISA
+   ✅ First assignmentId (client/brand): fb1ea568-d75c-429e-88a8-4430361a2428
+   ✅ Second assignmentId (market=Spain): ec6ce041-b645-4ea8-8e49-1e406b1a1a98
+   → POST #1 status: 200 ✅
+   → POST #2 status: 200 ✅
+— Processing client: Dr Oetker
+   ✅ First assignmentId (client/brand): 4bcdef58-409e-462c-ace5-c4c353698e1e
+   ✅ Second assignmentId (market=Spain): 8a65df51-aba3-48d2-9e31-72c52ec06c68
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Duracell
+   ✅ First assignmentId (client/brand): c9fd79f7-1571-4869-8c77-20d6344d606d
+   ✅ Second assignmentId (market=Spain): a880ab23-1aa9-4feb-a449-770f54a64054
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: EA Swiss Sarl
+   ✅ First assignmentId (client/brand): 3600ec38-a526-485c-a9f6-5f817d80df1d
+   ✅ Second assignmentId (market=Spain): 7208f77e-3668-453d-8d8c-f031f84ddfc3
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: EasyJet
+   ✅ First assignmentId (client/brand): 6e67495e-5844-4e73-87da-8effd6433342
+   ✅ Second assignmentId (market=Spain): 22fca87a-e4c5-42b9-a76c-c87aca7d628f
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: El Corte Ingles
+   ✅ First assignmentId (client/brand): d72b3e7a-bb24-48be-841d-af792ec199bb
+   ✅ Second assignmentId (market=Spain): 86a26696-6969-44db-8454-157cf4b6d713
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Electronic Arts
+   ✅ First assignmentId (client/brand): 2cb734a3-0cea-43ce-a324-48db260b5e4f
+   ⚠️ Could not resolve Germany Market for 'Electronic Arts': Market 'Spain' with client 'Electronic Arts' not found.
+— Processing client: Endesa
+   ✅ First assignmentId (client/brand): cdeadd64-6005-46c4-9696-9cb47793edf7
+   ✅ Second assignmentId (market=Spain): 78ac5fd3-8a37-43cc-9095-b34cff6eceeb
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Eneryeti Company
+   ✅ First assignmentId (client/brand): 6f53ad95-0adc-431a-bf8e-80391d09f861
+   ✅ Second assignmentId (market=Spain): 7f8ec0d0-9407-4033-badd-b26dd1994baf
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: EPOCH
+   ✅ First assignmentId (client/brand): cfd05d76-b918-4335-a3f7-d7ce7d239b47
+   ✅ Second assignmentId (market=Spain): 286baf65-9654-4224-885f-ae07c55d1468
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: EssilorLuxottica
+   ✅ First assignmentId (client/brand): bab1841a-1e00-4c96-afc1-a43407997c89
+   ✅ Second assignmentId (market=Spain): 920b8106-e17a-466d-89de-d39872e7c14f
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: EXPLORA
+   ✅ First assignmentId (client/brand): 6d4d67e5-1342-4ae0-94c6-cc574664fc93
+   ✅ Second assignmentId (market=Spain): aa4f1f0c-a358-46fa-adad-a64225703231
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Ferrer
+   ✅ First assignmentId (client/brand): b3e31cc6-2cf7-4fc4-a245-779eb5215d33
+   ✅ Second assignmentId (market=Spain): ca416349-9f42-4719-a663-54c69c37d25b
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Ferrero
+   ✅ First assignmentId (client/brand): 3cf209b9-8370-4873-bb9b-1609ab493476
+   ✅ Second assignmentId (market=Spain): 991c39ef-ba89-4c69-ac8e-c7d64c165f89
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Risi
+   ✅ First assignmentId (client/brand): 5e305a4e-ded4-4dbf-b9f4-6ef5b91e3613
+   ✅ Second assignmentId (market=Spain): 37cc77f9-c42e-4a2d-8744-5c4414f9fad7
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: RIU
+   ✅ First assignmentId (client/brand): c78d4997-7515-48d4-b54f-ba3fe51df11d
+   ✅ Second assignmentId (market=Spain): 40f89ff5-c557-4b29-b6de-b5080b219524
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Rodilla
+   ✅ First assignmentId (client/brand): f0aa10c0-8d45-4ce6-9bdf-730cc821f3f7
+   ✅ Second assignmentId (market=Spain): b5c4279d-d844-46cd-870c-74bc0cf7b2f9
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Rolex
+   ✅ First assignmentId (client/brand): 4c7a84f7-ec33-4c34-99d3-8e69a85ff6f8
+   ✅ Second assignmentId (market=Spain): 0f85e0e3-07dd-4da4-9687-b487cb591487
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Savencia
+   ✅ First assignmentId (client/brand): 19a95ee3-1eab-47fd-8d23-d5e8052adf94
+   ✅ Second assignmentId (market=Spain): 188dd0dc-8afc-4779-a689-79339d3acf5c
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Siemens
+   ✅ First assignmentId (client/brand): 8bcabefe-9f89-40fe-ba06-2e99f2727c4f
+   ✅ Second assignmentId (market=Spain): 7a7f39c5-001b-41e6-832e-2b8b387b29ac
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Skechers
+   ✅ First assignmentId (client/brand): 6c276df0-2c1c-446f-8b07-bffd57652371
+   ✅ Second assignmentId (market=Spain): 6031d3e6-e961-4d27-ac60-679d951d27d7
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: SkyShowtime
+   ✅ First assignmentId (client/brand): a199b137-69d9-4dfc-95aa-e49aafc1ee5d
+   ✅ Second assignmentId (market=Spain): 0b93adba-b3c4-45eb-bd22-afc386efb46d
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Sony
+   ✅ First assignmentId (client/brand): 745dee79-2142-4357-8a02-2be1b7ed4681
+   ✅ Second assignmentId (market=Spain): c77af250-0589-4fce-a9fc-2d0907b0d426
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Sony PlayStation
+   ✅ First assignmentId (client/brand): d6eaade8-66b2-4de0-a2bd-7eeb956df0e9
+   ✅ Second assignmentId (market=Spain): a20ac704-2691-4a20-9d21-ed6e48a21e60
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Spin Master
+   ⚠️ Client/Brand node not found for 'Spin Master'. Skipping.
+— Processing client: Stradivarius
+   ✅ First assignmentId (client/brand): a9a51cb3-26c5-4a54-aaec-a4d9e7a80996
+   ✅ Second assignmentId (market=Spain): 49cc509f-d2bb-4a2c-ade6-52c94ac2bda8
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Subway
+   ✅ First assignmentId (client/brand): 991cbb16-b976-463b-b36b-23c0532a44d3
+   ✅ Second assignmentId (market=Spain): 475be089-76aa-4d8a-9d94-01601c0b7611
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Suntory
+   ✅ First assignmentId (client/brand): bf6423d3-8d92-4cf1-bd2f-676447849678
+   ✅ Second assignmentId (market=Spain): 78836ccc-52a5-4819-9828-87997c286cdb
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Tactics Europe
+   ✅ First assignmentId (client/brand): 8a275054-3709-4717-8e39-acdce5cda583
+   ✅ Second assignmentId (market=Spain): 512ef310-9769-4a53-b031-6377498aad82
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Tempur
+   ⚠️ Client/Brand node not found for 'Tempur'. Skipping.
+— Processing client: Tendam
+   ✅ First assignmentId (client/brand): 1f4ac207-048a-47aa-a1a0-195d27654af3
+   ✅ Second assignmentId (market=Spain): 5f4bd65d-5e41-461a-973f-6f63bcb381ca
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Think Pharma
+   ✅ First assignmentId (client/brand): 55ad0af5-6f8b-42b9-a1a2-f6b0701dafd4
+   ✅ Second assignmentId (market=Spain): 4c7505f3-fabd-4262-af18-2e5bf4353792
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Too Good To Go
+   ✅ First assignmentId (client/brand): 39afb799-38af-4414-b592-d5834397cd72
+   ✅ Second assignmentId (market=Spain): aa3b7841-68ff-44f1-a004-7c3c020888b9
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: TotalEnergies
+   ✅ First assignmentId (client/brand): 3f161e97-dcae-45a9-9457-e382cde374bd
+   ✅ Second assignmentId (market=Spain): 71b0dc11-95f7-43a4-8f14-fd0147a08640
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Toyota
+   ✅ First assignmentId (client/brand): 6d19d8ed-29f0-4f4a-98ff-f761888cd01c
+   ✅ Second assignmentId (market=Spain): 9ad98e86-dc4b-47d8-8503-2dbe7999e9e2
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Trainline
+   ✅ First assignmentId (client/brand): 7fa4dcb2-8f60-44be-9715-3f1796997404
+   ✅ Second assignmentId (market=Spain): 454759de-30d7-4c87-a1de-af924d14f3b6
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: TROPS
+   ✅ First assignmentId (client/brand): 09e5fc82-9c84-487a-9aca-47ef655f0c96
+   ✅ Second assignmentId (market=Spain): f4d68548-58dc-4d1d-b659-c9879456ab7f
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Unidad Editorial
+   ✅ First assignmentId (client/brand): 6af499a2-a15c-4cbc-9382-b74074e87267
+   ✅ Second assignmentId (market=Spain): 591aef35-4baf-4155-a1d8-1db98e727522
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Velilla
+   ⚠️ Client/Brand node not found for 'Velilla'. Skipping.
+— Processing client: Vivanta
+   ✅ First assignmentId (client/brand): e9d744aa-ae57-492a-acbd-e415a44c5690
+   ✅ Second assignmentId (market=Spain): 53e7cd89-c624-476b-8ce1-4e024aac5928
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: VOG CONS.COOP
+   ✅ First assignmentId (client/brand): 93c490e4-c697-45dd-a658-bcdf5d9eeb14
+   ✅ Second assignmentId (market=Spain): b607f878-73d9-4d47-9b4f-3312d02db302
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Warner Bros. Discovery
+   ✅ First assignmentId (client/brand): 7c8be291-af27-4115-a4c4-39dcc7699e75
+   ✅ Second assignmentId (market=Spain): e65a49cd-e69d-481f-9b5e-0b2e3cbf7e15
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Wizink Bank S.A.
+   ✅ First assignmentId (client/brand): cac44590-02ae-403d-a33c-0ccbfa9c5d54
+   ✅ Second assignmentId (market=Spain): 664d655f-542c-4875-8a49-0adc21792d9f
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Wonders
+   ✅ First assignmentId (client/brand): 406d1aa9-22a7-481c-9225-6e822338f0a5
+   ✅ Second assignmentId (market=Spain): ce100658-a4f2-43be-9731-2a822ab33b4b
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: Xiaomi
+   ✅ First assignmentId (client/brand): cf8e753c-c472-4732-a427-e104dc7bd70a
+   ✅ Second assignmentId (market=Spain): a0d146c2-1d34-424d-9bec-b61f7ae01c7c
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Zespri
+   ✅ First assignmentId (client/brand): 32747ccb-c4cc-4285-8752-6db28b63a816
+   ✅ Second assignmentId (market=Spain): 70b0bd1f-29e0-4ec1-8ffe-bb83d088ed06
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 200 ✅
+— Processing client: Ziclotech/Cossori
+   ✅ First assignmentId (client/brand): 8e81df66-9703-441f-8a02-ad89d101d839
+   ✅ Second assignmentId (market=Spain): 4cac4ae5-3b4f-48c7-83f5-085faba9e32f
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+— Processing client: ZOHO
+   ✅ First assignmentId (client/brand): bb772d11-d581-4572-9344-b39da8ed45ee
+   ✅ Second assignmentId (market=Spain): c129bf14-098f-4557-9785-6a4467bc1bab
+   → POST #1 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
+   → POST #2 status: 400 ❌
+     Response: {'detail': 'Hierarchy node should be empty to apply/sync template'}
 
 🏁 Done.

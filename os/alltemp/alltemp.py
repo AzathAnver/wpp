@@ -9,11 +9,11 @@ from dotenv import load_dotenv
 # Config
 # --------------------
 TENANT_ID = "4c039217-7d17-4207-8314-98348983718a"
-TEMPLATE_ID = "271dc22b-ab65-4461-82fb-2dd923dc5ab0" #CG
+TEMPLATE_ID = "271dc22b-ab65-4461-82fb-2dd923dc5ab0" #CGandCP
 APPLY_URL = f"https://media.os.wpp.com/api/app-instances/templates/{TEMPLATE_ID}/apply/bulk"
 
 # App instances (unchanged)
-APP_INSTANCE_IDS = ["5be2e99a-f1dd-4bf1-ba39-97197186fc1f"]
+APP_INSTANCE_IDS = ["5be2e99a-f1dd-4bf1-ba39-97197186fc1f","1209fa17-49be-4c55-9719-ccd320461266"]
 
 # CSV path (can be overridden by CLI arg)
 CLIENTS_CSV_PATH = r"C:\Users\Azath.A\os\alltemp\clients.csv"

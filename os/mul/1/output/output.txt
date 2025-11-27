@@ -1,0 +1,121 @@
+🔧 Will process 26 row(s) from CSV: C:\Users\Azath.A\os\mul\1\clients.csv
+
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: Elta MD (markets: China)
+   ✅ First assignmentId (client/brand): 7f42bc15-fefb-4a37-bb00-9506ef49c60b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'China': a20d1b2c-310c-49a9-86aa-74c9e4925f17
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: EMAK (markets: Italy)
+   ✅ First assignmentId (client/brand): 4e39055a-2bf7-4dc6-9d28-fe7c345bb6f9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': 388f600f-9746-4d70-843e-6580681afc30
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Embark Studios (markets: United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): f2f32216-a8c2-4e62-be05-77e5605056e6
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': 87d94c5e-a9e1-45e0-b786-2ea0ab6ecf08
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Embassy Of Usa C/O - Jhpiego Corporation (markets: India)
+   ✅ First assignmentId (client/brand): bacb0464-852d-4e63-9a69-0fbf0fde36f3
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': bf254796-8100-4bd9-bafc-5b26e5ba0450
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Emirates NBD (markets: United Arab Emirates)
+   ✅ First assignmentId (client/brand): 8066d459-084a-44fb-91fc-147af4440652
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Arab Emirates': 4e920e0f-ec74-4d55-97b3-a6081ca24bee
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Emmi (markets: Switzerland)
+   ✅ First assignmentId (client/brand): bfe2b027-cb4e-4a1b-9144-f91815050adf
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Switzerland': 26ae4ed7-b4d2-4761-9b22-bb7fcbfe7568
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Enchanteur (markets: United Arab Emirates)
+   ✅ First assignmentId (client/brand): 34bc8389-6969-46f8-80e1-d3ba813e3adb
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Arab Emirates': e9097b98-8221-43ca-96ca-1c8ce9dc17ed
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Endowus (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 5f522f62-b36d-44d1-bcf9-b1991e901740
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 7ce07574-4b91-4d38-bc7c-d903965aa0a3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Eneco (markets: Belgium, Netherlands)
+   ✅ First assignmentId (client/brand): a2a34f9a-93be-4dcb-b6a4-5f76547ad2e9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 7ca160ec-b690-4dce-b686-8846b356ba81
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 8f8eef2f-8802-4926-917e-f0945a218a3d
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Enel (markets: Italy)
+   ✅ First assignmentId (client/brand): f0da8de0-191d-414b-9a39-024b41ee0150
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': ef567cec-0102-463d-9051-689a2a9a411f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Enervit (markets: Italy)
+   ✅ First assignmentId (client/brand): a76afaad-7610-4c4f-8c6f-e1f572e094bb
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': 7b3a824a-815a-4dae-96e9-99be0fc34671
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: EOLO (markets: Italy)
+   ✅ First assignmentId (client/brand): 55d207c9-d4b5-4b78-b56d-78df239f93bc
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': 80a46d5f-dd29-4687-8cd1-036df206259f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: EOS (markets: Poland)
+   ✅ First assignmentId (client/brand): 5fc505f2-a4a1-432b-95b1-1dde6f610736
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': c3eaa900-d216-4f54-90e8-49dc0ea1bd85
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Epson (markets: China)
+   ✅ First assignmentId (client/brand): 09d216ec-9883-4f1e-8a99-f7c2bb253033
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'China': e5514f6f-ac39-4444-afe3-6c36fbe85e67
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: EPX Uptech (markets: India)
+   ✅ First assignmentId (client/brand): d5019e8a-1f34-4cfe-a3f2-3528ca6ca0e7
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 7ad8d7bf-2cb4-45be-9de3-e8059472723f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Equilibra (markets: Italy)
+   ✅ First assignmentId (client/brand): 66f47ff3-a254-413c-8a9f-d7cf6b1bcaf0
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': cae76352-8314-4252-b7a1-1c14652259c7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Eridania (markets: Italy)
+   ✅ First assignmentId (client/brand): 34e6adf2-07af-4a92-84f8-c96431f94e87
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Italy': 5989ae19-48fd-4481-9412-5a8cf496db9e
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: ERLI (markets: Poland)
+   ✅ First assignmentId (client/brand): 02df81b4-190c-4fd4-a9b6-3c41cee5553b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': bbaed9f6-6771-4424-8eda-2cd315bc0c68
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Erste Bank (markets: Serbia)
+   ✅ First assignmentId (client/brand): bbfc1fdf-74a2-4241-bcb8-4e7e67e1b5f7
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Serbia': beeadb85-b0df-4ba2-b67c-a643f4885f79
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Erste Group (markets: Croatia, Czech Republic, Germany, Hungary, Romania)
+   ✅ First assignmentId (client/brand): e42e8dd6-5c72-43d4-bbec-4224640946ea
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Croatia': 3963b077-d70a-4370-aaa2-4da2467dedcc
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Czech Republic': f777aaff-cf92-455f-b912-be12934eb71a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': 787c144d-1399-44c3-968c-480f9566ccf7
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hungary': 0fe06783-cbe3-455a-bd77-9b9d4a2c7387
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Romania': d2aaf8b5-80bf-493e-961e-8c8a1763c211
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+
+📊 Summary:
+   - Unique clients processed: 20
+   - Unique markets processed: 25
+   - Total rows in CSV: 26
+
+🏁 Done.

@@ -1,0 +1,666 @@
+🔧 Will process 178 row(s) from CSV: C:\Users\Azath.A\os\mul\7\clients.csv
+
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: Transmeri (markets: Finland)
+   ✅ First assignmentId (client/brand): 52d0af1f-d433-4d43-b3d5-094145de5d60
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Finland': 1c97fa8b-7f2f-4046-a0af-48fb9e1ed03c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Travel Edge (markets: United States of America)
+   ✅ First assignmentId (client/brand): ff813c8f-4ab1-4497-be7a-19ae277d111b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United States of America': 0d9299c8-d4e9-4c58-9195-e8f1a39ab823
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Travel O Stories (markets: India)
+   ✅ First assignmentId (client/brand): fbde7396-09bb-42ac-8f9b-6ac385d1d6a2
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': c8535b3e-f736-4db2-8858-dc2c1b802ad0
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Treasury Wine Estates (markets: Australia)
+   ✅ First assignmentId (client/brand): c3238654-7f80-4a86-882f-c736a3175817
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': bb1f5dd8-8e8d-4bd1-b9b3-62594952f372
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Trendhim (markets: Belgium, Czech Republic, Denmark, France, Germany, Italy, Netherlands, Norway, Poland, Romania, Sweden, Switzerland)
+   ✅ First assignmentId (client/brand): 899c4557-b363-4007-a586-519592e15f1b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 1bf79501-2a3e-44b4-9283-e5daa21f97bb
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Czech Republic': fc6bd2d5-97a3-4429-9a2c-24676f2512b1
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Denmark': a3054ed4-c85d-4e1d-940a-7eb538e82965
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': fd1706d4-d9c6-4dd8-bf23-025ed064676a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': 65e95c75-1de0-4120-81e2-696f4de8cc9c
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': a88abec6-f0b7-4864-8e15-d225e4b87c8e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': ef8f9dc4-1857-4132-9aa7-4135c7828f73
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Norway': e001e9fc-6a2d-4644-b5a3-2d87057dda82
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Poland': 3dd264ed-457e-4d06-8354-c468673a6386
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Romania': 1af9ed27-cfe5-40d2-b358-488c52f78734
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Sweden': 80fab7fc-7294-496f-a137-0e5c5dd80f58
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Switzerland': 19d98bb4-2ea7-4de9-ad08-7e4b30d61ca0
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Trendyol (markets: Turkey)
+   ✅ First assignmentId (client/brand): 0626e094-bf9f-4870-b9a1-192e87487d0a
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Turkey': d9cf8333-1017-4487-972e-06bb7dd6c0d1
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Treze7 (markets: Portugal)
+   ✅ First assignmentId (client/brand): 9a0cedd3-ae52-44b0-8458-317c998dedfc
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 7067d316-e5a1-42c9-afe7-d4dbc86d405f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Trip.com (markets: Hong Kong)
+   ✅ First assignmentId (client/brand): 6ce28779-5f96-4b0c-ba89-c7ee99c12ca6
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': 5bdb6164-953e-4177-8ca8-e5bc3f292c74
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TripActions (markets: Austria, France, Germany, Switzerland, United States of America)
+   ✅ First assignmentId (client/brand): 318e0361-a350-4cf1-912d-273f32ace91e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Austria': 886d9f4b-162f-4f9a-975c-808799cfe522
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': af530015-308e-4b9f-aac5-92bef4cd3061
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': 0f076f5d-6097-47b9-aa02-072814af4b0b
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Switzerland': 858e6909-4397-4d86-8801-d74e6786402e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': 7ea79865-0dd2-42cf-b436-52ea29375220
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Triumph (markets: Australia, Greece, India, Japan, Taiwan)
+   ✅ First assignmentId (client/brand): 56653878-e57e-49e0-8253-c80e0c90c136
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 4a78112c-6cb2-4c87-9f61-3b883c3b5d2b
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Greece': 4aa9543c-248b-4c39-a4f7-bd6630d3e82a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'India': 696fb839-3bf8-4304-b358-edadc566962e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Japan': c3c01104-4cdc-4a43-8b6a-fec4a653699f
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Taiwan': 03fd4ed9-1f12-4553-91f7-3938541bd284
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Triumph International (markets: India)
+   ✅ First assignmentId (client/brand): cb5b9816-f067-4f17-bcdc-77bf1a83c5e6
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 88a25e24-d08f-4e79-be73-0bea91a4fc16
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Triumphant Institute Of Management Educa (markets: India)
+   ✅ First assignmentId (client/brand): 97688995-1614-417e-b907-139a0bdd64b4
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 51210101-2574-4f21-a32c-6149cceb50be
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Trivago (markets: Belgium, Netherlands)
+   ✅ First assignmentId (client/brand): d21f1ced-0550-4e0d-a4a9-0a5b3cbcfa72
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 7acd7946-3a4d-46ed-92a7-93e533419e77
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 65a4c4ce-8ffa-4f12-afcc-deb96c8e69b9
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Tropicana (markets: France)
+   ✅ First assignmentId (client/brand): 3befcdbe-f838-4ee9-903c-93fde14d2663
+   → POST #1 status: 400 ❌
+     Response: {'detail': "Server error '500 Internal Server Error' for url 'http://os-workspace.os-workspace-one.svc.cluster.local/v1_1/tenants/4c039217-7d17-4207-8314-98348983718a/organization-units/search'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"}
+   ✅ Processing market 'France': d9c00d14-2346-415b-a2bc-e01aec955a4a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TTK (markets: India)
+   ✅ First assignmentId (client/brand): 7c8cfe90-f7c2-4029-aa4c-f6ee14ad9295
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 4e11b697-da45-4b6b-8201-2c65730d9cc0
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Tube Investments Of India (markets: India)
+   ✅ First assignmentId (client/brand): f962721a-886c-4fb1-bd56-b8a28b0c8a56
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 0aa22f22-b117-4caf-8bb2-c13a5a7eac73
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Tudo Azul Sa (markets: Portugal)
+   ✅ First assignmentId (client/brand): 46c36fb8-3afd-480e-a737-6a00f1470ec9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': d6a37bcf-3fad-4b1d-ac1c-1f6f48308b61
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TUI (markets: France, Netherlands)
+   ✅ First assignmentId (client/brand): b5e680c0-65f0-497b-9695-afb797c38a1b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': 71b0a621-d649-4139-b363-2a0e3cca2b78
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 19154b78-275f-4af2-84fe-ae39ecef0d1e
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TUI AG (markets: Germany)
+   ✅ First assignmentId (client/brand): b85a7f8b-518b-42d5-ab74-67c7eb7d2c9d
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Germany': 21e75b90-4373-421f-a945-a2659a74a015
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TUI Cruises (markets: Germany)
+   ✅ First assignmentId (client/brand): 02267870-ceec-4ea0-990e-d78bde8fb89e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Germany': f5170e7a-b2fa-4f0c-a730-187f6be6df74
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TV Today Network (markets: India)
+   ✅ First assignmentId (client/brand): 2deeb280-1e3c-4d5a-b809-baa51c84afed
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': fc4d2162-819a-4f88-bfe3-04b9e6cf2a4d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TVI (markets: Portugal)
+   ✅ First assignmentId (client/brand): 00aec0e4-f6b2-4be2-bca9-8f488bc07cce
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 8b07a987-e7c4-4410-87bc-89875be7d6d6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Tvis K kkener (markets: Denmark)
+   ⚠️ Client/Brand node not found for 'Tvis K kkener'. Skipping.
+— Processing client: TVS (markets: India)
+   ✅ First assignmentId (client/brand): a0444acf-4f78-45bf-acf7-34ae5402aa8c
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': adcbdd15-e138-4e1e-a993-662e66fd5a7a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Twinings (markets: Chile, Italy, Norway, Sweden)
+   ✅ First assignmentId (client/brand): 4e114704-6488-4a42-bca5-069399619bcc
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Chile': 34ff958f-bf14-4c33-8e53-2c88923ccca0
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 589bec6a-2acf-4c8d-be19-a349ab6df5e7
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Norway': d365bb06-8242-4a6f-872c-b6299c6637b1
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Sweden': 76a68d28-e496-4473-bf86-cf1e65557693
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: TymeBank (markets: South Africa)
+   ✅ First assignmentId (client/brand): fcac6a41-95b1-43dd-96ba-7d254801dc7e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'South Africa': 93470c38-8a06-4e1a-b2de-fcb3e22490da
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Tyson (markets: Mexico)
+   ✅ First assignmentId (client/brand): 00dd6102-d243-4e6f-a9bb-55128417989c
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Mexico': caddf2cf-638d-474f-9555-2f545dc176a7
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: UAB (markets: India)
+   ✅ First assignmentId (client/brand): c0ff50e0-0d00-4060-b418-d8cbfe4e1bf1
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 0eb91903-df63-4e6e-9e32-666ec666acda
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Uber (markets: Australia, Chile, India, South Korea, Taiwan)
+   ✅ First assignmentId (client/brand): c82b9030-0f53-4c06-a36b-19c3dc2425e1
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': ede3dab0-b9f0-4fd9-b483-0965c34926e1
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Chile': a04721e0-ab2b-48ab-afe5-fa2893b3ece7
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'India': 46614469-e1fb-4347-b47e-28a9da361fab
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'South Korea': 96ff604a-7f10-4ac5-ae02-0fcda725aa10
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Taiwan': bd001358-02cf-4fb2-a4eb-97e511648da4
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Ubisoft (markets: Japan, Spain)
+   ✅ First assignmentId (client/brand): a34c5aa5-93ae-47b1-adc9-abc54ec87210
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Japan': 0f82672a-fdcb-4759-af57-84b112f39417
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Spain': e595c331-aa65-4363-8990-0c668cb2aff3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UFONE (markets: Pakistan)
+   ✅ First assignmentId (client/brand): 008452be-0dcd-48c8-951a-7517a3ab8ec2
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Pakistan': 311b1764-b0c0-4b3d-801f-0ab25b89c85e
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UIP (United International Pictures) (markets: Poland, Taiwan)
+   ✅ First assignmentId (client/brand): daa9b3c5-3349-410f-b508-e145f450c228
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': 3584fbed-d810-4784-8367-158de65355f8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Taiwan': 4b17c018-8fcc-4c84-a775-2170c3c16b19
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Uitgekookt (markets: Netherlands)
+   ✅ First assignmentId (client/brand): bc692882-29d2-4532-82db-6e4e4deff1ae
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Netherlands': 8f7f7e85-96a3-44ee-bedb-085bba772307
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: UK Government (markets: China, United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): 699ebfd2-ad3c-4ef0-893e-9a0f293cf71b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'China': bafe6da8-0db8-4d19-970e-4c1f6c69376e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': ece5b878-7513-4e1d-85d1-0a3056ea10d3
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Under Armour (markets: China, Hong Kong, Malaysia, Philippines, Singapore, Thailand)
+   ✅ First assignmentId (client/brand): 93c05cec-4d01-4f03-a807-2e4d4cd14b34
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'China': 468898a3-8d7f-4717-9e5b-0e5bc646f59d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hong Kong': 958cc9bf-f56d-4bd5-bc34-230976a24a39
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Malaysia': 23f86d31-ff2e-4c58-930e-84a039a7057a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Philippines': 1c0c3a09-96a3-4db1-b5e5-cf11dcebb68e
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Singapore': 25d946c0-4a2e-4572-bf2b-529cf838bff6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Thailand': 5eadab94-bc44-45ad-b79f-2128699b8e99
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Underdog Athletics (markets: India)
+   ✅ First assignmentId (client/brand): f574b8a7-e183-4df1-89ff-b7496b54506b
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': db5bc62f-a3cb-4cdb-a3b4-9aa3a3306a97
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unibail-Rodamco-Westfield (markets: Denmark)
+   ✅ First assignmentId (client/brand): debe94d8-0f59-4e1e-804b-6c6f25fbff8a
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Denmark': 5c873211-96d9-454f-8a42-a74d60b18908
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unibic Foods (markets: India)
+   ✅ First assignmentId (client/brand): 674823e1-75c4-405f-8beb-9ecb37c83eca
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': bc8b0159-30d2-4340-9e97-8a34de467e61
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unicharm (markets: India)
+   ✅ First assignmentId (client/brand): 2758c1e0-2344-4467-84a1-59dac90570c7
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': dc12ddfe-a778-4f44-aa79-5e7d670e2da8
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unicre (markets: Portugal)
+   ✅ First assignmentId (client/brand): 5d726ba5-3a15-434d-9069-072c66727547
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 03e2a0df-c83a-49c7-992a-5956e3e0542a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unicredit (markets: Germany)
+   ✅ First assignmentId (client/brand): 202d2552-2558-444b-9506-78e1086a7ac2
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Germany': ca3fe69f-5415-41f5-9cff-e8b4b7092f67
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UNICSKIN (markets: Spain)
+   ✅ First assignmentId (client/brand): fc614a8f-e9b0-4ec5-a012-679a7ea00aeb
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Spain': 5c2bd856-300a-404a-8699-c8f31511f52c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unilever (markets: Belgium, Finland, India)
+   ✅ First assignmentId (client/brand): 9d53cccb-801e-48fa-9e45-4a16b6acd439
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': a1898b5d-7c14-4c7a-81a9-75a0f7aa8565
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Finland': 11985793-1ab2-4bcd-9ae0-c7ad122935b1
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'India': 1ce1bf1e-4926-4bb2-a450-120dbd907a71
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unimil (markets: Poland)
+   ✅ First assignmentId (client/brand): 93a57bc1-332e-43e8-b745-defca4ffc7f9
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': adc522ea-6f18-4ed1-8f33-d7c78651be9f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Uniqlo (markets: India)
+   ✅ First assignmentId (client/brand): 2648797e-9a93-41c9-a32e-ec271f3e41a0
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 6b9dbe18-bd54-4708-a6bb-826130504c33
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: United International Pictures (markets: Philippines, Singapore, Sweden, Taiwan)
+   ✅ First assignmentId (client/brand): 5f7f3920-97e7-4f6d-99c4-fb31fecea1b8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Philippines': bc917df9-a5ee-4baf-9ad2-6070a25e6415
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Singapore': fd05490a-16d6-4da1-9843-da8ebd85d05b
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Sweden': 3babd3fb-aa5f-4832-9b26-c7f7b34a3aeb
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Taiwan': 9767fe42-0b60-4f12-9fcc-d46bf58fcec3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unity (markets: India)
+   ✅ First assignmentId (client/brand): 5076d78e-ca64-47e2-9bd4-ac2d15a0dd37
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 2d3d9988-d6bb-4061-8eeb-3743c11ad93c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Unity Small Finance Bank (markets: India)
+   ✅ First assignmentId (client/brand): 2fdf78ec-6aa9-47fe-8dc2-f9af3ef905ad
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 073fd052-7209-4c96-b16d-cde9d34d626b
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Universal Pictures (markets: Australia, Belgium, Germany, Italy)
+   ✅ First assignmentId (client/brand): 9f523f06-57c9-409c-84b2-28d8bdd0cfe5
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': b9cb6774-861d-47b7-99d5-0aae89d25be9
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Belgium': 0d841795-8573-4bfc-9248-1f7460a90088
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Germany': e4b1ddee-d93a-418b-be33-1ad6843be2ef
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 1e0bcd5d-7ecf-4736-85fe-076e834af40d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: University of South Australia (UniSA) (markets: Australia)
+   ✅ First assignmentId (client/brand): 1b00087f-208d-46f5-96ae-e0cd05dfe43e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': ed4f186c-5d72-419a-8bdf-664eb0e20fd6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Univex (markets: Portugal)
+   ✅ First assignmentId (client/brand): 7af83c5c-e4dc-4b0e-bf00-5b573af890d8
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': b12706d9-e6b8-413f-b724-ae2fa9b26c82
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UOB (markets: Philippines)
+   ✅ First assignmentId (client/brand): 9de0869c-d307-49f2-968b-b5d497da9257
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Philippines': 9710e9b5-fc00-4a16-a78f-510237b0716f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Upfield (markets: Canada, Indonesia, Netherlands, Pakistan, United States of America)
+   ✅ First assignmentId (client/brand): bf0ce3e9-c4c1-4069-b021-21d320f21ddd
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Canada': abc284e5-f3ad-4716-903b-b4128e2532c8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Indonesia': 7e459d81-dfc4-48a7-8d09-e7c5cea5e320
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 420bf785-a8cb-45dc-a52e-df828d9292e9
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Pakistan': 07594381-bb5c-4bb1-83c7-4fb6d44ee4e8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': 935eeddd-1b26-4503-a606-b5a87d16e836
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: UPSA (markets: Belgium, France, Italy, Switzerland)
+   ✅ First assignmentId (client/brand): 60a2dc9b-cfc4-4436-a68c-71d5aa2edb3a
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': dea0bc45-7dd2-45fa-8dc8-df6c60becf20
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': c2384e65-bc61-422d-8945-b5058ca23a88
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 42c48d3b-b2d8-42df-8790-a3c37bfb10dc
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Switzerland': 1912114e-8c31-4267-a06f-e8b9104e51cb
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Uriach (markets: Portugal)
+   ✅ First assignmentId (client/brand): dc61759c-c26d-401b-bf16-46766f198aa5
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 38ef4ae6-85ef-467a-8d3c-b3c203288a88
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: USIC (markets: Puerto Rico)
+   ✅ First assignmentId (client/brand): 068b2fc8-5849-488d-97e4-80fcf669dd19
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Puerto Rico': c461a1b8-29f2-4234-bdd3-119c9e715b66
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: USP (markets: Poland)
+   ✅ First assignmentId (client/brand): ac347ad9-5449-4585-b5b7-05901dafd243
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': a8e72e3a-f701-45c3-8fd4-e90e2d33b4d8
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Utv Software Communications (markets: India)
+   ✅ First assignmentId (client/brand): eb2d3fc0-8077-431e-b4f7-49261d4714c0
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 6989b91b-9f39-40fa-9329-183bb1137fc6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: V Guard Industries (markets: India)
+   ✅ First assignmentId (client/brand): ff56401d-2880-4bcd-a1c1-8936b960f58a
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': a8c4b9e1-b2e0-428c-8d1e-cf0acbf520d9
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: v2food (markets: Australia)
+   ✅ First assignmentId (client/brand): 97d6bd78-63dc-4778-8ea2-8711eb2e8441
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 4afaf749-4f1d-49b6-a234-bc6a969a675d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vache Bleue (markets: Belgium)
+   ✅ First assignmentId (client/brand): 6a584f23-3136-46b1-b830-326ed761ee4e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 4618e4ee-4642-47d5-8aeb-e3b97a83577c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vadilal Enterprises (markets: India)
+   ✅ First assignmentId (client/brand): b3fc5626-6523-4783-ae27-88bbbb0c84c5
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 3de45544-a13e-4451-96c7-e3f911990f32
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Valentino (markets: Denmark, Italy)
+   ✅ First assignmentId (client/brand): 436a1edd-4434-453f-9bf2-8f9f593ad853
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Denmark': e944b898-c7c3-41b9-a45e-2daec41cbc0f
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Italy': ac5e6a9d-c136-4c31-a2e4-e94ae3bf2db6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vandemoortele (markets: Belgium)
+   ✅ First assignmentId (client/brand): f8ab43cf-41dc-4e7c-bd87-adf31df7bc7b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 8e3c2876-912b-4d73-8773-2761b0e32390
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: VanMoof (markets: Germany, Netherlands, United States of America)
+   ✅ First assignmentId (client/brand): ddce7621-fe68-43e1-badc-381b871a7bbd
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Germany': e21c9d94-1123-40b2-bd76-2a40959e7891
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 3be5fca7-1173-4563-889d-7d727eae6e89
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United States of America': 6c871cba-1efe-497b-8b98-bd93320a11f3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vans (markets: United States of America)
+   ✅ First assignmentId (client/brand): 7c49e3ac-911f-4db3-aee9-c4517ff70126
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United States of America': 55bb3750-9129-4389-a139-d08e236e063d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vardhita Properties (markets: India)
+   ✅ First assignmentId (client/brand): 937f25e2-97f9-42b7-8a15-616a0ee72db9
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': c3ee9a14-7d9e-4181-b893-75d9721fd703
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: VARMA (markets: Spain)
+   ✅ First assignmentId (client/brand): 41d5f94c-4a70-4fa4-a59a-65b2e061b98c
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Spain': c5fb0f7f-bf96-41f5-aa59-d7e37c71b65a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Varun Beverages (markets: India)
+   ✅ First assignmentId (client/brand): 2e133ba1-ff06-49cc-b17d-a8ebf48a4d7b
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': c7b7fe60-50f9-4df0-bdec-4ebb36298fff
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vasanth & Co (markets: India)
+   ✅ First assignmentId (client/brand): 9ef06917-76c5-4a37-9a36-bee8716fb1dc
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': cc13c85d-5a2a-4162-bd8a-27553dca7223
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vattenfall (markets: Sweden)
+   ✅ First assignmentId (client/brand): 773ca09e-6b8c-4f52-9d11-2afb536128ae
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Sweden': 015f0595-ff24-43a7-a7bc-6704259471f9
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vedant Fashions (markets: India)
+   ✅ First assignmentId (client/brand): 90f1c76e-8b7e-4e7c-b5dc-3cd3cb1c070a
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 012bc3fa-1f95-413e-a55f-e49322b42e2c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vedantu Innovations (markets: India)
+   ✅ First assignmentId (client/brand): 0188504a-85ef-48d4-bebd-2bb5da41947e
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 5f1b6cc6-d100-4377-bff3-a23318717672
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Veg of Lund (markets: Sweden)
+   ✅ First assignmentId (client/brand): 41ad9f1d-ba78-4b2a-8638-d6ee046a7688
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Sweden': a3e621bd-f55f-470b-8f7c-6dbfe6c3fd88
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vegas Casino (markets: Hungary)
+   ✅ First assignmentId (client/brand): 1c5e2505-1a8c-4793-ae02-74b16454938a
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hungary': 6be9623a-5135-43a0-838f-2cf80c5b8ec6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Veikkaus (markets: Finland)
+   ✅ First assignmentId (client/brand): 962ce00c-5184-4c41-8854-2c99cb8c6dad
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Finland': ea59ccc8-d9a5-4e0f-8325-91b8157fa677
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Ver Se Innovation (markets: India)
+   ✅ First assignmentId (client/brand): 21311f90-1a82-4bad-aafe-06d84d3accbb
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 453ebb70-3bf0-47a7-9209-9bb1c4ad63ee
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Veranda Learning Solutions (markets: India)
+   ✅ First assignmentId (client/brand): 4e44948e-45c9-4469-82d3-ff27152e7c94
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 668a8afb-4630-453c-9c9b-bcdb2361ac49
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Verisure (markets: France)
+   ✅ First assignmentId (client/brand): c103f958-61f9-4f22-af3b-3203923e72fd
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': e38d23a2-ad82-43ca-8a16-22a811900d03
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vero (markets: New Zealand)
+   ✅ First assignmentId (client/brand): 336a75c0-499d-4048-967f-02147dc5a760
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'New Zealand': 46fe07b7-7f08-4eaa-b190-007630a719cd
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Versace (markets: Hong Kong, Japan, South Korea, Taiwan)
+   ✅ First assignmentId (client/brand): c98ddb41-c178-4e69-aee8-00e04e7c0f5c
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hong Kong': d1d1c5bb-bfc0-4e74-953e-84b967078cf5
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Japan': a0b98c77-6cfb-436c-acd2-f6855573e09d
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'South Korea': 19e0e7dd-7613-4286-957d-64dcc61e83b1
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Taiwan': a2d85594-2b47-4555-a291-4935cc54ee05
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Vi (markets: India)
+   ✅ First assignmentId (client/brand): 5faa25d4-5812-4a3a-a972-863165703934
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 2daed012-a7cb-443d-9ee2-072e2915784c
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Via Directa (markets: Portugal)
+   ✅ First assignmentId (client/brand): 3f510885-5c82-44b1-93a7-acbaaee83b59
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': 145ebe38-6cbe-4b95-911d-fb5cc3d9d136
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Viacom (markets: Hungary, India, Netherlands, Poland)
+   ✅ First assignmentId (client/brand): 1cd6fc3a-cd40-4514-9360-d535f67c8650
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hungary': b4a55b3c-b1d2-48df-bf59-72aa2794105a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'India': 3f158123-5dd7-4dac-9261-cc86557f19d6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 39e8ca04-e5b1-4435-b4bb-fb4bbba4f94f
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Poland': edefea2f-8bf5-4fcd-8a78-76ee1e2fbbcf
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Viacom 18 Media (markets: India)
+   ✅ First assignmentId (client/brand): b8416e92-fd51-4128-9dfe-63a212f7a456
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 6a2b9cc6-195c-48d7-94b5-31e8e61daf93
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Viacom CBS International (markets: Mexico, Netherlands, Poland)
+   ✅ First assignmentId (client/brand): 66eba8de-9ad9-4103-b9db-043e8f83a971
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Mexico': 2419ac46-0c90-4320-b059-10a3101d9fd0
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': 1ec07d99-3f72-43b7-a5b9-cee847998a33
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Poland': 432b9f7b-83da-4bb6-8881-fd095d86fe72
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Viatris (markets: Taiwan)
+   ✅ First assignmentId (client/brand): 7b161084-ad4e-42b3-b563-5bb1c68b5dc4
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Taiwan': 5d582bd8-6999-418f-a884-de4d8e79ebaf
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Victoria University (markets: Australia)
+   ✅ First assignmentId (client/brand): b7aa5df1-bca4-46a4-a762-1fbf6f2d42cc
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': a652a7e9-8182-42d3-9982-0d8fc66634b6
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Victorian Labor Party (markets: Australia)
+   ✅ First assignmentId (client/brand): 931090f1-4eb0-4e06-9c10-c7f65f84b4c2
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 899ef6a2-2f4f-4e5a-9389-00cd153155f3
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vijaya Diagnostic Centre (markets: India)
+   ✅ First assignmentId (client/brand): 9cad9325-25d7-4266-bdab-5f1e2bbc6f55
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 86b2645c-60ab-4593-98c0-3bb021a4f873
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vileda (markets: Estonia, Iraq, Italy, Kuwait, Lithuania, Poland, Qatar, Serbia, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): 06ed6cbf-9ead-4e78-bba7-fe6d56454604
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Estonia': 8ffc1439-8f97-4836-818f-3f0777fefd40
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Iraq': 7d2c110c-e91b-43d9-8158-f2b85830f819
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 03d2f70e-0718-4a39-867c-79a609a26ea0
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Kuwait': c1c57503-5d4e-46a1-89e8-cd4fb2c34fce
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Lithuania': 256c0d85-05de-4130-ab41-64d3131f7790
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Poland': 028e3380-a406-4111-b664-b83f2cc65d3e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Qatar': a0fa1675-a6a1-4b01-9e84-ca509df32ace
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Serbia': 3fa5874a-c9ad-4baf-bc0a-934cca01ff4d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Arab Emirates': f764565b-5f0e-4933-ba31-cb3b47ae1a0d
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': 17f9ef12-b31b-4bf5-b733-fd2ca254f5d7
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: Ville de Qu bec (markets: Canada)
+   ⚠️ Client/Brand node not found for 'Ville de Qu bec'. Skipping.
+— Processing client: VinFast (markets: India)
+   ✅ First assignmentId (client/brand): 8ae09621-05c3-4674-9fe1-f841b7103bcc
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 7769022d-87a9-4e1d-afa8-2b95d813cd83
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vinmonopolet (markets: Norway)
+   ✅ First assignmentId (client/brand): fa13e795-03d6-4f57-9fca-8f3e30a6379e
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Norway': 47514c1b-9d0c-4a1c-b234-2a00688d8ddb
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vinted (markets: Hungary)
+   ✅ First assignmentId (client/brand): 1d48637c-7d1b-4107-b5a3-338482325b6b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Hungary': a65621bd-6844-4f6f-bae3-25930b809a60
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vip Industries (markets: India)
+   ✅ First assignmentId (client/brand): fe352c02-eda5-430a-88ed-2b364df4edb0
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': d2870e1a-dd79-4d35-a263-8fb924972ff5
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vision Rx Lab (markets: India)
+   ✅ First assignmentId (client/brand): 14ac5648-f0fb-4bc6-b82a-f246c6eceecf
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': e3feb98e-75b7-49ff-8f2d-b836df95dbe7
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Visit Limburg (markets: Belgium)
+   ✅ First assignmentId (client/brand): 6b794c66-e3b5-4d53-8e10-6b51531c6efa
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': 4f6e90d9-1bdd-4196-80a1-67841de332a9
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Visit Sharjah (markets: India)
+   ✅ First assignmentId (client/brand): 6da1cefa-c6b7-4844-a139-fe9e69a8c401
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': 3151fa0d-ccdc-468c-b5ae-67f13c83f67d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vitasoy (markets: China, Hong Kong)
+   ✅ First assignmentId (client/brand): 4ad09f73-d187-4825-b084-93ff7426b276
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'China': d463963a-e1b9-4229-848c-84c8175ba909
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Hong Kong': 7519ae91-bbc7-4471-a8d2-c84e1d0a6b8a
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vivo (markets: India)
+   ✅ First assignmentId (client/brand): 6f2944bf-b49f-41c9-a51e-5f1a619f9e3c
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': b1bb707e-fc31-4bd3-87a4-1d5b8f0d1d12
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Vodafone (markets: Australia, New Zealand, Oman, Qatar)
+   ✅ First assignmentId (client/brand): a21fe2df-cfb4-43ae-87c2-9dc6002e1e53
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': aa1379ab-493b-45f1-9848-52d07b68a143
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'New Zealand': c666b24d-579b-4cf5-8dcb-264dc7678a36
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Oman': 778ac100-ab94-4a37-9570-d9b5f17b8a5f
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Qatar': 1c3a6207-e509-40e0-a210-8e808a01e3af
+   → POST #2 status: 200 ✅ (Template applied to market)
+
+📊 Summary:
+   - Unique clients processed: 99
+   - Unique markets processed: 175
+   - Total rows in CSV: 178
+
+🏁 Done.

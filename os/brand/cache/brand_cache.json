@@ -1,0 +1,66 @@
+{
+  "brand": {
+    "mdId": "50be9df8-f922-40a7-af3e-810e2ca906b7",
+    "name": "Brand"
+  },
+  "anaftin": {
+    "mdId": "f063248e-ac17-4b41-9787-296300d0a676",
+    "name": "Anaftin"
+  },
+  "espumisan": {
+    "mdId": "16b3b0a3-8d14-4b84-a9c9-864dd81b256a",
+    "name": "Espumisan"
+  },
+  "flavamed": {
+    "mdId": "98bb388f-c106-4693-b623-deaa097ec8b0",
+    "name": "Flavamed"
+  },
+  "lioton": {
+    "mdId": "43332ae7-5792-4767-8080-eb3955da6747",
+    "name": "Lioton"
+  },
+  "prostamol": {
+    "mdId": "2f5a0532-f43a-4c37-a4e4-a2b8e8debbd4",
+    "name": "Prostamol"
+  },
+  "adtab": {
+    "mdId": "c5de29cc-0ddb-4b1e-8cf5-513e60cad189",
+    "name": "AdTab"
+  },
+  "advantix": {
+    "mdId": "96a23026-ab91-4cad-b83a-10ef7b915a94",
+    "name": "ADVANTIX"
+  },
+  "foresto": {
+    "mdId": "be472bc1-7dd7-4a71-92f5-bd0bfca257f0",
+    "name": "Foresto"
+  },
+  "erste bank": {
+    "mdId": "90449a01-780a-4713-8ab1-ee917fa6c3f2",
+    "name": "Erste Bank"
+  },
+  "diners": {
+    "mdId": "62d34a02-7415-4ba6-9e1d-3a6b9c6a61a3",
+    "name": "Diners"
+  },
+  "keks pay": {
+    "mdId": "8ae8f068-92ff-42a2-a1da-34d3c37d651c",
+    "name": "Keks Pay"
+  },
+  "luckia": {
+    "mdId": "f743fb61-66db-4713-ab7f-4137ccc69a97",
+    "name": "Luckia"
+  },
+  "noventa di piave": {
+    "mdId": "35561b81-4c4b-4625-833c-0cd85a9f87aa",
+    "name": "Noventa di Piave"
+  },
+  "stock": {
+    "mdId": "1c864946-572e-426b-a51c-cdf26dd904b9",
+    "name": "Stock"
+  },
+  "total": {
+    "mdId": "d7a320c4-e3b9-4be7-8dd0-741cf49558cb",
+    "name": "Total"
+  }
+}

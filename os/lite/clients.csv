@@ -1,33 +1,94 @@
 Market,Client,Brand,Category
-Sri Lanka,Diesel & Motor Engineering,Accmart,Automotive
-Sri Lanka,Diesel & Motor Engineering,Auto Hub,Automotive
-Sri Lanka,Diesel & Motor Engineering,Claas,Automotive
-Sri Lanka,Diesel & Motor Engineering,Datz,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Agri,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Auto Parts,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Autolab,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Automotive,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Black & Deker Hm Applicances,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Harvesters,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Lubricant,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Lumin Bulb,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Rane Break Pad,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Retailer,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo Seeds,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dimo WD 40,Automotive
-Sri Lanka,Diesel & Motor Engineering,DME Bata,Automotive
-Sri Lanka,Diesel & Motor Engineering,Dmecorp,Automotive
-Sri Lanka,Diesel & Motor Engineering,Ferri Car Care,Automotive
-Sri Lanka,Diesel & Motor Engineering,Graphenstone,Automotive
-Sri Lanka,Diesel & Motor Engineering,Jeep,Automotive
-Sri Lanka,Diesel & Motor Engineering,Kumho,Automotive
-Sri Lanka,Diesel & Motor Engineering,Lovol,Automotive
-Sri Lanka,Diesel & Motor Engineering,Mahindra Yuvo Tractor,Automotive
-Sri Lanka,Diesel & Motor Engineering,Mercedes Benz,Automotive
-Sri Lanka,Diesel & Motor Engineering,Michelin,Automotive
-Sri Lanka,Diesel & Motor Engineering,Pick My Load,Automotive
-Sri Lanka,Diesel & Motor Engineering,Rane,Automotive
-Sri Lanka,Diesel & Motor Engineering,Sprinter,Automotive
-Sri Lanka,Diesel & Motor Engineering,Swaraj Tractors,Automotive
-Sri Lanka,Diesel & Motor Engineering,Tata,Automotive
-Sri Lanka,Diesel & Motor Engineering,Tata Yodha,Automotive
+Spain,Cinfa,Cinfatos,HEALTHCARE
+Spain,Cinfa,Pharmagrip,HEALTHCARE
+Spain,Cinfa,Optiben,HEALTHCARE
+Spain,Cinfa,Cinfa,HEALTHCARE
+Spain,Cinfa,Respibien,HEALTHCARE
+Spain,Cinfa,Omekaste,HEALTHCARE
+Spain,Cinfa,FARMALASTIC,HEALTHCARE
+Spain,Clave 2 - A Contracorriente,Clave 2 - A Contracorriente,Entertainment & media
+Spain,Clave 2 - Flins & Piniculas,Clave 2 - Flins & Piniculas,Entertainment & media
+Spain,Cofidis,Cofidis,FINANCE
+Spain,Continental,Continental,Automotive
+Spain,Continental,Uniroyal,Automotive
+Spain,Continental,BestDrive,Automotive
+Spain,Conxemar,Conxemar,ORGANIZATIONS & ASSOCIATIONS
+Spain,Costa Crociere,Consta Crociere,Travel
+Spain,Dacsa,Dacsa,Food
+Spain,Dia,Dia,Retail
+Spain,Diputacio de Barcelona,Diputacio de Barcelona,Government
+Spain,DISA,DISA,Utilities
+Spain,DISA,Shell,Utilities
+Spain,Dr Oetker,Dr Oetker,Food
+Spain,Duracell,Duracell,Consumer Electronics
+Spain,EA Swiss Sarl,EA Swiss Sarl,Entertainment & media
+Spain,EasyJet,EasyJet,Travel
+Spain,El Corte Ingles,El Corte Ingles,Retail
+Spain,Electronic Arts,Electronic Arts,Entertainment & media
+Spain,Endesa,Endesa,Utilities
+Spain,Endesa,Endesa B2B,Utilities
+Spain,Endesa,Endesa Generacion,Utilities
+Spain,Endesa,Endesa X,Utilities
+Spain,Endesa,Fundacion Endesa,Charities
+Spain,Eneryeti Company,Eneryeti,Drinks (non-alcoholic)
+Spain,Eneryeti Company,Candyfresh,Drinks (non-alcoholic)
+Spain,EPOCH,EPOCH,Entertainment & media
+Spain,EssilorLuxottica,VARILUX,HEALTHCARE
+Spain,EssilorLuxottica,Grandvision OPTICA 2000,Retail
+Spain,EssilorLuxottica,Essilor,HEALTHCARE
+Spain,EssilorLuxottica,Grandvision +VISION,Retail
+Spain,EXPLORA,Explora Journeys,Travel
+Spain,Ferrer,Gelocatil,HEALTHCARE
+Spain,Ferrer,PROSPANTUS,HEALTHCARE
+Spain,Ferrer,OTC,HEALTHCARE
+Spain,Ferrer,Gelodol,HEALTHCARE
+Spain,Ferrero,Ferrero,Food
+Spain,Ferrero,Nutella,Food
+Spain,Ferrero,Kinder,Food
+Spain,Ferrero,Ferrero Rocher,Food
+Spain,Ferrero,Mon Cheri,Food
+Spain,Risi,Risi,Food
+Spain,RIU,RIU,Travel
+Spain,Rodilla,Rodilla,Restaurants
+Spain,Rodilla,Hamburguesa Nostra,Restaurants
+Spain,Rodilla,Zeta,Restaurants
+Spain,Rolex,Rolex,Jewellery
+Spain,Rolex,Tudor,Jewellery
+Spain,Savencia,Protein Plus,Food
+Spain,Savencia,Le Rustique,Food
+Spain,Savencia,Burgo de Arias,Food
+Spain,Siemens,Siemens,Technology
+Spain,Skechers,Skechers,Fashion
+Spain,SkyShowtime,SkyShowtime,Entertainment & media
+Spain,Sony,Sony,Consumer Electronics
+Spain,Sony PlayStation,Sony PlayStation,Consumer Electronics
+Spain,Spin Master,Spin Master,Entertainment & media
+Spain,Stradivarius,Stradivarius,Fashion
+Spain,Subway,Subway,Restaurants
+Spain,Suntory,La Casera,Drinks (non-alcoholic)
+Spain,Suntory,Schweppes,Drinks (non-alcoholic)
+Spain,Tactics Europe,Tactics Europe,Technology
+Spain,Tempur,Sealy,Household Items
+Spain,Tempur,Tempur,Household Items
+Spain,Tendam,Springfield,Fashion
+Spain,Think Pharma,Think Pharma,HEALTHCARE
+Spain,Too Good To Go,Too Good To Go,Food
+Spain,TotalEnergies,TotalEnergies,Utilities
+Spain,TotalEnergies,GULF,Utilities
+Spain,TotalEnergies,ELF,Utilities
+Spain,Toyota,Toyota,Automotive
+Spain,Trainline,Trainline,Travel
+Spain,TROPS,TROPS,Food
+Spain,Unidad Editorial,El Mundo,Entertainment & media
+Spain,Unidad Editorial,Unidad Editorial,Entertainment & media
+Spain,Velilla,Velilla,Fashion
+Spain,Vivanta,Vivanta,HEALTHCARE
+Spain,VOG CONS.COOP,VOG,Food
+Spain,VOG CONS.COOP,MARLENE,Food
+Spain,Warner Bros. Discovery,Warner Bros. Discovery,Entertainment & media
+Spain,Wizink Bank S.A.,Wizink Bank S.A.,FINANCE
+Spain,Wonders,Wonders,Fashion
+Spain,Xiaomi,Xiaomi,Consumer Electronics
+Spain,Zespri,Zespri,Food
+Spain,Ziclotech/Cossori,Ziclotech/Cossori,Technology
+Spain,ZOHO,ZOHO,Technology

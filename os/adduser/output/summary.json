@@ -1,0 +1,30 @@
+{
+  "log_file": "output.txt",
+  "rows_processed_lines_found": 2,
+  "total_success_lines": 0,
+  "total_failure_lines": 1,
+  "total_not_found_group_lines": 1,
+  "unique_users_attempted": 2,
+  "unique_users_succeeded": 0,
+  "top_groups_by_attempts": [
+    [
+      "\ufeffClient Name",
+      1
+    ],
+    [
+      "Abdulla Al Masaood and Sons",
+      1
+    ]
+  ],
+  "top_groups_by_successes": [
+    [
+      "\ufeffClient Name",
+      0
+    ],
+    [
+      "Abdulla Al Masaood and Sons",
+      0
+    ]
+  ],
+  "notes": "This summary is best-effort: mapping successes to groups is done using proximity heuristics (email -> last seen group)."
+}

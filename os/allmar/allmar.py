@@ -3,6 +3,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 import sys
+from typing import Optional
 
 # Define output file path
 OUTPUT_FILE_PATH = r"C:\Users\Azath.A\os\allmar\output\output.txt"
@@ -28,10 +29,10 @@ session_cookie = os.getenv("SESSION_COOKIE")
 
 tenant_id = "4c039217-7d17-4207-8314-98348983718a"
 
-# Endpoints
+# Endpoints (hierarchy and create still used)
 hierarchy_url = f"https://media.os.wpp.com/api/v2/tenants/{tenant_id}/hierarchy-tree"
 create_url = f"https://media.os.wpp.com/_apps/os-workspaces/api/tenants/{tenant_id}/organization-units?disableTenantCache=true"
-markets_url = "https://media.os.wpp.com/api/v2/markets"
+# markets_url = "https://media.os.wpp.com/api/v2/markets"  # not used when using local file
 
 headers = {
     "Authorization": f"Bearer {bearer_token}",
@@ -59,59 +60,155 @@ def read_clients_from_csv(filename="clients.csv"):
                 print(f"⚠️  Skipping row {i}: need 'client_name' and 'market'. Row={row}")
     return items
 
-# --- Market mdId lookup with caching ---
-_market_md_cache = {}
+# --- Load local markets file (robust) ---
+LOCAL_MARKETS_PATH = r"C:\Users\Azath.A\os\market.json"
 
-def get_market_md_id(market_name: str):
+def load_local_markets(path=LOCAL_MARKETS_PATH):
     """
-    Query the Markets API to get mdId for a country-level market.
-    Tries exact name match, then ISO codes, then falls back to first result.
+    Loads market.json and builds:
+      - name_to_id: exact lowercase name -> id
+      - alt_to_id: alternative keys (isoAlpha2/3) if present
+    The loader attempts multiple parsing strategies to be robust to format.
     """
-    key = market_name.strip().lower()
-    if key in _market_md_cache:
-        return _market_md_cache[key]
-
-    params = {
-        "page": 1,
-        "itemsPerPage": 50,
-        "filter[type]": "COUNTRY",
-        "filter[search]": market_name
-    }
-
+    name_to_id = {}
+    alt_to_id = {}
     try:
-        r = requests.get(markets_url, headers=headers, cookies=cookies, params=params, timeout=30)
-    except requests.RequestException as e:
-        print(f"❌ Network error looking up market '{market_name}': {e}")
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+            if not content:
+                print(f"⚠️  Local markets file is empty: {path}")
+                return name_to_id, alt_to_id
+
+            # Try parsing as a JSON array/object first
+            try:
+                parsed = json.loads(content)
+                # If it's a dict with a top-level list under some key, try to find it
+                if isinstance(parsed, dict):
+                    # look for common keys
+                    for possible in ("data", "markets", "items", "countries"):
+                        if possible in parsed and isinstance(parsed[possible], list):
+                            parsed = parsed[possible]
+                            break
+                    else:
+                        # maybe it's already a mapping of name->id
+                        # Check simple mapping: {"Afghanistan": "id", ...}
+                        if all(isinstance(v, str) for v in parsed.values()):
+                            for k, v in parsed.items():
+                                name_to_id[k.strip().lower()] = v
+                            return name_to_id, alt_to_id
+
+                # Now parsed should be a list of objects
+                if isinstance(parsed, list):
+                    for item in parsed:
+                        if not isinstance(item, dict):
+                            continue
+                        # prefer 'id' and 'name'
+                        _id = item.get("id") or item.get("mdId") or item.get("md_id")
+                        _name = item.get("name") or item.get("marketName") or item.get("country")
+                        if _id and _name:
+                            name_to_id[_name.strip().lower()] = _id
+                        # capture iso codes if present
+                        iso2 = item.get("isoAlpha2") or item.get("iso2")
+                        iso3 = item.get("isoAlpha3") or item.get("iso3")
+                        if _id and iso2:
+                            alt_to_id[iso2.strip().lower()] = _id
+                        if _id and iso3:
+                            alt_to_id[iso3.strip().lower()] = _id
+                    return name_to_id, alt_to_id
+
+            except json.JSONDecodeError:
+                # Could be newline-delimited JSON objects or a flat repeated id/name sequence.
+                pass
+
+            # Try line-by-line JSON objects
+            lines = content.splitlines()
+            parsed_any = False
+            for line in lines:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                    parsed_any = True
+                    if isinstance(obj, dict):
+                        _id = obj.get("id")
+                        _name = obj.get("name")
+                        if _id and _name:
+                            name_to_id[_name.strip().lower()] = _id
+                except Exception:
+                    # not JSON per-line; keep going
+                    pass
+            if parsed_any:
+                return name_to_id, alt_to_id
+
+            # Try to extract id/name pairs from a flat text (very last resort)
+            # e.g. '"id": "xxx", "name": "Afghanistan", "id": "yyy", "name": "Aland Islands", ...'
+            parts = content.replace('\n', ' ').split('"id"')
+            for part in parts[1:]:
+                try:
+                    # find id between first quotes
+                    first_quote = part.find('"')
+                    second_quote = part.find('"', first_quote + 1)
+                    _id = part[first_quote+1:second_quote]
+                    # find "name"
+                    name_idx = part.find('"name"')
+                    if name_idx != -1:
+                        # find the next quotes around the name value
+                        after_name = part[name_idx:]
+                        nq1 = after_name.find('"', after_name.find(':')+1)
+                        nq2 = after_name.find('"', nq1+1)
+                        _name = after_name[nq1+1:nq2]
+                        if _id and _name:
+                            name_to_id[_name.strip().lower()] = _id
+                except Exception:
+                    continue
+
+            if not name_to_id and not alt_to_id:
+                print(f"⚠️  Could not parse local markets file: {path}")
+                return name_to_id, alt_to_id
+
+    except FileNotFoundError:
+        print(f"❌ Local markets file not found at: {path}")
+    except Exception as e:
+        print(f"❌ Error loading local markets file {path}: {e}")
+
+    return name_to_id, alt_to_id
+
+# Load local markets into memory once
+_name_to_id_map, _alt_to_id_map = load_local_markets(LOCAL_MARKETS_PATH)
+
+def get_market_md_id_local(market_name: str) -> Optional[str]:
+    """
+    Resolve mdId from local mapping. Matching logic:
+      1) exact lowercase match
+      2) trimmed match
+      3) substring startswith or contains (best-effort)
+      4) iso2/iso3 lookup via alt map
+    Returns the id string or None if not found.
+    """
+    if not market_name:
         return None
+    key = market_name.strip().lower()
 
-    if r.status_code != 200:
-        print(f"❌ Market lookup failed for '{market_name}': {r.status_code}")
-        try:
-            print(r.json())
-        except Exception:
-            print(r.text)
-        return None
+    # exact match
+    if key in _name_to_id_map:
+        return _name_to_id_map[key]
 
-    payload = r.json()
-    data = payload.get("data", [])
-    if not data:
-        print(f"⚠️  Market not found: {market_name}")
-        return None
+    # iso/alt match
+    if key in _alt_to_id_map:
+        return _alt_to_id_map[key]
 
-    # Choose best match
-    exact = next((m for m in data if m.get("name", "").lower() == key), None)
-    iso_match = next((m for m in data if m.get("isoAlpha2", "").lower() == key or m.get("isoAlpha3", "").lower() == key), None)
-    chosen = exact or iso_match or data[0]
+    # try contains / startswith fuzzy matches
+    # prefer startswith then contains
+    for name, _id in _name_to_id_map.items():
+        if name.startswith(key) or key.startswith(name):
+            return _id
+    for name, _id in _name_to_id_map.items():
+        if key in name or name in key:
+            return _id
 
-    md_id = chosen.get("id")
-    canonical = chosen.get("name")
-    if not md_id:
-        print(f"⚠️  No id in market response for '{market_name}'. Chosen={chosen}")
-        return None
-
-    _market_md_cache[key] = md_id
-    print(f"🌍 Market '{market_name}' -> {canonical} (mdId={md_id})")
-    return md_id
+    # not found
+    return None
 
 # --- Load clients from CSV ---
 rows = read_clients_from_csv("clients.csv")
@@ -149,10 +246,10 @@ for row in rows:
 
     parent_id = parent["azId"]
 
-    # Resolve mdId dynamically via Markets API
-    md_id = get_market_md_id(market_name)
+    # Resolve mdId from local markets file
+    md_id = get_market_md_id_local(market_name)
     if not md_id:
-        print(f"❌ No mdId resolved for market '{market_name}'. Skipping {client_name}.")
+        print(f"❌ No mdId resolved for market '{market_name}' from local file. Skipping {client_name}.")
         continue
 
     # Build payload

@@ -1,0 +1,117 @@
+🔧 Will process 30 row(s) from CSV: C:\Users\Azath.A\os\mul\4\clients.csv
+
+— Processing client: clientname (markets: market)
+   ⚠️ Client/Brand node not found for 'clientname'. Skipping.
+— Processing client: Montepio Valor - Sgoic (markets: Portugal)
+   ✅ First assignmentId (client/brand): 7deb07fa-0040-4e05-ba05-ba63957fc41f
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Portugal': b4510f1b-2266-4f3e-afe6-fa3591cf32be
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: MooGoo (markets: Australia)
+   ✅ First assignmentId (client/brand): 831844b0-950f-4448-bb2d-43856a3c457b
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Australia': 229c2d92-273d-45cd-832f-5881e3034a45
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: More Retail (markets: India)
+   ✅ First assignmentId (client/brand): 86eb2164-b8c9-4d38-a9b0-061ff687a2b7
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 3f8f6fd1-7f29-41da-9aef-6a000e739833
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Morele.Net (markets: Poland)
+   ✅ First assignmentId (client/brand): 36b54bbb-72a0-4055-b791-ad676f61d164
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Poland': 1ce9775c-a004-4dc4-94a4-8aa5c90bbf43
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Morinaga (markets: Japan)
+   ✅ First assignmentId (client/brand): 3185c2ed-b8c4-460b-8bd8-25339b12cfb3
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Japan': e22d84b7-bc5f-480b-ae18-d72102382c4f
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Morrisons (markets: United Kingdom of Great Britain and Northern Ireland)
+   ✅ First assignmentId (client/brand): b6b1d6bf-1202-4969-ae74-de41faf3acaa
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'United Kingdom of Great Britain and Northern Ireland': 1551101a-9ee8-4117-ae9c-7a2e09ccc0b7
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+— Processing client: MOS BURGER (markets: Taiwan)
+   ✅ First assignmentId (client/brand): e1473b5a-2272-4644-83c8-5999fefbc124
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'Taiwan': afc4c1b5-e6fb-4e1b-bcac-93e531fd9aa9
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Mother Dairy (markets: India)
+   ✅ First assignmentId (client/brand): 9fa12031-6eb1-4c4e-9fe7-793a28831421
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'India': ff111efe-800f-4f44-952c-21fc48a9e6fd
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Motiva Health (markets: Spain)
+   ✅ First assignmentId (client/brand): 67253165-6032-42ed-97a1-f817b48dcfd0
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Spain': 77e3d045-35b8-4e56-92d9-a05f97127ce2
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Motivator National (markets: India)
+   ✅ First assignmentId (client/brand): b5abba1e-cad2-40b9-9cf3-ae57ee3d7dce
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 7ef05633-1615-4c9b-9111-b7f8b8bcdc1d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Motor Image Group (markets: Vietnam)
+   ✅ First assignmentId (client/brand): 8c40e1b5-b56f-4b95-a1d5-0d44fe47128d
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Vietnam': 2c1cda67-a606-4854-be9e-df48a5d31679
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Motor World (markets: India)
+   ✅ First assignmentId (client/brand): e16bbb6c-72db-4236-bf19-f641359bff2d
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': f79d9172-448a-482b-a4ee-8679a7fe8454
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Motorola (markets: Argentina, Chile, Colombia, Dominican Republic, Mexico, Paraguay, Peru, Uruguay)
+   ✅ First assignmentId (client/brand): d8450dce-1380-4967-bf35-40f12e1fffdf
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Argentina': a140b967-9f2c-41d9-b5fb-1e0b0957f071
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Chile': d7bbf9a7-04f0-414f-8ea6-9ded78f31608
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Colombia': 40b31d67-4a94-447b-9812-cc7a81211a7a
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Dominican Republic': 121d0438-eb38-4994-b652-8916763a4ad7
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Mexico': 2d917aac-775f-4789-94e8-7d4920c6e065
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Paraguay': 96dd3695-36cf-4f45-9778-75108c228d74
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Peru': f60866a1-712e-41ca-b69f-3b03fb70cde8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Uruguay': 9f8a28e9-3921-4b34-ba33-418475e6002d
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Mousline (markets: France)
+   ✅ First assignmentId (client/brand): 90c2f460-810d-48dd-96f7-1a9fc72bf45d
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'France': d4394a69-7908-4308-8561-22562c195915
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: Ms Neo National (markets: India)
+   ✅ First assignmentId (client/brand): 3b44c399-2496-40c7-8a3a-d13d9aa4fe18
+   → POST #1 status: 200 ✅ (Template applied to client)
+   ✅ Processing market 'India': 3247d07d-533f-4ef3-9ca5-259c9d9bb70b
+   → POST #2 status: 200 ✅ (Template applied to market)
+— Processing client: MSC Cruises (markets: Belgium, Denmark, Finland, France, Ireland, Italy, Netherlands)
+   ✅ First assignmentId (client/brand): 53016b00-37d1-4ae4-ab80-df1e3410d3c1
+   → POST #1 status: 400 ⚠️ (Template already applied to client)
+   ✅ Processing market 'Belgium': bd779e1b-a800-42a6-ac03-586e7cf14f4e
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Denmark': e6666000-8a31-4ca7-b9a5-5de683ef7a42
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Finland': 1c117a2a-9f1a-4a12-9a2f-9bf84d157608
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'France': bcb80f91-036f-439d-9aa4-db47b1461cc9
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+   ✅ Processing market 'Ireland': e2c6c07f-8db8-4a78-b0dc-2503c7dbdfe8
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Italy': 55a5384f-6222-417a-818a-8dd6750f63c6
+   → POST #2 status: 200 ✅ (Template applied to market)
+   ✅ Processing market 'Netherlands': cfd276cb-0553-4958-b6f3-c0bdc37dc0c3
+   → POST #2 status: 400 ⚠️ (Template already applied to market)
+
+📊 Summary:
+   - Unique clients processed: 16
+   - Unique markets processed: 29
+   - Total rows in CSV: 30
+
+🏁 Done.

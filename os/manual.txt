@@ -1,0 +1,9 @@
+add user - add users to groups - groupname,email
+all mar - add markets to clients - clientname,market
+alltemp - add template to client and market - clientname, market
+allth - add client to a group - client name
+brand - add brands
+cate - to check the category - input file data.txt
+group - create groups for the clients - clientname
+lite - add template to brands
+qc - quick check

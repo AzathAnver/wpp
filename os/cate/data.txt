@@ -1,31 +1,18 @@
-Retail
-Home Appliances
-Household Items
-Drinks (non-alcoholic)
-Governmen
-Finance
-Entertainment & media  
-Technology
-Healthcare & Pharmaceuticals
 Food
-Fashion
+Household Items
 Drinks (alcoholic)
+Retail
 Automotive
-Real Estate  
-Oral Care
-Charities  
-General Services  
-Home Entertainment
-Financial Services & Insurance
-Travel
 Pet Care
-Consumer Electronics
-Telecoms
-Cars
-Utilities
-Organisations & associations  
-Jewellery
-Sports  
-Restaurants
+Telecommunications
+Entertainment & media  
+Fashion
 Healthcare
-Education  
+Personal Care
+Charities  
+Finance
+Consumer Electronics
+Drinks (non-alcoholic)
+Home Entertainment
+Restaurants
+Cars

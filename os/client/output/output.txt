@@ -1,64 +1,14 @@
 
-🔍 Processing client: ALDI
-✅ Found exact client 'ALDI' with mdId: fbd1466f-3a89-4ddf-b333-17b6b14eb5b9
-✅ Successfully created org-unit for 'ALDI' → LIVE
+🔍 Processing client: Berlin Chemie
+⚠️ No exact match found for 'Berlin Chemie'. Closest API hit: BERLIN-CHEMIE
 
-🔍 Processing client: AS Watson Benelux
-⚠️ Client 'AS Watson Benelux' not found in API search.
+🔍 Processing client: Erste & Steiermarkische Bank
+✅ Found exact client 'Erste & Steiermarkische Bank' with mdId: 2f3127c5-c9e6-4816-9d2e-0e02f756cb9a
+✅ Successfully created org-unit for 'Erste & Steiermarkische Bank' → LIVE
 
-🔍 Processing client: AXA Belgium
-⚠️ Client 'AXA Belgium' not found in API search.
+🔍 Processing client: Noventa di Piave
+⚠️ No exact match found for 'Noventa di Piave'. Closest API hit: MAG Noventa di Piave
 
-🔍 Processing client: Action
-✅ Found exact client 'Action' with mdId: cfbfabd7-4374-4342-a040-8d28c4b60791
-ℹ️ Org-unit for 'Action' already exists → skipping.
-
-🔍 Processing client: Ahold
-✅ Found exact client 'Ahold' with mdId: d8f8257a-2b4c-4243-a8a6-b95c7aa7abd3
-✅ Successfully created org-unit for 'Ahold' → LIVE
-
-🔍 Processing client: Akzo Nobel Paints Belgium
-⚠️ Client 'Akzo Nobel Paints Belgium' not found in API search.
-
-🔍 Processing client: Albert Heijn Belgium
-⚠️ Client 'Albert Heijn Belgium' not found in API search.
-
-🔍 Processing client: Aviq
-✅ Found exact client 'Aviq' with mdId: 53971690-22ca-4cb5-810a-c4295e6c7085
-ℹ️ Org-unit for 'Aviq' already exists → skipping.
-
-🔍 Processing client: Bank Degroof
-✅ Found exact client 'Bank Degroof' with mdId: a92f7179-6d52-48b8-a7e0-1b089507da19
-✅ Successfully created org-unit for 'Bank Degroof' → LIVE
-
-🔍 Processing client: Baronie Belgium
-⚠️ Client 'Baronie Belgium' not found in API search.
-
-🔍 Processing client: Bord Bia, Irish Food Board
-⚠️ Client 'Bord Bia, Irish Food Board' not found in API search.
-
-🔍 Processing client: Britvic EMEA
-✅ Found exact client 'Britvic EMEA' with mdId: b07e13fa-ff11-4b61-8b1a-16519ccab70c
-✅ Successfully created org-unit for 'Britvic EMEA' → LIVE
-
-🔍 Processing client: Brocom
-✅ Found exact client 'Brocom' with mdId: 55b9bbb6-37d8-4970-ab39-c2142d7fc43d
-ℹ️ Org-unit for 'Brocom' already exists → skipping.
-
-🔍 Processing client: Burger Brands Belgium
-⚠️ Client 'Burger Brands Belgium' not found in API search.
-
-🔍 Processing client: CONSORZIO PER LA TUTELA DEL FORMAGGIO MOZZARELLA DI BUFALA C
-✅ Found exact client 'CONSORZIO PER LA TUTELA DEL FORMAGGIO MOZZARELLA DI BUFALA C' with mdId: ac5e55c5-1946-4ab2-83c8-dea630b40f99
-✅ Successfully created org-unit for 'CONSORZIO PER LA TUTELA DEL FORMAGGIO MOZZARELLA DI BUFALA C' → LIVE
-
-🔍 Processing client: Campari Benelux
-✅ Found exact client 'Campari Benelux' with mdId: baaa8aa1-e30f-4555-99fc-d9e9cb3feea7
-✅ Successfully created org-unit for 'Campari Benelux' → LIVE
-
-🔍 Processing client: Corman SA
-✅ Found exact client 'Corman SA' with mdId: 608db465-430f-4d27-9682-e1f0b8ef18bd
-✅ Successfully created org-unit for 'Corman SA' → LIVE
-
-🔍 Processing client: DOKTR
-✅ Found exact client 'DOKTR' with mdId: 1c1d5df7-75a0-40d2-821e-846d3031bb21
+🔍 Processing client: Stock
+✅ Found exact client 'Stock' with mdId: 9e350d77-6a2b-4681-bd9f-5b4cc773c9db
+✅ Successfully created org-unit for 'Stock' → LIVE

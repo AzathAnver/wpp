@@ -131,6 +131,17 @@ https://media.os.wpp.com/api/app-instances/templates/15207128-819e-4607-a036-9dc
 
 
 
+------------------------------------------------------------------------------------------------------
+
+DELETE https://media.os.wpp.com/api/app-instances/122f0dcd-ee63-40e5-8e0f-bb771f0ab21a
+204
+
+
+
+
+
+
+
 
 
 

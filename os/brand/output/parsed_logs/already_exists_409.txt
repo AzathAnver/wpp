@@ -1,0 +1,15 @@
+Croatia,BERLIN-CHEMIE,Anaftin,Healthcare
+Croatia,BERLIN-CHEMIE,Espumisan,Healthcare
+Croatia,BERLIN-CHEMIE,Flavamed,Healthcare
+Croatia,BERLIN-CHEMIE,Lioton,Healthcare
+Croatia,BERLIN-CHEMIE,Prostamol,Healthcare
+Croatia,Elanco,AdTab,Pet Care
+Croatia,Elanco,Advantix,Pet Care
+Croatia,Elanco,Foresto,Pet Care
+Croatia,Erste & Steiermarkische Bank,Erste Bank,Finance
+Croatia,Erste & Steiermarkische Bank,Diners,Finance
+Croatia,Erste & Steiermarkische Bank,Keks Pay,Finance
+Croatia,Luckia Gaming Group,Luckia,GAMBLING & LOTTERIES
+Croatia,MAG Noventa di Piave,Noventa di Piave,Retail
+Croatia,Stock Spirits,Stock,Drinks (alcoholic)
+Croatia,TOTAL,TOTAL,Utilities
