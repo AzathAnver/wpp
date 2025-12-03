@@ -25,7 +25,7 @@ TENANT_ID = "4c039217-7d17-4207-8314-98348983718a"
 CSV_FILE_PATH = "input.csv"
 BASE_URL = "https://media.os.wpp.com"
 
-# Number of parallel worker threads (set to 10 or 20 as you requested)
+# Number of parallel worker threads (set to 10 or 20 as your wish)
 WORKERS = 20
 # ------------------------------------------------
 
@@ -280,3 +280,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
